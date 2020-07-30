@@ -1,0 +1,25 @@
+{
+    "journal":{
+        "url_file":"jcr_urls.txt",
+        "domain":"jcr.ruc.edu.cn",
+        "donnot_allow":["/yuangong/"],
+        "output_file_name":"/Users/sizihua/Desktop/crawler/raw_data/news/journal_outptut.xlsx",
+        "config":{
+            "out_layer":{
+                "name":"div",
+                "attrs":{"class":"conNews"}   
+            },
+            "title":{
+                "name":"h2"
+            },
+            "content":{
+                "name":"p",
+                "find_all":"true"
+            },
+            "date":{
+                "name":"div",
+                "attrs":{"class":"infos"}
+            }
+        }
+    }
+}

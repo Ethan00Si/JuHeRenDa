@@ -1,0 +1,26 @@
+{
+    "econ":{
+        "url_file":"econ_urls.txt",
+        "domain":"econ.ruc.edu.cn",
+        "donnot_allow":["jszy"],
+        "output_file_name":"/Users/sizihua/Desktop/crawler/raw_data/news/econ_outptut.xlsx",
+        "config":{
+            "out_layer":{
+                "name":"div",
+                "attrs":{"class": ["article1", "rightNews"]}
+            },
+            "title":{
+                "name":"div",
+                "attrs":{"class": "title"} 
+            },
+            "content":{
+                "name":"div",
+                "attrs":{"class": "article"}
+            },
+            "date":{
+                "name":"div",
+                "attrs":{"class":"time"}
+            }
+        }
+    }
+}

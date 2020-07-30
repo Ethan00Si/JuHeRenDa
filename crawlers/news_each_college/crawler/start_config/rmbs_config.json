@@ -1,0 +1,7 @@
+{
+    "rmbs":{
+        "allowed_domin": "rmbs.ruc.edu.cn",
+        "start_url": "http://www.rmbs.ruc.edu.cn/",
+        "file_name":"rmbs_urls.txt"
+    }
+}

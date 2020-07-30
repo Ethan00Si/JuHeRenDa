@@ -1,0 +1,7 @@
+{
+    "journal":{
+        "allowed_domin": "jcr.ruc.edu.cn",
+        "start_url": "http://jcr.ruc.edu.cn/indexcn.html",
+        "file_name":"jcr_urls.txt"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "info":{
+        "url_file":"info_url.txt",
+        "domain":"info.ruc.edu.cn",
+        "donnot_allow":["teacher_id"],
+        "output_file_name":"/Users/sizihua/Desktop/crawler/raw_data/news/info_outptut.xlsx",
+        "config":{
+            "out_layer":{
+                "name":"div",
+                "attrs":{"class":"essay"}
+            },
+            "title":{
+                "name":"h1"
+            },
+            "content":{
+                "name":"div",
+                "attrs":{"class":"essay_body"}
+            },
+            "date":{
+                "name":"span",
+                "attrs":{"class":"date"}
+            }
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "info":{
+        "allowed_domin": "info.ruc.edu.cn",
+        "start_url": "http://info.ruc.edu.cn",
+        "file_name":"info_urls.txt"
+    }
+}

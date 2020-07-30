@@ -1,0 +1,7 @@
+{
+    "sf":{
+        "allowed_domin": "sf.ruc.edu.cn",
+        "start_url": "http://sf.ruc.edu.cn/",
+        "file_name":"fiance_urls.txt"
+    }
+}

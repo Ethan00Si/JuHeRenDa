@@ -1,0 +1,7 @@
+{
+    "econ":{
+        "allowed_domin": "econ.ruc.edu.cn",
+        "start_url": "http://econ.ruc.edu.cn",
+        "file_name":"econ_urls.txt"
+    }
+}

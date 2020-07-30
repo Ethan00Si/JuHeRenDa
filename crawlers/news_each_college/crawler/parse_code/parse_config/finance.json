@@ -1,0 +1,26 @@
+{
+    "finance":{
+        "url_file":"finance_urls.txt",
+        "domain":"sf.ruc.edu.cn",
+        "donnot_allow":["szdw"],
+        "output_file_name":"/Users/sizihua/Desktop/crawler/data/raw_news/finance_outptut.xlsx",
+        "config":{
+            "out_layer":{
+                "name":"form",
+                "attrs":{"name": "_newscontent_fromname"}
+            },
+            "title":{
+                "name":"h1"
+                
+            },
+            "content":{
+                "name":"div",
+                "attrs":{"class": "txt"}
+            },
+            "date":{
+                "name":"div",
+                "attrs":{"class":"info"}
+            }
+        }
+    }
+}

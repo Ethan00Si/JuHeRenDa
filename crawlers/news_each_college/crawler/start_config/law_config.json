@@ -1,0 +1,7 @@
+{
+    "law":{
+        "allowed_domin": "law.ruc.edu.cn",
+        "start_url": "http://www.law.ruc.edu.cn/",
+        "file_name":"law_urls.txt"
+    }
+}

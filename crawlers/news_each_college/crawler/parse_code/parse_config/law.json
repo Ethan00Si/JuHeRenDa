@@ -1,0 +1,29 @@
+{
+    "law":{
+        "url_file":"law_urls.txt",
+        "domain":"law.ruc.edu.cn",
+        "donnot_allow":["/sz/"],
+        "output_file_name":"/Users/sizihua/Desktop/crawler/raw_data/news/law_outptut.xlsx",
+        "config":{
+            "out_layer":{
+                "name":"table",
+                "attrs":{
+                    "width":"100%",
+                    "border":"0"
+                }   
+            },
+            "title":{
+                "name":"td",
+                "attrs":{"class":"title"}
+            },
+            "content":{
+                "name":"td",
+                "attrs":{"class":"artcontent"}
+            },
+            "date":{
+                "name":"td",
+                "attrs":{"class":"p12"}
+            }
+        }
+    }
+}

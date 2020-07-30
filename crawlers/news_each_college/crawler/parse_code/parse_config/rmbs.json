@@ -1,0 +1,49 @@
+{
+    "bussiness":{
+        "url_file":"rmbs_urls.txt",
+        "domain":"rmbs.ruc.edu.cn",
+        "donnot_allow":[],
+        "output_file_name":"/Users/sizihua/Desktop/crawler/raw_data/news/rmbs_outptut.xlsx",
+        "config":{
+            "out_layer":{
+                "name":"body"   
+            },
+            "title":{
+                "name":"div",
+                "attrs":{"class":"wrap newxq_01"},
+                "further_parse":{
+                    "config":{
+                        "title":{
+                            "name":"h1"
+                        }
+                    }
+                }
+            },
+            "date":{
+                "name":"div",
+                "attrs":{"class":"wrap newxq_01"},
+                "further_parse":{
+                    "find_all":"True",
+                    "config":{
+                        "find_all":"True",
+                        "date":{
+                            "name":"span"
+                        }    
+                    }
+                }
+            },
+            "content":{
+                "name":"div",
+                "attrs":{"class":"wrap newxq_02"},
+                "further_parse":{
+                    "find_all":"True",
+                    "config":{
+                        "content":{
+                            "name":"p"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
