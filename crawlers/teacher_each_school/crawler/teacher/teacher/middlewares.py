@@ -81,6 +81,7 @@ class TeacherDownloaderMiddleware:
         #   installed downloader middleware will be called
         agent = random.choice(USER_AGENT)
         request.headers["User-Agent"] = agent
+        print(request.headers["User-Agent"])
         return None
 
     def process_response(self, request, response, spider):
@@ -123,3 +124,9 @@ class ProxyMiddleware:
         request.meta["proxy"]=ip
 
         return None
+    def process_response(self, request, response, spider):
+        if response.status == 400 or response.status == 301:
+            response.request.meta["proxy"] = random.choice(IP_POOL)
+            return response.request
+        else:
+            return response
