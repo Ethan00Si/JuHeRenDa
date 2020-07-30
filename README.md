@@ -9,3 +9,14 @@
 
 
 项目名字就先叫这个吧，后面做完了再改。
+
+
+
+* crawler
+  * 此文件夹下放大家的爬虫代码
+* data
+  * 此文件夹下放置完全处理好以后的数据
+
+
+
+以后会有knowledge graph, recommender system等文件夹
