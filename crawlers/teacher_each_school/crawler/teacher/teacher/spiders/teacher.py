@@ -9,7 +9,7 @@ class Teacher(scrapy.Spider):
         super().__init__()
 
         self.refer_dict = {'电话':'phone','个人主页':'homepage','电子邮箱':'email','地址':'office','传真':'fax','邮箱':'email','系别':'major'}
-        with open(r'config.json','r',encoding='utf-8') as f:
+        with open(r'config_news.json','r',encoding='utf-8') as f:
             self.config = json.load(f)
 
     def start_requests(self):

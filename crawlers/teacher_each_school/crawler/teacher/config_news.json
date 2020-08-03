@@ -1,0 +1,45 @@
+{
+    "http://jcr.ruc.edu.cn/yuangong/":{
+        "brief_entry":"//ol[@class=\"teacher\"]/li",
+        "href_entry":"./a/@href",
+        "next_entry":"//ul[@class=\"page\"]//a[text()=\"下一页\"]/@href",
+        "properties":{
+            "name":{
+                "entry":"./p/a/text()",
+                "pattern":[]
+            },
+            "title":{
+                "entry":"./p/span/text()",
+                "pattern":[]
+            }
+        },
+        "properties_detail":{
+            "email":{
+                "entry":["//div[@class=\"content\"]/p/span[text()=\"电子邮箱：\"]/../text()[2]"],
+                "pattern":[]
+            },
+            "phone":{
+                "entry":["//div[@class=\"content\"]/p/span[text()=\"联系电话：\"]/../text()[2]"],
+                "pattern":[]
+            },
+            "office":{
+                "entry":["//div[@class=\"content\"]/p/span[text()=\"办公地址：\"]/../text()[2]"],
+                "pattern":[]
+            },
+            "position":{
+                "entry":["//div[@class=\"content\"]/p/span[text()=\"现任职务：\"]/../text()[2]"],
+                "pattern":[]
+            },
+            "major":{
+                "entry":["//div[@class=\"content\"]/p/span[text()=\"研究方向：\"]/../text()[2]"],
+                "pattern":[]
+            }
+        },
+
+        "department":"新闻学院",
+        "further_explore":true,
+        "extra_info":false,
+        "refer_dict":false
+
+    }
+}

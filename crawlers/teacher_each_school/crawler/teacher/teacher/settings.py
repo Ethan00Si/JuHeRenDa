@@ -6,7 +6,6 @@
 #     https://docs.scrapy.org/en/latest/topics/settings.html
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
-
 BOT_NAME = 'teacher'
 
 SPIDER_MODULES = ['teacher.spiders']
@@ -51,7 +50,6 @@ USER_AGENT =  ["Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AcooBrow
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
 ]
 
-IP_POOL = ['http://59.110.153.189:80', 'http://118.31.250.72:8080', 'http://101.4.136.34:81', 'http://221.180.170.104:8080', 'http://211.137.52.158:8080', 'http://115.223.7.110:80']
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -92,6 +90,9 @@ DOWNLOADER_MIDDLEWARES = {
     'teacher.middlewares.TeacherDownloaderMiddleware': 543
 }
 
+if DOWNLOADER_MIDDLEWARES['teacher.middlewares.ProxyMiddleware']:
+    IP_POOL = ['http://101.37.118.54:8888', 'http://106.54.219.223:8888', 'http://101.4.136.34:81', 'http://211.137.52.159:8080', 'http://211.137.52.158:8080', 'http://59.110.153.189:80', 'http://123.139.56.171:9999', 'http://60.255.151.81:80', 'http://183.162.167.244:4216', 'http://223.247.94.237:4216', 'http://223.241.6.10:4216', 'http://58.218.239.164:4216', 'http://111.229.88.20:3000', 'http://47.112.221.156:3128', 'http://221.180.170.104:8080', 'http://117.67.121.200:4216', 'http://223.241.5.173:4216', 'http://122.51.100.126:1080', 'http://219.135.168.136:3128']
+
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
 #EXTENSIONS = {
@@ -106,9 +107,9 @@ ITEM_PIPELINES = {
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
-AUTOTHROTTLE_ENABLED = True
+#AUTOTHROTTLE_ENABLED = True
 # The initial download delay
-AUTOTHROTTLE_START_DELAY = 5
+#AUTOTHROTTLE_START_DELAY = 5
 
 # The maximum download delay to be set in case of high latencies
 #AUTOTHROTTLE_MAX_DELAY = 60
