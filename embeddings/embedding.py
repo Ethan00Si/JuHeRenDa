@@ -4,6 +4,7 @@ import jsonlines
 import pandas
 import jieba
 import os
+import re
 
 def mergeDict():
     g = open(r'D:\repositories\DaChuang\embeddings\dictionary.txt','w',encoding='utf-8')
@@ -17,9 +18,23 @@ def mergeDict():
 
 def getStopList():
     stop = []
-    with open('stopList.txt','r',encoding='utf-8') as g:
+    with open('../data/语料/stopList.txt','r',encoding='utf-8') as g:
         for line in g:
             stop.append(line.strip())
     return stop
+
+def getCorpus():
+    corpus = []
+    with open('../data/语料/corpus_information.txt','r',encoding='utf-8') as f:
+        for line in f:
+            corpus.append(re.split(' ',line.strip()))
+    return corpus
+
+def getDict():
+    dictionary = []
+    with open('../data/语料/dictionary.txt','r',encoding='utf-8') as f:
+        for line in f:
+            dictionary.append(line.strip())
+    return dictionary
 
 #mergeDict()
