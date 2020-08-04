@@ -1,8 +1,9 @@
 # embedding相关
 
 - ## dictinary.txt
-  - 由/data/词典/ 下所有内容生成得到，用作jieba分词的用户词典
+  - 由/data/词典/ 下所有内容生成得到，用作jieba分词的用户词典（现有的6个学院除了法学院，剩下的都用到了）
   - 详见/data/词典/README.md
+  
 
 - ## stopList.txt
   - 停用词列表，网上找的，加入了自己定义的几个
