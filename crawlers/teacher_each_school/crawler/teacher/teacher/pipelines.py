@@ -20,7 +20,7 @@ class TeacherPipeline:
         }
 
     def process_item(self, item, spider):
-        with open('labs_{}.json'.format(self.refer_dict[item['department']]),'a+',encoding='utf-8') as f:
+        with open('teachers_{}.json'.format(self.refer_dict[item['department']]),'a',encoding='utf-8') as f:
             line = json.dumps(dict(item),ensure_ascii=False)+'\n'
             f.write(line)
         return item

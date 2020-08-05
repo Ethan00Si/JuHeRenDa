@@ -27,7 +27,7 @@ def getStopList():
 
 def getCorpus():
     corpus = []
-    with open('../data/语料/corpus_information.txt','r',encoding='utf-8') as f:
+    with open(r'D:\codes\Pt_MarkDown\大创\data\corpus_information.txt','r',encoding='utf-8') as f:
         for line in f:
             corpus.append(re.split(' ',line.strip()))
     return corpus

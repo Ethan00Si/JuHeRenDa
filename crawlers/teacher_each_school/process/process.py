@@ -12,11 +12,11 @@ def process_majors(path):
                 try:
                     majorLine = teacher['major']
                     if majorLine is not None:
-                        majors = re.split('，|、|；',majorLine)
+                        majors = re.split('，|、|；|和|与',majorLine)
                         majorSet = set(majors)
                         majorList = []
                         for major in majorSet:
-                            major_1 = re.sub('[a-z]|[0-9]|[()-。,/等●]|（.*）|.*\.|\s|[A-Z]|新兴领域|博客.*|张瑞君.*','',major)
+                            major_1 = re.sub('[a-z]|[0-9]|[()-。,/等●《》（）]|（.*）|.*\.|\s|[A-Z]|课程|新兴领域|博客.*|张瑞君.*|主要讲授|主要研究','',major)
                             majorList.append(major_1)
                         teacher['major'] = majorList
                 except:
@@ -26,8 +26,21 @@ def process_majors(path):
 
     return getMajors(path_new)
 
+def process_titles(path):
+    with open(path,'r',encoding='utf-8') as f:
+        path_new = re.search('(teachers_.*).json',path).group(1)+'.json'
+        g = open(path_new,'w',encoding='utf-8')
+        for teacher in jsonlines.Reader(f):
+            try:
+                teacher['title'] = re.sub(' | ','',teacher['title'])
+            except:
+                pass
+            line = json.dumps(teacher,ensure_ascii=False)+'\n'
+            g.write(line)
+        g.close()
+
 def getMajors(path):
-    g = open(re.search('teachers_(.*)_pro.json',path).group(1)+'_majors.txt','w',encoding='utf-8')
+    g = open('../../../data/词典/majors/'+re.search('teachers_(.*)_pro.json',path).group(1)+'_majors.txt','w',encoding='utf-8')
     majorList = []
     with open(path,'r',encoding='utf-8') as f:
         for teacher in jsonlines.Reader(f):
@@ -52,7 +65,7 @@ def getTeacherName(path):
         g.close()
 
 #注意使用a+，因为positions.txt中我删除了一个“兼”字
-def getPosition():
+def getPositions():
     positions = []
     g = open('../../../data/词典/positions.txt','a+',encoding='utf-8')
     g.seek(0)
@@ -70,6 +83,7 @@ def getPosition():
                             if position:
                                 pos_list = re.split('，|、| |/|。|；',position)
                                 for pos in pos_list:
+                                    pos = re.sub('[ /]','',pos)
                                     if pos not in positions:
                                         positions.append(pos)
                                         g.write(pos+'\n')
@@ -79,6 +93,7 @@ def getPosition():
                         if position:
                             pos_list = re.split('，|、| |/|。|；',position)
                             for pos in pos_list:
+                                pos = re.sub('[ /]','',pos)
                                 if pos not in positions:
                                     positions.append(pos)
                                     g.write(pos+'\n')
@@ -90,5 +105,7 @@ def getLabs(path):
         for lab in jsonlines.Reader(f):
             g.write(lab['lab']+'\n')
         g.close()
+
+
 
 #getPosition()

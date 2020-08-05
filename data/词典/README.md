@@ -7,7 +7,7 @@
   * 属性有：地点
 - meetings：会议（**待处理，命名实体抽取，即识别出会议和参与会议的教师；关系抽取，即识别出“参与会议这个关系”**）
 - majors：各个学院的专业
-- **groups：学生组织**
+- groups：学生组织
 - labs：老师的实验室
 
 ## dictionary consisits of:

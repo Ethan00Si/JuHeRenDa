@@ -1,6 +1,8 @@
 import scrapy
 import re
+import time
 import json
+import random
 from teacher.items import TeacherItem 
 
 class Teacher(scrapy.Spider):
@@ -9,15 +11,16 @@ class Teacher(scrapy.Spider):
         super().__init__()
 
         self.refer_dict = {'电话':'phone','个人主页':'homepage','电子邮箱':'email','地址':'office','传真':'fax','邮箱':'email','系别':'major'}
-        with open(r'config_info_lab.json','r',encoding='utf-8') as f:
+        with open(r'config_law.json','r',encoding='utf-8') as f:
             self.config = json.load(f)
+            #self.file = re.search('(.*?).json',f.name).group(1)
 
     def start_requests(self):
         for url in list(self.config.keys()):
             yield scrapy.Request(url = url,callback=self.parse,meta={'url':url})
 
     def parse_homepage(self,response):
-
+        
         item = response.meta['item']
         config = response.meta['config']
 
@@ -98,6 +101,7 @@ class Teacher(scrapy.Spider):
                 yield item
 
     def parse(self,response):
+        #time.sleep(2)
         url = response.meta['url']
         config = self.config[url]
         properties = config['properties']
@@ -121,11 +125,11 @@ class Teacher(scrapy.Spider):
 
             if config['further_explore']:
                 each_url = each.xpath(config['href_entry']).get()
-
-                url_domain = re.search('(http://.*?/)',url).group(1)
-                url_homepage = url_domain+re.search('[a-z].*',each_url).group()
-                
-                yield scrapy.Request(url=url_homepage,callback=self.parse_homepage,meta={'item':item,'config':config})
+                time.sleep(random.randrange(2,5))
+                #url_domain = re.search('(http://.*?/sz/)',url).group(1)
+                #url_homepage = url_domain+re.search('[a-z].*',each_url).group()
+                #time.sleep(5)
+                yield scrapy.Request(response.urljoin(each_url),callback=self.parse_homepage,meta={'item':item,'config':config})
             
             else:
                 
