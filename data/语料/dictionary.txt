@@ -629,10 +629,13 @@ Seminar
 陈晋川
 柴云鹏
 韩家炜
-Ramamohanarao Kotagiri
-Christian Jensen
+Ramamohanarao
+Kotagiri
+Christian
+Jensen
 曹巍
-Calton Pu
+Calton
+Pu
 付虹蛟
 范举
 杜小勇
@@ -858,7 +861,8 @@ Calton Pu
 孟庆斌
 刘刚
 毛基业
-Majid Ghorbani
+Majid
+Ghorbani
 吕景胜
 刘彧彧
 宋林
@@ -1131,10 +1135,13 @@ Majid Ghorbani
 陈晋川
 柴云鹏
 韩家炜
-Ramamohanarao Kotagiri
-Christian Jensen
+Ramamohanarao
+Kotagiri
+Christian
+Jensen
 曹巍
-Calton Pu
+Calton
+Pu
 付虹蛟
 范举
 杜小勇
@@ -1264,7 +1271,8 @@ Calton Pu
 赵晋
 周梦雪
 王慧琳
-Soyoung Jung
+Soyoung
+Jung
 周蔚华
 殷强
 张辉锋
