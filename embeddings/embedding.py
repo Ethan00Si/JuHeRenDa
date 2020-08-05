@@ -7,13 +7,15 @@ import os
 import re
 
 def mergeDict():
-    g = open(r'D:\repositories\DaChuang\embeddings\dictionary.txt','w',encoding='utf-8')
+    g = open(r'../data/语料/dictionary.txt','w',encoding='utf-8')
     for dir_path,dir_name,file_list in os.walk(r'D:\repositories\DaChuang\data\词典'):
         for filename in file_list:
             if os.path.splitext(filename)[1]=='.txt':
                 with open('/'.join([dir_path,filename]),'r',encoding='utf-8') as f:
                     for line in f:
+                        
                         g.write(line)
+            #g.write('\n')
     g.close()
 
 def getStopList():
@@ -36,5 +38,6 @@ def getDict():
         for line in f:
             dictionary.append(line.strip())
     return dictionary
+
 
 #mergeDict()

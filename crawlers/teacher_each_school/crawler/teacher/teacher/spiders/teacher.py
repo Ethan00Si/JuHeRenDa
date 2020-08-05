@@ -9,7 +9,7 @@ class Teacher(scrapy.Spider):
         super().__init__()
 
         self.refer_dict = {'电话':'phone','个人主页':'homepage','电子邮箱':'email','地址':'office','传真':'fax','邮箱':'email','系别':'major'}
-        with open(r'config_news.json','r',encoding='utf-8') as f:
+        with open(r'config_info_lab.json','r',encoding='utf-8') as f:
             self.config = json.load(f)
 
     def start_requests(self):
@@ -28,25 +28,33 @@ class Teacher(scrapy.Spider):
             for prop in list(config['properties_detail'].keys()):
                 
                 prop_dict = properties_detail[prop]
-                value = ''
-                for index,entry in enumerate(prop_dict['entry']):
-                    
-                    try:
-                        segment = response.xpath(entry).get().strip()
+                try:
+                    if prop_dict['getall'] == True:
+                        entry = prop_dict['entry']
+                        value = response.xpath(entry[0]).getall()
                         
-                    except:
-    
-                        continue
+                        item[prop] = value
 
-                    pattern = prop_dict['pattern']
-                    if pattern == []:
-                        value += segment
-                    else:
-                        segment = re.search(pattern[index][0],segment).group(pattern[index][1])
-                        value += segment
+                except KeyError:
+                    value = ''
+                    for index,entry in enumerate(prop_dict['entry']):
+                        
+                        try:
+                            segment = response.xpath(entry).get().strip()
+                            
+                        except:
+        
+                            continue
 
-                if value != '':    
-                    item[prop] = value
+                        pattern = prop_dict['pattern']
+                        if pattern == []:
+                            value += segment
+                        else:
+                            segment = re.search(pattern[index][0],segment).group(pattern[index][1])
+                            value += segment
+
+                    if value != '':    
+                        item[prop] = value
 
             yield item
 

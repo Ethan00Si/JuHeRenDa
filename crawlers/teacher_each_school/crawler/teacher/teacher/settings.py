@@ -86,12 +86,12 @@ COOKIES_ENABLED = False
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
-    'teacher.middlewares.ProxyMiddleware':300,
+    'teacher.middlewares.ProxyMiddleware':None,
     'teacher.middlewares.TeacherDownloaderMiddleware': 543
 }
 
-if DOWNLOADER_MIDDLEWARES['teacher.middlewares.ProxyMiddleware']:
-    IP_POOL = ['http://101.37.118.54:8888', 'http://106.54.219.223:8888', 'http://101.4.136.34:81', 'http://211.137.52.159:8080', 'http://211.137.52.158:8080', 'http://59.110.153.189:80', 'http://123.139.56.171:9999', 'http://60.255.151.81:80', 'http://183.162.167.244:4216', 'http://223.247.94.237:4216', 'http://223.241.6.10:4216', 'http://58.218.239.164:4216', 'http://111.229.88.20:3000', 'http://47.112.221.156:3128', 'http://221.180.170.104:8080', 'http://117.67.121.200:4216', 'http://223.241.5.173:4216', 'http://122.51.100.126:1080', 'http://219.135.168.136:3128']
+#if DOWNLOADER_MIDDLEWARES['teacher.middlewares.ProxyMiddleware']:
+IP_POOL = ['http://101.37.118.54:8888', 'http://106.54.219.223:8888', 'http://101.4.136.34:81', 'http://211.137.52.159:8080', 'http://211.137.52.158:8080', 'http://59.110.153.189:80', 'http://123.139.56.171:9999', 'http://60.255.151.81:80', 'http://183.162.167.244:4216', 'http://223.247.94.237:4216', 'http://223.241.6.10:4216', 'http://58.218.239.164:4216', 'http://111.229.88.20:3000', 'http://47.112.221.156:3128', 'http://221.180.170.104:8080', 'http://117.67.121.200:4216', 'http://223.241.5.173:4216', 'http://122.51.100.126:1080', 'http://219.135.168.136:3128']
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html

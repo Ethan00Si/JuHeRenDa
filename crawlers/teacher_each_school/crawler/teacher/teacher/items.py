@@ -20,4 +20,5 @@ class TeacherItem(scrapy.Item):
     wax = scrapy.Field()
     position = scrapy.Field()
     url = scrapy.Field()
-    
+    members = scrapy.Field()
+    lab = scrapy.Field()

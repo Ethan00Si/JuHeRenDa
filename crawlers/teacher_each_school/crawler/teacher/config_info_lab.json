@@ -1,0 +1,26 @@
+{
+    "http://info.ruc.edu.cn/academic_research.php#kytd":{
+        "brief_entry":"//div[@class=\"lab\"]",
+        "href_entry":"./a/@href",
+        "next_entry":"//ul[@class=\"page\"]//a[text()=\"下一页\"]/@href",
+        "properties":{
+            "lab":{
+                "entry":"./a/text()",
+                "pattern":[]
+            }
+        },
+        "properties_detail":{
+            "members":{
+                "entry":["//div[@class=\"name\"]/text()"],
+                "pattern":[],
+                "getall":true
+            }
+        },
+
+        "department":"信息学院",
+        "further_explore":true,
+        "extra_info":false,
+        "refer_dict":false
+
+    }
+}
