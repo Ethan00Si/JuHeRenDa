@@ -17,5 +17,5 @@
 * data
   * 此文件夹下放置完全处理好以后的数据
 
-* Embeddings 
-  * pt训练的word2vec模型
+* KnowledgeGraph
+  * 此文件夹下放置知识图谱相关的知识抽取、关系抽取、实体嵌入的代码
