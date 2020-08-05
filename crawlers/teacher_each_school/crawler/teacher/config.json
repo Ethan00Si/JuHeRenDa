@@ -163,16 +163,16 @@
 
     },
     "http://www.law.ruc.edu.cn/sz/shizhi.asp":{
-        "brief_entry":"/html/body/table[3]/tr/td[2]/table[2]/tr[1]/td[3]/table/tr[3]/td/table[1]/tr[2]/td/table/tr",
-        "href_entry":"./td/a/@href",
+        "brief_entry":"/html/body/table[3]/tr/td[2]/table[2]/tr[1]/td[3]/table/tr[3]/td/table/tr[2]/td/table/tr/td",
+        "href_entry":"./a/@href",
         "next_entry":null,
         "properties":{
             "name":{
-                "entry":"./td/a/text()",
+                "entry":"./a/text()",
                 "pattern":[]
             },
             "title":{
-                "entry":"./../../../../tr[1]/td[1]/text()",
+                "entry":"./../../../../../tr[1]/td[1]/text()",
                 "pattern":[]
             }
         },

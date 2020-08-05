@@ -7,7 +7,7 @@ import os
 import re
 
 def mergeDict():
-    g = open(r'../data/语料/dictionary.txt','w',encoding='utf-8')
+    g = open(r'../../data/语料/dictionary.txt','w',encoding='utf-8')
     for dir_path,dir_name,file_list in os.walk(r'D:\repositories\DaChuang\data\词典'):
         for filename in file_list:
             if os.path.splitext(filename)[1]=='.txt':
@@ -20,7 +20,7 @@ def mergeDict():
 
 def getStopList():
     stop = []
-    with open('../data/语料/stopList.txt','r',encoding='utf-8') as g:
+    with open('../../data/语料/stopList.txt','r',encoding='utf-8') as g:
         for line in g:
             stop.append(line.strip())
     return stop
@@ -34,7 +34,7 @@ def getCorpus():
 
 def getDict():
     dictionary = []
-    with open('../data/语料/dictionary.txt','r',encoding='utf-8') as f:
+    with open('../../data/语料/dictionary.txt','r',encoding='utf-8') as f:
         for line in f:
             dictionary.append(line.strip())
     return dictionary

@@ -9,6 +9,7 @@
     │      │  config_sf.json        //财金的单独配置文件（捕获专业）
     │      │  config_info_labs.json //信院实验室的单独配置文件
     │      │  config_news.json      //新闻学院的单独配置文件，从config中剥离，用于测试ip池
+    │      │  config_law.json       //法学院的单独配置文件，从config中剥离出来的，没啥用
     │      │  README.md
     │      │  scrapy.cfg
     |      |  ip.py                 //获取ip地址
@@ -40,6 +41,7 @@
         │  major.ipynb          //处理专业（将每个教师的专业方向由字符串转为列表，同时统计每个学院所有不重复的专业，将其写入文件）
         │  labs.ipynb           //处理实验室（其实暂时只有信息学院）
         │  names.ipynb          //处理教师姓名（将所有学员所有老师姓名存入一个txt）
+        │  positions.ipynb      //处理教师职务（将所有不重复的职务、职称写入一个txt）
         │  process.py           //处理教师数据的函数定义
         │
         └─__pycache__
@@ -49,10 +51,9 @@
 - process_majors：处理专业，划分为列表
 - getMajors：将列表专业中不重复的写入/data/majors/major_department.txt
 - getTeacherName：将教师姓名写入/data/majors/names.txt
-- getPosition：将教师职称和职务写入/data/majors/positions.txt
+- getPositions：将不重复的教师职称和职务写入/data/majors/positions.txt
 - getLabs：将教师实验室写入/data/majors/labs.txt（**暂时只有信息学院，经济学院的调研室写入了majors中**）
 
-## 待处理任务
-- 法学院无法登陆，还在研究
+## TODO
 - **处理数据的代码复用性不高，尤其是一些单独处理的点（信息学院的专业），以及将绝对路径转为相对路径**
 

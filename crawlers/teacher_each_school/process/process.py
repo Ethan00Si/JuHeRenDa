@@ -25,7 +25,7 @@ def process_majors(path):
                 g.write(line)
 
     return getMajors(path_new)
-
+'''
 def process_titles(path):
     with open(path,'r',encoding='utf-8') as f:
         path_new = re.search('(teachers_.*).json',path).group(1)+'.json'
@@ -38,7 +38,7 @@ def process_titles(path):
             line = json.dumps(teacher,ensure_ascii=False)+'\n'
             g.write(line)
         g.close()
-
+'''
 def getMajors(path):
     g = open('../../../data/词典/majors/'+re.search('teachers_(.*)_pro.json',path).group(1)+'_majors.txt','w',encoding='utf-8')
     majorList = []
@@ -83,7 +83,7 @@ def getPositions():
                             if position:
                                 pos_list = re.split('，|、| |/|。|；',position)
                                 for pos in pos_list:
-                                    pos = re.sub('[ /]','',pos)
+                                    pos = re.sub(' | ','',pos)
                                     if pos not in positions:
                                         positions.append(pos)
                                         g.write(pos+'\n')
@@ -93,7 +93,7 @@ def getPositions():
                         if position:
                             pos_list = re.split('，|、| |/|。|；',position)
                             for pos in pos_list:
-                                pos = re.sub('[ /]','',pos)
+                                pos = re.sub(' | ','',pos)
                                 if pos not in positions:
                                     positions.append(pos)
                                     g.write(pos+'\n')
