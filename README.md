@@ -17,6 +17,5 @@
 * data
   * 此文件夹下放置完全处理好以后的数据
 
-
-
-以后会有knowledge graph, recommender system等文件夹
+* Embeddings 
+  * pt训练的word2vec模型

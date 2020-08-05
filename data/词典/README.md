@@ -21,6 +21,7 @@
 - anouncements：重要通知
 - activities：学生活动
 - locations：地点
+- Student_orgnazations:学生组织
 
 ## 出现就直接推送
 - activitis：学生活动（**待处理，实现自动识别**）
