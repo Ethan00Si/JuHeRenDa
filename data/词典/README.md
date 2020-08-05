@@ -20,12 +20,11 @@
 - positions：职称和职务
 - anouncements：重要通知
 - activities：学生活动
-
+- locations：地点
 
 ## 出现就直接推送
 - activitis：学生活动（**待处理，实现自动识别**）
 - announcements：重要通知
-- locations：地点
 
 
 ## TO DO
