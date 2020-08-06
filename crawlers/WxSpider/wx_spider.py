@@ -12,7 +12,7 @@ class WxSpider():
         '''初始化函数'''
         self.config = config
         self.session = requests.Session()
-        self.article_infos = pd.DataFrame({'title':[], 'datetime': [], 'content_url': [], 'content': []})
+        self.article_infos = pd.DataFrame({'title':[], 'datetime': [], 'url': [], 'content': [], 'source': []})
         self.__initialize()
 
     def __initialize(self):
@@ -92,14 +92,14 @@ class WxSpider():
                     content_url = app_msg_ext_info.get('content_url', '')
                     # 将文章信息保存
                     if title and content_url:
-                        self.article_infos.loc[len(self.article_infos)] = [title, datetime, content_url, '']
+                        self.article_infos.loc[len(self.article_infos)] = [title, datetime, content_url, '', self.config.name]
                     # 若有多篇文章一起发布
                     if app_msg_ext_info.get('is_multi', '') == 1:
                         for article in app_msg_ext_info.get('multi_app_msg_item_list', []):
                             title = article.get('title', '')
                             content_url = article.get('content_url', '')
                             if title and content_url:
-                                self.article_infos.loc[len(self.article_infos)] = [title, datetime, content_url, '']
+                                self.article_infos.loc[len(self.article_infos)] = [title, datetime, content_url, '', self.config.name]
             except:
                 print(self.params['offset'])
                 self.__save_article_infos()
@@ -116,7 +116,7 @@ class WxSpider():
         for index, row in self.article_infos.iterrows():
             # 测试用
             print(index)
-            html = self.session.get(row['content_url'])
+            html = self.session.get(row['url'])
             soup = BeautifulSoup(html.content.decode('utf8'), "lxml")
             content_div = soup.find('div', attrs={'class': 'rich_media_content'})
             try:
@@ -139,6 +139,12 @@ if __name__ == "__main__":
     # wx_spider = WxSpider(ruc_caijing)
     # import ruc_news
     # wx_spider = WxSpider(ruc_news)
-    import ruc_law
-    wx_spider = WxSpider(ruc_law)
+    # import ruc_law
+    # wx_spider = WxSpider(ruc_law)
+    import ruc_info_qingxie
+    wx_spider = WxSpider(ruc_info_qingxie)
+    # import ruc_xueshenghui
+    # wx_spider = WxSpider(ruc_xueshenghui)
+    # import ruc_qingxie
+    # wx_spider = WxSpider(ruc_qingxie)
     wx_spider.run()
