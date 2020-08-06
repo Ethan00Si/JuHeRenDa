@@ -14,7 +14,7 @@
 
 ## 公众号
 
-5个学院的公众号信息。csv存储：标题、发布时间、URL、正文
+5个学院和3个学生组织的公众号信息。csv存储：title、datetime、url、content、source
 
 ## 语料
 
