@@ -16,7 +16,7 @@
 ## config文件：
 - brief_entry：教室列表中各教师的基础信息xpath（列表）
 - properties：主页的待提取属性和其xpath、正则模式，仅支持一个属性对应一个入口
-- properties_detail：详细信息页的待提取属性和其xpath、正则模式的**列表**，支持一个属性对应多个入口，将每个入口内容用逗号拼接后存入该属性中，支持直接从一个入口得到对应属性的值的列表
+- properties_detail：详细信息页的待提取属性和其xpath、正则模式的**列表**，支持一个属性对应多个入口，将每个入口内容用逗号拼接后存入该属性中，支持直接从一个入口得到对应属性的值的列表(需设置getall=True)
 - properties_extra：特别用于使用refer_dict的网站，用于提供除了refer_dict可以使用的范围下能够提取到的属性外其余需要纳入的属性的xpath和正则模式
 - refer_dict：有些网站会把结构化的信息以xx：xxxx的形式存储在一个div中，这样只需要提取前者作为key，提取后者作为value即可存入json，refer_dict就是中文名和英文之间的对应方式，在config文件中设为布尔值，代表该网站是否是这样的网站
 - further_explore：是否进入教师详细信息页采集信息

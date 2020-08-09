@@ -13,7 +13,6 @@ def mergeDict():
             if os.path.splitext(filename)[1]=='.txt':
                 with open('/'.join([dir_path,filename]),'r',encoding='utf-8') as f:
                     for line in f:
-                        
                         g.write(line)
             #g.write('\n')
     g.close()

@@ -11,7 +11,7 @@ class Teacher(scrapy.Spider):
         super().__init__()
 
         self.refer_dict = {'电话':'phone','个人主页':'homepage','电子邮箱':'email','地址':'office','传真':'fax','邮箱':'email','系别':'major'}
-        with open(r'config_law.json','r',encoding='utf-8') as f:
+        with open(r'config.json','r',encoding='utf-8') as f:
             self.config = json.load(f)
             #self.file = re.search('(.*?).json',f.name).group(1)
 
@@ -125,7 +125,7 @@ class Teacher(scrapy.Spider):
 
             if config['further_explore']:
                 each_url = each.xpath(config['href_entry']).get()
-                time.sleep(random.randrange(2,5))
+                #time.sleep(random.randrange(2,5))
                 #url_domain = re.search('(http://.*?/sz/)',url).group(1)
                 #url_homepage = url_domain+re.search('[a-z].*',each_url).group()
                 #time.sleep(5)

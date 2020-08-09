@@ -7,10 +7,10 @@
   * 属性有：地点
 - meetings：会议（**待处理，命名实体抽取，即识别出会议和参与会议的教师；关系抽取，即识别出“参与会议这个关系”**）
 - majors：各个学院的专业
-- groups：学生组织
+- student_orgnazations:学生组织
 - labs：老师的实验室
 
-## dictionary consisits of:
+## dictionary(/data/语料/dictionary.txt) consisits of:
 - names：教师姓名
 - majors：教师专业
 - departments：学院、部门名称
@@ -21,7 +21,7 @@
 - anouncements：重要通知
 - activities：学生活动
 - locations：地点
-- Student_orgnazations:学生组织
+- student_orgnazations:学生组织
 
 ## 出现就直接推送
 - activitis：学生活动（**待处理，实现自动识别**）
