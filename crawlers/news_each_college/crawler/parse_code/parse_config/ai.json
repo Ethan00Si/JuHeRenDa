@@ -3,7 +3,7 @@
         "url_file":"ai_urls.txt",
         "domain":"ai.ruc.edu.cn",
         "donnot_allow":["academicfaculty","tutorGroup"],
-        "output_file_name":"/Users/sizihua/Desktop/ai_outptut.csv",
+        "output_file_name":"/Users/sizihua/Desktop/ai_output.csv",
         "config":{
             "out_layer":{
                 "name":"div",
