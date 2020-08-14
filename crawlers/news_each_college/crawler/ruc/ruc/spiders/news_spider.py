@@ -18,7 +18,7 @@ def process_links(links, current_url, allowed_domin):
     links_absolute = list()
     for link in links:
         if link[0:4] == "http" or link[0:3] == "www":
-            if link.find('jiaoshi') != -1 or link.find('mp4') != -1 or link.find('login') != -1 or  link.find('javascript') != -1 or link.find('@ruc.edu.cn') != -1 or link.find('ebook/') != -1 or link.find('.jpg') != -1 or link.find('.pdf') != -1 or link.find('.doc') != -1 or link.find('.png') != -1 or link.find('.xls') != -1 or link.find('.css') != -1 or link.find('.ppt') != -1 or link.find('.zip') != -1 or link.find('.rar') != -1:
+            if link.find('academicfaculty') != -1 or link.find('mp4') != -1 or link.find('login') != -1 or  link.find('javascript') != -1 or link.find('@ruc.edu.cn') != -1 or link.find('ebook/') != -1 or link.find('.jpg') != -1 or link.find('.pdf') != -1 or link.find('.doc') != -1 or link.find('.png') != -1 or link.find('.xls') != -1 or link.find('.css') != -1 or link.find('.ppt') != -1 or link.find('.zip') != -1 or link.find('.rar') != -1:
                 continue
             if link.find(allowed_domin) != -1:
                 links_absolute.append(link)
@@ -39,7 +39,7 @@ def output_info(links, titles=None, content=None):
 
 
 def write_url(urls,fileName):
-    filename = '/Users/sizihua/Desktop/crawler/raw_data/urls/'+fileName
+    filename = '/Users/sizihua/Desktop/DaChuang/crawlers/news_each_college/crawler/raw_data/urls/'+fileName
     with open(filename, 'w+') as fout:
         for url in urls:
             fout.write(url)
@@ -64,7 +64,7 @@ class news_spider(scrapy.Spider):
 
     def start_requests(self):
         config_name = input("type config file name:\n")#example rmbs_config.json
-        ini_path = '/Users/sizihua/Desktop/crawler/start_config/'+config_name
+        ini_path = '/Users/sizihua/Desktop/DaChuang/crawlers/news_each_college/crawler/start_config/'+config_name
         load_dict = dict()
         with open(ini_path, 'r') as fin:
             load_dict = json.load(fin)

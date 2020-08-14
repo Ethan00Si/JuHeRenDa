@@ -3,7 +3,7 @@
         "url_file":"info_url.txt",
         "domain":"info.ruc.edu.cn",
         "donnot_allow":["teacher_id"],
-        "output_file_name":"/Users/sizihua/Desktop/crawler/raw_data/news/info_outptut.xlsx",
+        "output_file_name":"/Users/sizihua/Desktop/crawler/raw_data/news/info_outptut.csv",
         "config":{
             "out_layer":{
                 "name":"div",

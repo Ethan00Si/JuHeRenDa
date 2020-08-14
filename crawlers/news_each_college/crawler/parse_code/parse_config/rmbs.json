@@ -3,7 +3,7 @@
         "url_file":"rmbs_urls.txt",
         "domain":"rmbs.ruc.edu.cn",
         "donnot_allow":[],
-        "output_file_name":"/Users/sizihua/Desktop/crawler/raw_data/news/rmbs_outptut.xlsx",
+        "output_file_name":"/Users/sizihua/Desktop/crawler/raw_data/news/rmbs_outptut.csv",
         "config":{
             "out_layer":{
                 "name":"body"   

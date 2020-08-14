@@ -3,7 +3,7 @@
         "url_file":"law_urls.txt",
         "domain":"law.ruc.edu.cn",
         "donnot_allow":["/sz/"],
-        "output_file_name":"/Users/sizihua/Desktop/crawler/raw_data/news/law_outptut.xlsx",
+        "output_file_name":"/Users/sizihua/Desktop/crawler/raw_data/news/law_outptut.csv",
         "config":{
             "out_layer":{
                 "name":"table",

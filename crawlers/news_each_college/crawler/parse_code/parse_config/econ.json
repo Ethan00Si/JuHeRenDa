@@ -3,7 +3,7 @@
         "url_file":"econ_urls.txt",
         "domain":"econ.ruc.edu.cn",
         "donnot_allow":["jszy"],
-        "output_file_name":"/Users/sizihua/Desktop/crawler/raw_data/news/econ_outptut.xlsx",
+        "output_file_name":"/Users/sizihua/Desktop/crawler/raw_data/news/econ_outptut.csv",
         "config":{
             "out_layer":{
                 "name":"div",

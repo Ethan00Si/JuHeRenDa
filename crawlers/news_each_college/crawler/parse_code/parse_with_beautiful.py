@@ -33,7 +33,7 @@ def get_proxy():
 
 def read_config():
     path = input("type the config file name:\n")
-    path = '/Users/sizihua/Desktop/crawler/parse_code/parse_config/'+path
+    path = '/Users/sizihua/Desktop/DaChuang/crawlers/news_each_college/crawler/parse_code/parse_config/'+path
     with open(path, 'r') as fin:
         load_dict = json.load(fin)
     return load_dict
@@ -41,7 +41,7 @@ def read_config():
 
 def read_urls(name):
     urls = []
-    path = '/Users/sizihua/Desktop/crawler/raw_data/urls/'+name
+    path = '/Users/sizihua/Desktop/DaChuang/crawlers/news_each_college/crawler/raw_data/urls/'+name
     with open(path, 'r+') as fin:
         for i, item in enumerate(fin):
             line = item.strip()
@@ -61,7 +61,7 @@ def output_result(news_titles, news_dates, news_contents, news_urls, domain):
     for i in range(len(news_contents)):
         news_sources.append(domain)
     news_data = pd.DataFrame(
-        {'发布时间': news_dates, '来源': news_sources, '链接': news_urls, '标题': news_titles, '正文': news_contents})
+        {'datetime': news_dates, 'source': news_sources, 'url': news_urls, 'title': news_titles, 'content': news_contents})
     return news_data
 
 
@@ -142,16 +142,19 @@ def parse_html(config):
     news_urls = []
     news_sources = []
     news_data = pd.DataFrame(
-        {'发布时间': news_dates, '来源': news_sources, '链接': news_urls, '标题': news_titles, '正文': news_contents})
+        {'datetime': news_dates, 'source': news_sources, 'url': news_urls, 'title': news_titles, 'content': news_contents})
 
     for i, url in enumerate(urls):
         if donnot_allow(url, config['donnot_allow']) == False:
             continue
-        r = get_request(url, proxy_open=False, delay=5)
+        r = get_request(url, proxy_open=False, delay=2)
         if r is None:
             continue
-        #r.encoding = 'utf-8'
-        r.encoding = 'gb18030'
+        r.encoding = 'utf-8'
+        '''
+        r.encoding = 'gb18030' 
+        只有新闻学院是这样
+        '''
         page = r.text
 
         soup = BeautifulSoup(page, 'html.parser')
@@ -167,6 +170,9 @@ def parse_html(config):
             continue
         #title = parse_using_find(divs,config,'title')
         title = parse_ini(divs,config,'title')
+        if title == 'NULL':
+            print('\n ',i,' parse fail. title error!\n')
+            continue
         date = parse_ini(divs,config,'date')
         #date = parse_using_find(divs,config,'date')
 
@@ -180,7 +186,7 @@ def parse_html(config):
             news_pd = output_result(
                 news_titles, news_dates, news_contents, news_urls, config['domain'])
             news_data = news_data.append(news_pd)
-            news_data.to_excel('temp_output2.xlsx')
+            news_data.to_csv('temp_output2.csv')
             news_contents = []
             news_urls = []
             news_dates = []
@@ -191,7 +197,7 @@ def parse_html(config):
                                 news_contents, news_urls, config['domain'])
         news_data = news_data.append(news_pd)
 
-    news_data.to_excel(config['output_file_name'])
+    news_data.to_csv(config['output_file_name'])
 
 
 def main():

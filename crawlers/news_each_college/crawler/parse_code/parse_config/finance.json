@@ -3,7 +3,7 @@
         "url_file":"finance_urls.txt",
         "domain":"sf.ruc.edu.cn",
         "donnot_allow":["szdw"],
-        "output_file_name":"/Users/sizihua/Desktop/crawler/data/raw_news/finance_outptut.xlsx",
+        "output_file_name":"/Users/sizihua/Desktop/crawler/data/raw_news/finance_outptut.csv",
         "config":{
             "out_layer":{
                 "name":"form",

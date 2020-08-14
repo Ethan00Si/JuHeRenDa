@@ -3,7 +3,7 @@
         "url_file":"jcr_urls.txt",
         "domain":"jcr.ruc.edu.cn",
         "donnot_allow":["/yuangong/"],
-        "output_file_name":"/Users/sizihua/Desktop/crawler/raw_data/news/journal_outptut.xlsx",
+        "output_file_name":"/Users/sizihua/Desktop/crawler/raw_data/news/journal_outptut.csv",
         "config":{
             "out_layer":{
                 "name":"div",

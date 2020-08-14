@@ -14,7 +14,7 @@ BOT_NAME = 'ruc'
 SPIDER_MODULES = ['ruc.spiders']
 NEWSPIDER_MODULE = 'ruc.spiders'
 
-DOWNLOAD_DELAY = 2
+DOWNLOAD_DELAY = 1
 RANDOMIZE_DOWNLOAD_DELAY = True
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENTS =  ["Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AcooBrowser; .NET CLR 1.1.4322; .NET CLR 2.0.50727)",
