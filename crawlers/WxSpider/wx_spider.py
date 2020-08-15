@@ -12,7 +12,7 @@ class WxSpider():
         '''初始化函数'''
         self.config = config
         self.session = requests.Session()
-        self.article_infos = pd.DataFrame({'title':[], 'datetime': [], 'url': [], 'content': [], 'source': []})
+        self.article_infos = pd.DataFrame({'datetime': [], 'source': [], 'url': [], 'title':[], 'content': []})
         self.__initialize()
 
     def __initialize(self):
@@ -80,7 +80,8 @@ class WxSpider():
                         continue
                     # 获取datetime，若有多篇文章一起发布，则datetime相同
                     timestamp = comm_msg_info.get('datetime', '')
-                    if timestamp < 1546272000:
+                    # if timestamp < 1546272000: # after 2019
+                    if timestamp < 1514736000: # after 2018
                         flag = False
                         break
                     datetime = time.strftime("%Y-%m-%d", time.localtime(timestamp))
@@ -92,14 +93,14 @@ class WxSpider():
                     content_url = app_msg_ext_info.get('content_url', '')
                     # 将文章信息保存
                     if title and content_url:
-                        self.article_infos.loc[len(self.article_infos)] = [title, datetime, content_url, '', self.config.name]
+                        self.article_infos.loc[len(self.article_infos)] = [datetime, self.config.name, content_url, title, '']
                     # 若有多篇文章一起发布
                     if app_msg_ext_info.get('is_multi', '') == 1:
                         for article in app_msg_ext_info.get('multi_app_msg_item_list', []):
                             title = article.get('title', '')
                             content_url = article.get('content_url', '')
                             if title and content_url:
-                                self.article_infos.loc[len(self.article_infos)] = [title, datetime, content_url, '', self.config.name]
+                                self.article_infos.loc[len(self.article_infos)] = [datetime, self.config.name, content_url, title, '']
             except:
                 print(self.params['offset'])
                 self.__save_article_infos()
@@ -116,13 +117,27 @@ class WxSpider():
         for index, row in self.article_infos.iterrows():
             # 测试用
             print(index)
+            # 获取页面内容
             html = self.session.get(row['url'])
+            # bs4解析
             soup = BeautifulSoup(html.content.decode('utf8'), "lxml")
             content_div = soup.find('div', attrs={'class': 'rich_media_content'})
+            
             try:
-                row['content'] = content_div.text
+                content = content_div.text
+                # iframes可能为空
+                iframes = content_div.find_all('iframe')
+                # 去除iframe里的乱码
+                for iframe in iframes:
+                    if iframe.text:
+                        content = content.replace(iframe.text, '', 1)
+                stop_words = ['\n', '\t', '']
+                for word in stop_words:
+                    content = content.replace(word, '')
+                row['content'] = content
             except:
                 row['content'] = ''
+                print('[INFO]: 第{}篇文章content为空，url为：{}'.format(index, row['url']))
             time.sleep(1+random.random())
 
     def __save_article_infos(self):
@@ -135,14 +150,14 @@ if __name__ == "__main__":
     # wx_spider = WxSpider(ruc_info)
     # import ruc_business
     # wx_spider = WxSpider(ruc_business)
-    # import ruc_caijing
-    # wx_spider = WxSpider(ruc_caijing)
+    import ruc_caijing
+    wx_spider = WxSpider(ruc_caijing)
     # import ruc_news
     # wx_spider = WxSpider(ruc_news)
     # import ruc_law
     # wx_spider = WxSpider(ruc_law)
-    import ruc_info_qingxie
-    wx_spider = WxSpider(ruc_info_qingxie)
+    # import ruc_info_qingxie
+    # wx_spider = WxSpider(ruc_info_qingxie)
     # import ruc_xueshenghui
     # wx_spider = WxSpider(ruc_xueshenghui)
     # import ruc_qingxie

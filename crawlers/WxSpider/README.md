@@ -23,3 +23,7 @@ beautifulsoup
 异步爬取
 
 鲁棒性
+
+##Update
+
+2020.08.15：增加了稳定性；删除了爬取时content中的异常字符（HTML转义字符、\n、\t、空格）
