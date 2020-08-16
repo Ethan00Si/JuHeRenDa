@@ -5,14 +5,14 @@ import jsonlines
 def getSeperated(segment,idx_range,path,meta_data,news_idx):
     f = open(path,'a+',encoding='utf-8')
     for each in idx_range:
-        
-        line = segment[int(each)]
-        for character in line:
-            f.write(character+'\n')
-        f.write('\n')
+        if each:
+            line = segment[int(each)]
+            for character in line:
+                f.write(character+'\n')
+            f.write('\n')
     f.close()
     department = re.search('(.*?)\.',meta_data['source']).group(1)
-    g = open('D:/codes/Pt_Pytorch/data/corpus/{}.txt'.format(department),'a+',encoding='utf-8')
+    g = open('../../data/语料/sample_news_idx/{}.txt'.format(department),'a+',encoding='utf-8')
     g.write('{}'.format(news_idx)+'\n')
     g.close()
 
@@ -101,7 +101,7 @@ def getTrainData_from_json(path,start,end):
 
 def manual_sampling(path):
     data = pandas.read_csv(path)
-    dist = r'D:\codes\Pt_Pytorch\data\corpus\train_taobao.txt'
+    dist = r'../../data/语料/train.txt'
     sentence = data.content
     start = input("index:")
     i = int(start)
@@ -114,7 +114,7 @@ def manual_sampling(path):
         prompt = input()
         if prompt == 'sum':
             count = 0
-            f = open(r'D:\codes\Pt_Pytorch\data\corpus\train_taobao.txt','r',encoding='utf-8')
+            f = open(dist,'r',encoding='utf-8')
             for line in f:
                 #print(line)
                 if line == '\n':

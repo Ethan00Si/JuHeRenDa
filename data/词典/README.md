@@ -7,7 +7,7 @@
   * 属性有：地点
 - meetings：会议、讲座等老师参加的活动（**待处理，命名实体抽取，即识别出会议和参与会议的教师；关系抽取，即识别出“参与会议这个关系”**）
 - majors：各个学院的专业
-- student_orgnazations:学生组织
+- orgnazations：各种组织
 - labs：老师的实验室
 - activities：学生活动
 
