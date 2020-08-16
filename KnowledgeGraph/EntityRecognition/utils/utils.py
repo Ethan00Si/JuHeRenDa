@@ -11,7 +11,10 @@ def getSeperated(segment,idx_range,path,meta_data,news_idx):
                 f.write(character+'\n')
             f.write('\n')
     f.close()
-    department = re.search('(.*?)\.',meta_data['source']).group(1)
+    try:
+        department = re.search('(.*?)\.',meta_data['source']).group(1)
+    except AttributeError:
+        department = meta_data['source']
     g = open('../../data/语料/sample_news_idx/{}.txt'.format(department),'a+',encoding='utf-8')
     g.write('{}'.format(news_idx)+'\n')
     g.close()
