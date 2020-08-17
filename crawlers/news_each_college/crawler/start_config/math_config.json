@@ -1,0 +1,7 @@
+{
+    "stat":{
+        "allowed_domin": "math.ruc.edu.cn",
+        "start_url": "http://math.ruc.edu.cn",
+        "file_name":"math_urls.txt"
+    }
+}

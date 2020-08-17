@@ -1,0 +1,32 @@
+{
+    "math":{
+        "url_file":"international_urls.txt",
+        "domain":"sis.ruc.edu.cn",
+        "donnot_allow":[],
+        "output_file_name":"/Users/sizihua/Desktop/international_output.csv",
+        "config":{
+            "out_layer":{
+                "name":"article"
+            },
+            "title":{
+                "name":"span",
+                "attrs":{"style":"font-size: 20px;font-weight: bold"}
+            },
+            "content":{
+                "name":"p",
+                "find_all":"true"
+            },
+            "date":{
+                "name":"h5",
+                "attrs":{"class":"meta-post"},
+                "further_parse":{
+                    "config":{
+                        "date":{
+                            "name":"time"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

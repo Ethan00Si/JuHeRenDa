@@ -1,0 +1,7 @@
+{
+    "stat":{
+        "allowed_domin": "stat.ruc.edu.cn",
+        "start_url": "http://stat.ruc.edu.cn/index.php",
+        "file_name":"tong_ji_urls.txt"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "sis":{
+        "allowed_domin": "sis.ruc.edu.cn",
+        "start_url": "http://sis.ruc.edu.cn/html/1/",
+        "file_name":"international_urls.txt"
+    }
+}

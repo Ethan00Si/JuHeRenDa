@@ -1,0 +1,34 @@
+{
+    "ai":{
+        "url_file":"tong_ji_urls.txt",
+        "domain":"stat.ruc.edu.cn",
+        "donnot_allow":["teacher"],
+        "output_file_name":"/Users/sizihua/Desktop/tong_ji_output.csv",
+        "config":{
+            "out_layer":{
+                "name":"div",
+                "attrs":{"class":"wenzhanas"}   
+            },
+            "title":{
+                "name":"div",
+                "attrs":{"class":"wenzhanone"}
+            },
+            "content":{
+                "name":"div",
+                "attrs":{"class":"wenzhanppp"},
+                "further_parse":{
+                    "config":{
+                        "content":{
+                            "name":"p",
+                            "find_all":"true"
+                        }
+                    }
+                }
+            },
+            "date":{
+                "name":"div",
+                "attrs":{"class":"wenzhantwo"}
+            }
+        }
+    }
+}

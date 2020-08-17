@@ -1,0 +1,7 @@
+{
+    "philosophe":{
+        "allowed_domin": "phi.ruc.edu.cn",
+        "start_url": "http://phi.ruc.edu.cn/",
+        "file_name":"philosophe_urls.txt"
+    }
+}
