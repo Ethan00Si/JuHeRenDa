@@ -10,8 +10,8 @@ class Teacher(scrapy.Spider):
     def __init__(self):
         super().__init__()
 
-        self.refer_dict = {'电话':'phone','个人主页':'homepage','电子邮箱':'email','地址':'office','传真':'fax','邮箱':'email','系别':'major'}
-        with open(r'config.json','r',encoding='utf-8') as f:
+        self.refer_dict = {'电话':'phone','个人主页':'homepage','电子邮箱':'email','地址':'office','传真':'fax','邮箱':'email','系别':'major','职称':'title','职务':'position'}
+        with open(r'config_statistic.json','r',encoding='utf-8') as f:
             self.config = json.load(f)
             #self.file = re.search('(.*?).json',f.name).group(1)
 
@@ -68,6 +68,7 @@ class Teacher(scrapy.Spider):
 
             for text in details.getall():
                 
+                text = re.sub('\s','',text)
                 key = pattern.search(text).group(1).strip()
                 value = pattern.search(text).group(2).strip()
 
@@ -120,7 +121,10 @@ class Teacher(scrapy.Spider):
                 if prop_dict['pattern'] == []:
                     item[prop] = value
                 else:
-                    value = re.search(prop_dict['pattern'][0],value).group(prop_dict['pattern'][1])
+                    try:
+                        value = re.search(prop_dict['pattern'][0],value).group(prop_dict['pattern'][1])
+                    except:
+                        pass
                     item[prop] = value
 
             if config['further_explore']:

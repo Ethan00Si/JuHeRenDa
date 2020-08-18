@@ -91,7 +91,7 @@
         "further_explore":true,
         "extra_info":false,
         "refer_dict":true,
-        "pattern_further":"(.*?)：(.*)"
+        "pattern_further":"(.*?)(.*)"
     },
 
     "http://sf.ruc.edu.cn/xzyj/szdw1/zzjs1.htm":{
