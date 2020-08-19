@@ -1,7 +1,3 @@
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.feature_extraction.text import TfidfTransformer
-from sklearn.preprocessing import normalize
-from scipy.sparse import csr_matrix
 import numpy as np
 
 '''
@@ -28,7 +24,7 @@ class ContentBased_User(object):
 
         # 这里的user_ratings是以dict的形式存储 格式 doc ID : score
         # 生成用户画像
-        user_profile = np.ndarray((tfidf.shape[0], 1))
+        user_profile = np.zeros((tfidf.shape[0], 1))
         '''
         假定大于0是喜欢 小于0是不喜欢，数据是已经预处理好的
         '''
@@ -51,21 +47,13 @@ class ContentBased_User(object):
 
         for item in user_ratings:
             if(user_ratings[item] >= 0):
-                user_profile[:, 0:1] += b/pos_cnt * tfidf[0:, item:item+1]
+                user_profile[:, 0] += b/pos_cnt * tfidf[:, item]
                 
         for item in user_ratings:
             if(user_ratings[item] < 0):
-                user_profile[:, 0:1] -= c/neg_cnt * tfidf[0:, item:item+1]
+                user_profile[:, 0] -= c/neg_cnt * tfidf[:, item]
                     
         (rows, cols) = user_profile.shape
-        
-        for i in range(rows):
-            for j in range(cols):
-                if(user_profile[i, j] < threshold_rate and user_profile[i, j] > -threshold_rate):
-                    user_profile[i, j] = 0
-        
-        
-        user_profile = csr_matrix(user_profile)
         
         '''
                     user
@@ -76,7 +64,7 @@ class ContentBased_User(object):
                     |--|  
         '''
         self.user_profile = user_profile
-
+        self.user_profile[np.isnan(self.user_profile)] = 0
 
     def update_user_profile(self, tfidf, user_ratings):
         # 添加已经看了的内容
@@ -102,31 +90,32 @@ class ContentBased_User(object):
 
         for item in user_ratings:
             if(user_ratings[item] >= 0):
-                self.user_profile[:, 0:1] += b/pos_cnt * tfidf[0:, item:item+1]
+                self.user_profile[:, 0] += b/pos_cnt * tfidf[:, item]
                 
         for item in user_ratings:
             if(user_ratings[item] < 0):
-                self.user_profile[:, 0:1] -= c/neg_cnt * tfidf[0:, item:item+1]
+                self.user_profile[:, 0] -= c/neg_cnt * tfidf[:, item]
+        self.user_profile[np.isnan(self.user_profile)] = 0
 
     def generate_recommand(self, tfidf, topN = 10):
         #  产生推荐结果
+        
         for i in range(self.user_profile.shape[1]):
             scores = []
             index = []
-            u = self.user_profile[:, i]
+            u = self.user_profile[:, i:i+1]
             for j in range(tfidf.shape[1]):
-                v = tfidf[:, j]
+                v = tfidf[:, j:j+1]
                 
-                if np.linalg.norm(v.todense()) == 0:
+                if np.linalg.norm(v) == 0:
                     # 有一些新闻是空的，还没看到哪里出问题了
                     # 只有个别的新闻是全英文所以没有关键词，其余的新闻还有一些是0
                     continue
-                
-                tmp = sum(u.transpose().dot(v).todense()) / np.linalg.norm(u.todense()) / np.linalg.norm(v.todense())
-                scores.append(np.array(tmp)[0][0]) # score list存储每一个新闻的预测得分
+                tmp = np.dot(u.T,v) / np.linalg.norm(u) / np.linalg.norm(v)
+                scores.append(tmp[0][0]) # score list存储每一个新闻的预测得分
                 index.append(j)
         self.find_top_n_items(scores, index, topN)
-
+        
     def find_top_n_items(self, scores, index, n):
         # 输出前n个结果
         print("max: ",max(scores))
