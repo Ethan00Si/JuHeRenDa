@@ -18,8 +18,14 @@ class ContentBased_User(object):
     def __init__(self, key_words, profile):
         self.key_word_list = key_words  # 用户的关键词列表
         self.user_profile = profile # 此用户的用户画像
+        self.already_view = dict() #已经浏览过的页面,dict是哈希表，O(1)复杂度
 
     def generate_user_profile(self, tfidf, user_ratings):
+        # 将已经看过的内容添加到 already_view中
+        for item in user_ratings:
+            self.already_view[item] = 1
+
+
         # 这里的user_ratings是以dict的形式存储 格式 doc ID : score
         # 生成用户画像
         user_profile = np.ndarray((tfidf.shape[0], 1))
@@ -30,7 +36,6 @@ class ContentBased_User(object):
         b = 0.8
         c = 0.1
         threshold_rate = 1e-10
-        tf_idf_matrix = tfidf.toarray()
         
         pos_cnt = 0
         neg_cnt = 0
@@ -38,7 +43,7 @@ class ContentBased_User(object):
         下面这里没有想好相关的新闻和不相关的新闻如何影响user profile，暂定是乘得分作为影响
         '''
         for item in user_ratings:
-            if(user_ratings[item] > 0):
+            if(user_ratings[item] >= 0):
                 pos_cnt += 1
         for item in user_ratings:
             if(user_ratings[item] < 0):
@@ -46,11 +51,11 @@ class ContentBased_User(object):
 
         for item in user_ratings:
             if(user_ratings[item] >= 0):
-                user_profile[:, 0:1] += b/pos_cnt * tf_idf_matrix[0:, item:item+1]
+                user_profile[:, 0:1] += b/pos_cnt * tfidf[0:, item:item+1]
                 
         for item in user_ratings:
             if(user_ratings[item] < 0):
-                user_profile[:, 0:1] -= c/neg_cnt * tf_idf_matrix[0:, item:item+1]
+                user_profile[:, 0:1] -= c/neg_cnt * tfidf[0:, item:item+1]
                     
         (rows, cols) = user_profile.shape
         
@@ -74,12 +79,14 @@ class ContentBased_User(object):
 
 
     def update_user_profile(self, tfidf, user_ratings):
+        # 添加已经看了的内容
+        for item in user_ratings:
+            self.already_view[item] = 1
+
         # 新增加了一些评价，更新用户画像
 
         b = 0.8
         c = 0.1
-        
-        tf_idf_matrix = tfidf.toarray()
 
         pos_cnt = 0
         neg_cnt = 0
@@ -87,7 +94,7 @@ class ContentBased_User(object):
         下面这里没有想好相关的新闻和不相关的新闻如何影响user profile，暂定是乘得分作为影响
         '''
         for item in user_ratings:
-            if(user_ratings[item] > 0):
+            if(user_ratings[item] >= 0):
                 pos_cnt += 1
         for item in user_ratings:
             if(user_ratings[item] < 0):
@@ -95,11 +102,11 @@ class ContentBased_User(object):
 
         for item in user_ratings:
             if(user_ratings[item] >= 0):
-                self.user_profile[:, 0:1] += b/pos_cnt * tf_idf_matrix[0:, item:item+1]
+                self.user_profile[:, 0:1] += b/pos_cnt * tfidf[0:, item:item+1]
                 
         for item in user_ratings:
             if(user_ratings[item] < 0):
-                self.user_profile[:, 0:1] -= c/neg_cnt * tf_idf_matrix[0:, item:item+1]
+                self.user_profile[:, 0:1] -= c/neg_cnt * tfidf[0:, item:item+1]
 
     def generate_recommand(self, tfidf, topN = 10):
         #  产生推荐结果
@@ -116,7 +123,7 @@ class ContentBased_User(object):
                     continue
                 
                 tmp = sum(u.transpose().dot(v).todense()) / np.linalg.norm(u.todense()) / np.linalg.norm(v.todense())
-                scores.append(np.array(tmp)[0][0])
+                scores.append(np.array(tmp)[0][0]) # score list存储每一个新闻的预测得分
                 index.append(j)
         self.find_top_n_items(scores, index, topN)
 
@@ -125,7 +132,16 @@ class ContentBased_User(object):
         print("max: ",max(scores))
         scores = np.array(scores)
         indecies = np.argsort(-scores)
-        for i in range(n):
-            print(i)
+        cnt = 0
+        i = 0
+        while(cnt < n):
+            # 排除掉已经看过的新闻
+            if self.already_view.__contains__(index[indecies[i]]):
+                i += 1
+                continue
+            
+            print(cnt)
             print('index : ', index[indecies[i]], " score: ", scores[indecies[i]])
-        # return indecies[:n]
+            i += 1
+            cnt += 1
+        
