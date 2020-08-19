@@ -1,0 +1,29 @@
+{
+    "http://stat.ruc.edu.cn/teacher.php?cid=25":{
+        "brief_entry":"//div[@class=\"imgzhang fl\"]",
+        "href_entry":"./a/@href",
+        "detail_entry":"//div[@class=\"leaderone\"]/span/text()",
+        "next_entry":null,
+        "properties":{
+            "name":{
+                "entry":"./h1/a/text()",
+                "pattern":[":(.*)",1]
+            },
+            "major":{
+                "entry":"./preceding-sibling::div[@class=\"right_twoabc\"][1]/h1/text()",
+                "pattern":[]
+            }   
+        },
+        "properties_extra":{
+            "major":{
+                "entry":"//h1[text()=\"研究方向\"]/../../p/text()",
+                "pattern":[]
+            }
+        },
+        "department":"统计学院",
+        "further_explore":true,
+        "extra_info":true,
+        "refer_dict":true,
+        "pattern_further":"(.*?)：(.*)"
+    }
+}
