@@ -1,0 +1,7 @@
+{
+    "psy":{
+        "allowed_domin": "psy.ruc.edu.cn/",
+        "start_url": "http://psy.ruc.edu.cn/",
+        "file_name":"psy_urls.txt"
+    }
+}

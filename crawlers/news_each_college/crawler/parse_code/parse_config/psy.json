@@ -1,0 +1,48 @@
+{
+    "psy":{
+        "url_file":"psy_urls.txt",
+        "domain":"psy.ruc.edu.cn",
+        "donnot_allow":[],
+        "output_file_name":"/Users/sizihua/Desktop/psy_output.csv",
+        "config":{
+            "out_layer":{
+                "name":"div",
+                "attrs":{"class":"page_fr"}
+            },
+            "title":{
+                "name":"div",
+                "attrs":{"class":"ntinfo_tit clearfix"},
+                "further_parse":{
+                    "config":{
+                        "title":{
+                            "name":"h3"
+                        }
+                    }
+                }
+            },
+            "content":{
+                "name":"div",
+                "attrs":{"class":"nt_info"},
+                "further_parse":{
+                    "config":{
+                        "content":{
+                            "name":"p",
+                            "find_all":"true"
+                        }
+                    }
+                }
+            },
+            "date":{
+                "name":"div",
+                "attrs":{"class":"ntinfo_tit clearfix"},
+                "further_parse":{
+                    "config":{
+                        "date":{
+                            "name":"span"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

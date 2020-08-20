@@ -1,0 +1,42 @@
+{
+    "chem":{
+        "url_file":"chem_urls.txt",
+        "domain":"chem.ruc.edu.cn",
+        "donnot_allow":["szll","bkspy","sysptjs"],
+        "output_file_name":"/Users/sizihua/Desktop/chem_output.csv",
+        "config":{
+            "out_layer":{
+                "name":"div",
+                "attrs":{"class":"col-sm-9 col-xs-12 cell-info news-detail"}
+            },
+            "title":{
+                "name":"div",
+                "attrs":{"class":"col-sm-12 news-detail-title"}
+            },
+            "content":{
+                "name":"div",
+                "attrs":{"class":"col-sm-12 info-article"},
+                "further_parse":{
+                    "config":{
+                        "content":{
+                            "name":"p",
+                            "find_all":"true"
+                        }
+                    }
+                }
+            },
+            "date":{
+                "name":"div",
+                "attrs":{"class":"col-sm-12 p12-999"},
+                "further_parse":{
+                    "config":{
+                        "date":{
+                            "name":"span",
+                            "attrs":{"class":"info-release-time"}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

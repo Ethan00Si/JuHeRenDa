@@ -21,7 +21,7 @@ def delete(file_name):
         print(i)
         tmp_pandas['content'][i] = tmp
         
-    tmp_pandas.to_csv(file_path)  
+    tmp_pandas.to_csv(file_path,index=False)
 
 # 修改date time 有一些是 时间：2020-08-12，把“时间：”删掉
 def modify(file_name):
@@ -31,12 +31,15 @@ def modify(file_name):
     tmp_pandas = read_pandas.copy()
     #read_pandas = read_pandas.rename(columns={'链接':'url','发布时间':'datetime','来源':'source','标题':'title','正文':'content'})
     for i,item in enumerate(read_pandas['datetime']):
-        tmp = str(item)[3:]
-        
+        #tmp = str(item)[3:]
+        tmp = str(item)[5:15]
         print(i)
         tmp_pandas['datetime'][i] = tmp
-        
-    tmp_pandas.to_csv(file_path)  
+    tmp_pandas['datetime'] = pd.to_datetime(tmp_pandas['datetime'],format="%Y-%m-%d")
+    tmp_pandas = tmp_pandas.sort_values(by='datetime',ascending=False)
+    print(tmp_pandas.head())
+    tmp_pandas.to_csv(file_path,index=False)   
+    
 
 # 调整时间格式 2020-08-16
 def adjust_time(file_name):
@@ -50,8 +53,9 @@ def adjust_time(file_name):
     tmp_pandas = tmp_pandas.sort_values(by='datetime',ascending=False)
     #del index
     print(tmp_pandas.head())
-    tmp_pandas.to_csv(file_path)  
+    tmp_pandas.to_csv(file_path,index=False)  
 
-adjust_time('philosophe_output.csv')
-#delete('philosophe_output.csv')
-#modify('philosophe_output.csv')
+file_name = 'psy_output.csv'
+#adjust_time(file_name)
+#delete(file_name)
+modify(file_name)

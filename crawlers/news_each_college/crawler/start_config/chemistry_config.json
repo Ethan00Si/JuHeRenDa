@@ -1,0 +1,7 @@
+{
+    "phy":{
+        "allowed_domin": "chem.ruc.edu.cn",
+        "start_url": "http://chem.ruc.edu.cn/",
+        "file_name":"chem_urls.txt"
+    }
+}
