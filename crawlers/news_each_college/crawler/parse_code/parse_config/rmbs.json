@@ -23,10 +23,10 @@
                 "name":"div",
                 "attrs":{"class":"wrap newxq_01"},
                 "further_parse":{
-                    "find_all":"True",
                     "config":{
-                        "find_all":"True",
+                        
                         "date":{
+                            "find_all":"True",
                             "name":"span"
                         }    
                     }
@@ -36,9 +36,9 @@
                 "name":"div",
                 "attrs":{"class":"wrap newxq_02"},
                 "further_parse":{
-                    "find_all":"True",
                     "config":{
                         "content":{
+                            "find_all":"True",
                             "name":"p"
                         }
                     }

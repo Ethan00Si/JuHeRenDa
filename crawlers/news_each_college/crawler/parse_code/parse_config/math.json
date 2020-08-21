@@ -10,7 +10,7 @@
                 "attrs":{"class":"newsmore"}   
             },
             "title":{
-                "name":"h2"
+                "name":"title"
             },
             "content":{
                 "name":"div",

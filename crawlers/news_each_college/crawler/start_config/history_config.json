@@ -1,0 +1,7 @@
+{
+    "wen_xue":{
+        "allowed_domin": "lsxy.ruc.edu.cn",
+        "start_url": "http://lsxy.ruc.edu.cn/",
+        "file_name":"history_urls.txt"
+    }
+}

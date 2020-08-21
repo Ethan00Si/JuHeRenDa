@@ -1,0 +1,7 @@
+{
+    "xin_guan":{
+        "allowed_domin": "irm.ruc.edu.cn",
+        "start_url": "http://irm.ruc.edu.cn/",
+        "file_name":"xin_guan_urls.txt"
+    }
+}

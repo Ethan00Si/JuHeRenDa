@@ -1,3 +1,4 @@
+http://psy.ruc.edu.cn/plus/view.php?aid=337
 http://psy.ruc.edu.cn/bbs/search.php?mod=forum&srchtxt=discuz&formhash=83fb6f0a&searchsubmit=true&source=hotsearch
 http://psy.ruc.edu.cn/lab/bbs/search.php?mod=forum&srchtxt=discuz&formhash=464e8eb9&searchsubmit=true&source=hotsearch
 http://psy.ruc.edu.cn/lab/bbs/home.php?mod=magic
@@ -16,7 +17,6 @@ http://psy.ruc.edu.cn/lab/index.php?m=Home&c=News&a=view&id=222&tid=28
 http://psy.ruc.edu.cn/bbs/forum.php?forumlist=1&mobile=no
 http://psy.ruc.edu.cn/plus/list.php?tid=3
 http://psy.ruc.edu.cn/bbs/search.php?mod=forum&srchtxt=discuz&formhash=0e669fb6&searchsubmit=true&source=hotsearch
-http://psy.ruc.edu.cn/plus/view.php?aid=337
 http://psy.ruc.edu.cn/plus/view.php?aid=9
 http://psy.ruc.edu.cn/lab/index.php?m=Home&c=News&a=view&id=145&tid=28
 http://psy.ruc.edu.cn/bbs/search.php?mod=forum&srchtxt=%E4%BA%A4%E5%8F%8B&formhash=e3737b6c&searchsubmit=true&source=hotsearch

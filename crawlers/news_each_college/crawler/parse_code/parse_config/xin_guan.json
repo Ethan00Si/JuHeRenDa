@@ -1,0 +1,36 @@
+{
+    "psy":{
+        "url_file":"xin_guan_urls.txt",
+        "domain":"irm.ruc.edu.cn",
+        "donnot_allow":["teacher","JPG"],
+        "output_file_name":"/Users/sizihua/Desktop/irm_output.csv",
+        "config":{
+            "out_layer":{
+                "name":"div",
+                "attrs":{"class":"main2"}
+                
+            },
+            "title":{
+                "name":"h1",
+                "find_all":"true"
+                
+            },
+            "content":{
+                "name":"div",
+                "attrs":{"style":" margin-top:15px; padding-top:10px;border-top: 2px solid #eeeeee;line-height: 27px;color: #111;"}
+                
+            },
+            "date":{
+                "name":"div",
+                "attrs":{"class":"ntinfo_tit clearfix"},
+                "further_parse":{
+                    "config":{
+                        "date":{
+                            "name":"span"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

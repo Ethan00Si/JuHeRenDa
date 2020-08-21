@@ -1,0 +1,25 @@
+{
+    "social":{
+        "url_file":"social_urls.txt",
+        "domain":"ssps.ruc.edu.cn",
+        "donnot_allow":["teacher"],
+        "output_file_name":"/Users/sizihua/Desktop/social_output.csv",
+        "config":{
+            "out_layer":{
+                "name":"div",
+                "attrs":{"class":"main_right fr"}
+            },
+            "title":{
+                "name":"h1"
+            },
+            "content":{
+                "name":"p",
+                "find_all":"true"
+            },
+            "date":{
+                "name":"span",
+                "attrs":{"style":"background:url(/Public/images/btn_rili.png) 0px no-repeat;"}
+            }
+        }
+    }
+}

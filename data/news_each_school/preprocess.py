@@ -31,12 +31,14 @@ def modify(file_name):
     tmp_pandas = read_pandas.copy()
     #read_pandas = read_pandas.rename(columns={'链接':'url','发布时间':'datetime','来源':'source','标题':'title','正文':'content'})
     for i,item in enumerate(read_pandas['datetime']):
-        #tmp = str(item)[3:]
-        tmp = str(item)[5:15]
+        #tmp = str(item)[0:9]
+        #tmp = str(item)[5:15]
+        tmp = str(item).replace('来源','')
+        tmp = tmp.replace('标','')
         print(i)
         tmp_pandas['datetime'][i] = tmp
-    tmp_pandas['datetime'] = pd.to_datetime(tmp_pandas['datetime'],format="%Y-%m-%d")
-    tmp_pandas = tmp_pandas.sort_values(by='datetime',ascending=False)
+    # tmp_pandas['datetime'] = pd.to_datetime(tmp_pandas['datetime'],format="%Y-%m-%d")
+    # tmp_pandas = tmp_pandas.sort_values(by='datetime',ascending=False)
     print(tmp_pandas.head())
     tmp_pandas.to_csv(file_path,index=False)   
     
@@ -47,15 +49,16 @@ def adjust_time(file_name):
     file_path += file_name
     read_pandas = pd.read_csv(file_path)
     tmp_pandas = read_pandas.copy()
-    tmp_pandas['datetime'] = pd.to_datetime(tmp_pandas['datetime'],format="%Y-%m-%d")
-    #tmp_pandas['datetime'] = pd.to_datetime(tmp_pandas['datetime'],format="%Y/%m/%d")
+    #tmp_pandas['datetime'] = pd.to_datetime(tmp_pandas['datetime'],format="%Y-%m-%d")
+    tmp_pandas['datetime'] = pd.to_datetime(tmp_pandas['datetime'],format="%Y/%m/%d")
     #tmp_pandas['datetime'] = pd.to_datetime(tmp_pandas['datetime'],format="%d-%m-%Y")
+    #tmp_pandas['datetime'] = pd.to_datetime(tmp_pandas['datetime'],format="%Y.%m.%d")
     tmp_pandas = tmp_pandas.sort_values(by='datetime',ascending=False)
     #del index
     print(tmp_pandas.head())
     tmp_pandas.to_csv(file_path,index=False)  
 
-file_name = 'psy_output.csv'
-#adjust_time(file_name)
+file_name = 'wenxue_output.csv'
 #delete(file_name)
-modify(file_name)
+#modify(file_name)
+adjust_time(file_name)

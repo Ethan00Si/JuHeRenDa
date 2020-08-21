@@ -64,7 +64,7 @@ def output_result(news_titles, news_dates, news_contents, news_urls, domain):
         {'datetime': news_dates, 'source': news_sources, 'url': news_urls, 'title': news_titles, 'content': news_contents})
     return news_data
 
-
+# delay的时间在 1～delay 秒 之间，随机产生
 def get_request(url,proxy_open=False,delay=0):
     i = 4
     if delay > 0:
@@ -128,7 +128,7 @@ def parse_ini(divs,config,pattern):
         #print(first)
         if(first == "NULL"):
             return first
-        if config['config'][pattern]['further_parse'].__contains__('find_all'):
+        if config['config'][pattern]['further_parse']['config'][pattern].__contains__('find_all'):
             return parse_using_find_all(first,config['config'][pattern]['further_parse'],pattern)
         else:
             return parse_using_find(first,config['config'][pattern]['further_parse'],pattern)
@@ -147,35 +147,42 @@ def parse_html(config):
     for i, url in enumerate(urls):
         if donnot_allow(url, config['donnot_allow']) == False:
             continue
-        r = get_request(url, proxy_open=False, delay=2)
+        r = get_request(url, proxy_open=False, delay=5)
         if r is None:
             continue
-        r.encoding = 'utf-8'
-        '''
+        #r.encoding = 'utf-8'
         r.encoding = 'gb18030' 
-        只有新闻学院是这样
+        '''
+        只有新闻学院、文学院是这样
         '''
         page = r.text
 
         soup = BeautifulSoup(page, 'html.parser')
-        # 经济学院所有的新闻在这个下面
+        # 学院所有的新闻在这个下面
         divs = parse_using_find(soup, config, 'out_layer', return_tag=True)
         #print(divs)
+        #exit(0)
+        divs = soup
         if divs == 'NULL':
             continue
-        #content = parse_using_find(divs, config, 'content')
-        content = parse_ini(divs,config,'content')
+       
+        content = parse_ini(divs, config,'content')
+        #print(content)
+        #exit(0)
+        
         if content == 'NULL':
             print('\n ',i,' parse fail. content error!\n')
             continue
-        #title = parse_using_find(divs,config,'title')
-        title = parse_ini(divs,config,'title')
+        
+        
+        title = parse_ini(divs, config, 'title')
+        print(title)
         if title == 'NULL':
             print('\n ',i,' parse fail. title error!\n')
             continue
         date = parse_ini(divs,config,'date')
-        #date = parse_using_find(divs,config,'date')
-
+        #print(date)
+        #exit(0)
         news_titles.append(title)
         news_dates.append(date)
         news_contents.append(content)
@@ -204,10 +211,7 @@ def main():
     all_config = read_config()
     for item in all_config:
         parse_html(all_config[item])
-        # print(get_proxy())
-        # print(all_config[item]['config']['content'].__contains__('nam'))
-        # print(all_config[item]['config']['content']['attrs'])
-
+        
 
 if __name__ == '__main__':
     main()

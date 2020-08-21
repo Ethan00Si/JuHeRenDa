@@ -1,0 +1,7 @@
+{
+    "wen_xue":{
+        "allowed_domin": "wenxueyuan.ruc.edu.cn",
+        "start_url": "http://wenxueyuan.ruc.edu.cn/",
+        "file_name":"wen_xue_urls.txt"
+    }
+}
