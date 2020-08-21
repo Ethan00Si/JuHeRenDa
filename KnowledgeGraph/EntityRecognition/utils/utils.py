@@ -135,3 +135,12 @@ def manual_sampling(path):
             getSeperated(segment,idx_range,dist,data.loc[0,:],i)
     return
             
+def getSum(path):
+    count = 0
+    f = open(path,'r',encoding='utf-8')
+    for line in f:
+        if line == '\n':
+            count += 1
+        
+    f.close()
+    print(count)
