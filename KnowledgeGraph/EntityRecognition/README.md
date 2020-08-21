@@ -19,8 +19,8 @@
     "m":"I-N",  #Name 人名的中间
     "n":"B-D",  #Department 学校、学院、系别的开始
     "o":"I-D",  #Department 学校、学院、系别的中间
-    "p":"B-S",  #Scholarship 奖学金、项目、夏令营、考试等学生活动的开始
-    "q":"I-S",  #Scholarship 奖学金、项目、夏令营、考试等学生活动的中间
+    "p":"B-S",  #Scholarship 项目、夏令营、考试等学生活动的开始
+    "q":"I-S",  #Scholarship 项目、夏令营、考试等学生活动的中间
     "r":"B-L",  #地点的开始
     "s":"I-L",  #地点的中间
     "t":"B-T",  #论文的开始
