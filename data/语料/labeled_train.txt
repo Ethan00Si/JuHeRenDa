@@ -1,0 +1,32760 @@
+﻿2 a
+0 a
+2 a
+0 a
+年 a
+6 a
+月 a
+4 a
+日 a
+，
+国 f
+际 g
+计 g
+算 g
+机 g
+学 g
+会 g
+（ g
+A g
+C g
+M g
+） g
+宣 a
+布 a
+，
+将 a
+2 d
+0 e
+2 e
+0 e
+A e
+C e
+M e
+S e
+I e
+G e
+M e
+O e
+D e
+E e
+d e
+g e
+a e
+r e
+F e
+. e
+C e
+o e
+d e
+d e
+创 e
+新 e
+奖 e
+授 a
+予 a
+黄 l
+铭 m
+钧 m
+院 j
+士 k
+，
+以 a
+表 a
+彰 a
+他 a
+在 a
+设 a
+计 a
+和 a
+部 a
+署 a
+大 h
+型 i
+数 i
+据 i
+管 i
+理 i
+和 a
+分 h
+析 i
+系 i
+统 i
+上 a
+的 a
+卓 a
+越 a
+贡 a
+献 a
+！
+黄 l
+铭 m
+钧 m
+院 j
+士 k
+因 a
+在 a
+数 h
+据 i
+清 i
+理 i
+、
+数 h
+据 i
+管 i
+理 i
+以 a
+及 a
+基 a
+于 a
+机 a
+器 a
+学 a
+习 a
+和 a
+深 a
+度 a
+学 a
+习 a
+的 a
+复 h
+杂 i
+数 i
+据 i
+分 i
+析 i
+方 a
+面 a
+作 a
+出 a
+的 a
+突 a
+出 a
+成 a
+就 a
+而 a
+获 a
+得 a
+该 a
+奖 a
+项 a
+！
+A d
+C e
+M e
+S e
+I e
+G e
+M e
+O e
+D e
+E e
+. e
+F e
+. e
+C e
+o e
+d e
+d e
+创 e
+新 e
+奖 e
+是 a
+数 h
+据 i
+库 i
+领 a
+域 a
+的 a
+最 a
+高 a
+奖 a
+，
+以 a
+第 a
+一 a
+位 a
+获 a
+得 a
+图 d
+灵 e
+奖 e
+的 a
+数 h
+据 i
+库 i
+学 a
+者 a
+名 a
+字 a
+E l
+. m
+F m
+. m 
+科 m
+德 m
+命 a
+名 a
+，
+以 a
+表 a
+彰 a
+在 a
+数 h
+据 i
+库 i
+领 a
+域 a
+做 a
+出 a
+重 a
+大 a
+创 a
+新 a
+工 a
+作 a
+的 a
+人 a
+士 a
+
+同 a
+时 a
+他 a
+也 a
+是 a
+中 f
+国 g
+计 g
+算 g
+机 g
+学 g
+会 g
+海 j
+外 k
+理 k
+事 k
+
+，
+海 d
+外 e
+杰 e
+出 e
+贡 e
+献 e
+奖 e
+获 a
+得 a
+者 a
+
+黄 l
+铭 m
+钧 m
+院 j
+士 k
+曾 a
+担 a
+任 a
+A d
+C e
+M e
+S e
+I e
+G e
+M e
+O e
+D e
+J e
+i e
+m e
+G e
+r e
+a e
+y e
+最 e
+佳 e
+论 e
+文 e
+奖 e
+委 j
+员 k
+会 k
+联 k
+合 k
+主 k
+席 k
+，
+他 a
+是 a
+多 a
+个 a
+国 a
+际 a
+期 a
+刊 a
+的 a
+主 j
+编 k
+
+在 a
+2 a
+0 a
+2 a
+0 a
+年 a
+1 a
+月 a
+1 a
+2 a
+日 a
+召 a
+开 a
+的 a
+C b
+C c
+F c
+十 c
+二 c
+届 c
+常 c
+务 c
+理 c
+事 c
+会 c
+第 c
+一 c
+次 c
+会 c
+议 c
+上 a
+，
+我 a
+院 a
+杜 l
+小 m
+勇 m
+教 j
+授 k
+高 a
+票 a
+连 a
+任 a
+C f
+C g
+F g
+教 g
+育 g
+工 g
+作 g
+委 g
+员 g
+会 g
+主 j
+任 k
+，
+柴 l
+云 m
+鹏 m
+副 j
+教 k
+授 k
+担 a
+任 a
+教 f
+育 g
+工 g
+作 g
+委 g
+员 g
+会 g
+主 j
+任 k
+助 k
+理 k
+，
+任 a
+期 a
+2 a
+年 a
+
+此 a
+前 a
+在 a
+2 a
+0 a
+1 a
+6 a
+年 a
+、
+2 a
+0 a
+1 a
+8 a
+年 a
+，
+杜 l
+小 m
+勇 m
+教 j
+授 k
+也 a
+两 a
+次 a
+当 a
+选 a
+C f
+C g
+F g
+教 g
+育 g
+工 g
+作 g
+委 g
+员 g
+会 g
+主 j
+任 k
+，
+张 l
+孝 m
+教 j
+授 k
+任 a
+主 j
+任 k
+助 k
+理 k
+
+教 f
+育 g
+工 g
+作 g
+委 g
+员 g
+会 g
+是 a
+中 f
+国 g
+计 g
+算 g
+机 g
+学 g
+会 g
+的 a
+重 a
+要 a
+执 a
+行 a
+机 a
+构 a
+之 a
+一 a
+，
+在 a
+促 a
+进 a
+学 a
+术 a
+交 a
+流 a
+、
+规 a
+范 a
+专 a
+委 a
+发 a
+展 a
+、
+密 a
+切 a
+产 a
+学 a
+研 a
+合 a
+作 a
+、
+帮 a
+助 a
+青 a
+年 a
+成 a
+长 a
+、
+促 a
+进 a
+国 a
+际 a
+合 a
+作 a
+等 a
+方 a
+面 a
+发 a
+挥 a
+着 a
+重 a
+要 a
+作 a
+用 a
+
+本 a
+项 a
+工 a
+作 a
+不 a
+仅 a
+有 a
+利 a
+于 a
+试 a
+点 a
+学 a
+校 a
+建 a
+立 a
+培 a
+养 a
+方 a
+案 a
+编 a
+制 a
+的 a
+方 a
+法 a
+学 a
+，
+提 a
+高 a
+培 a
+养 a
+方 a
+案 a
+编 a
+制 a
+的 a
+水 a
+平 a
+，
+而 a
+且 a
+C f
+C g
+F g
+教 g
+育 g
+工 g
+委 g
+与 a
+试 a
+点 a
+学 a
+校 a
+开 a
+展 a
+此 a
+项 a
+工 a
+作 a
+所 a
+产 a
+生 a
+的 a
+内 a
+容 a
+、
+过 a
+程 a
+、
+成 a
+效 a
+以 a
+及 a
+经 a
+验 a
+将 a
+有 a
+可 a
+能 a
+成 a
+为 a
+模 a
+式 a
+和 a
+范 a
+例 a
+，
+在 a
+中 f
+国 g
+计 g
+算 g
+机 g
+学 g
+会 g
+大 a
+面 a
+积 a
+推 a
+动 a
+专 a
+业 a
+改 a
+革 a
+中 a
+发 a
+挥 a
+重 a
+要 a
+作 a
+用 a
+
+在 a
+杜 l
+小 m
+勇 m
+教 j
+授 k
+的 a
+领 a
+导 a
+下 a
+，
+自 a
+2 a
+0 a
+1 a
+7 a
+年 a
+开 a
+始 a
+，
+C f
+C g
+F g
+教 g
+育 g
+工 g
+作 g
+委 g
+员 g
+每 a
+年 a
+都 a
+举 a
+办 a
+C b
+C c
+F c
+未 c
+来 c
+计 c
+算 c
+机 c
+教 c 
+育 c
+峰 c
+会 c
+（ c
+F c
+u c
+t c
+u c
+r c
+e c
+C c
+o c
+m c
+p c
+u c
+t c
+e c
+r c
+E c
+d c
+u c
+c c
+a c
+t c
+i c
+o c
+n c
+S c
+u c
+m c
+m c
+i c
+t c
+,
+简 a
+称 a
+F b
+C c
+E c
+S c
+）c
+
+杜 l
+小 m
+勇 m
+教 j
+授 k
+、
+陈 l
+红 m
+教 j
+授 k
+、 
+王 l
+珊 m
+教 j
+授 k
+基 a
+于 a
+“ b
+C c
+C c
+F c
+计 c
+算 c
+机 c
+课 c
+程 c
+改 c
+革 c
+导 c
+教 c
+班 c
+” c
+平 a
+台 a
+，
+在 a
+2 a
+0 a
+1 a
+8 a
+年 a
+和 a
+2 a
+0 a
+1 a
+9 a
+年 a
+暑 a
+假 a
+，
+连 a
+续 a
+开 a
+设 a
+《 b
+数 c
+据 c
+库 c
+与 c
+大 c
+数 c
+据 c
+》 c
+课 c
+程 c
+导 c
+教 c
+班 c
+，
+累 a
+计 a
+为 a
+几 a
+十 a
+位 a
+不 a
+同 a
+高 a
+校 a
+教 a
+师 a
+提 a
+供 a
+培 a
+训 a
+服 a
+务 a
+
+我 a
+院 a
+四 a
+年 a
+级 a
+本 a
+科 a
+生 a
+陈 l
+政 m
+和 a
+苏 l
+吉 m
+雅 m
+在 a
+数 f
+据 g
+工 g
+程 g
+与 g
+知 g
+识 g
+工 g
+程 g
+教 g
+育 g
+部 g
+重 g
+点 g
+实 g
+验 g
+室 g
+张 l
+峰 m
+博 a 
+士 a
+指 a
+导 a
+下 a
+，
+在 a
+计 h
+算 i
+机 i
+系 i
+统 i
+结 i
+构 i
+方 a
+向 a
+开 a
+展 a
+毕 a
+业 a
+论 a
+文 a
+研 a
+究 a
+
+I b
+C c
+P c
+P c
+( c
+I c
+n c
+t c
+e c
+r c
+n c
+a c
+t c
+i c
+o c
+n c
+a c
+l c
+C c
+o c
+n c
+f c
+e c
+r c
+e c
+n c
+c c
+e c
+o c
+n c
+P c
+a c 
+r c
+a c
+l c
+l c
+e c
+l c
+P c
+r c
+o c
+c c
+e c
+s c
+s c
+i c
+n c
+g c
+) c
+国 c
+际 c
+并 c
+行 c
+处 c
+理 c
+会 c
+议 c
+是 a
+计 h
+算 i
+机 i
+学 a 
+科 a
+历 a
+史 a
+最 a
+悠 a
+久 a
+的 a
+国 a
+际 a
+学 a
+术 a
+会 a
+议 a
+之 a
+一 a
+，
+至 a
+今 a
+已 a
+召 a
+开 a
+4 a
+9 a
+届 a
+
+论 a
+文 a
+题 a
+目 a
+：
+C t
+a u
+p u
+e u
+l u
+l u
+i u
+n u
+i u
+S u
+p u
+T u
+R u
+S u
+V u
+: u
+A u
+T u
+h u
+r u
+e u
+a u
+d u
+- u
+L u
+e u
+v u
+e u
+l u
+S u
+y u
+n u
+c u
+h u
+r u
+o u
+n u
+i u
+z u
+a u
+t u
+i u
+o u
+n u
+- u
+F u
+r u
+e u
+e u
+S u
+p u
+a u
+r u
+s u
+e u
+T u
+r u
+i u
+a u
+n u
+g u
+u u
+l u
+a u
+r u
+S u
+o u
+l u
+v u
+e u
+o u
+n u
+G u
+P u
+U u
+s u
+作 a
+者 a
+：
+苏 l
+吉 m
+雅 m
+（ a
+人 a
+大 a
+四 a
+年 a
+级 a
+本 a
+科 a
+生 a
+） a
+、
+张 l
+峰 m
+、
+刘 l
+伟 m
+峰 m
+、
+何 l
+炳 m
+胜 m
+、
+乌 l
+若 m
+凡 m
+（ a
+人 a
+大 a
+三 a
+年 a
+级 a
+本 a
+科 a
+生 a
+） a
+、
+杜 l
+小 m
+勇 m
+、
+王 l
+茹 m
+嘉 m
+论 a
+文 a
+概 a
+述 a
+：
+稀 a
+疏 a
+下 a
+三 a
+角 a
+矩 a
+阵 a
+求 a
+解 a
+( a
+S a
+p a
+a a
+r a
+s a
+e a
+T a
+r a
+i a
+a a
+n a
+g a
+u a
+l a 
+a a
+r a
+S a
+o a
+l a
+v a
+e a
+,
+S a
+p a
+T a
+R a
+S a
+V a
+) a
+是 a
+科 h
+学 i
+计 i
+算 i
+等 a
+领 a
+域 a
+非 a
+常 a
+重 a
+要 a
+的 a
+一 a
+个 a
+基 a
+础 a
+算 a
+法 a
+，
+每 a
+年 a
+大 a
+量 a
+的 a
+工 a
+程 a
+技 a
+术 a
+人 a
+员 a
+在 a
+研 a
+究 a
+如 a
+何 a
+进 a
+一 a
+步 a
+提 a
+高 a
+S a
+p a
+T a
+R a
+S a
+V a
+的 a
+求 a
+解 a
+速 a
+度 a
+
+会 a
+议 a
+介 a
+绍 a
+：
+A b
+C c
+M c
+S c 
+I c
+G c 
+K c
+D c
+D c
+（ c
+国 c
+际 c
+数 c
+据 c
+挖 c
+掘 c
+与 c
+知 c
+识 c
+发 c
+现 c
+大 c
+会 c
+，
+简 a
+称 a
+K b
+D c
+D c
+） c
+是 a
+数 h
+据 i
+挖 i
+掘 i
+领 a
+域 a
+的 a
+顶 a
+级 a
+国 a
+际 a
+学 a
+术 a
+会 a
+议 a
+，
+由 a
+美 f
+国 g
+计 g
+算 g
+机 g
+学 g
+会 g
+（ g
+A g
+C g
+M g
+） g
+数 g
+据 g
+挖 g
+掘 g
+及 g
+知 g
+识 g
+发 g
+现 g
+专 g
+委 g
+会 g
+（ g
+S g
+I g
+G g
+K g
+D g
+D g
+）c
+主 a
+办 a
+，
+被 a
+中 f
+国 g
+计 g
+算 g
+机 g
+学 g
+会 g
+（ g
+C g
+C g
+F g
+）g
+推 a
+荐 a
+为 a
+A a
+类 a
+国 a
+际 a
+学 a
+术 a
+会 a
+议 a
+，
+至 a
+今 a
+已 a
+举 a
+办 a
+2 a
+6 a
+届 a
+，
+今 a
+年 a
+将 a
+于 a
+2 a
+0 a
+2 a
+0 a
+年 a
+8 a
+月 a
+2 a
+3 a
+日 a
+-
+8 a
+月 a
+2 a
+7 a
+日 a
+在 a
+美 r
+国 s
+加 s
+利 s
+福 s
+尼 s
+亚 s
+州 s
+召 a
+开 a
+
+论 a
+文 a
+介 a
+绍 a
+：
+通 a
+讯 a
+作 a
+者 a
+：
+赵 l
+鑫 m
+副 j
+教 k
+授 k
+作 a
+者 a
+：
+周 l
+昆 m
+（ n
+北 o
+大 o
+研 a
+究 a
+生 a
+） a
+，
+赵 l
+鑫 m
+，
+卞 l
+书 m
+青 m
+，
+周 l
+远 m
+航 m
+，
+文 l
+继 m
+荣 m
+，
+俞 l
+敬 m
+松 m
+（ n
+北 o
+大 o
+副 j 
+教 k
+授 k
+） k
+论 a
+文 a
+题 a
+目 a
+：
+I t
+m u
+p u
+r u
+o u
+v u
+i u
+n u
+g u
+C u
+o u
+n u
+v u
+e u
+r u
+s u
+a u
+t u
+i u
+o u
+n u
+a u
+l u
+R u
+e u
+c u
+o u
+m u
+m u
+e u
+n u
+d u
+e u
+r u
+S u
+y u
+s u
+t u
+e u
+m u
+s u
+v u
+i u
+a u
+K u
+n u
+o u
+w u
+l u
+e u
+d u
+g u
+e u
+G u
+r u
+a u
+p u
+h u
+b u
+a u
+s u
+e u
+d u
+S u
+e u
+m u
+a u
+n u
+t u
+i u
+c u
+F u
+u u
+s u
+i u
+o u
+n u
+论 a
+文 a
+概 a
+述 a
+：
+会 a
+话 a
+推 a
+荐 a
+系 a
+统 a
+( a
+C a
+R a
+S a
+) a
+旨 a
+在 a
+通 a
+过 a
+交 a
+互 a
+式 a
+会 a
+话 a
+向 a
+用 a
+户 a
+推 a
+荐 a
+高 a
+质 a
+量 a
+的 a
+商 a
+品 a
+
+在 a
+语 a
+义 a
+对 a
+齐 a
+的 a
+基 a
+础 a
+上 a
+，
+我 a
+们 a
+进 a
+一 a
+步 a
+利 a
+用 a
+了 a
+知 a
+识 a
+图 a
+谱 a
+强 a
+化 a
+后 a
+的 a
+的 a
+推 a
+荐 a
+模 a
+块 a
+来 a
+提 a
+供 a
+精 a
+准 a
+的 a
+推 a
+荐 a
+，
+并 a
+利 a
+用 a
+知 a
+识 a
+图 a
+谱 a
+强 a
+化 a
+后 a
+的 a
+对 a
+话 a
+组 a
+件 a
+来 a
+帮 a
+助 a
+在 a
+会 a
+话 a
+文 a
+本 a
+中 a
+生 a
+成 a
+信 a
+息 a
+量 a
+丰 a
+富 a
+的 a
+关 a
+键 a
+字 a
+或 a
+实 a
+体 a
+
+5 a
+月 a
+9 a
+日 a
+下 a
+午 a
+，
+信 n
+息 o
+学 o
+院 o
+院 j
+长 k
+文 l
+继 m
+荣 m
+、
+党 j
+委 k
+书 k
+记 k
+陈 l
+红 m
+、 
+党 j
+委 k
+副 k
+书 k
+记 k
+杜 l
+忠 m
+朝 m
+一 a
+行 a
+看 a
+望 a
+慰 a
+问 a
+了 a
+学 a
+院 a
+在 a
+校 a
+学 a
+生 a
+，
+详 a
+细 a
+了 a
+解 a
+了 a
+学 a
+生 a
+的 a
+心 a
+理 a
+状 a
+态 a
+、
+生 a
+活 a
+情 a
+况 a
+和 a
+在 a
+校 a
+毕 a
+业 a
+生 a
+的 a
+毕 a
+业 a
+就 a
+业 a
+情 a
+况 a
+
+第 a
+4 a
+3 a
+届 a
+国 b
+际 c
+计 c
+算 c
+机 c
+学 c
+会 c
+信 c
+息 c
+检 c
+索 c
+大 c
+会 c
+（ c
+T c
+h c
+e c
+4 c
+3 c
+r c
+d c
+I c
+n c
+t c
+e c
+r c
+n c
+a c
+t c
+i c
+o c
+n c
+a c
+l c
+A c
+C c
+M c
+S c
+I c
+G c
+I c
+R c
+C c
+o c
+n c
+f c
+e c
+r c
+e c
+n c
+c c
+e c
+o c
+n c
+R c
+e c
+s c
+e c
+a c
+r c
+c c
+h c
+a c
+n c
+d c
+D c
+e c
+v c
+e c
+l c
+o c
+p c
+m c
+e c
+n c
+t c
+i c
+n c
+I c
+n c
+f c
+o c
+r c
+m c
+a c
+t c
+i c
+o c
+n c
+R c
+e c
+t c
+r c
+i c
+e c
+v c
+a c
+l c
+, c
+S c
+I c
+G c
+I c
+R c
+2 c 
+0 c
+2 c
+0 c
+） c
+将 a 
+于 a
+2 a
+0 a
+2 a
+0 a
+年 a
+7 a
+月 a
+2 a
+5 a
+日 a
+-
+7 a
+月 a
+3 a
+0 a
+日 a
+在 a
+中 r
+国 s
+西 s
+安 s
+召 a
+开 a
+
+附 a
+：
+论 a
+文 a
+介 a
+绍 a
+：
+1 a
+、
+论 a
+文 a
+题 a
+目 a
+：
+E t
+n u
+c u
+o u
+d u
+i u
+n u
+g u
+H u
+i u
+s u
+t u
+o u
+r u
+y u
+w u
+i u
+t u
+h u
+C u
+o u
+n u
+t u
+e u
+x u
+t u
+- u
+a u
+w u
+a u
+r u
+e u
+R u
+e u
+p u
+r u
+e u
+s u
+e u
+n u
+t u
+a u
+t u
+i u
+o u
+n u
+L u
+e u
+a u
+r u
+n u
+i u
+n u
+g u
+f u
+o u
+r u
+P u
+e u
+r u
+s u
+o u
+n u
+a u
+l u
+i u
+z u
+e u
+d u
+S u
+e u
+a u
+r u
+c u
+h u
+” u
+第 a
+一 a
+作 a
+者 a
+：
+周 l
+雨 m
+佳 m
+（ n
+信 o
+息 o
+学 o
+院 o
+2 a
+0 a
+1 a
+9 a
+级 a
+博 a
+士 a
+生 a
+） a
+作 a
+者  a
+：
+周 l
+雨 m
+佳 m
+，
+窦 l
+志 m
+成 m
+，
+文 l
+继 m
+荣 m
+论 a
+文 a
+概 a
+述 a
+：
+个 a
+性 a
+化 a
+搜 a
+索 a
+的 a
+关 a
+键 a
+是 a
+根 a
+据 a
+用 a
+户 a
+的 a
+搜 a
+索 a
+历 a
+史 a
+来 a
+确 a
+定 a
+当 a
+前 a
+查 a
+询 a
+的 a
+意 a
+图 a
+
+2 a
+、
+论 a
+文 a
+题 a
+目 a
+：
+C t
+l u
+a u
+r u
+i u
+f u
+y u
+i u
+n u
+g u
+A u
+m u
+b u
+i u
+g u
+u u
+o u
+u u
+s u
+K u
+e u
+y u
+w u
+o u
+r u
+d u
+s u
+w u
+i u
+t u
+h u
+P u
+e u
+r u
+s u
+o u
+n u
+a u
+l u
+W u
+o u
+r u
+d u
+E u
+m u
+b u
+e u
+d u
+d u
+i u
+n u
+g u
+s u
+f u
+o u
+r u
+P u
+e u
+r u
+s u
+o u
+n u
+a u
+l u
+i u
+z u
+e u
+d u
+S u
+e u
+a u
+r u
+c u
+h u
+” u
+第 a
+一 a
+作 a
+者 a
+：
+姚 l 
+菁 m
+（ n
+信 o
+息 o
+学 o
+院 o
+2 a
+0 a
+1 a
+9 a
+级 a
+硕 a
+士 a
+生 a
+） a
+作 a
+者 a
+：
+姚 l
+菁 m
+，
+窦 l
+志 m
+成 m
+，
+文 l
+继 m
+荣 m
+论 a
+文 a
+概 a
+述 a
+：
+个 a
+性 a
+化 a
+搜 a
+索 a
+模 a
+型 a
+会 a
+根 a
+据 a
+用 a
+户 a
+兴 a
+趣 a
+对 a
+文 a
+档 a
+进 a
+行 a
+重 a
+排 a
+序 a
+以 a
+更 a
+好 a
+地 a
+满 a
+足 a
+用 a
+户 a
+的 a
+查 a
+询 a
+需 a
+求 a
+
+近 a
+日 a
+，
+信 n
+息 o
+学 o
+院 o
+魏 l
+哲 m
+巍 m
+教 j
+授 k
+作 a
+为 a
+通 a
+讯 a
+作 a
+者 a
+的 a
+两 a
+篇 a
+论 a
+文 a
+被 a
+S b
+I c
+G c
+M c
+O c
+D c
+2 c
+0 c
+2 c
+0 c
+接 a
+收 a
+
+A b
+C c
+M c
+S c
+I c
+G c
+M c
+O c
+D c
+国 c
+际 c
+数 c
+据 c
+管 c
+理 c
+会 c
+议 c
+（ c
+A c
+C c
+M c
+S c
+I c
+G c
+M c
+O c
+D c
+I c
+n c
+t c
+e c
+r c
+n c
+a c
+t c
+i c
+o c
+n c
+a c
+l c
+C c
+o c
+n c
+f c
+e c
+r c
+e c
+n c
+c c
+e c
+o c
+n c
+M c
+a c
+n c
+a c
+g c
+e c  
+m c
+e c
+n c
+t c
+o c
+f c
+D c
+a c
+t c
+a c
+） c
+由 a 
+美 f
+国 g
+计 g
+算 g
+机 g
+协 g
+会 g
+（ g
+A g
+C g
+M g
+） g
+数 g
+据 g
+管 g
+理 g 
+专 g
+业 g
+委 g
+员 g
+会 g
+（ g
+S g
+I g
+G g
+M g
+O g
+D g
+） g
+发 a
+起 a
+，
+是 a
+数 h
+据 i
+库 i
+领 a
+域 a
+具 a
+有 a
+最 a
+高 a
+学 a
+术 a
+地 a
+位 a
+的 a
+国 a
+际 a
+性 a
+学 a
+术 a
+会 a
+议 a
+，
+被 a
+中 f
+国 g
+计 g
+算 g
+机 g
+学 g
+会 g
+（ g
+C g
+C g
+F g
+） g
+推 a
+荐 a
+为 a
+A a
+类 a
+会 a
+议 a
+
+我 a
+院 a
+李 l
+翠 m
+平 m
+教 j
+授 k
+在 a
+2 a
+0 a
+0 a
+7 a
+年 a
+作 a
+为 a
+第 a
+一 a
+作 a
+者 a
+发 a
+表 a
+了 a
+中 r
+国 s
+大 s
+陆 s
+第 a
+一 a
+篇 a
+S b
+I c
+G c
+M c
+O c
+D c
+论 a
+文 a
+，
+魏 l
+哲 m
+巍 m
+教 j
+授 k
+自 a
+2 a
+0 a
+1 a
+4 a
+年 a
+入 a
+职 a
+我 a
+校 a
+后 a
+已 a
+经 a
+连 a
+续 a
+5 a
+年 a
+在 a
+S b
+I c
+G c
+M c
+O c
+D c
+上 a
+以 a
+第 a
+一 a
+作 a
+者 a
+或 a
+者 a
+通 a
+讯 a
+作 a
+者 a
+身 a
+份 a
+发 a
+表 a
+论 a
+文 a
+，
+累 a
+计 a
+6 a
+篇 a
+
+2 a
+.
+论 a
+文 a
+题 a
+目 a
+：
+I t
+n u
+f u
+l u
+u u
+e u
+n u
+c u
+e u
+M u
+a u
+x u
+i u
+m u
+i u
+z u
+a u
+t u
+i u
+o u
+n u
+R u
+e u
+v u
+i u
+s u
+i u
+t u
+e u
+d u
+: u
+E u
+f u
+f u
+i u
+c u
+i u
+e u
+n u
+t u
+R u
+e u
+v u
+e u
+r u
+s u
+e u
+R u
+e u
+a u
+c u
+h u
+a u
+b u
+l u
+e u
+S u
+e u
+t u
+G u
+e u
+n u
+e u
+r u
+a u
+t u
+i u
+o u
+n u
+w u
+i u
+t u
+h u
+B u
+o u
+u u
+n u
+d u
+T u
+i u
+g u
+h u
+t u
+e u
+n u
+e u
+d u
+作 a
+者 a
+：
+郭 l
+钦 m
+填 m
+，
+王 l
+思 m
+博 m
+（ n
+香 o
+港 o
+中 o
+文 o
+大 o
+学 o
+教 j
+授 k
+） k
+，
+魏 l
+哲 m
+巍 m
+，
+陈 l
+明 m
+（ n
+信 o
+息 o
+学 o
+院 o
+2 a
+0 a
+1 a
+8 a
+级 a
+硕 a
+士 a
+生 a
+） a
+论 a
+文 a
+概 a
+述 a
+：
+社 a
+交 a
+网 a
+络 a
+上 a
+的 a
+影 a
+响 a
+力 a
+最 a
+大 a
+化 a
+问 a
+题 a
+( a
+I a
+n a
+f a
+l a
+u a
+e a
+n a
+ca
+e a
+M a
+a a
+x a
+i a
+m a
+a a
+l a
+i a
+z a
+a a
+t a
+i a
+o a
+n a
+) a
+期 a
+望 a
+找 a
+到 a
+网 a
+络 a
+中 a
+具 a
+有 a
+最 a
+大 a
+影 a
+响 a
+力 a
+的 a
+k a
+个 a
+节 a
+点 a
+，
+使 a
+得 a
+该 a
+k a
+个 a
+节 a
+点 a
+的 a 
+影 a 
+响 a
+力 a
+能 a
+够 a
+尽 a
+可 a
+能 a
+多 a
+地 a
+覆 a
+盖 a
+到 a
+网 a
+络 a 
+上 a
+的 a
+其 a
+他 a
+节 a
+点 a
+，
+这 a
+在 a
+商 h
+品 i
+营 i
+销 i
+、
+推 h
+荐 i
+系 i
+统 i
+、
+链 h
+接 i
+预 i
+测 i
+等 a
+领 a
+域 a
+都 a
+有 a
+广 a
+泛 a
+应 a
+用 a
+
+为 a
+加 a
+强 a
+学 a
+院 a
+毕 a
+业 a
+生 a
+就 a
+业 a
+服 a
+务 a
+，
+推 a
+进 a
+特 a
+殊 a
+时 a
+期 a
+就 a
+业 a
+工 a
+作 a
+稳 a
+步 a
+开 a
+展 a
+，
+帮 a
+助 a
+应 a
+届 a
+毕 a
+业 a
+生 a
+理 a
+清 a
+生 a
+涯 a
+发 a
+展 a
+思 a
+路 a
+、
+毕 a
+业 a
+手 a
+续 a
+及 a
+流 a
+程 a
+，
+4 a
+月 a
+2 a
+2 a
+日 a
+晚 a
+，
+信 n
+息 o
+学 o
+院 o
+通 a
+过 a
+“ 
+腾 a
+讯 a
+会 a
+议 a
+”
+召 a
+开 a
+了 a
+2 a
+0 a
+2 a
+0 a
+届 a
+本 b
+科 c
+毕 c
+业 c
+生 c
+毕 c
+业 c
+就 c
+业 c
+工 c
+作 c
+专 c
+题 c
+会 c
+议 c
+
+会 a
+议 a
+由 a
+学 a
+院 a
+党 j
+委 k
+副 k
+书 k
+记 k
+杜 l
+忠 m
+朝 m
+主 a
+持 a
+，
+本 a
+科 a
+教 j
+务 k
+秘 k
+书 k
+曲 l
+涵 m
+晴 m
+、
+党 j
+务 k
+秘 k
+书 k
+刘 l
+沛 m
+然 m
+和 a
+1 a
+0 a
+0 a
+余 a
+名 a
+2 a
+0 a
+2 a
+0 a
+届 a
+本 a
+科 a
+毕 a
+业 a
+生 a
+参 a
+加 a
+了 a
+此 a
+次 a
+会 a
+议 a
+
+分 a
+别 a
+是 a
+软 h
+件 i
+工 i
+程 i
+理 i
+论 i
+与 i
+方 i
+法 i
+、
+软 h
+件 i
+工 i
+程 i
+技 i
+术 i
+、
+软 h
+件 i
+服 i
+务 i
+工 i
+程 i
+
+软 h
+件 i
+工 i
+程 i
+学 i
+科 i
+目 a
+前 a
+有 a
+教 a
+师 a
+9 a
+人 a
+，
+其 a
+中 a
+博 j
+导 k
+3 a
+人 a
+、
+教 j
+授 k
+3 a
+人 a
+、
+副 j
+教 k
+授 k
+2 a
+人 a
+，
+讲 j
+师 k
+4 a
+人 a
+，
+新 a
+世 a
+纪 a
+人 a
+才 a
+2 a
+人 a
+
+它 a
+涉 a
+及 a
+到 a
+程 h
+序 i
+设 i
+计 i
+语 a
+言 a
+、
+数 h
+据 i
+库 i
+、
+软 h
+件 i
+开 i
+发 i
+工 a
+具 a
+、
+系 a
+统 a
+平 a
+台 a
+、
+标 a
+准 a
+、
+设 a
+计 a
+模 a
+式 a
+等 a
+方 a
+面 a
+
+4 a
+月 a
+1 a
+1 a
+日 a
+下 a
+午 a
+，
+信 n
+息 o
+学 o
+院 o
+分 f
+团 g
+委 g
+学 g
+生 g
+会 g
+体 g
+育 g
+部 g
+组 a
+织 a
+我 a
+院 a
+1 a
+8 a
+级 a
+、
+1 a
+9 a
+级 a
+各 a
+班 a
+学 a
+生 a
+，
+在 a
+腾 a
+讯 a
+会 a
+议 a
+与 a
+微 a
+信 a
+平 a
+台 a
+举 a
+办 a
+“ b
+强 c
+身 c
+健 c
+体 c
+， c
+同 c
+心 c
+抗 c
+疫 c
+” c
+线 c
+上 c
+运 c
+动 c
+会 c
+
+4 a
+月 a
+1 a
+0 a
+日 a
+上 a
+午 a
+，
+信 n
+息 o
+学 o
+院 o
+2 b
+0 c
+1 c
+9 c
+年 c
+度 c
+党 c
+支 c
+部 c
+书 c
+记 c
+线 c
+上 c
+述 c
+职 c
+评 c
+议 c
+考 c
+核 c
+会 c
+议 c
+顺 a
+利 a
+召 a
+开 a
+
+学 a
+院 a
+党 j
+委 k
+书 k
+记 k
+陈 l
+红 m
+，
+院 j
+长 k
+文 l
+继 m
+荣 m
+，
+理 h
+工 i
+学 i
+科 i
+建 f
+设 g
+处 g
+处 j
+长 k
+杜 l
+小 m
+勇 m
+，
+副 j
+院 k
+长 k
+李 l
+翠 m
+平 m
+、
+张 l
+孝 m
+，
+大 a
+型 a
+科 a
+学 a
+仪 a
+器 a
+共 a
+享 a
+平 a
+台 a
+副 j
+主 k
+任 k
+陈 l
+跃 m
+国 m
+，
+党 j
+委 k
+副 k
+书 k
+记 k
+杜 l
+忠 m
+朝 m
+，
+高 n 
+瓴 o
+人 o
+工 o
+智 o
+能 o
+学 o
+院 o
+副 j
+院 k
+长 k
+张 l
+国 m
+富 m
+，
+其 a
+他 a
+党 f
+委 g
+委 j
+员 k
+、
+学 a
+系 a
+主 j
+任 k
+、
+全 a
+体 a
+师 a
+生 a
+党 j
+支 k
+部 k
+书 k
+记 k
+和 a
+党 a
+员 a
+代 a
+表 a
+参 a
+加 a
+会 a
+议 a
+
+2 a
+0 a
+2 a
+0 a
+年 a
+3 a
+月 a
+-
+4 a
+月 a
+，
+信 n
+息 o
+学 o
+院 o
+2 a
+0 a
+1 a
+9 a
+-
+2 a
+0 a
+2 a
+0 a
+学 a
+年 a
+春 a
+季 a
+学 a
+期 a
+党 f
+课 g
+学 g
+习 g
+小 g
+组 g
+成 a
+功 a
+举 a
+办 a
+
+2 a
+月 a
+2 a
+7 a
+日 a
+下 a
+午 a
+，
+信 n
+息 o
+学 o
+院 o
+院 j
+长 k
+文 l
+继 m
+荣 m
+、
+党 j
+委 k
+书 k
+记 k
+陈 l
+红 m
+、
+党 j
+委 k
+副 k
+书 k
+记 k
+杜 l
+忠 m
+朝 m
+一 a
+行 a
+以 a
+“
+零 a
+接 a
+触 a
+”
+的 a
+方 a
+式 a
+前 a
+往 a
+看 a
+望 a
+了 a
+6 a
+名 a
+留 a
+校 a
+学 a
+生 a
+，
+并 a
+向 a
+他 a
+们 a
+发 a
+放 a
+了 a
+口 a
+罩 a
+、
+消 a
+毒 a
+液 a
+、
+洗 a
+手 a
+液 a
+等 a
+防 a
+疫 a
+用 a
+品 a
+和 a
+牛 a
+奶 a
+、
+香 a
+肠 a
+等 a
+生 a
+活 a
+物 a
+资 a
+
+1 a
+月 a
+1 a
+5 a
+日 a
+下 a
+午 a
+，
+我 a
+校 a
+召 a
+开 a
+2 b
+0 c
+1 c
+9 c
+年 c
+度 c
+科 c
+研 c
+与 c
+智 c
+库 c
+工 c
+作 c
+总 c
+结 c
+暨 c
+表 c
+彰 c
+大 c
+会 c
+
+会 a
+议 a
+举 a
+行 a
+了 a
+2 a
+0 a
+1 a
+9 a
+年 a
+度 a
+科 d
+研 e
+标 e
+兵 e
+、
+科 d
+研 e
+优 e
+秀 e
+奖 e
+、
+优 d
+秀 e
+科 e
+研 e
+成 e
+果 e
+奖 e
+、
+科 d
+研 e
+管 e
+理 e
+工 e
+作 e
+先 e
+进 e
+集 e
+体 e
+、
+优 d
+秀 e
+科 e
+研 e
+秘 e
+书 e
+以 a
+及 a
+2 a
+0 a
+1 a
+9 a
+年 a
+度 a
+智 d
+库 e
+建 e
+设 e
+暨 e
+国 e
+家 e
+高 e
+端 e
+智 e
+库 e
+综 e
+合 e
+评 e
+估 e
+工 e
+作 e
+“ e
+突 e
+出 e
+贡 e
+献 e
+奖 e
+” e
+先 a
+进 a
+集 a
+体 a
+与 a
+先 a
+进 a
+个 a
+人 a
+表 a
+彰 a
+暨 a
+颁 a
+奖 a
+仪 a
+式 a
+
+近 a
+日 a
+，
+《 b 
+软 c
+件 c
+学 c
+报 c
+》 c
+官 a
+网 a
+发 a
+布 a
+了 a
+2 a
+0 a
+1 a
+8 a
+年 a
+高 a
+影 a
+响 a
+力 a
+论 a
+文 a
+，
+即 a
+2 a
+0 a
+1 a
+6 a
+年 a
+和 a
+2 a
+0 a
+1 a
+7 a
+年 a
+发 a
+表 a
+的 a
+文 a
+章 a
+在 a
+2 a
+0 a
+1 a
+8 a
+年 a
+被 a
+引 a
+的 a
+次 a
+数 a
+，
+选 a
+取 a
+前 a
+5 a
+% a
+的 a
+高 a
+被 a
+引 a
+文 a
+章 a
+
+为 a
+了 a
+将 a
+多 a
+种 a
+信 a
+息 a
+融 a
+合 a
+,
+改 a
+善 a
+长 a
+尾 a
+应 a
+用 a
+行 a
+为 a
+信 a
+息 a
+不 a
+足 a
+,
+准 a
+确 a
+地 a
+表 a
+示 a
+用 a
+户 a
+兴 a
+趣 a
+，
+首 a
+先 a
+改 a
+进 a
+了 a
+两 a
+种 a
+推 a
+荐 a
+方 a
+法 a
+,
+提 a
+出 a
+了 a
+将 a
+用 a
+户 a
+的 a
+主 a
+题 a
+模 a
+型 a
+和 a
+应 a
+用 a
+的 a
+主 a
+题 a
+模 a
+型 a
+与 a
+M a
+F a
+相 a
+结 a
+合 a
+的 a
+L a
+D a
+A a
+_
+M a
+F a
+模 a
+型 a
+,
+以 a
+及 a
+将 a
+应 a
+用 a
+的 a
+标 a
+签 a
+信 a
+息 a
+和 a
+用 a
+户 a
+行 a
+为 a
+数 a
+据 a
+同 a
+时 a
+加 a
+以 a
+考 a
+虑 a
+的 a
+L a
+D a
+A a
+_
+C a
+F a
+算 a
+法 a
+
+1 a
+月 a
+1 a
+5 a
+日 a
+，
+中 f
+国 g
+高 g
+校 g
+计 g
+算 g
+机 g
+教 g
+育 g
+M g
+O g
+O g
+C g
+联 g
+盟 g
+（ a
+简 a
+称 a
+C f
+M g
+O g
+O g
+C g
+联 g
+盟 g
+） a
+数 h
+据 i
+库 i
+课 f
+程 g
+工 g
+作 g
+组 g
+2 a
+0 a
+2 a
+0 a
+年 a
+度 a
+第 a
+一 a
+次 a
+工 a
+作 a
+会 a
+议 a
+在 a
+中 r
+国 s
+人 s
+民 s
+大 s
+学 s
+顺 a
+利 a
+召 a
+开 a
+
+本 a
+次 a
+会 a
+议 a
+由 a
+中 f
+国 g
+高 g
+校 g
+计 g
+算 g
+机 g
+教 g
+育 g
+M g
+O g
+O g
+C g
+联 g
+盟 g
+主 a
+办 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+信 o
+息 o
+学 o
+院 o
+信 h
+息 i
+技 i
+术 i
+与 i
+信 i
+息 i
+管 i
+理 i
+国 f
+家 g
+级 g
+实 g
+验 g
+教 g
+学 g
+示 g
+范 g
+中 g
+心 g
+承 a
+办 a
+
+高 f
+校 g
+在 g
+线 g
+开 g
+放 g
+课 g
+程 g
+联 g
+盟 g
+联 g
+席 g
+会 g
+秘 j
+书 k
+长 k
+、
+高 f
+等 g
+教 g
+育 g
+出 g
+版 g
+社 g
+理 g
+工 g
+事 g
+业 g
+部 g
+副 j
+主 k
+任 k
+张 l
+龙 m
+，
+国 a
+家 a
+教 a
+学 a
+名 a
+师 a
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+二 j
+级 k
+教 k
+授 k
+王 l
+珊 m
+教 j
+授 k
+、
+C f
+M g
+O g
+O g
+C g
+联 g
+盟 g
+数 g
+据 g
+库 g
+课 g
+程 g
+工 g
+作 g
+组 g
+组 j
+长 k
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+校 j
+长 k
+助 k
+理 k
+杜 l
+小 m
+勇 m
+教 j
+授 k
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+信 o
+息 o
+学 o
+院 o
+党 j
+委 k
+书 k
+记 k
+陈 l
+红 m
+教 j
+授 k
+、
+信 n
+息 o
+技 o
+术 o
+与 o
+信 o
+息 o
+管 o
+理 o
+国 o
+家 o
+级 o
+实 o
+验 o
+教 o
+学 o
+示 o
+范 o
+中 o
+心 o
+主 j
+任 k
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+信 o
+息 o
+学 o
+院 o
+副 j
+院 k
+长 k
+张 l
+孝 m
+教 j
+授 k
+出 a
+席 a
+了 a
+此 a
+次 a
+会 a
+议 a
+
+1 a
+月 a
+1 a
+6 a
+日 a
+上 a
+午 a
+，
+信 n
+息 o
+学 o
+院 o
+、
+高 n
+瓴 o
+人 o
+工 o
+智 o
+能 o
+学 o
+院 o
+召 a
+开 a
+“ b
+不 c
+忘 c
+初 c
+心 c
+、 c
+牢 c
+记 c
+使 c
+命 c
+” c
+主 c
+题 c
+教 c
+育 c
+总 c
+结 c
+评 c
+估 c
+会 c
+
+学 f
+校 g
+主 g
+题 g
+教 g
+育 g
+第 g
+五 g
+指 g
+导 g
+组 g
+组 j
+长 k
+周 l
+石 m
+、
+组 j
+员 k
+梁 l
+曦 m
+文 m
+，
+信 n
+息 o
+学 o
+院 o
+、
+高 n
+瓴 o
+人 o
+工 o
+智 o
+能 o
+学 o
+院 o
+党 a
+政 a
+领 a
+导 a
+班 a
+子 a
+成 a
+员 a
+、
+党 j
+员 k
+和 a
+师 a
+生 a
+代 a
+表 a
+共 a
+1 a
+2 a
+0 a
+余 a
+人 a
+参 a
+加 a
+会 a
+议 a
+
+2 a
+0 a
+1 a
+9 a
+年 a
+，
+学 a
+院 a
+在 a
+教 a
+学 a
+科 a
+研 a
+、
+学 a
+生 a
+培 a
+养 a
+、
+学 a
+科 a
+竞 a
+赛 a
+等 a
+方 a
+面 a
+均 a
+取 a
+得 a
+优 a
+异 a
+成 a
+绩 a
+
+全 a
+院 a
+师 a
+生 a
+、
+离 a
+退 a
+休 a
+老 a
+同 a
+志 a
+、
+校 a
+友 a
+积 a
+极 a
+参 a
+与 a
+评 a
+选 a
+年 a
+度 a
+十 a
+件 a
+大 a
+事 a
+，
+经 a
+过 a
+加 a
+权 a
+汇 a
+总 a
+，
+2 a
+0 a
+1 a
+9 a
+年 a
+信 n
+息 o
+学 o
+院 o
+十 a
+件 a
+大 a
+事 a
+评 a
+选 a
+结 a
+果 a
+如 a
+下 a
+（ a
+按 a
+得 a
+票 a
+率 a
+从 a
+高 a
+到 a
+低 a
+排 a
+列 a
+） a
+：
+1 a
+、
+我 a
+院 a
+数 f
+据 g
+库 g
+团 g
+队 g
+成 a
+果 a
+获 a
+我 a
+校 a
+首 a
+个 a
+“ d
+国 e
+家 e
+科 e
+学 e
+技 e
+术 e
+进 e
+步 e
+二 e
+等 e
+奖 e
+” e
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+月 a
+,
+国 b
+家 c
+科 c
+学 c
+技 c
+术 c
+奖 c
+励 c
+大 c
+会 c
+在 a
+京 a
+召 a
+开 a
+，
+中 j
+共 k
+中 k
+央 k
+总 k
+书 k
+记 k
+、
+国 j
+家 k
+主 k
+席 k
+、
+中 j
+央 k
+军 k
+委 k
+主 k
+席 k
+习 l
+近 m
+平 m
+等 a
+党 a
+和 a
+国 a
+家 a
+领 a
+导 a
+人 a
+出 a
+席 a
+大 a
+会 a
+并 a
+为 a
+获 a
+奖 a
+代 a
+表 a
+颁 a
+奖 a
+
+我 a
+校 a
+信 n
+息 o
+学 o
+院 o
+杜 l
+小 m
+勇 m
+教 j
+授 k
+、 
+王 l
+珊 m
+教 j
+授 k
+牵 a
+头 a
+申 a
+报 a
+的 a
+成 a
+果 a
+“
+数 h
+据 
+库 i
+管 a
+理 a
+系 a
+统 a
+核 a
+心 a
+技 a
+术 a
+的 a
+创 a
+新 a
+与 a
+金 a
+仓 a
+数 h
+据 i
+库 i
+产 a
+业 a
+化 a
+”
+喜 a
+获 a
+国 d
+家 e
+科 e
+学 e
+技 e
+术 e
+进 e
+步 e
+奖 e
+二 a
+等 a
+奖 a
+，
+这 a
+也 a
+是 a
+我 a
+校 a
+首 a
+次 a
+获 a
+得 a
+的 a
+国 d
+家 e
+科 e
+技 e
+“ e
+三 e
+大 e
+奖 e
+” e
+奖 a
+项 a
+
+中 n
+国 o
+工 o
+程 o
+院 o
+原 
+常 j
+务 k
+副 k
+院 k
+长 k
+、
+中 n
+国 o
+工 o
+程 o
+院 o
+院 j
+士 k
+潘 l
+云 m
+鹤 m
+受 a
+聘 a
+为 a
+高 n
+瓴 o
+人 o
+工 o
+智 o
+能 o
+学 o
+院 o
+学 f
+术 g
+委 g
+员 g
+会 g
+主 j
+任 k
+，
+我 a
+院 a
+院 j
+长 k
+文 l
+继 m
+荣 m
+教 j
+授 k
+担 a
+任 a
+高 n
+瓴 o
+人 o
+工 o
+智 o
+能 o
+学 o
+院 o
+执 j
+行 k
+院 k
+长 k
+
+1 a
+月 a
+，
+金 l
+琴 m
+副 j
+教 k
+授 k
+、
+张 l
+静 m
+老 a 
+师 a
+参 a
+加 a
+人 h
+工 i
+智 i
+能 i
+领 a
+域 a
+顶 a
+级 a
+会 a
+议 a
+A b
+A c
+A c 
+I c
+并 a
+报 a
+告 a
+论 a
+文 a
+
+4 a
+月 a
+，
+柴 l
+云 m
+鹏 m
+副 j
+教 k
+授 k
+团 a
+队 a
+参 a
+加 a
+数 h
+据 i
+库 i
+领 a
+域 a
+顶 a
+级 a
+会 a
+议 a
+I b
+C c
+D c
+E c
+并 a
+报 a
+告 a
+论 a
+文 a
+
+5 a
+月 a
+，
+孟 l
+小 m
+峰 m
+教 j
+授 k
+团 a
+队 a
+参 a
+加 a
+网 h
+络 i
+与 i
+信 i
+息 i
+安 i
+全 i
+领 a
+域 a
+顶 a
+级 a
+会 a
+议 a
+S b
+& c
+P c
+并 a
+报 a
+告 a
+论 a
+文 a
+
+6 a
+月 a
+，
+卢 l
+志 m
+武 m
+教 j
+授 k
+团 a
+队 a
+和 a
+金 l
+琴 m
+副 j
+教 k
+授 k
+团 a
+队 a
+参 a
+加 a
+人 h
+工 i
+智 i
+能 i
+领 a
+域 a
+顶 a
+级 a
+会 a
+议 a
+C b
+V c
+P c
+R c
+，
+金 l
+琴 m
+副 j
+教 k
+授 k
+团 a
+队 a
+蝉 a
+联 a
+C d
+V e
+P e
+R e
+A e
+c e
+t e
+i e
+v e
+i e
+t e
+y e
+N e
+e e
+t e
+C e
+h e
+a e
+l e
+l e
+e e
+n e
+g e
+e e
+冠 a
+军 a
+
+7 a
+月 a
+，
+我 a
+院 a
+师 a
+生 a
+分 a
+别 a
+参 a
+加 a
+人 h
+工 i
+智 i
+能 i
+领 a
+域 a
+顶 a
+级 a
+会 a
+议 a
+A b
+C c
+L c
+、
+数 h
+据 i
+库 i
+领 a
+域 a
+顶 a
+级 a
+会 a
+议 a
+S b
+I c
+G c
+M c
+O c
+D c
+、
+信 h
+息 i
+检 i
+索 i
+领 a
+域 a
+顶 a
+级 a
+会 a
+议a
+S b
+I c
+G c
+I c
+R c
+并 a
+报 a
+告 a
+论 a
+文 a
+
+8 a
+月 a
+，
+我 a
+院 a
+多 a
+位 a
+师 a
+生 a
+参 a
+加 a
+人 h
+工 i
+智 i
+能 i
+顶 a
+级 a
+会 a
+议 a
+I b
+J c
+C c
+A c
+I c
+、
+数 h
+据 i
+挖 i
+掘 i
+领 a
+域 a
+国 a
+际 a
+顶 a
+级 a
+会 a
+议 a
+K b
+D c
+D c
+、
+数 h
+据 i
+库 i
+领 a
+域 a
+顶 a
+级 a
+会 a
+议 a
+V b
+L c
+D c
+B c
+并 a
+报 a
+告 a
+论 a
+文 a
+，
+5 a
+位 a
+教 a
+师 a
+获 a
+国 p
+家 q
+自 q
+然 q
+科 q
+学 q
+基 q
+金 q
+项 a
+目 a
+资 a
+助 a
+
+9 a
+月 a
+，
+李 l
+德 m
+英 m
+教 j
+授 k
+和 a
+王 l
+永 m
+才 m
+副 j
+教 k
+授 k
+参 a
+加 a
+人 h
+机 i
+交 i
+互 i
+与 i
+普 i
+适 i
+计 i
+算 i
+领 a
+域 a
+顶 a 
+级 a
+会 a
+议 a
+U b
+b c
+i c
+c c
+o c
+m c
+p c
+并 a
+报 a
+告 a
+论 a
+文 a
+，
+李 l
+锡 m
+荣 m
+副 j
+教 k
+授 k
+团 a
+队 a
+在 a
+医 h
+学 i
+影 i
+像 i
+分 i
+析 i
+重 a
+要 a
+学 a
+术 a
+会 a
+议 a
+M b
+I c
+C c
+C c
+A c
+I c
+上 a
+发 a
+表 a
+论 a
+文 a
+
+1 a
+0 a
+月 a
+，
+游 l
+伟 m
+副 j
+教 k
+授 k
+参 a
+加 a
+软 h
+件 i
+工 i
+程 i
+顶 a
+级 a
+会a
+议 a
+O b
+O c
+P c
+S c
+L c
+A c
+并 a
+做 a
+报 a
+告 a
+，
+金 l
+琴 m
+副 j
+教 k
+授 k
+团 a
+队 a
+在 a
+多 a
+媒 a
+体 a
+顶 a
+级 a
+会 a
+议 a
+A b
+C c
+M c
+M c
+M c
+报 a
+告 a
+多 a
+篇 a
+论 a
+文 a
+并 a
+获 a
+得 a
+两 a
+项 a
+挑 a
+战 a
+赛 a
+奖 a
+项 a
+
+此 a
+外 a
+，
+我 a
+院 a
+多 a
+位 a
+师 a
+生 a
+在 a
+T b
+O c
+D c
+S c
+、
+T b
+P c 
+D c
+S c
+、
+T b
+K c
+D c
+E c
+、
+T b
+S c
+E c
+等 a
+国 a
+际 a
+顶 a
+级 a
+期 a
+刊 a 
+发 a
+表 a
+论 a
+文 a
+
+5 a
+、
+信 r
+息 s
+技 s
+术 s
+综 s
+合 s
+实 s
+验 s
+室 s
+全 a
+面 a
+建 a
+成 a
+“
+智 a
+慧 a
+实 a
+验 a
+室 a
+”
+与 a
+“
+创 a
+梦 a
+空 a
+间 a
+”
+今 a
+年 a
+暑 a
+期 a
+，
+综 r
+合 s
+实 s
+验 s
+室 s
+将 a
+理 a
+工 a
+配 a
+楼 a
+2 a
+层 a
+8 a
+间 a
+机 a
+房 a
+全 a
+方 a
+位 a
+升 a
+级 a
+成 a
+为 a
+“
+智 a
+慧 a
+实 a
+验 a
+室 a
+”
+
+6 a
+、
+我 a
+院 a
+院 j
+长 k
+文 l
+继 m
+荣 m
+教 j
+授 k
+入 a
+选 a
+首 a
+批 a
+“ p
+北 q
+京 q
+高 q
+校 q
+卓 q
+越 q
+青 q
+年 q
+科 q
+学 q
+家 q
+计 q
+划 q
+项 q
+目 q
+” q
+根 a
+据 a
+《 p
+关 q
+于 q
+公 q
+布 q
+2 q
+0 q
+1 q
+8 q
+年 q
+度 q
+“ q
+北 q
+京 q
+高 q
+校 q 
+卓 q
+越 q
+青 q
+年 q
+科 q
+学 q
+家 q
+计 q
+划 q
+项 q
+目 q
+” q
+立 a
+项 a
+情 a
+况 a
+的 a
+通 a
+知 a
+》 a
+（ a
+京 a
+教 a
+函 a
+〔 a
+2 a
+0 a
+1 a
+9 a
+〕a
+9 a
+号 a
+） a
+，
+我 a
+院 a
+院 j
+长 k
+文 l
+继 m
+荣 m
+教 j
+授 k
+作 a
+为 a
+我 a
+校 a
+唯 a
+一 a
+入 a
+选 a
+者 a
+入 a
+选 a
+首 a
+批 a
+“ p
+北 q
+京 q
+高 q
+校 q
+卓 q
+越 q
+青 q
+年 q
+科 q
+学 q
+家 q
+计 q
+划 q
+项 q
+目 q
+” q
+
+7 a
+、
+我 a
+院a
+杜 l
+小 m
+勇 m
+教 j
+授 k
+当 a
+选 a
+新 a
+一 a
+届 a
+计 f
+算 g
+机 g
+学 g
+会 g
+大 g
+数 g
+据 g
+专 g
+家 g
+委 g
+员 g
+会 g
+主 j
+任 k
+
+左 l
+美 m
+云 m
+教 j
+授 k
+、
+王 l
+明 m
+明 m
+副 j
+教 k
+授 k
+当 a
+选 a
+中 f
+国 g
+信 g
+息 g
+经 g
+济 g
+学 g
+会 g
+副 j
+理 k
+事 k
+长 k
+2 a
+0 a
+1 a
+9 a
+年 a
+9 a
+月 a
+2 a
+6 a
+日 a
+下 a
+午 a
+，
+中 b
+国 c
+计 c
+算 c
+机 c
+学 c
+会 c
+（ c
+C c
+C c
+F c
+） c
+大 c
+数 c
+据 c
+专 c
+家 c
+委 c
+员 c
+会 c
+在 a
+武 a
+汉 a
+举 a
+行 a
+，
+我 a
+院 a
+杜 l
+小 m
+勇 m
+教 j
+授 k
+当 a
+选 a
+新 a
+一 a
+届 a
+计 f
+算 g
+机 g
+学 g
+会 g 
+大 g
+数 g
+据 g
+专 g
+家 g
+委 g
+员 g
+会 g
+主 j
+任 k
+
+2 a
+0 a
+2 a
+0 a
+年 a
+1 a
+月 a
+1 a
+2 a
+日 a
+下 a
+午 a
+2 a
+点 a
+-
+6 a
+点 a
+，
+英 n
+国 o
+曼 o
+彻 o
+斯 o
+特 o
+大 o
+学 o
+杨 l
+剑 m
+波 m
+教 j
+授 k
+受 a
+邀 a
+来 a
+到 a
+我 a
+院 a
+并 a
+做 a
+客 a
+信 a
+息 a
+讲 a
+坛 a
+，
+此 a
+次 a
+杨 l
+教 j
+授 k
+报 a
+告 a
+的 a
+题 a
+目 a
+为 a
+《 t
+商 u
+务 u
+分 u
+析 u
+与 u
+人 u
+工 u
+智 u
+能 u
+决 u
+策 u
+系 u
+统 u
+研 u
+究 u
+与 u
+应 u
+用 u
+》 u
+，
+由 a
+我 a
+院 a
+副 j
+院 k
+长 k
+、
+经 n
+济 o
+信 o
+息 o
+管 o
+理 o
+系 o
+左 l
+美 m
+云 m
+教 j
+授 k
+主 a
+持 a
+，
+参 a
+加 a
+讲 a
+坛 a
+的 a
+还 a
+有 a
+英 n
+国 o
+曼 o
+彻 o
+斯 o
+特 o
+大 o
+学 o
+徐 l
+冬 m
+玲 m
+教 j
+授 k
+、
+北 n
+大 o
+医 o
+学 o
+部 o
+孔 l
+桂 m
+兰 m
+研 j
+究 k
+员 k
+、
+我 a
+院a
+经 n
+济 o
+信 o
+息 o
+管 o
+理 o
+系 o
+程 l
+絮 m
+森 m
+教 j
+授 k
+以 a
+及 a
+人 n
+大 o
+商 o
+学 o 
+院 o
+、
+北 n
+大 o
+医 o
+学 o
+部 o
+、
+对 n
+外 o
+经 o
+贸 o
+大 o
+学 o
+相 a
+关 a
+领 a
+域 a
+研 a
+究 a
+生 a
+和 a
+博 a
+士 a
+生 a
+，
+大 a
+家 a
+进 a
+行 a
+了 a
+充 a
+分 a
+的 a
+学 a
+术 a
+交 a
+流 a
+
+杨 l
+剑 m
+波 m
+教 j
+授 k
+是 a
+英 n
+国 o
+曼 o
+彻 o
+斯 o
+特 o
+大 o
+学 o
+决 n
+策 o
+和 o
+系 o
+统 o
+科 o
+学 o
+教 j
+授 k
+，
+决 f
+策 g
+与 g
+认 g
+知 g
+科 g
+学 g
+研 g
+究 g
+中 g
+心 g
+主 j
+任 k
+，
+主 a
+要 a
+从 a
+事 a
+不 h
+确 i
+定 i
+性 i
+多 i
+准 i
+则 i
+决 i
+策 i
+分 i
+析 i
+、
+多 h
+目 i
+标 i
+优 i
+化 i
+、
+智 h
+能 i
+决 i
+策 i
+支 i
+持 i
+系 i
+统 i
+、
+混 h
+合 i
+定 i
+量 i
+和
+定 h
+性 i
+决 i
+策 i
+建 i
+模 i
+技 i
+术 i
+、
+结 h
+合 i
+数 i
+据 i
+驱 i
+动 i
+与 i
+知 i
+识 i
+驱 i
+动 i
+的 i
+医 i
+疗 i
+决 i
+策 i
+支 i
+持 i
+系 i
+统 i
+等 a
+研 a
+究 a
+
+杨 l
+教 j
+授 k
+基 a
+于 a
+多 a
+年 a
+研 a
+究 a
+成 a
+果 a
+自 a
+主 a
+开 a
+发 a
+的 a
+软 a
+件 a
+基 a
+于 a
+W a
+i a
+n a
+d a
+o a
+w a
+s a
+的 a
+证 a
+据a
+推 a
+理 a
+智 a
+能 a
+决 a
+策 a
+系 a
+统 a
+（ a
+I a
+D a
+S a
+） a
+已 a
+被 a
+5 a
+0 a
+多 a
+个 a
+国 a
+家 a
+的 a
+数 a
+千 a
+名 a
+学 a
+者 a
+、
+研 a
+究 a
+人 a
+员 a
+、
+从 a
+业 a
+人 a
+员 a
+和 a
+学 a
+生 a
+使 a
+用 a
+
+2 a
+0 a
+2 a
+0 a
+年 a
+1 a
+月 a
+9 a
+日 a
+，
+信 n
+息 o
+学 o
+院 o
+2 b
+0 c
+2 c
+0 c
+新 c
+年 c
+报 c
+告 c
+会 c
+暨 c
+二 c
+级 c
+教 c
+代 c
+会 c
+在 a
+信 r
+息 s
+楼 s 
+四 s
+层 s
+报 s 
+告 s
+厅 s
+顺 a
+利 a
+召 a
+开 a
+
+文 l
+院 j
+长 k
+指 a
+出 a
+，
+在 a
+学 a
+科 a
+建 a
+设 a
+方 a
+面 a
+，
+我 a
+院 a
+杜 l
+小 m
+勇 m
+、
+王 l
+珊 m
+、
+陈 l
+红 m
+、
+张 l
+孝 m
+、
+李 l
+翠 m
+平 m
+等 a
+申 a
+报a
+的a
+《 p
+数 q
+据 q
+库 q
+管 q
+理 q
+系 q
+统 q
+核 q
+心 q
+技 q
+术 q
+的 q
+创 q
+新 q
+与 q
+金 q
+仓 q
+数 q
+据 q
+库 q
+产 q
+业 q
+化 q
+》 q
+项 a
+目 a
+，
+获 a
+评 a
+2 d
+0 e
+1 e 
+8 e 
+年 e
+度 e
+国 e
+家 e
+科 e
+学 e
+技 e
+术 e
+进 e
+步 e
+奖 e
+二 a
+等 a
+奖 a
+
+新 a
+增 a
+博 a
+士 a
+科 a
+研 a
+基 a
+金 a
+项 a
+目 a
+4 a
+个 a
+
+根 a
+据 a
+学 a
+校 a
+主 f
+题 g
+教 g
+育 g
+领 g
+导 g
+小 g
+组 g
+办 g
+公 g
+室 g
+关 a
+于 a
+“
+不 a
+忘 a
+初 a
+心 a
+、
+牢 a
+记 a
+使 a
+命 a
+”
+主 a
+题 a
+教 a
+育 a
+总 a
+结 a
+评 a
+估 a
+工 a
+作 a
+的 a
+要 a
+求 a
+，
+1 a
+月 a
+6 a
+日 a
+，
+信 n
+息 o
+学 o
+院 o
+在 a
+信 r
+息 s
+楼 s
+四 s
+层 s
+4 s
+5 s
+3 s
+会 s
+议 s
+室 s
+召 a
+开 a
+主 b
+题 c
+教 c
+育 c
+反 c
+馈 c
+评 c
+价 c
+座 c
+谈 c
+会 c
+
+学  a
+校 a
+主 f
+题 g
+教 g
+育 g
+第 g
+五 g
+指 g
+导 g
+组 g
+副 j
+组 k
+长 k
+邢 l
+姝 m
+、
+信 n
+息 o
+学 o
+院 o
+党 a
+政 a
+领 a
+导 a
+班 a
+子 a
+成 a
+员 a
+、
+党 a
+员 a
+和 a
+师 a
+生 a
+代 a
+表 a
+参 a
+加 a
+座 a
+谈 a
+
+拥 a
+有 a
+省 a
+部 a
+级 a
+科 a
+研 a
+机 a
+构 a
+，
+2 a
+0 a
+0 a
+5 a
+年 a
+获 a
+得 a
+“ f
+数 g
+据 g
+工 g
+程 g
+与 g
+知 g
+识 g
+工 g
+程 g
+” g
+教 g
+育 g
+部 g
+重 g
+点 g
+实 g
+验 g
+室 g
+，
+这 a
+是 a
+我 a
+国 a
+第 a
+一 a
+个 a
+数 h
+据 i
+库 i
+领 a
+域 a
+的 a
+教 a
+育 a
+部 a
+重 a
+点 a
+实 a
+验 a
+室 a
+
+1 a
+2 a
+月 a
+2 a
+8 a
+日 a
+，
+大 f
+数 g
+据 g
+管 g
+理 g
+与 g
+分 g
+析 g
+方 g
+法 g
+研 g
+究 g
+北 g
+京 g
+市 g
+重 g
+点 g
+实 g
+验 g
+室 g
+( a
+简 a
+称 a
+B f
+D g
+A g
+I g
+实 g
+验 g
+室 g
+) g
+第 b
+二 c
+届 c
+学 c
+术 c
+委 c
+员 c
+会 c
+第 c
+一 c
+次 c
+会 c
+议 c
+暨 c
+大 c
+数 c
+据 c
+智 c
+能 c
+研 c
+讨 c
+会 c
+在 a
+公 r
+共 s
+政 s
+策 s 
+实 s
+验 s
+室 s
+召 a
+开 a
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+常 j
+务 k
+副 k
+校 k
+长 k
+王 l
+利 m
+明 m
+教 j
+授 k
+出 a
+席 a
+，
+校 j
+长 k
+助 k
+理 k
+、
+理 n
+工 o
+学 o 
+科 o
+建 o
+设 o
+处 o
+处 j
+长 k
+杜 l
+小 m
+勇 m
+教 j
+授 k
+主 a
+持 a
+，
+B f
+D g
+A g
+I g
+实 g
+验 g
+室 g
+主 j
+任 k
+、
+信 n
+息 o
+学 o
+院 o
+院 j
+长 k
+文 l
+继 m
+荣 m
+教 j
+授 k
+汇 a
+报 a
+2 a
+0 a
+1 a
+9 a
+年 a
+实 a
+验 a
+室 a
+工 a
+作 a
+进 a
+展 a
+，
+来 a
+自 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+、
+北 n
+京 o
+大 o
+学 o
+、
+清 n
+华 o
+大 o
+学 o
+、
+中 n
+国 o
+科 o
+技 o
+大 o
+学 o
+、
+浙 n
+江 o
+大 o
+学 o
+、
+复 n
+旦 o
+大 o
+学 o
+、
+哈 n
+尔 o
+滨 o
+工 o
+业 o
+大 o
+学 o
+、
+西 n
+北 o
+工 o
+业 o
+大 o
+学 o
+、
+东 n
+北 o
+大 o
+学 o
+等 a
+国 a
+内 a
+外 a
+知 a
+名 a
+院 a
+校 a
+的 a
+2 a
+0 a
+余 a
+位 a
+专 a
+家 a
+学 a
+者 a
+齐 a
+聚 a
+一 a
+堂 a
+，
+围 a
+绕 a
+B b
+D c
+A c
+I c
+实 c
+验 c
+室 c
+新 c
+技 c
+术 c
+报 c
+告 c
+等 a
+议 a
+题 a
+，
+展 a
+开 a
+交 a
+流 a
+讨 a
+论 a
+，
+并 a
+为 a
+实 a
+验 a
+室 a
+的 a
+发 a
+展 a
+建 a
+言 a
+献 a
+策 a
+
+近 a
+日 a
+，
+在 a
+德 r
+国 s
+慕 s
+尼 s
+黑 s
+举 a
+行 a
+的 a
+国 b
+际 c
+信 c
+息 c
+系 c
+统 c
+学 c
+会 c
+（ c
+A c
+s c
+s c
+o c
+c c
+i c
+a c
+t c
+i c 
+o c
+n c
+f c
+o c
+r c
+I c
+n c
+f c
+o c
+r c
+m c
+a c
+t c
+i c
+o c
+n c
+S c
+y c
+s c
+t c
+e c
+m c
+s c
+，
+简 a
+称 a
+A b
+I c
+S c
+） c
+2 a
+0 a
+1 a
+9 a
+年 a
+会 a
+上 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+信 o
+息 o
+学 o
+院 o
+杰 a
+出 a
+校 a
+友 a
+陈 l
+国 m
+青 m
+荣 a
+获 a
+A d
+I e
+S e
+F e
+e e
+l e
+l e
+o e
+w e
+奖 e
+，
+成 a
+为 a
+国 f
+际 g
+信 g
+息 g
+系 g
+统 g
+学 g
+会 g
+自 a
+1 a
+9 a
+9 a
+9 a
+年 a
+设 a
+立 a
+该 a
+奖 a
+项 a
+以 a
+来 a
+首 a
+位 a
+获 a
+奖 a
+的 a
+中 a
+国 a
+大 a
+陆 a
+学 a
+者 a
+
+A f
+I g
+S g
+是 a
+国 a
+际 a
+上 a
+信 h
+息 i
+系 i
+统 i
+领 a
+域 a
+最 a
+权 a
+威 a
+的 a
+学 a
+术 a
+团 a
+体 a
+，
+其 a
+A d
+I e
+S e
+F e
+e e
+l e
+l e
+o e
+w e
+奖 e
+旨 a
+在 a
+表 a
+彰 a
+在 a
+国 a
+际 a
+信 h
+息 i
+系 i
+统 i
+领 a
+域 a
+研 a
+究 a
+、
+教 a
+育 a
+和 a
+服 a
+务 a
+方 a
+面 a
+具 a
+有 a
+突 a
+出 a
+贡 a
+献 a
+和 a
+影 a
+响 a
+力 a
+的 a
+学 a
+者 a
+
+今 a
+年 a
+正 a
+值 a
+国 b
+际 c
+信 c
+息 c
+系 c
+统 c
+年 c
+会 c
+（ c
+I c
+C c
+I c
+S c
+） c
+四 a
+十 a
+年 a
+，
+I b
+C c
+I c
+S c
+2 c
+0 c
+1 c
+9 c
+作 a
+为 a
+A a
+I a
+S a
+的 a
+国 a
+际 a
+性 a
+旗a
+舰a
+大 a
+会 a
+，
+吸 a
+引 a
+了 a
+世 a
+界 a
+各 a
+地 a
+近 a
+两 a
+千 a
+名 a
+代 a
+表 a
+参 a
+会 a
+
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+2 a
+月 a
+2 a
+6 a
+日 a
+下 a
+午 a 
+，
+由 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+信 o
+息 o
+学 o
+院 o
+经 o
+济 o
+信 o
+息 o
+管 o
+理 o
+系 o
+承 a
+办 a
+的 
+T b
+s c
+i c
+n c
+g c
+h c
+u c
+a c
+- c
+R c
+e c
+n c
+m c 
+i c
+n c
+- c
+P c
+e c
+k c
+i c
+n c
+g c
+A c
+c c
+a c
+d c
+e c
+m c
+i c
+a c
+C c
+o c
+l c
+l c
+o c
+q c
+u c
+i c
+u c
+m c
+E c
+x c
+c c
+h c
+a c
+n c
+g c
+e c
+o c
+n c
+I c
+n c
+f c
+o c
+r c
+m c
+a c
+t c
+i c 
+o c
+n c
+S c
+y c
+s c
+t c
+e c
+m c
+s c
+( c
+T c
+R c
+P c
+A c
+C c 
+E c 
+- c
+I c
+S c
+) c
+信 c
+息 c
+系 c
+统 c
+前 c
+沿 c
+问 c
+题 c
+学 c
+术 c
+研 c
+讨 c
+会 c
+（ a
+2 a
+0 a
+1 a
+9 a
+秋 a
+季 a
+学 a
+期 a
+） a
+在 a
+信 r
+息 s
+楼 s
+四 s
+层 s
+会 s
+议 s
+室 s
+顺 a
+利 a
+举 a
+行 a
+
+第 a
+一 a
+阶a
+段a
+由a
+清 n
+华 o
+大 o
+学 o
+经 o
+管 o
+学 o
+院 o
+郭 l
+迅 m
+华 m
+副 j
+教 k
+授 k
+主 a
+持a
+，
+来 a
+自 a
+清 n
+华 o
+大 o
+学 o
+经 o
+管 o
+学 o
+院 o
+的 a
+朱 l
+润 m
+格 m
+博 a
+士 a
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+商 o
+学 o
+院 o
+的 a
+周 l
+小 m
+豪 m
+博 a
+士a
+及 a
+来a
+自a
+北 n
+京 o
+大 o
+学 o
+光 o
+华 o
+管 o
+理 o
+学 o
+院 o
+的 a
+马 l
+思 m
+佳 m
+博 a
+士a
+为a
+大 a
+家 a
+作 a
+了a
+学 a
+术 a
+报 a
+告 a
+，
+分 a
+享 a
+了 a
+他 a
+们 a
+的 a
+近 a
+期 a
+研 a
+究 a
+工 a
+作 a
+
+二 a
+、
+论 a
+坛 a
+设 a
+置 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+信 o
+息 o
+学 o
+院 o
+青 o
+年 o
+学 o
+者 o
+论 o
+坛 o
+拟 a
+定 a
+于 a
+2 a
+0 a
+2 a
+0 a
+年 a
+4 a
+月 a
+1 a
+1 a
+日 a
+，
+论 a
+坛 a
+覆 a
+盖 a
+计 h
+算 i 
+机 i
+科 i
+学 i
+技 i 
+术 i
+、
+经 h
+济 i
+信 i 
+息 i 
+管 i
+理 i
+，
+以 a
+及 a
+相 a
+关 a
+交 a
+叉 a
+学 a
+科 a
+领 a
+域 a
+，
+诚 a
+邀 a
+海 a
+内 a
+外 a
+优 a
+秀 a
+青 a
+年 a
+学 a
+者 a
+参 a
+加 a
+
+根 a
+据 a
+《 p
+“ q
+创 q
+新 q
+杯 q
+” q
+中 q
+国 q
+人 q
+民 q
+大 q
+学 q
+学 q
+生 q
+课 q
+外 q
+学 q
+术 q
+科 q
+技 q
+作 q
+品 q
+竞 q
+赛 q
+章 q
+程 q
+》 q
+与 a
+学 a
+院 a
+相 a
+关 a
+工 a
+作 a
+安 a
+排 a
+，
+现 a
+将 a
+学 a
+校 a
+第 p
+二 q
+十 q
+二 q
+届 q
+“ q
+创 q
+新 q
+杯 q
+” q
+中 q
+国 q
+人 q
+民 q
+大 q
+学 q
+学 q
+生 q
+课 q
+外 q
+学 q
+术 q
+科 q
+技 q
+作 q
+品 q
+竞 q
+赛 q
+有 a
+关 a
+事 a
+宜 a
+通 a
+知 a
+如 a
+下 a
+：
+一 a
+、
+请 a
+拟 a
+参 a
+赛 a
+学 a
+生 a
+务 a
+必 a
+仔 a
+细 a
+阅 a
+读 a
+《 p
+“ q
+创 q
+新 q
+杯 q
+” q
+中 q
+国 q
+人 q
+民 q
+大 q
+学 q
+学 q
+生 q
+课 q
+外 q
+学 q
+术 q
+科 q
+技 q
+作 q
+品 q
+竞 q
+赛 q
+章 q
+程 q
+》 q
+（ a
+见 a
+附 a
+件 a
+文 a
+件 a
+汇 a
+编 a
+内 a
+） a
+，
+了 a
+解 a
+参 a
+赛 a
+资 a
+格 a
+与 a
+作 a
+品 a
+申 a
+报 a
+要 a
+求 a
+
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+2 a
+月 a
+2 a
+6 a
+日 a
+上 a
+午 a
+，
+第 b
+五 c
+届 c
+中 c
+国 c
+人 c
+民 c
+大 c
+学 c
+信 c
+息 c
+学 c
+院 c
+商 c
+业 c
+数 c
+据 c
+分 c
+析 c
+研 c
+讨 c
+会 c
+在 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+国 r
+学 s
+馆 s
+1 s
+2 s
+3 s
+会 s
+议 s
+厅 s
+成 a
+功 a
+举 a
+办 a
+，
+此 a
+次 a
+会 a
+议 a
+由 a
+中 n
+国 o
+人 o
+民 o 
+大 o
+学 o
+信 o
+息 o
+学 o
+院 o
+经 o
+济 o
+信 o
+息 o
+管 o
+理 o
+系 o
+主 a
+办 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+校 j
+长 k
+助 k
+理 k
+、
+理 n
+工 o
+学 o
+科 o 
+建 o 
+设 o
+处 o
+处 j
+长 k
+杜 l
+小 m
+勇 m
+教 j
+授 k
+，
+信 n
+息 o
+学 o
+院 o
+院 j
+长 k
+文 l
+继 m
+荣 m
+教 j
+授 k
+，
+商 n
+学 o
+院 o
+院 j
+长 k
+毛 l
+基 m
+业 m
+教 j
+授 k
+，
+清 n
+华 o
+大 o
+学 o
+经 o
+管 o
+学 o
+院 o
+学 o
+术 o
+委 o
+员 o
+会 o
+主 j
+任 k
+陈 l
+国 m
+青 m
+教 j
+授 k
+及 a
+多 a
+位 a
+来 a
+自 a
+国 a
+内 a
+知 a
+名 a
+高 a
+校 a
+的 a
+信 h
+息 i
+系 i
+统 i
+专 a
+家 a
+学 a
+者 a
+出 a
+席 a
+了 a
+本 a
+次 a
+活 a
+动 a
+
+研 a
+讨 a
+会 a
+由 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+信 o
+息 o
+学 o
+院 o
+副 j
+院 k
+长 k
+左 l
+美 m
+云 m
+教 j
+授 k
+主 a
+持 a
+，
+杜 l
+小 m
+勇 m
+教 j
+授 k
+和 a
+文 l
+继 m
+荣 m
+教 j
+授 k
+分 a
+别 a
+代 a
+表 a
+学 a
+校 a
+和 a
+学 a
+院 a
+对 a
+与 a
+会 a
+专 a
+家 a
+表 a
+示 a
+感 a
+谢 a
+，
+希 a
+望 a
+各 a
+位 a
+专 a
+家 a
+为 a
+经 h
+济 i
+信 i
+息 i
+管 i
+理 i
+系 i
+在 a
+新 a
+技 a
+术 a
+背 a
+景 a
+下 a
+的 a
+升 a
+级 a
+转 a
+型 a
+提 a
+出 a
+宝 a
+贵 a
+建 a
+议 a
+
+研 a
+讨 a
+会 a
+的 a
+第 a
+一 a
+部 a
+分 a
+为 a
+主 a
+旨 a
+演 a
+讲 a
+，
+邀 a
+请 a
+C f
+N g
+A g
+I g
+S g
+前 j
+主 k
+席 k
+、
+清 n
+华 o
+大 o
+学 o
+经 o
+管 o
+学 o
+院 o
+陈 l
+国 m
+青 m
+教 j
+授 k
+，
+C f
+N g
+A g
+I g
+S g
+现 a
+任 a
+主 a
+席 a
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+商 o
+学 o
+院 o
+毛 l
+基 m
+业 m
+教 j
+授 k
+围 a
+绕 a
+信 h
+息 i
+系 i
+统 i
+、
+数 h
+字 i
+经 i
+济 i
+和 a
+大 h
+数 i
+据 i
+应 i
+用 i
+的 a
+最 a
+新 a
+进 a
+展 a
+、
+学 a
+科 a
+建 a
+设 a
+、
+人 a
+才 a
+培 a
+养 a
+进 a
+行 a
+介 a
+绍 a
+
+研 a
+讨 a
+会 a
+的 a
+第 a
+二 a
+部 a
+分 a
+为 a
+围 a
+绕 a
+大 h
+数 i
+据 i
+、
+人 h
+工 i
+智 i
+能 i
+、
+区 h
+块 i
+链 i
+等 a
+前 a
+沿 a
+技 a
+术 a
+与 a
+商 a
+业 a
+领 a
+域 a
+的 a
+创 a
+新 a
+融 a
+合 a
+，
+对 a
+“ h
+信 i
+息 i
+管 i
+理 i
+与 i
+信 i
+息 i
+系 i
+统 i
+” i
+专 a
+业 a
+转 a
+型 a
+升 a
+级 a
+和 a
+“ h
+大 i
+数 i
+据 i
+管 i
+理 i
+与 i
+应 i
+用 i
+” i
+专 a
+业 a
+建 a
+设 a
+进 a
+行 a
+深 a
+入 a
+讨 a
+论 a
+，
+研 a
+讨 a
+会 a
+由 a
+经 n
+济 o
+信 o
+息 o
+管 o
+理 o
+系 o
+主 j
+任 k
+许 l
+伟 m
+副 j
+教 k
+授 k
+主 a
+持 a
+，
+以 a
+期 a
+对 a
+经 n
+济 o
+信 o
+息 o
+管 o
+理 o
+系 o
+在 a
+新 a
+技 a
+术 a
+驱 a
+动 a
+下 a
+的 a
+转 a
+型 a
+升 a
+级 a
+提 a
+供 a
+支 a
+撑 a
+，
+为 a
+“ h
+大 i
+数 i
+据 i
+管 i
+理 i
+与 i
+应 i
+用 i
+” i
+专 a
+业 a
+的 a
+发 a
+展 a
+提 a
+供 a
+有 a 
+益 a 
+参 a
+考 a
+
+1 a
+、
+管 h
+理 i
+科 i
+学 i
+与 i
+工 i
+程 i
+专 a
+业 a
+和 a
+计 h
+算 i
+机 i
+应 i
+用 i
+技 i
+术 i
+专 a
+业 a
+部 a
+分 a
+课 a
+程 a
+安 a
+排 a
+了 a
+多 a
+个 a
+教 a
+室 a
+，
+每 a
+门 a
+课 a
+程 a
+考 a
+试 a
+人 a
+数 a
+不 a
+一 a
+样 a
+，
+请 a
+务 a
+必 a
+看 a
+清 a
+楚 a
+自 a
+己 a
+每 a
+门 a
+课 a
+程 a
+考 a 
+试 a
+分 a
+别 a
+在 a
+哪 a
+个 a
+教 a
+室 a
+，
+拍 a
+照 a
+保 a
+存 a
+！
+不 a
+要 a
+走 a
+错 a
+考 a
+场 a
+，
+务 a
+必 a
+看 a
+好 a
+考 a
+试 a
+安 a
+排 a
+，
+不 a
+要 a
+走 a
+错 a
+考 a
+场 a
+！
+！
+！
+2 a
+、
+考 a
+试 a
+时 a
+携 a
+带 a
+身 a
+份 a
+证 a
+及 a
+资 a
+格 a
+卡 a
+，
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+1 a
+月 a
+办 a
+理 a
+资 a
+格 a
+卡 a
+的 a
+同 a
+学 a
+请 a
+务 a
+必 a
+携 a
+带 a
+身 a
+份 a
+证 a
+及 a
+牢 a
+记 a
+资 a
+格 a
+卡 a
+号 a
+！
+务 a
+必 a
+填 a
+写 a
+资 a
+格 a
+卡 a
+，
+不 a
+要 a
+现 a
+场 a
+手 a
+机 a
+查 a
+询 a
+，
+考 a
+试 a
+期 a
+间 a
+严 a
+禁 a
+手 a
+机 a
+开 a
+机 a
+及 a
+查 a
+看 a
+任 a
+何 a
+电 a
+子 a
+设 a
+备 a
+！
+3 a
+、
+考 a
+试 a
+交 a
+卷 a 
+后 a 
+务 a 
+必 a
+当 a
+场 a
+签 a
+字 a
+确 a
+认 a
+
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+0 a
+月 a
+至 a
+1 a
+2 a
+月 a
+，
+我 a
+校 a
+陆 a
+续 a
+开 a
+展 a
+2 a
+0 a
+1 a
+9 a
+年 a
+班 a
+级 a
+建 a
+设 a
+相 a
+关 a
+评 a
+优 a
+工 a
+作 a
+，
+我 a
+院 a
+2 a
+0 a
+1 a
+6 a
+、
+2 n
+0 o
+1 o
+7 o
+级 o
+图 o
+灵 o
+实 o
+验 o
+班 o
+班 a
+主 a
+任 a
+赵 l
+鑫 m
+获 a
+评 a
+学 a
+校 a
+“ d
+十 e
+佳 e
+班 e
+主 e
+任 e
+” e
+，
+2 n
+0 o
+1 o
+8 o
+级 o
+理 o
+科 o
+试 o
+验 o
+班 o
+3 o
+班 o
+辅 a
+导 a
+员 a
+赵 l
+欣 m
+获 a
+评 a
+学 a
+校 a
+“ d
+十 e
+佳 e
+辅 e
+导 e
+员 e
+” e
+，
+2 n
+0 o
+1 o
+7 o
+级 o
+理 o
+科 o 
+试 o 
+验 o
+班 o
+3 o
+班 o
+辅 j
+导 k
+员 k
+屈 l
+蕾 m
+蕾 m
+获 a
+评 a
+学 a
+校 a
+“ d
+标 e
+兵 e
+辅 e
+导 e
+员 e
+” e
+，
+东 r
+风 s
+六 s
+楼 s
+4 s
+0 s
+2 s
+宿 s
+舍 s
+获 a
+评 a
+“ e
+标 e
+兵 e
+宿 e
+舍 e 
+” e
+荣 a
+誉 a
+称 a
+号 a
+，
+多 a
+位 a
+班 j
+主 k
+任 k
+、
+辅 j
+导 k
+员 k
+获 a
+评 a
+学 a
+校 a
+优 d
+秀 e
+班 e
+主 e
+任 e
+、 e
+优 e
+秀 e
+辅 e
+导 e
+员 e
+，
+多 a
+个 a
+班 a
+级 a
+获 a
+评 a
+学 a
+校 a
+先 d
+进 e
+班 e
+集 e
+体 e
+ 
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+2 a
+月 a
+1 a 
+8 a
+日 a
+，
+我 a
+校 a
+2 b
+0 c
+1 c
+9 c
+年 c
+本 c
+科 c
+生 c
+招 c
+生 c
+暨 c
+学 c
+生 c
+就 c
+业 c 
+创 c
+业 c
+工 c
+作 c
+总 c
+结 c
+表 c
+彰 c
+大 c
+会 c
+在 a
+逸 r
+夫 s
+会 s
+议 s
+中 s
+心 s
+第 s
+一 s
+报 s
+告 s
+厅 s
+举 a
+办 a
+，
+我 a
+院 a
+同 a
+时 a
+获 a
+评 a
+本 d
+科 e
+生 e
+招 e
+生 e
+先 e
+进 e
+单 e
+位 e
+与  a
+学 d
+生 e
+就 e
+业 e
+创 e
+业 e
+工 e
+作 e
+先 e
+进 e
+集 e
+体 e
+，
+由 a
+我 a
+院 a
+负 a
+责 a
+的 a
+湖 n
+北 o
+招 o
+生 o
+组 o
+获 a
+评 a
+本 d
+科 e
+生 e
+招 e
+生 e
+优 e
+秀 e
+招 e
+生 e
+组 e
+，
+我 a
+院 a
+党 j
+委 k
+书 k
+记 k
+陈 l
+红 m
+教 j
+授 k
+作 a
+为 a
+唯 a
+一 a
+学 a
+院 a
+代 a
+表 a
+发 a
+言 a
+
+学 a
+校 a
+党 j
+委 k
+副 k
+书 k
+记 k
+郑 l
+水 m
+泉 m
+，
+主 f
+题 g
+教 g
+育 g
+第 g
+五 g
+指 g
+导 g
+组 g
+组 j
+长 k
+周 l
+石 m
+，
+信 n
+息 o
+学 o
+院 o
+、
+高 n
+瓴 o
+人 o
+工 o
+智 o
+能 o
+学 o
+院 o
+领 a
+导 a
+班 a
+子 a
+参 a
+加 a
+会 a
+议 a
+
+根 a
+据 a
+学 a
+校 a
+《 n
+中 o
+国 o
+人 o
+民 o
+大 o
+学 o
+拔 a
+尖 a
+创 a
+新 a
+人 a
+才 a
+培 a
+育 a
+资 a
+助 a
+计 a
+划 a
+实 a
+施 a
+细 a
+则 a
+（ a
+暂 a
+行 a
+） a
+》 a
+评 a
+定 a
+规 a
+则 a
+，
+拟 a
+定 a
+推 a
+荐 a
+名 a
+单 a
+如 a
+下 a
+：
+信 n
+息 o
+学 o
+院 o
+2 p
+0 q
+1 q
+9 q
+年 q
+“ q
+中 q
+国 q
+人 q
+民 q
+大 q
+学 q
+拔 q
+尖 q
+创 q
+新 q 
+人 q
+才 q
+培 q
+育 q
+资 q
+助 q
+计 q
+划 q
+” q
+推 a
+荐 a
+名 a
+单 a
+：
+王 l
+启 m
+立 m
+、
+屈 l
+蕾 m
+蕾 m
+、
+秦 l
+宇 m
+意 a
+见 a
+反 a
+应 a
+电 a
+话 a
+：
+6 a
+2 a
+5 a
+1 a
+1 a
+4 a
+0 a
+1 a
+意 a
+见 a
+反 a
+应 a
+邮 a
+箱 a
+：
+p a
+a a
+n a
+x a
+u a
+y a
+a a
+n a
+@ a
+r a
+u a
+c a
+. a
+e a
+d a
+u a
+. a
+c a
+n a
+信 n
+息 o
+学 o
+院 o
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+2 a
+月 a
+1 a
+0 a
+日 a
+
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+2 a
+月 a
+8 a
+日 a
+，
+中 p
+国 q
+人 q
+民 q 
+大 q
+学 q
+第 q
+三 q
+十 q
+三 q
+届 q
+“ q
+一 q
+二 q
+· q
+九 q
+” q
+合 q
+唱 q
+音 q
+乐 q
+节 q
+在 a
+如 r
+论 s
+讲 s
+堂 s
+顺 a
+利 a
+举 a
+行 a
+
+2 a
+0 a
+1 a
+9 a
+级 a
+信 a
+息 a
+学 a
+子 a
+与 a
+文 n
+学 o
+院 o
+、
+理 n
+学 o
+院 o
+学 a
+子 a
+携 a
+手 a
+登 a
+台 a
+，
+共 a
+唱 a
+梦 a
+想 a
+，
+获 a
+A a
+组 a
+铜 a
+奖 a
+第 a
+二 a
+名 a
+
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+2 a
+月 a
+4 a
+日 a
+，
+中 a
+国 a
+人 a
+民 a
+大 a
+学 a
+于 a
+校 a
+内 a
+举 a
+办 a
+了 a
+2 p
+0 q
+1 q
+9 q
+年 q
+“ q
+一 q
+二 q
+• q
+九 q
+” q
+校 q
+园 q
+越 q
+野 q
+赛 q
+
+我 a
+院 a
+共 a
+有 a
+六 a
+名 a
+同 a
+学 a
+进 a
+入 a
+个 a
+人 a
+前 a
+五 a
+十 a
+名 a
+，
+其 a
+中 a
+陈 l
+炜 m
+圣 m
+同 a
+学 a
+以 a
+4 a
+2 a
+分 a
+0 a
+7 a
+秒 a
+的 a
+好 a
+成 a
+绩 a
+获 a
+得 a
+男 a
+子 a
+组 a
+第 a
+1 a
+1 a
+名 a
+
+拉 a
+拉 a
+队 a
+第 a
+七 a
+，
+优 d
+秀 e
+领 e
+队 e
+奖 e
+等 a
+多 a
+个 a
+团 a
+体 a
+奖 a
+项 a
+，
+个 a
+人 a
+方 a
+面 a
+也 a
+有 a
+六 a
+名 a
+同 a
+学 a
+进 a
+入 a
+前 a
+5 a
+0 a
+，
+其 a
+中 a
+陈 l
+炜 m
+圣 m
+同 a
+学 a
+以 a
+4 a
+2 a
+分 a
+0 a
+7 a
+秒 a
+的 a
+好 a
+成 a
+绩a
+获 a
+得 a
+男 a
+子 a
+组 a
+第 a
+1 a
+1 a
+名 a
+
+2 a
+0 a 
+1 a
+9 a
+年 a
+1 a
+1 a
+月 a
+9 a
+日 a
+下 a
+午 a
+，
+信 f 
+息 g
+技 g
+术 g
+与 g
+管 g
+理 g
+国 g
+家 g
+级 g
+实 g
+验 g 
+教 g
+学 g
+示 g
+范 g
+中 g
+心 g
+（ a
+以 a
+下 a
+简 a
+称 a
+“ f
+中 g
+心 g
+” g
+） a
+组 a
+织 a
+召 a
+开 a
+了 a
+教 b
+学 c
+指 c
+导 c
+委 c
+员 c
+会 c
+会 a
+议 a
+
+本 a
+次 a
+会 a
+议 a
+正 a
+式 a
+成 a
+立 a
+了 a
+中 f
+心 g
+教 g
+学 g
+指 g
+导 g
+委 g
+员 g
+会 g
+，
+主 a
+任 a
+由 a
+中 r
+国 s
+计 f
+算 g
+机 g
+学 g
+会 g
+数 f
+据 g
+库 g
+专 g
+业 g
+委 g
+员 g
+会 g
+前 j
+主 k
+任 k
+委 k
+员 k
+、
+清 n
+华 o
+大 o
+学 o
+周 l
+立 m
+柱 m
+教 j
+授 k
+担 a
+任 a
+，
+委 j
+员 k
+包 a
+括 a
+：
+教 f
+育 g
+部 g
+高 g
+校 g
+大 g
+学 g
+计 g
+算 g
+机 g
+课 g
+程 g
+教 g
+学 g
+指 g
+导 g
+委 g
+员 g
+会 g
+副 j
+主 k
+任 k
+、
+北 n
+京 o
+理 o
+工 o
+大 o
+学 o
+国 a
+家 a
+级 a
+大 h
+学 i
+计 i
+算 i
+机 i
+虚 a
+拟 a
+仿 a
+真 a
+实 a
+验 a
+教 a
+学 a
+中 j
+心 k
+主 k
+任 k
+、
+计 n
+算 o
+机 o
+学 o
+院 o
+李 l
+凤 m
+霞 m
+教 j
+授 k
+，
+北 n
+京 o
+航 o
+空 o
+航 o
+天 o
+大 o
+学 o
+计 n 
+算 o
+机 o
+学 o
+院 o
+副 j
+院 k
+长 k
+高 l
+小 m
+鹏 m
+教 j
+授 k
+，
+南 n
+方 o
+航 o
+空 o
+航 o
+天 o
+大 o
+学 o
+长 n
+空 o
+学 o
+院 o
+副 j
+院 k
+长 k
+孙 l
+涵 m
+副 m
+教 j
+授 k
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+信 n
+息 o
+学 o
+院 o
+副 j
+院 k
+长 k
+左 l
+美 m
+云 m
+教 j
+授 k
+，
+以 a
+及 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+信 n
+息 o
+学 o
+院 o
+朱 l
+青 m
+教 j
+授 k
+
+其 a
+次 a
+，
+应 a
+当 a
+继 a
+续 a
+建 a
+设 a
+大 a
+学 a
+生 a
+创 a
+新 a
+创 a
+业 a
+计 a
+划 a
+，
+支 a
+持 a
+学 a
+生 a
+参 a
+与 a
+项 a
+目 a
+，
+培 a
+养 a
+学 a
+生 a
+的 a
+实 a
+践 a
+动 a
+手 a
+能 a
+力 a
+
+1 a
+1 a
+月 a
+2 a
+7 a
+日 a
+晚 a
+，
+“
+壮 p
+丽 q
+七 q
+十 q
+载 q
+，
+舞 q
+动 q
+繁 q
+华 q
+开 q
+”
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+第 p
+二 q
+十 q
+届 q
+健 q
+美 q
+操 q
+大 q
+赛 q
+在 a
+如 r
+论 s
+讲 s
+堂 s
+如 a
+期 a
+举 a
+办 a
+
+经 a
+过 a
+2 a
+个 a
+小 a
+时 a 
+紧 a
+张 a
+而 a
+激 a
+烈 a
+的 a
+竞 a 
+争 a
+，
+信 f
+息 g
+历 g
+史 g
+联 g
+队 g
+凭 a
+借 a
+阳 a 
+光 a
+向 a
+上 a
+的 a
+《 a 
+J a
+u a
+m a
+p a 
+Ia
+n a
+》 a
+与 a
+其 a 
+他 a 
+7 a
+个 a
+学 a
+院 a
+并 a
+列 a
+荣 a
+获 a
+三 a
+等 a
+奖 a
+
+经 a
+学 a
+生 a
+自 a
+主 a
+申 a 
+报 a 
+和 a
+学 a
+院 a
+审 a
+核 a
+，
+信 n
+息 o
+学 o
+院 o
+拟 a
+推 a
+荐 a
+以 a
+下 a
+4 a 
+名 a
+学 a
+生 a
+参 a
+与 a
+2 a
+0 a 
+1 a
+8 a
+-
+2 a
+0 a
+1 a
+9 a
+学 a
+年 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+本 d
+科 e
+生 e
+境 e
+外 e
+交 e
+换 e
+学 e
+习 e
+奖 e
+学 e
+金 e
+的 a
+评 a
+选 a
+
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+1 a
+月 a
+2 a 
+0 a
+日 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+信 n
+息 o
+学 o
+院 o
+经 n
+济 o
+信 o
+息 o
+管 o
+理 o
+系 o
+第 b
+四 c
+届 c
+移 c
+动 c
+互 c
+联 c
+网 c
+创 c
+新 c
+创 c
+业 c
+研 c
+讨 c
+会 c
+在 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+汇 r
+贤 s
+楼 s
+C s
+座 s
+5 s
+0 s
+2 s
+会 s
+议 s
+厅 s
+成 a
+功 a
+举 a
+行 a
+
+此 a
+次 a
+论 a
+坛 a
+由 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+信 o
+息 o
+学 o
+院 o
+主 a
+办 a
+，
+由 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+商 n
+学 o
+院 o
+、
+北 n
+京 o
+大 o
+学 o
+光 n
+华 o
+管 o
+理 o
+学 o
+院 o
+、
+中 n
+国 o
+政 o
+法 o
+大 o
+学 o
+商 n
+学 o
+院 o
+和 a
+北 n
+京 o
+联 o
+合 o
+大 o
+学 o
+商 n
+务 o
+学 o
+院 o
+提 a
+供 a
+联 a
+合 a
+学 a
+术 a
+支 a
+持 a
+，
+由 a
+北 f
+京 g
+速 g
+途 g
+网 g
+络 g
+科 g
+技 g
+股 g
+份 g
+有 g
+限 g
+公 g
+司 g
+和 a
+北 f
+京 g
+杞 g
+色 g
+文 g
+化 g
+发 g
+展 g
+有 g
+限 g
+公 g
+司 g
+协 a
+办 a
+
+北 f
+京 g
+知 g
+链 g
+科 g
+技 g
+有 g
+限 g
+公 g
+司 g
+C  j
+E k
+O k
+刘 l
+全 m
+宝 m
+、
+猫 f
+来 g
+了 g
+C j
+E k
+O k
+陈 l
+垒 m
+、
+泰 f
+康 g
+人 g
+寿 g
+保 g
+险 g
+股 g
+份 g
+有 g
+限 g
+公 g
+司 g
+数 j
+据 k
+信 k
+息 k
+中 k
+心 k
+助 k
+理 k
+总 j 
+经 k 
+理 k
+汤 l
+晋 m
+军 m
+、
+连 f
+尚 g
+文 g
+学 g
+C j
+E k
+O k
+王 l
+小 m
+书 m
+、
+每 f
+日 g
+瑜 g
+伽 g
+C j
+E k
+O k
+高 l
+利 m
+娟 m
+、
+北 f
+京 g
+苏 g
+宁 g
+易 g
+购 g
+3 a
+c a
+总 j
+经 k
+理 k
+王 l
+海 m
+霞 m
+做 a
+了 a
+主 a
+题 a
+演 a
+讲 a
+，
+分 a
+享 a
+了 a
+他 a
+们 a
+的 a
+创 a
+业 a 
+经 a
+历 a
+、
+商 a
+业 a
+模 a
+式 a
+和 a
+心 a
+得 a
+体 a
+会 a
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+商 n
+学 o
+院 o
+副 j
+院 k
+长 k
+王 l
+刊 m
+良 m
+教 j
+授 k
+，
+北 n
+京 o
+邮 o
+电 o
+大 o
+学 o
+管 n
+理 o
+学 o
+院 o
+闫 l
+强 m
+教 j
+授 k
+，
+北 n
+京 o
+理 o
+工 o
+大 o
+学 o
+管 n
+理 o
+学 o
+院 o
+颜 l
+志 m
+军 m
+教 j
+授 k
+、
+王 l
+文 m
+岩 m
+副 j
+教 k
+授 k
+，
+对 n
+外 o
+经 o
+济 o
+贸 o
+易 o
+大 o
+学 o
+信 n
+息 o
+学 o
+院 o
+程 l
+絮 m
+森 m
+教 j
+授 k
+，
+中 n
+国 o
+政 o
+法 o
+大 o
+学 o
+商 n
+学 o
+院 o
+葛 l
+建 m
+华 m
+教 j
+授 k
+，
+北 n
+京 o
+联 o
+合 o
+大 o
+学 o
+商 n
+学 o
+院 o
+院 j
+长 k
+陈 l
+建 m
+斌 m
+教 j
+授 k
+，
+北 n
+京 o
+大 o
+学 o
+光 n
+华 o
+管 o
+理 o
+学 o
+院 o
+邱 l
+凌 m
+云 m
+副 j
+教 k
+授 k
+、
+北 n
+京 o
+外 o
+国 o
+语 o
+大 o
+学 o
+国 n
+际 o
+商 o
+学 o
+院 o
+裴 l
+艳 m
+丽 m
+副 j
+教 k
+授 k
+、
+曹 l
+鸿 m
+星 m
+副 m
+教 j
+授 k
+，
+首 n
+都 o
+经 o
+贸 o
+大 o
+学 o
+信 n
+息 o
+学 o
+院 o
+牛 l
+东 m
+来 m
+教 j
+授 k
+，
+北 f
+京 g
+速 g
+途 g
+微 g
+媒 g
+体 g
+总 j
+经 k
+理 k
+范 l
+超 m
+伟 m
+、
+北 f
+京 g
+速 g
+途 g
+网 g
+络 g
+副 j
+总 k
+裁 k
+王 l
+晓 m
+莉 m
+与 a
+创 a
+业 a
+者 a 
+们 a
+就 a
+电 h
+子 i
+商 i
+务 i
+的 ai
+发 a
+展 a
+趋 a
+势 a
+、
+创 a
+新 a
+创 a
+业 a
+的 a
+模 a
+式 a
+、
+产 a
+学 a
+研 a
+的 a
+合 a
+作 a
+进 a
+行 a
+了 a
+深 a
+入 a
+的 a
+讨 a
+论 a
+
+本 a
+届 a
+论 a
+坛 a
+以 a
+研 a
+究 a
+服 h
+务 i
+产 i
+业 i
+、
+产 h
+业 i
+反 i
+馈 i
+研 a
+究 a
+，
+促 a
+进 a
+产 a
+学 a
+研 a
+充 a
+分 a
+交 a
+流 a
+，
+增 a
+进 a
+电 h
+子 i
+商 i
+务 i
+创 a
+新 a
+创 a
+业 a
+领 a
+域 a
+的 a
+研 a
+究 a
+与 a
+讨 a
+论 a
+
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+1 a
+月 a
+7 a
+日 a
+，
+由 a
+计 n
+算 o
+机 o
+系 o
+主 a
+办 a
+的 a
+第 p
+五 q
+届 q
+中 q
+国 q
+人 q
+民 q
+大 q
+学 q
+计 q
+算 q
+机 q
+系 q
+学 q
+术 q
+节 q
+在 a
+信 r
+息 s
+楼 s
+四 s
+层 s
+学 s
+术 s
+报 s
+告 s
+厅 s
+成 a
+功 a
+举 a
+办 a
+，
+信 n
+息 o
+学 o
+院 o
+前 j
+院 k
+长 k
+王 l
+珊 m
+教 j
+授 k
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+校 j
+长 k
+助 k
+理 k
+、
+理 f
+工 g
+学 g
+科 g
+建 g
+设 g
+处 g
+处 j
+长 k
+杜 l
+小 m
+勇 m
+教 j
+授 k
+，
+信 n
+息 o
+学 o
+院 o
+党 j
+委 k
+书 k
+记 k
+陈 l
+红 m
+教 j
+授 k
+，
+副 j
+院 k
+长 k
+李 l
+翠 m
+平 m
+教 j
+授 k
+、
+张 l
+孝 m
+教 j
+授 k
+及 a
+多 a
+位 a
+来 a
+自 a
+国 a
+内 a
+外 a
+著 a
+名 a
+高 a
+校 a
+计 h
+算 i
+机 i
+领 a
+域 a
+的 a
+专 a
+家 a
+学 a
+者 a
+出 a
+席 a
+了 a
+本 a
+次 a
+活 a
+动 a
+
+本 a
+年 a
+度 a
+学 a
+术 a
+节 a
+的 a
+主 a
+题 a
+是 a
+“ a
+大 a
+数 a
+据 a
+分 a
+析 a
+与 a
+挖 a
+掘 a
+” a
+，
+通 a
+过 a
+研 a
+讨 a
+会 a
+的 a
+形 a
+式 a
+着 a
+重 a 
+探a
+讨 a
+大 a
+数 a
+据 a
+背 a
+景 a
+下 a
+的 a
+数 a
+据 a
+分 a
+析 a
+技 a
+术 a
+及 a
+相 a
+关 a
+应 a
+用 a
+
+学 a
+术 a
+节 a
+分 a
+为 a
+两 a
+个 a
+部 a
+分 a
+，
+上 a
+午 a
+是 a
+专 a
+题 a
+学 a
+术 a
+报 a
+告 a
+，
+主 a
+讲 a
+嘉 a
+宾 a
+是 a
+来 a
+自 a
+数 h
+据 i
+挖 i
+掘 i
+领 a
+域 a
+的 a
+专 a
+家 a
+学 a
+者 a
+，
+包 a
+括 a
+伊 n
+利 o
+诺 o
+伊 o
+大 o
+学 o
+厄 o
+巴 o
+纳 o
+- o
+香 o
+槟 o
+分 o
+校 o
+的 a
+J l
+i m
+a m
+w m
+e m
+i m
+H m
+a m
+n m
+教 j
+授 k
+，
+伊 n
+利 o
+诺 o
+伊 o
+大 o
+学 o
+芝 o
+加 o
+哥 o
+分 o
+校 o
+的 a
+P l
+h m
+i m
+l m
+i m 
+p m
+Y m
+u m
+教 j
+授 k
+，
+与 a
+北 n
+京 o
+邮 o
+电 o
+大 o
+学 o
+的 a
+石 l
+川 m
+教 j
+授 k
+
+首 a
+先 a
+由 a
+计 n
+算 o
+机 o
+系 o
+张 l
+延 m
+松 m
+、
+范 l
+举 m
+、
+张 l
+峰 m
+等 a
+多 a
+位 a
+老 a
+师 a
+分 a
+享 a
+了 a
+过 a
+去 a
+一 a
+年 a
+发 a
+表 a
+的 a
+优 a
+秀 a
+论 a
+文 a
+，
+论 a
+文 a
+涵 a
+盖 a
+大 h
+数 i
+据 i
+管 i
+理 i
+、
+多 h
+媒 i
+体 i
+、
+信 h
+息 i
+安 i
+全 i
+、
+视 h
+频 i
+搜 i
+索 i
+等 a
+多 a
+个 a
+领 a
+域 a
+，
+展 a
+示 a
+了 a
+计 n
+算 o
+机 o
+系 o
+科 a
+研 a
+的 a
+深 a
+度 a
+和 a
+广 a
+度 a
+
+（ l
+柴 m
+云 m
+鹏 m
+） m
+视 a
+频 a
+描 a
+述 a
+（ l
+金 m
+琴 m
+） m
+三 h
+等 a
+奖 a
+面 a
+向 a
+合 a
+同 a
+的 a
+智 a
+能 a
+合 a
+约 a
+建 a
+模 a
+工 a
+具 a
+（ l
+王 m
+璞 m
+巍 m
+） m
+在 a
+线 a
+论 a
+文 a
+研 a
+究 a
+者 a
+归 a
+属 a
+的 a
+自 a
+动 a
+分 a
+配 a
+（ l
+张 m
+静 m
+） m
+人 a
+脸 a
+相 a
+关 a
+的 a
+真 a
+假 a
+视 a
+频 a
+甄 a
+别 a
+（ l
+杨 m
+刚 m
+） m
+情 h
+感 i
+识 i
+别 i
+（ l
+金 m
+琴 m
+） m
+纪 a 
+念 a
+奖 a
+超 a
+大 a
+视 a
+场 a
+短 a
+时 a
+标 a
+天 a
+文 a
+大 a
+数 a
+据 a
+实 a
+时 a
+分 a
+析 a
+和 a
+管 a
+理 a 
+系 a
+统 a
+A a
+s a
+t a
+r a
+o a 
+S a
+e a
+r a
+v a
+（ l
+孟 m
+小 m
+峰 m
+） m
+S a
+L a
+F a
+: 
+无 a
+需 a
+有 a
+效 a
+种 a
+子 a
+输 a
+入 a
+的 a
+模 a
+糊 a
+测 a
+试 a
+系 a
+统 a
+（ l
+游 m
+伟 m
+） m
+时 a
+序 a
+数 a
+据 a
+库 a
+评 a
+测 a
+工 a
+具 a
+（ l
+覃 m
+雄 m
+派 m
+） m
+图 a
+数 a
+据 a
+库 a
+评 a
+测 a
+工 a
+具 a
+（ l
+覃 m
+雄 m
+派 m
+） m
+非 h
+结 i
+构 i
+化 i
+数 i
+据 i
+库 i
+（ a
+管 a
+理 a
+系 a
+统 a
+） a
+评 a
+测 a
+工 a
+具 a
+（ l
+覃 m
+雄 m
+派 m
+） m
+贝 h
+叶 i
+斯 i
+网 i
+络 i
+结 i
+构 i
+学 a
+习 a
+（ l
+覃 m
+飙 m
+） m
+活 a
+动 a
+最 a
+后 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+校 j
+长 k
+助 k
+理 k
+、
+信 n
+息 o
+学 o
+院 o
+的 a
+前 j 
+院 k
+长 k
+杜 l
+小 m
+勇 m
+教 j
+授 k
+发 a
+表 a
+了 a
+讲 a
+话 a
+
+学 a
+院 a
+教 j
+授 k
+先 a
+后 a
+荣 a
+获 a
+原 d
+电 e
+子 e
+部 e
+科 e
+技 e
+进 e
+步 e
+特 e
+等 e
+奖 e
+、
+国 d
+家 e
+科 e
+技 e
+进 e
+步 e
+二 e
+等 e
+奖 e
+、
+北 d
+京 e
+市 e
+科 e
+技 e
+进 e
+步 e
+一 e
+等 e
+奖 e
+、
+二 e
+等 e
+奖 e
+，
+教 d
+育 e
+部 e
+科 e
+技 e
+进 e
+步 e
+二 e
+等 e
+奖 e
+等 a
+多 a
+项 a
+奖 a
+励 a
+
+目 a
+前 a
+拥 a
+有 a
+教 f
+育 g
+部 g
+数 h
+据 i
+库 i
+与 a
+商 h
+务 i
+智 i
+能 i
+工 i
+程 i
+研 a
+究 a
+中 a
+心 a
+、
+数 h
+据 i
+工 i
+程 i
+与 a
+知 h
+识 i
+工 i
+程 i
+教 f
+育 g
+部 g
+重 a
+点 a
+实 a
+验 a
+室 a
+以 a
+及 a
+北 r
+京 s
+市 s
+数 h
+据 i
+库 i
+产 a
+业 a
+化 a
+基 a
+地 a
+等 a
+多 a
+个 a
+省 a
+部 a
+级 a
+的 a
+研 a
+究 a
+机 a
+构 a
+，
+成 a
+为 a
+我 a
+校 a
+文 a
+理 a
+交 a
+叉 a
+的 a
+一 a
+个 a
+典 a
+范 a
+
+9 a
+月 a
+2 a
+3 a
+日 a
+下 a
+午 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+“ b
+数 c
+学 c
+建 c
+模 c
+竞 c
+赛 c
+辅 c
+导 c
+培 c
+训 c
+体 c
+系 c
+” c
+研 a
+讨 a
+会 a
+在 a
+信 r
+息 s
+楼 s
+4 s
+1 s
+7 s
+会 s
+议 s
+室 s
+顺 a
+利 a
+召 a
+开 a
+
+我 a
+校 a
+教 f
+务 g
+处 g
+处 j
+长 k
+龙 l
+永 m
+红 m
+教 j
+授 k
+，
+信 n
+息 o
+学 o
+院 o
+副 j
+院 k
+长 k
+柯 l
+媛 m
+元 m
+教 j
+授 k
+，
+数 n
+学 o
+系 o
+主 j
+任 k
+林 l
+勇 m
+教 j
+授 k
+出 a
+席 a
+会 a
+议 a
+，
+全 a
+国 a
+大 a
+学 a
+生 a
+数 f
+学 g
+建 g
+模 g
+竞 g
+赛 g
+组 g
+委 g
+会 g
+代 a
+表 a
+清 n
+华 o
+大 o
+学 o
+姜 l
+启 m
+源 m
+教 j
+授 k
+，
+谢 l
+金 m
+星 m
+教 j
+授 k
+，
+北 n
+京 o
+大 o
+学 o
+孙 l
+山 m
+泽 m
+教 j
+授 k
+，
+北 n
+京 o
+理 o
+工 o
+大 o
+学 o
+叶 l
+其 m
+孝 m
+教 j
+授 k
+，
+北 n
+京 o
+航 o
+空 o
+航 o
+天 o
+大 o
+学 o
+李 l
+尚 m
+志 m
+教 j
+授 k
+以 a
+及 a
+兄 a
+弟 a
+院 a
+校 a
+的 a
+骨 a
+干 a
+教 j
+师 k
+莅 a
+临 a
+我 a
+校 a
+
+2 a
+0 a
+1 a
+6 a
+年 a 
+1 a
+0 a
+月 a
+1 a
+2 a
+日 a
+，
+信 n
+息 o
+学 o
+院 o
+2 a
+0 a
+1 a
+6 a
+年 a
+秋 a
+季 a
+学 a
+期 a
+全 b
+体 c
+教 c
+师 c
+大 c
+会 c
+在 a
+信 r
+息 s
+楼 s
+四 s
+层 s
+报 s
+告 s
+厅 s
+顺 a
+利 a
+召 a
+开 a
+
+院 j
+长 k
+文 l
+继 m
+荣 m
+教 j
+授 k
+、
+党 j
+委 k
+书 k
+记 k
+陈 l
+红 m
+教 j
+授 k
+、
+副 j
+院 k
+长 k
+李 l
+翠 m
+平 m
+教 j
+授 k
+、
+柯 l
+媛 m
+元 m
+教 j
+授 k
+、
+党 j
+委 k
+副 k
+书 k
+记 k
+张 l
+国 m
+富 m
+老 a
+师 a
+以 a
+及 a
+1 a
+0 a
+0 a
+余 a
+名 a
+教 j
+职 k
+工 k
+参 a
+加 a
+了 a
+此 a
+次 a
+大 a
+会 a
+
+朱 l
+青 m
+、
+刘 l
+雨 m
+晴 m
+荣 a
+获 a
+“ d
+从 e
+教 e
+三 e
+十 e
+年 e
+” e
+荣 a
+誉 a
+
+龚 l
+新 m
+奇 m
+、
+张 l
+映 m
+悦 m
+荣 a
+获 a
+2 d
+0 e
+1 e
+5 e
+级 e
+本 e
+科 e
+生 e
+军 e
+训 e
+工 e
+作 e
+先 e
+进 e
+个 e
+人 e
+
+张 l
+伦 m
+传 m
+《 a
+关 a
+于 a
+安 a
+装 a
+电 a
+动 a
+车 a
+充 a
+电 a
+站 a
+》 a
+的 a
+提 a
+案 a
+获 a
+评 a
+教 d
+代 e
+会 e
+优 e
+秀 e
+提 e
+案 e
+
+柴 l
+云 m
+鹏 m
+、
+李 l
+倩 m
+荣 a
+获 a
+2 d
+0 e
+1 e
+6 e
+年 e
+度 e
+教 e
+学 e
+优 e
+秀 e
+奖 e
+
+学 j
+生 k
+党 k
+总 k
+支 k
+书 k
+记 k
+由 a
+信 n
+息 o
+学 o
+院 o
+党 j
+委 k
+副 k
+书 k
+记 k
+张 l
+国 m
+富 m
+老 a
+师 a
+担 a
+任 a
+，
+由 a
+学 a
+生 a
+正 a
+式 a
+党 a
+员 a
+担 a
+任 a
+副 j
+书 k
+记 k
+及 a
+委 j
+员 k
+，
+直 a
+接 a
+对 a
+学 f
+院 g
+党 g
+委 g
+负 a
+责 a
+，
+直 a
+接 a
+管 a
+理 a
+服 a
+务 a
+各 a
+学 f
+生 g
+党 g
+支 g
+部 g
+工 a
+作 a
+
+保 a
+证 a
+有 a
+足 a
+够 a
+的 a
+时 a
+间 a
+与 a
+精 a
+力 a
+2 a
+、
+有 a
+过 a
+学 a
+生 a
+党 j
+支 k
+部 k
+书 k
+记 k
+或 a
+委 j
+员 k
+工 a
+作 a
+经 a
+验 a
+（ a
+二 a
+） a
+学 a
+生 a
+党 j
+总 k
+支 k
+组 k
+织 k
+委 k
+员 k
+（ a
+2 a
+人 a
+） a
+1 a
+、
+熟 a
+悉 a
+学 a
+生 a
+党 a
+员 a
+发 a
+展 a
+流 a
+程 a
+，
+保 a
+证 a
+有 a
+足 a
+够 a
+的 a
+时 a
+间 a
+与 a
+精 a
+力 a
+2 a
+、
+组 a
+织 a
+过 a
+学 a
+院 a
+党 a
+校 a
+、
+党 a
+课 a
+学 a
+习 a
+小 a
+组 a
+者 a
+优 a
+先 a
+（ a
+三 a
+） a
+学 a
+生 a
+党 j
+总 k
+支 k
+宣 k
+传 k
+委 k
+员 k
+( a
+2 a
+人 a
+) a
+1 a
+、
+熟 a
+悉 a
+网 h
+络 i
+新 i
+闻 i
+、
+文 a
+字 a
+功 a
+底 a
+较 a
+好 a
+，
+保 a
+证 a
+有 a
+足 a
+够 a
+的 a
+时 a
+间 a
+与 a
+精 a
+力 a
+2 a
+、 
+擅 a
+长 a
+写 a
+作 a
+新 a
+闻 a
+稿 a
+、
+拍 a
+摄 a
+照 a
+片 a
+（ a
+四 a
+） a
+纪 j
+律 k
+检 k
+查 k
+委 k
+员 k
+兼 a
+理 j
+论 k
+学 k
+习 k
+委 k
+员 k
+（ a
+1 a
+人 a
+） a
+1 a
+、
+遵 a
+守 a
+、
+贯 a
+彻 a
+和 a
+维 a
+护 a
+党 a
+章 a
+，
+严 a
+守 a
+纪 a
+律 a
+，
+具 a
+有 a
+扎 a
+实 a
+的 a
+理 a
+论 a
+知 a
+识 a
+基 a
+础 a
+
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+1 a
+月 a
+4 a
+日 a
+至 a
+6 a
+日 a
+，
+第 b
+三 c
+届 c
+中 c
+日 c
+智 c
+慧 c
+养 c
+老 c
+论 c
+坛 c
+在 a
+我 a
+院 a
+成 a
+功 a
+举 a
+办 a
+
+根 a
+据 a
+学 a
+校 a
+2 a
+0 a
+1 a
+9 a
+年 a
+文 a
+明 a
+宿 a
+舍 a
+、 
+优 a
+秀 a
+宿 a
+舍 a
+长 a
+评 a
+审 a
+工 a
+作 a
+安 a
+排 a
+及 a
+2 a
+0 a
+1 a
+8 a
+- a
+2 a
+0 a
+1 a
+9 a
+学 a
+年 a
+学 a
+校 a
+、
+学 a
+院 a
+宿 a
+舍 a
+督 a
+查 a
+成 a
+绩 a
+，
+产 a
+生 a
+我 a
+院 a
+推 a
+荐 a
+文 a
+明 a
+宿 a
+舍 a
+名 a
+单 a
+，
+现 a
+公 a
+示 a
+如 a
+下 a
+：
+宿 a
+舍 a
+名 a
+称 a
+宿 a
+舍 a
+人 a
+数 a
+宿 a
+舍 a
+长 a
+所 a
+在 a
+班 a
+级 a
+学 a
+校 a
+督 a
+查 a
+成 a
+绩 a
+学 a
+院 a
+督 a
+查 a
+成 a
+绩 a
+拟 a
+推 a
+荐 a
+奖 a
+项 a
+东 r
+风 s
+六 s
+楼 s
+4 s
+0 s
+2 s
+6 s
+李 l
+世 m
+超 m
+2 a
+0 a
+1 a
+8 a
+级 a
+理 a
+科 a
+试 a
+验 a
+6 a
+班 a
+优 d
+秀 e
+优 e
+秀 e
+十 e
+佳 e
+宿 e
+舍 e
+对 a
+上 a
+述 a
+名 a
+单 a
+如 a
+有 a
+意 a
+见 a
+建 a
+议 a
+，
+请 a
+于 a
+1 a
+1 a
+月 a
+2 a
+0 a
+日 a
+前 a
+发 a
+送 a
+邮 a
+件 a
+至 a
+x a
+i a
+a a
+o a
+t a
+o a
+n a
+g a
+w a
+a a
+n a
+g a
+@ a
+r a
+u a
+c a
+. a
+e a
+d a
+u a
+. a
+c a
+n a
+
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+1 a
+月 a
+1 a
+3 a
+日 a
+下 a
+午 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+信 n
+息 o
+学 o
+院 o
+2 p
+0 q
+1 q
+9 q
+级 q
+新 q
+生 q
+导 q
+师 q
+引 q
+航 q
+计 q
+划 q
+启 q
+动 q
+仪 q
+式 q
+在 a
+信 r
+息 s
+楼 s
+四 s
+楼 s
+报 s
+告 s
+厅 s
+成 a
+功 a
+举 a
+办 a
+
+党 f
+委 g
+学 g
+生 g
+工 g
+作 g
+部 g
+部 j
+长 k
+罗 l
+建 m
+晖 m
+，
+信 n
+息 o
+学 o
+院 o
+院 j
+长 k
+文 l
+继 m
+荣 m
+、
+党 j
+委 k
+书 k
+记 k
+陈 l
+红 m
+、
+副 j
+院 k
+长 k
+张 l
+孝 m
+、
+党 j
+委 k
+副 k
+书 k
+记 k
+张 l
+国 m
+富 m
+，
+以 a
+及 a
+信 n
+息 o
+学 o
+院 o
+2 a
+0 a
+1 a
+9 a
+级 a
+全 a
+体 a
+新 a
+生 a
+及 a
+其 a
+引 a
+航 a
+导 j
+师 k
+出 a
+席 a
+了 a
+启 a
+动 a
+仪 a
+式 a
+，
+本 a
+次 a
+活 a
+动 a
+由 a
+张 l
+孝 m
+副 j
+院 k
+长 k
+主 a
+持 a
+
+1 a
+1 a
+月 a
+1 a
+1 a
+日 a
+，
+我 a
+院 a
+计 n
+算 o
+机 o
+系 o
+有 a
+幸 a
+邀a
+请 a
+到 a
+西 n
+澳 o
+大 o
+利 o
+亚 o
+计 o
+算 o
+机 o
+系 o
+的 a
+刘 l
+微 m
+教 j
+授 k
+做 a
+客 a
+“ b
+信 c
+息 c
+讲 c
+坛 c
+” c
+，
+为 a
+广 a
+大 a
+师 a
+生 a
+带 a
+来 a
+精 a
+彩 a
+的 a
+学 a
+术 a
+报 a
+告 a
+“ a
+从 a
+文 a
+本 a
+中 a
+知 a
+识 a
+图 a
+谱 a
+的 a
+构 a
+造 a
+” a
+
+刚 a
+刚 a
+结 a
+束 a
+的 a
+2 a
+0 a
+1 a
+9 a
+年 a
+I b
+C c
+D c
+M c
+大 a
+会 a
+中 a
+,
+刘 f
+老 g
+师 g
+团g
+队 g
+在 a
+知 a
+识 a
+图 a
+谱 a
+构 a
+建 a
+的 a
+任 a
+务 a
+中 a
+取 a
+得 a
+了 a
+冠 a
+军 a
+的 a
+好 a
+成 a
+绩 a
+
+班 a
+级 a
+上 a
+报 a
+的 a
+同 a
+学 a
+中 a
+，
+有 a
+获 a
+评 a
+过 a
+学 p
+习 q
+类 q
+奖 q
+学 q
+金 q
+（ q
+含 q
+国 q
+奖 q
+、 
+国 q
+家 q
+励 q
+志 q
+） q
+
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+1 a
+月 a
+9 a
+日 a
+，
+“ a
+我 a
+和 a
+我 a
+的 a
+祖 a
+国 a
+” a
+庆 a
+祝 a
+建 a
+国 a
+7 a
+0 a
+周 a
+年 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+教 p
+职 q
+工 q
+乒 q
+乓 q
+球 q
+团 q
+体 q
+赛 q
+在 a
+世 r
+纪 s
+馆 s
+北 s
+2 s
+0 s
+1 s
+室 s
+顺 a
+利 a
+举 a
+行 a
+
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+0 a
+月 a
+2 a
+9 a
+日 a
+晚 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o 
+学o
+信 n
+息 o
+学 o
+院 o
+第 p
+十 q
+届 q
+萨 q
+师 q
+煊 q
+精 q
+英 q
+基 q
+金 q
+颁 q
+奖 q
+典 q
+礼 q
+于 a
+求 r
+是 s
+楼 s
+八 s
+百 s
+人 s
+大 s
+教 s
+室 s
+隆 a
+重 a
+举 a
+行 a
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+副 j
+校 k
+长 k
+杜 l
+鹏 m
+教 j
+授 k
+，
+校 j
+长 m
+助 m
+理 m
+、
+理 f
+工 g
+学 g
+科 g
+建 g
+设 g
+处 g
+处 j
+长 k
+杜 l
+小 m
+勇 m
+教 j
+授 k
+，
+教 f
+育 g
+基 g
+金 g
+会 g
+秘 j
+书 k
+长 k
+郭 l
+海 m
+鹰 m
+，
+信 n
+息 o
+学 o
+院 o
+前 j
+党 k
+委 k
+书 k
+记 k
+林 l
+颐 m
+，
+1 a
+9 a
+9 a
+2 a
+级 a
+校 a
+友 a
+陈 l
+利 m
+强 m
+，
+2 a
+0 a
+0 a
+3 a
+级 a
+校 a
+友 a
+于 l
+超 m
+，
+现 a
+任 a
+院 j
+长 k
+文 l
+继 m
+荣 m
+教 j
+授 k
+，
+党 j
+委 k
+书 k
+记 k
+兼 a
+副 j
+院 k
+长 k
+陈 l
+红 m
+教 j
+授 k
+，
+副 j
+院 k
+长 k
+李 l
+翠 m
+平 m
+教 j
+授 k
+、
+张 l
+孝 m
+教 j
+授 k
+，
+党 j
+委 k
+副 k
+书 k
+记 k
+张 l
+国 m
+富 m
+等 a
+嘉 a
+宾 a
+出 a
+席 a
+了 a
+此 a
+次 a
+颁 a
+奖 a
+典 a
+礼 a
+
+2 a
+0 a
+1 a
+9 a
+年 a
+初 a
+， 
+我 a
+院 a
+杜 l
+小 m
+勇 m
+、
+王 l
+珊 m
+教 j
+授 k
+等 a
+老 f
+师 g
+团 g
+队 g
+完 a
+成 a
+的 a
+《 p
+数 q
+据 q
+库 q
+管 q
+理 q
+系 q
+统 q
+核 q
+心 q
+技 q
+术 q
+的 q
+创 q
+新 q
+与 q
+金 q
+仓 q
+数 q
+据 q
+库 q
+产 q
+业 q
+化 q
+》 q
+项 a
+目 a
+获 a
+评 a
+国 d
+家 e
+科 e
+技 e
+进 e
+步 e
+二 e
+等 e
+奖 e
+，
+这 a
+也 a
+是 a
+人 n
+民 o
+大 o
+学 o
+史 a
+上 a
+所 a
+获 a
+的 a
+最 a
+高 a
+国 a
+家 a
+级 a
+奖 a
+项 a
+，
+二 a
+位 a
+老 a
+师 a
+也 a
+作 a
+为 a
+新 a
+中 a
+国 a
+成 a
+立 a
+后 a
+获 a
+得 a
+国 a
+家 a
+级 a
+表 a
+彰 a
+奖 a
+励 a
+人 a
+员 a
+，
+获 a
+得 a
+了 a
+“ p
+庆 q
+祝 q
+中 q
+华 q
+人 q
+民 q
+共 q
+和 q
+国 q
+成 q
+立 q
+7 q
+0 q
+周 q
+年 q
+” q
+纪 a
+念 a
+章 a
+
+此 a
+次 a
+二 a
+位 a
+老 a
+师 a
+更 a
+是 a
+代 a
+表 a
+获 a
+奖 a
+团 a
+队 a
+将 a
+国 d
+家 e
+科 e
+技 e
+进 e
+步 e
+二 e
+等 e
+奖 e
+的 a
+奖 a
+金 a
+捐 a
+献 a
+给 a
+了 a
+萨 f
+师 g
+煊 g
+精 g
+英 g
+基 g
+金 g
+，
+杜 l
+鹏 m
+副 j
+校 k
+长 k
+代 a
+表 a
+人 f
+大 g
+教 g
+育 g
+基 g
+金 g
+会 g
+，
+接 a
+受 a
+我 a
+院 a
+杜 l
+小 m
+勇 m
+教 m
+授 m
+捐 a
+赠 a
+
+接 a
+下 a
+来 a
+杜 l
+鹏 m
+副 j
+校 k
+长 k
+、
+文 l
+继 m
+荣 m
+院 j
+长 k
+、
+郭 l
+海 m
+鹰 m
+秘 j
+书 k
+长 k
+、
+陈 l
+红 m
+书 j
+记 k
+上 a
+台 a
+为 a
+1 a
+4 a
+名 a
+获 a
+得 a
+第 d
+十 e
+届 e
+萨 e
+师 e
+煊 e
+精 e
+英 e
+基 e
+金 e
+一 e
+等 e
+奖 e
+的 a
+同 a
+学 a
+颁 a
+奖 a
+
+1 a
+9 a
+9 a
+2 a
+级 a
+校 a
+友 a
+陈 l
+利 m
+强 m
+、
+2 a
+0 a
+0 a
+3 a
+级 a
+校 a
+友 a
+于 l
+超 m
+为 a
+获 a
+得 a
+萨 d
+师 e
+煊 e
+精 e
+英 e
+基 e
+金 e
+二 e
+等 e
+奖 e
+的 a
+同 a
+学 a
+颁 a
+发 a
+获 a
+奖 a
+证 a
+书 a
+
+在 a
+此 a
+基 a
+础 a
+上 a
+，
+1 a
+0 a
+月 a
+2 a
+8 a
+日 a
+上 a
+午 a
+，
+信 n 
+息 o
+学 o
+院 o
+领 b
+导 c
+班 c
+子 c
+调 c
+研 c
+成 c
+果 c
+交 c
+流 c
+会 c
+在 a
+信 r
+息 s
+楼 s
+2 s
+5 s
+7 s
+会 s
+议 s
+室 s
+召 s
+开 s
+
+信 n
+息 o
+学 o
+院 o
+党 j
+委 k
+书 k
+记 k
+兼 a
+副 j
+院 k
+长 k
+陈 l
+红 m
+，
+院 j
+长k
+文 l
+继 m
+荣 m
+，
+副 j
+院 k
+长 k
+左 l
+美 m
+云 m
+、
+李 l
+翠 m
+平 m
+、
+张 l
+孝 m
+，
+副 j
+书 k
+记 k
+张 l
+国 m
+富 m
+参 a
+会 a
+，
+我 a
+校 a
+主 a
+题 a
+教 a
+育 a
+第 f
+五 g
+指 g
+导 g
+组 g
+副 j
+组 k
+长 k
+邢 l
+姝 m
+和 a
+组 a
+员 a
+赵 l
+禾 m
+列 a
+席 a
+
+信 n
+息 o
+学 o
+院 o
+第 p
+十 q
+届 q
+萨 q
+师 q
+煊 q
+精 q
+英 q
+基 q
+金 q
+奖 q
+学 q
+金 q
+申 a
+报 a
+评 a
+选 a
+工 a
+作 a
+自 a
+1 a
+0 a
+月 a
+1 a
+0 a
+日 a
+起 a
+开 a
+展 a
+，
+经 a
+学 a
+生 a
+本 a
+人 a
+自 a
+主 a
+申 a
+报 a
+、
+萨 f
+师 g
+煊 g
+精 g
+英 g
+基 g
+金 g
+理 g
+事 g
+会 g
+全 a
+体 a
+成 a
+员 a
+评 a
+阅 a
+审 a
+议 a
+，
+产 a
+生 a
+本 a
+届 a
+萨 p
+师 q
+煊 q
+精 q
+英 q
+基 q
+金 q
+奖 q
+学 q
+金 q
+获 a
+奖 a
+名 a
+单 a
+，
+现 a
+公 a
+示 a
+如 a
+下 a
+：
+萨 f
+师 g
+煊 g
+精 g
+英 g
+基 g
+金 g
+秘 g
+书 g
+处 g
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+0 a
+月 a
+2 a
+8 a
+日 a
+
+1 a
+0 a
+月 a
+2 a
+1 a
+- a
+2 a
+5 a
+日 a
+，
+多 h
+媒 i
+体 i
+领 a
+域 a
+顶 a
+级 a
+国 a
+际 a
+会 a
+议 a
+A b
+C c
+M c
+M c
+u c
+l c
+t c
+i c
+m c
+e c
+d c
+i c
+a c
+( c
+A c
+C c
+M c
+M c
+M c
+) c
+2 a
+0 a
+1 a
+9 a
+在 a
+美 a
+丽 a
+的 a
+法 r
+国 s
+南 s
+部 s
+城 s
+市 s
+尼 s
+斯 s
+举 a
+行 a
+
+金 l
+琴 m
+副 j
+教 k
+授 k
+团 a
+队 a
+共 a
+发 a
+表 a
+三 a
+篇 a
+长 a
+文 a
+，
+并 a
+受 a
+邀 a
+做 a
+论 a
+文 a
+报 a
+告 a
+
+除 a
+此 a
+之 a
+外 a
+，
+团 a
+队 a
+还 a
+在 a
+A p
+u q
+d q
+i q
+o q
+- q
+V q
+i q
+s q
+u q
+a q
+l q
+E q
+m q
+o q
+t q
+i q
+o q
+n q
+C q
+h q
+a q
+l q
+l q
+e q
+n q
+g q
+e q
+( q
+A q
+V q
+E q
+C q
+) q
+和 a
+R p
+e q
+l q
+a q
+t q
+i q
+o q
+n q
+U q
+n q
+d q
+e q
+r q
+s q
+t q
+a q
+n q
+d q
+i q
+n q
+g q
+i q
+n q
+V q
+i q
+d q
+e q
+o q
+s q
+G q
+r q
+a q
+n q
+d q
+C q
+h q
+a q
+l q
+l q
+e q
+n q
+g q
+e q
+两 a
+项 a
+挑 a
+战 a
+赛 a
+上 a
+分 a
+别 a
+取 a
+得 a
+了 a
+第 a
+一 a
+名 a
+和 a
+第 a
+二 a
+名 a
+的 a
+好 a
+成 a
+绩 a
+
+（ a
+从 a
+左 a
+至 a
+右 a
+依 a
+次 a
+是 a
+:
+宋 l
+宇 m
+晴 m
+，
+金 l
+琴 m
+，
+陈 l
+师 m
+哲 m
+，
+郑 l
+思 m
+鹏 m
+） a
+A b
+C c
+M c
+M c
+u c
+l c
+t c
+i c
+m c
+e c
+d c
+i c
+a c
+( c
+A c
+C c
+M c
+M c
+M c
+) c
+是 a
+多 h
+媒 i
+体 i
+领 a
+域 a
+最 a
+具 a
+影 a
+响 a
+力 a
+的 a
+国 a
+际 a
+会 a
+议 a
+
+陈 l
+师 m
+哲 m
+（ a
+博 a
+五 a
+） a
+，
+郑 l
+思 m
+鹏 m
+（ a
+博 a
+二 a
+） a
+，
+宋 l
+宇 m
+晴 m
+（ a
+研 a
+一 a
+） a
+三 a
+名 a
+同 a
+学 a
+分 a
+别 a
+在 a
+B a
+r a
+a a
+v a
+e a
+N a
+e a
+w a
+I a
+d a
+e a
+a a
+s a
+,
+M a
+e a
+d a
+i a
+a a
+I a
+n a
+t a
+e a
+r a
+p a
+r a
+e a
+t a
+a a
+t a
+i a
+o a
+n a
+, a
+V a
+i a
+s a
+i a
+o a
+n a
+a a
+n a
+d a
+L a
+a a
+n a
+g a
+u a
+a a
+g a
+e a
+三 a
+个 a
+不 a
+同 a
+的 a
+主 a
+题 a
+下 a
+以 a
+第 a
+一 a
+作 a
+者 a
+身 a
+份 a
+发 a
+表 a
+论 a
+文 a
+，
+其 a
+中 a
+陈 l
+师 m
+哲 m
+、
+宋 l
+宇 m
+晴 m
+做 a
+了 a
+大 a
+会 a
+o a
+r a
+a a
+l a
+报 a
+告 a
+
+（ p
+A q
+V q
+E q
+C q
+挑 q
+战 q
+赛 q
+获 a
+得 a
+冠 a
+军 a
+） a
+除 a
+此 a
+之 a
+外 a
+，
+团 a
+队 a
+还 a
+参 a
+加 a
+了 a
+R p
+e q
+l q
+a q
+t q
+i q
+o q
+n q
+U q
+n q
+d q
+e q
+r q
+s q
+t q
+a q
+n q
+d q
+i q
+n q
+g q
+i q
+n q
+V q
+i q
+d q
+e q
+o q
+s q
+挑 q
+战 q
+赛 q
+
+ー a
+、
+培 a
+养 a
+目 a
+标 a
+本 a
+实 a
+验 a
+班 a
+培 a
+养 a
+具 a
+有 a
+扎 a
+实 a
+的 a
+数 h
+学 i
+和 a
+计 h
+算 i
+机 i
+科 i
+学 i
+与 i
+技 i
+术 i
+基 a
+础 a
+，
+能 a
+从 a
+事 a
+各 a
+领 a
+域 a
+的 a
+计 h
+算 i
+机 i
+与 a
+信 h
+息 i
+系 i
+统 i
+开 a
+发 a
+、
+应 a
+用 a
+、
+管 a
+理 a
+、
+建 h
+模 i
+与 i
+分 i
+析 i
+的 a
+交 a
+叉 a
+复 a
+合 a
+型 a
+人 a
+才 a
+
+本 a
+实 a
+验 a
+班 a
+含 a
+数 h
+学 i
+与 a
+应 h
+用 i
+数 i
+学 i
+专 a
+业 a
+、
+计 h
+算 i
+机 i
+科 i
+学 i
+与 i
+技 i
+术 i
+专 a
+业 a
+、
+信 h
+息 i
+管 i
+理 i
+与 i
+信 i
+息 i
+系 i
+统 i
+专 a
+业 a
+、
+信 h
+息 i
+安 i
+全 i
+专 i
+业 i
+和 a
+软 h
+件 i
+工 i
+程 i
+专 i
+业 i
+业 i
+、
+数 h
+据 i
+科 i
+学 i
+与 i
+大 i
+数 i
+据 i
+技 i
+术 i
+专 i
+业 i
+
+1 a
+0 a
+月 a
+1 a
+9 a
+- a
+2 a
+0 a
+日 a
+，
+第 p
+4 q
+4 q
+届 q
+国 q
+际 q
+大 q
+学 q
+生 q
+程 q
+序 q 
+设 q
+计 q
+竞 q
+赛 q
+亚 r
+洲 s
+区 a
+域 a
+赛 a
+银 r
+川 s
+站 a
+比 a
+赛 a
+在 a
+宁 n
+夏 o
+理 o
+工 o
+大 o
+学 o
+成 a
+功 a
+举 a
+办 a
+，
+人 n
+大 o
+信 o
+息 o
+学 o
+院 o
+选 a
+手 a
+勇 a
+夺 a
+金 a
+牌 a
+
+我 a
+院 a
+派 a
+出 a
+两 a
+支 a
+队 a
+伍 a
+参 a
+赛 a
+，
+分 a
+别 a
+是 a
+2 a
+0 a
+1 a
+7 a
+级 a
+图 a
+灵 a
+班 a
+刘 l
+佳 m
+伟 m
+、
+汪 l
+文 m
+峰 m
+和 a
+2 a
+0 a
+1 a
+9 a
+级 a
+图 a
+灵 a
+班 a
+汪 l
+元 m
+森 m
+组 a
+成 a
+的 a
+“ f
+t g
+h g
+e g
+I g
+C g
+P g
+C g
+E g
+x g
+t g
+r g
+e g
+m g
+e g
+（ g
+I g
+C g
+P g
+C g
+歼 g
+殛 g
+战 g
+） g
+” g
+队 g
+、
+2 a
+0 a
+1 a
+9 a
+级 a
+图 a
+灵 a
+班 a
+王 l
+子 m
+恒 m
+、
+舒 l
+文 m
+铜 m
+、
+高 l
+一 m
+鸣 m
+组 a
+成 a
+的 a
+“ f
+F g
+a g
+t g
+N g
+o g
+r g
+m g
+a g
+l g
+T g
+h g
+i g
+n g
+（ g
+三 g
+个 g
+和 g
+尚 g
+） g
+” g
+队 g
+，
+信 n
+息 o
+学 o
+院 o
+朱 l
+青 m
+教 j
+授 k
+担 a
+任 a
+总 j
+教 k
+练 k
+，
+学 a
+院 a
+办 a
+公 a
+室 a
+张 l
+晓 m
+莹 m
+老 j
+师 k
+领 a
+队 a
+
+预 a
+祝 a
+我 a
+院 a
+学 a
+子 a
+在 a
+接 a
+下 a
+来 a
+其 a
+他 a
+站 a
+的 a
+比 a
+赛 a
+中 a
+，
+能 a
+够 a
+继 a
+续 a
+勇 a
+往 a
+直 a
+前 a
+， a
+再 a
+创 a
+佳 a
+绩 a
+！
+第 p
+4 q
+4 q
+届 q
+I q
+C q
+P q
+C q
+亚 q
+洲 q
+区 q
+域 q
+赛 q
+银 q
+川 q
+站 q
+金 q
+奖 q
+获 a
+得 a
+者 a
+（ a
+左 a
+起 a
+：
+汪 l
+文 m
+峰 m
+、
+刘 l
+佳 m
+伟 m
+、
+汪 l
+元 m
+森 m
+） a
+第 p
+4 q
+4 q
+届 q
+I q
+C q
+P q
+C q
+亚 q
+洲 q
+区 q
+域 q
+赛 q
+银 q
+川 q
+站 q
+铜 q
+奖 q
+获 a
+得 a
+者 a
+（ a
+左 a
+起 a
+：
+高 l
+一 m
+鸣 m
+、
+舒 l
+文 m
+铜 m
+、
+王 l
+子 m
+恒 m
+） a
+国 p
+际 q
+大 q
+学 q
+生 q
+程 q
+序 q
+设 q
+计 q
+竞 q
+赛 q
+简 a
+介 a
+：
+A p
+C q
+M q
+国 q
+际 q
+大 q
+学 q
+生 q
+程 q
+序 q
+设 q
+计 q
+竞 q
+赛 q
+（ a
+英  a
+文 a
+全 a
+称 a
+：
+A p
+C q
+M q
+I q
+n q
+t q
+e q
+r q
+n q
+a q
+t q
+i q
+o q
+n q
+a q
+l q
+C q
+o q
+l q
+l q
+e q
+g q
+i q
+a q
+t q
+e q
+P q
+r q
+o q
+g q
+r q
+a q
+m q
+m q
+i q
+n q
+g q
+C q
+o q
+n q
+t q
+e q
+s q
+t q
+（ q
+简 a
+称 a
+A p
+C q
+M q
+- q
+I q
+C q
+P q
+C q
+或 a
+I p
+C q
+P q
+C q
+）q
+）q
+是 a
+由 a
+国 f
+际 g
+计 g
+算 g
+机 g
+协 g
+会 g
+（ g
+A g
+C g
+M g
+） g
+主 a
+办 a
+的 a
+，
+一 a
+项 a
+旨 a
+在 a
+展 a
+示 a
+大 a
+学 a
+生 a
+创 a
+新 a
+能 a
+力 a
+、
+团 a
+队 a
+精 a
+神 a
+和 a
+在 a
+压 a
+力 a
+下 a
+编 a
+写 a
+程 a
+序 a
+、
+分 a 
+析 a
+和 a
+解 a
+决 a
+问 a
+题 a
+能 a
+力 a
+的 a
+年 a
+度 a
+竞 a
+赛 a
+
+2 a
+0 a
+1a
+9 a
+年 a
+1 a
+0 a
+月 a
+1 a
+7 a
+日 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+信 n
+息 o
+学 o
+院 o
+智 j
+慧 k
+养 k
+老 k
+研 k
+究 k
+所 k
+所 k
+长 k
+左 l
+美 m
+云 m
+教 j
+授 k
+主 a
+持 a
+的 a
+2 a
+0 a
+1 a
+9 a
+年 a
+度 a
+教 f
+育 g
+部 g
+哲 p
+学 q
+社 q
+会 q
+科 q
+学 q
+研 q
+究 q
+重 q
+大 q
+课 q
+题 q
+攻 q
+关 q
+项 a
+目 a
+“ b
+智 c
+慧 c
+化 c
+养 c
+老 c
+服 c
+务 c
+研 c
+究 c
+” c
+开 a
+题 a
+论 a
+证 a
+会 a
+在 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+信 r
+息 s
+楼 s
+举 a
+行 a
+
+北 n
+京 o
+大 o
+学 o
+老 j
+年 k
+学 k
+研 k
+究 k
+所 k
+所 k
+长 k
+陈 l
+功 m
+教 j
+授 k
+、
+南 n
+京 o
+大 o
+学 o
+信 n
+息 o
+管 o
+理 o
+学 o
+院 o
+副 j
+院 k
+长 k
+朱 l
+庆 m
+华 m
+教 j
+授 k
+、
+哈 n
+尔 o
+滨 o
+工 o
+业 o
+大 o
+学 o
+电 f
+子 g
+健 g
+康 g
+研 g
+究 g
+所 g
+执 j
+行 k
+所 k
+长 k
+郭 l
+熙 m
+铜 m
+教 j
+授 k
+、
+中 n
+央 o
+财 o
+经 o
+大 o
+学 o
+信 h
+息 i
+学 i
+院 j
+副 k
+院 k
+长 k
+冯 l
+海 m
+旗 m
+教 j
+授 k
+、
+合 n
+肥 o
+工 o
+业 o
+大 o
+学 o
+安 l
+宁 m
+教 j
+授 k
+、
+国 f
+务 g
+院 g
+发 g
+展 g
+研 g
+究 g
+中 g
+心 g
+办 j
+公 k 
+厅 k
+副 k
+主 k
+任 k
+张 l
+力 m
+副 j
+研 k
+究 k
+员 k
+、
+北 n
+京 o
+市 o
+科 o
+学 o
+技 o
+术 o
+研 o
+究 o
+院 o
+智 f
+慧 g
+健 g
+康 g
+养 g
+老 g
+研 g
+究 g
+所 g
+所 j
+长 k
+刘 l
+建 m
+兵 m
+博 j
+士 k
+、
+中 f
+国 g
+老 g
+年 g
+学 g
+和 a
+老 f
+年 g
+医 g
+学 g
+学 g
+会 g
+智 f
+慧 g
+医 g
+养 g
+分 g
+会 g
+副 j
+主 k
+任 k
+及 a
+北 f
+京 g
+怡 g
+凯 g
+智 g
+能 g
+科 g
+技 g
+有 g
+限 g
+公 g
+司 g
+王 l
+杰 m
+董 j
+事 k
+长 k
+、
+汕 n
+头 o
+大 o
+学 o
+商 n
+学 o
+院 o
+周 l
+军 m
+杰 m
+副 j
+教 k
+授 k
+等 a
+专 j
+家 k
+参 a
+加 a
+了 a
+会 a
+议 a
+
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+0 a
+月 a
+1 a
+6 a
+日 a
+，
+由 a
+中 f
+国 g
+计 g
+算 g
+机 g
+学 g
+会 g
+主 a
+办 a
+的 a
+第 p
+四 q
+届 q
+C q
+C q
+S q
+P q
+大 q
+学 q
+生 q
+计 q
+算 q
+机 q
+系 q
+统 q
+与 q
+程 q
+序 q
+设 q
+计 q
+竞 q
+赛 q
+在 a
+苏 n
+州 o
+市 o
+职 o
+业 o
+大 o
+学 o
+顺 a
+利 a
+举 a
+办 a
+，
+本 a
+次 a
+比 a
+赛 a
+吸 a
+引 a
+了 a
+来 a
+自 a
+清 n
+华 o
+大 o
+学 o
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+、
+国 n
+防 o
+科 o
+技 o
+大 o
+学 o
+、
+华 n
+中 o
+科 o
+技 o
+大 o
+学 o
+、
+上 n
+海 o
+交 o
+通 o
+大 o
+学 o
+、
+哈 n
+尔 o
+滨 o
+工 o
+业 o
+大 o
+学 o
+等a
+全 a
+国 a
+7 a
+5 a
+所 a
+高 a
+校 a
+的 a
+4 a
+6 a
+1 a
+名 a
+大 a
+学 a
+生 a
+计 h
+算 i
+机 i
+选 a
+手 a
+参 a
+赛 a
+，
+我 a
+校 a
+共 a
+有 a
+9 a
+位 a
+同 a
+学 a
+参 a
+赛 a
+，
+其 a
+中 a
+2 a
+位 a
+为 a
+大 a
+四 a
+学 a
+生 a
+，
+7 a
+位 a
+为 a
+大 a
+三 a
+学 a
+生 a
+，
+共 a
+获 a
+三 a
+金 a
+、
+三 a
+银 a
+、
+一 a
+铜 a
+，
+院 a
+校 a
+排 a
+名 a
+第 a
+5 a
+的 a
+历 a
+史 a
+最 a
+好 a
+成 a
+绩 a
+，
+指 j
+导 k
+教 k
+师 k
+为 a
+卢 l
+卫 m
+副 j
+教 k
+授 k
+、
+张 l
+孝 m
+教 j
+授 k
+
+人 f
+大 g
+代 g
+表 g
+队 g
+全 a
+体 a
+成 a
+员 a
+，
+参 a
+赛 a
+学 a
+生 a
+左 a
+起 a
+依 a
+次 a
+为 a
+梁 l
+钧m
+凯 m
+、
+唐 l
+天 m
+一 m
+、
+吴  l
+宇 m
+宁 m
+、
+张 l
+若 m
+琦 m
+、
+何 l
+宗 m
+炎 m
+、
+汪 l
+文 m
+峰 m
+、
+刘 l
+佳 m
+伟 m
+、
+杨 l
+越 m
+千 m
+、
+门 l
+高 m
+翔 m
+，
+以 a
+及 a
+卢 l
+卫 m
+老 j
+师 k
+大 p
+学 q
+生 q
+计 q
+算 q
+机 q 
+系 q
+统 q
+与 q
+程 q
+序 q
+设 q
+计 q
+竞 q
+赛 q
+（ a
+简 a
+称 a
+C p
+C q
+S q
+P q
+） q
+由 a
+中 f
+国 g
+计 g
+算 g
+机 g
+学 g
+会 g
+主 a
+办 a
+，
+侧 a
+重 a
+考 a
+查 a
+个 a
+人 a
+的 a
+编 a
+程 a
+能 a
+力 a
+和 a
+对 a
+计 h
+算 i
+机 i
+系 i
+统 i
+的 a
+整 a
+体 a
+把 a
+控 a
+能 a
+力 a
+，
+是 a
+全 a
+国 a
+计 h
+算 i
+机 i
+最 a
+高 a
+水 a
+平 a
+的 a
+大 a
+学 a
+生 a
+竞 a
+赛 a
+之 a
+一 a
+
+1 a
+0 a
+月 a
+2 a
+1 a
+日 a
+下 a
+午 a
+，
+信 n
+息 o
+学 o
+院 o
+党 f
+委 g
+组 g
+织 g
+参 a
+观 a
+了 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+“ p
+初 q
+心 q
+· q
+家q
+书 q
+” q
+主 q
+题 q
+教 q 
+育 q 
+展 q
+，
+进 p
+行 q
+“ q
+不 q
+忘 q
+初 q
+心 q
+、 
+牢 q
+记 q
+使 q
+命 q
+” q
+主 q
+题 q
+教 q
+育 q
+现 a
+场 a
+学 a
+习 a
+，
+并 a
+举 a
+行 a
+了 a
+学 a
+生 a
+预 a
+备 a
+党 a
+员 a
+入 a
+党 a
+宣 a
+誓 a
+仪 a
+式 a
+
+信 n
+息 o
+学 o
+院 o
+党 j
+委 k
+书 k
+记 k
+兼 a
+副 j
+院 k
+长 k
+陈 l
+红 m
+，
+副 j
+院 k
+长 k
+左 l
+美 m
+云 m
+、
+张 l
+孝 m
+，
+副 j
+书 k
+记 k
+张 l
+国 m
+富 m
+，
+人 n
+工 o
+智 o
+能 o
+学 o
+院 o
+副 j
+院 k
+长 l
+卢 m
+斌 m
+，
+信 n
+息 o
+学 o
+院 o
+学 a
+生 a
+预 a
+备 a
+党 a
+员 a
+参 a
+加 a
+了 a
+此 a
+次 a
+活 a
+动 a
+
+1 a
+0 a
+月 a
+1 a
+6 a
+至 a
+1 a
+8 a
+日 a
+，
+第 p
+二 q
+届 q
+之 q
+江 q
+杯 q
+全 q
+球 q
+人 q
+工 q
+智 q
+能 q
+大 q
+赛 q
+决 q
+赛 q
+在 a
+杭 r
+州 s
+顺 a
+利 a
+举 a
+办 a
+
+金 l
+琴m
+副 j
+教 k
+授 k
+团 a
+队 a
+在 a
+技 a
+术 a
+挑 a
+战 a
+赛 a
+视 a
+频 a
+描 a
+述 a
+生 a
+成 a
+赛 a
+题 a
+上 a
+，
+成 a
+功 a
+在 a
+2 a
+1 a
+4 a
+个 a
+队 a
+伍 a
+中 a
+脱 a
+颖 a
+而 a
+出 a
+，
+勇 a
+夺 a
+冠 a
+军 a
+，
+并 a
+获 a
+得 a
+3 a
+0 a
+万 a
+人 a
+民 a
+币 a
+的 a
+奖 a
+金 a
+奖 a
+励 a
+
+这 a
+是 a
+金 l
+琴 m
+副 j
+教 k
+授 k
+团 a
+队 a
+继 a
+M p
+S q
+R q
+“ q
+V q
+i q
+d q
+e q
+o q
+t q
+o q
+L q
+a q
+n q
+g q
+u q
+a q
+g q
+e q
+” q
+G q
+r q
+a q
+n q
+d q
+C q
+h q
+a q
+l q
+l q
+e q
+n q
+g q
+e q
+，
+C q
+V q
+P q
+R q
+A q
+c q
+t q
+i q
+v q
+i q
+t q
+y q
+N q
+e q
+t q
+“ q
+D q
+e q
+n q
+s q
+e q
+V q
+i q
+d q
+e q
+o q
+C q
+a q
+p q
+t q
+i q
+o q
+n q
+i q
+n q
+g q
+” q
+C q
+h q
+a q
+l q
+l q
+e q
+n q
+g q
+e q
+， q
+N q
+I q
+S q
+T q
+T q
+R q
+E q
+C q
+V q
+I q
+D q
+“ q
+V q
+i q
+d q
+e q
+o q
+t q
+o q
+T q
+e q
+x q
+t q
+D q
+e q
+s q
+c q
+r q
+i q
+p q
+t q
+i q
+o q
+n q
+” q
+C q
+h q
+a q
+l q
+l q
+e q
+n q
+g q
+e q
+等 a
+国 a
+际 a
+赛 a
+事 a
+连 a
+续 a
+夺 a
+冠 a
+后 a
+，
+再 a
+次 a
+在 a
+该 a
+任 a
+务 a
+上 a
+夺 a
+得 a
+冠 a
+军 a
+，
+展 a
+现 a
+了 a
+该 a
+团 a
+队 a
+在 a
+图 a
+片 a
+/ a
+视 h
+频 i
+描 i
+述 i
+生 i
+成 i
+领 a
+域 a
+领 a
+先 a
+的 a
+科 a
+研 a
+水 a
+平 a
+
+此 a
+次 a
+参 a
+赛 a
+队 a
+伍 a
+学 a
+生 a
+成 a
+员 a
+包 a
+括 a
+：
+宋 l
+宇 m
+晴 m
+，
+赵 l
+一 m
+达 m
+，
+陈 l
+师 m
+哲 m
+
+之 p
+江 q
+杯 q
+全 q
+球 q
+人 q
+工 q
+智 q
+能 q
+大 q
+赛 q
+是 a
+由 a
+之 a
+江 a
+实 a
+验 a
+室 a
+承 a
+办 a
+，
+阿 f
+里 g
+巴 g
+巴 g
+集 g
+团 g
+赞 a
+助 a
+的 a
+大 a
+型 a
+国 a
+际 a
+性 a
+赛 a
+事 a
+
+大 a
+赛 a
+共 a
+设 a
+置 a
+了 a
+四 a
+个 a
+赛 a
+题 a
+，
+分 a
+为 a
+技 a
+术 a
+挑 a
+战 a
+赛 a
+（ h
+视 i
+频 i
+描 i
+述 i
+生 i
+成 i
+） i
+和 a
+创 a
+新 a
+赛 a
+（ h
+零 i
+样 i
+本 i
+目 i
+标 i
+检 i
+测 i
+，
+行 h
+人 i
+多 i
+目 i
+标 i
+跟 i
+踪 i
+，
+电 h
+商 i
+评 i
+论 i
+观 i
+点 i
+挖 i
+掘 i
+） i
+两 a
+类 a
+赛 a
+题 a
+
+1 a
+0 a
+月 a
+1 a
+4 a
+日 a
+，
+信 n
+息 o 
+学 o
+院 o
+学 b
+生 c
+党 c
+建 c
+促 c
+进 c
+会 c
+换 c
+届 c
+大 c
+会 c
+在 a
+信 r
+息 s
+楼 s
+2 s
+5 s
+7 s
+会 s
+议 s
+室 s
+顺 a
+利 a
+召 a
+开 a
+
+此 a
+次 a
+会 a
+议 a
+由 a
+信 n
+息 o
+学 o
+院 o
+上 a
+一 a
+届 a
+学 a
+生 a
+党 j
+建 k
+促 k
+进 k
+会 k
+主 k
+席 k
+王 l
+永 m
+璐 m
+同 a
+志 a
+主 a
+持 a
+，
+学 j
+院 k
+党 k
+团 k
+学 k
+办 k
+公 k
+室 k
+主 k
+任 k
+杜 l
+忠 m
+朝 m
+老 j
+师 k
+、
+党 j
+务k
+秘 k
+书 k
+刘 l
+沛 m
+然 m
+老 j
+师 k
+、
+各 a
+学 j
+生 k
+党 k
+支 k
+部 k
+书 k
+记 k
+、
+原 j
+学 k
+生 k
+党 k
+建 k
+促 k
+进 k
+会 k
+委 k
+员 k
+及 a
+委 a
+员 a
+候 a
+选 a
+人 a
+参 a
+加 a
+了 a
+会 a
+议 a
+
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+0 a
+月 a
+9 a
+日 a
+，
+应 a 
+我 a
+院 a
+王 l
+珊 m
+教 j
+授 k
+邀 a
+请 a
+，
+蚂 a
+蚁 a
+金 a
+服 a
+高 a
+级 a
+研 a
+究 a
+员 a
+阳 l
+振 m
+坤 m
+博 a
+士 a
+来 a
+人 n
+民 o
+大 o
+学 o
+信 n
+息 o
+学 o
+院 o
+作 a
+报 a
+告 a
+，
+介 a
+绍 a
+由 a
+他 a
+本 a
+人 a
+负 a
+责 a
+的 a
+蚂 a
+蚁 a
+金 a
+服 a
+O a
+c a
+e a
+a a
+n a
+B a
+a a
+s a
+e a
+数 h
+据 i
+库 i
+
+这 a
+一 a
+由 a
+阿 a
+里 a
+巴 a
+巴 a
+自 a
+主 a
+研 a
+发 a
+的 a
+分 h
+布 i
+式 i
+数 i
+据 i
+库 i
+此 a
+前 a
+刚 a
+刚 a
+在 a
+业 a
+内 a
+认 a
+可 a
+的 a
+国 a
+际 a
+赛 a
+事 a
+T a
+P a
+C a
+- a
+C a
+基 a
+准 a
+测 a
+试 a
+上 a
+，
+击 a
+败 a
+连 a
+续 a
+9 a
+年 a
+垄 a
+断 a
+榜 a
+单 a
+的 a
+O l
+r m
+a m
+c m
+l m
+e m
+，
+获 a
+得 a
+全 a
+球 a
+第 a
+一 a
+的 a
+佳 a
+绩 a
+
+今 a
+年 a
+两 a
+会 a
+传 a
+递 a
+出 a
+的 a
+复 h
+苏 i
+经 i
+济 i
+、
+拉 h
+动 i
+内 i
+需 i
+的 a
+一 a
+揽 a
+子 a
+政 a
+策 a
+引 a
+人 a
+关 a
+注 a
+
+广 a
+州 a
+日 a
+报 a
+：
+今 a
+年 a
+减 a
+税 a
+降 a
+费 a
+超 a
+过 a
+2 a
+. a
+5 a
+万 a
+亿 a
+元 a
+，
+怎 a
+么 a
+让 a
+小 a
+企 a
+业 a
+，
+尤 a
+其 a
+是 a
+小 a
+微 a
+企 a
+业 a
+也 a
+能 a
+够 a
+享 a
+受 a
+到 a
+政 a 
+策 a
+的 a
+红 a
+利 a
+？
+刘 l
+元 m
+春 m
+：
+第 a
+一 a
+，
+针 a
+对 a
+小 a
+微 a
+企 a
+业 a
+税 a
+负 a
+减 a
+免 a
+要 a
+有 a
+专 a
+门 a
+的 a
+政 a
+策 a
+规 a
+划 a
+，
+因 a
+为 a
+他 a
+们 a
+交 a
+税 a
+的 a
+方 a
+式 a
+不 a
+一 a
+样 a
+
+今 a
+年 a
+李 l
+克 m
+强 m
+总 j
+理 k
+在 a
+政 a
+府 a
+工 a
+作 a
+报 a
+告 a
+里 a
+做 a
+了 a
+清 a
+楚 a
+的 a
+说 a
+明 a
+，
+不 a
+设 a
+定 a
+G a
+D a
+P a
+增 a
+速 a
+目 a
+标 a
+，
+核 a
+心 a
+原 a
+因 a
+是 a
+疫 a
+情 a
+和 a
+经 a
+贸 a
+形 a
+势 a
+具 a
+有 a
+高 a
+度 a
+的 a
+不 a
+确 a
+定 a
+性 a
+，
+为 a
+了 a
+聚 a
+焦 a
+“ a
+六 a
+保 a
+” a
+工 a
+作 a
+的 a
+落 a
+实 a
+，
+而 a
+不 a
+让 a
+各 a
+级 a
+单 a
+位 a
+在 a
+简 a
+单 a
+地 a
+实 a
+现 a
+G a
+D a
+P a
+增 a
+速 a
+目 a
+标 a
+的 a
+传 a
+统 a
+做 a
+法 a
+中 a
+妨 a
+碍 a
+“ a
+六 a
+保 a
+” a
+政 a
+策 a
+的 a
+落 a
+实 a
+，
+故 a
+今 a
+年 a
+暂 a
+时 a
+不 a
+设 a
+G a
+D a
+P a
+增 a
+速 a
+目 a
+标 a
+
+目 a
+前 a
+世 f
+界 g
+银 g
+行 g
+、
+I f
+M g
+F g
+、 
+W f
+T g
+O g
+以 g
+及 g
+联 g
+合 g
+国 g
+贸 g
+发 g
+会 g
+议 g
+、
+O f
+E g
+C g
+D g
+等 a
+国 a
+际 a
+机 a
+构 a
+都 a
+在 a
+不 a
+断 a
+地 a
+调 a
+整 a
+他 a
+们 a
+对 a
+世 a
+界 a
+经 a
+济 a
+和 a
+国 a
+际 a
+贸 a
+易 a
+增 a
+速 a
+的 a
+预 a
+测 a
+
+2 a
+0 a
+2 a
+0 a
+年 a
+6 a
+月 a
+份 a
+，
+“ b
+经 c
+济 c
+日 c
+报 c
+— c
+中 c
+国 c
+邮 c
+政 c
+储 c
+蓄 c
+银 c
+行 c
+小 c 
+微 c
+企 c
+业 c
+运 c
+行 c
+指 c
+数 c
+” c
+较 a
+上 a
+月 a
+上 a
+升 a
+0 a
+.
+1 a
+个 a
+点 a
+
+日 a
+前 a
+发 a
+布 a
+的 a
+《 a
+中 a
+共 a
+中 a
+央 a
+国 a
+务 a
+院 a
+关 a
+于 a
+新 a 
+时 a
+代 a
+加 a
+快 a
+完 a
+善 a
+社 a
+会 a
+主 a
+义 a
+市 a
+场 a
+经 a
+济 a
+体 a
+制 a
+的 a
+意 a
+见 a
+》 a
+（ a
+以 a
+下 a
+简 a
+称 a
+《 a
+意 a
+见 a
+》 a
+） a
+，
+为 a
+在 a
+更 a
+高 a
+起 a
+点 a
+、
+更 a
+高 a
+层 a
+次 a
+、
+更 a
+高 a
+目 a
+标 a
+上 a
+推 a
+进 a
+经 a
+济 a
+体 a
+制 a
+改 a
+革 a
+及 a
+其 a
+他 a
+各 a
+方 a
+面 a
+体 a
+制 a
+改 a
+革 a
+，
+构 a
+建 a
+更 a
+加 a
+系 a
+统 a
+完 a
+备 a
+、
+更 a
+加 a
+成 a
+熟 a
+定 a 
+型 a
+的 a
+高 a
+水 a
+平 a
+社 a
+会 a
+主 a
+义 a
+市 a
+场 a
+经 a
+济 a 
+体 a
+制 a
+，
+激 a
+发 a
+市 a
+场 a
+主 a
+体 a
+活 a
+力 a
+，
+提 a
+供 a
+了 a
+行 a
+动 a
+指 a
+南 a
+
+王 l
+晋 m
+斌 m
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+经 n
+济 o
+学 o
+院 o
+常 j
+务 k
+副 k
+书 k
+记 k
+、
+国 j
+家 k
+发 k
+展 k
+与 k
+战 k
+略 k
+研 k
+究 k
+院 k
+研 k
+究 k
+员 k
+、
+中 j
+国 k
+宏 k
+观 k
+经 k
+济 k
+论 k
+坛 k
+（ k
+C k
+M k
+F k
+） k
+主 k
+要 k
+成 k
+员 k
+截 a
+止 a
+7 a
+月 a
+1 a
+3 a
+日 a
+上 a
+午 a 
+1 a
+1 a
+： a
+3 a
+0 a
+，
+年 a
+初 a
+至 a
+今 a
+中 r
+国 s
+股 a
+市 a
+股 a
+指 a
+涨 a
+幅 a
+已 a
+经 a
+是 a
+引 a
+领 a
+全 a
+球 a
+了 a
+
+美 r
+国 s
+三 a
+大 a
+股 a
+指 a
+中 a
+涨 a
+幅 a
+最 a
+高 a
+的 a
+N a
+A a
+S a
+D a
+A a
+Q a
+年 a
+初 a
+至 a
+今 a
+的 a
+涨 a
+幅 a
+为 a
+1 a
+8 a
+. a
+3 a
+3 a
+% a
+，
+而 a
+D a
+J a
+和 a
+标 a
+普 a
+5 a
+0 a
+0 a
+年 a
+初 a
+至 a
+今 a
+分 a 
+别 a
+下 a
+跌 a
+了 a
+8 a
+. a
+6 a
+3 a
+% a
+和 a
+1 a
+. a
+4 a
+2 a
+% a
+
+除 a
+了 a
+上 a
+证 a
+指 a
+数 a
+和 a
+沪 a
+深 a
+3 a
+0 a
+0 a
+以 a
+外 a
+，
+中 a
+小 a
+板 a
+指 a
+和 a
+创 a
+业 a
+板 a
+指 a
+的 a
+P a
+/ a
+E a 
+（ a
+T a
+T a
+M a
+） a
+均 a
+突 a
+破 a
+4 a
+0 a
+，
+分
+别 a
+达 a
+到 a
+了 a
+4 a
+0 a
+. a
+8 a
+和 a
+7 a
+8 a
+. a
+8 a
+倍 a
+（ a
+图 a
+2 a
+） a
+，
+考 a
+虑 a
+到 a
+2 a
+0 a
+1 a
+9 a
+年 a
+中 a
+小 a
+板 a
+和 a
+创 a
+业 a
+板 a
+的 a
+商 a
+誉 a
+减 a
+值 a
+、
+今 a
+年 a
+1 a
+季 a
+度 a
+疫 a
+情 a
+大 a
+幅 a
+度 a
+的 a
+业 a
+绩 a
+冲 a
+击 a
+以 a
+及 a
+是 a
+P a
+/ a
+E a
+（ a
+T a
+T a
+M a
+） a
+的 a
+计 a
+算 a
+，
+这 a
+样 a
+高 a
+的 a
+市 a
+盈 a
+率 a
+也 a
+是 a
+比 a
+较 a
+高 a
+了 a
+，
+尤 a
+其 a
+是 a
+创 a
+业 a
+板 a
+指 a
+数 a
+的 a
+P a
+E a
+（ a
+T a
+T a
+M a
+） a
+已 a
+经 a
+有 a
+脱 a
+离 a
+基 a
+础 a
+估 a
+值 a
+的 a
+倾 a
+向 a
+了 a
+
+图 a
+2 a
+、
+中 a
+国 a
+股 a
+市 a
+几 a
+大 a
+股 a
+指 a
+的 a
+P a
+/ a
+E a
+( a
+T a
+T a
+M a
+) a
+数 a
+据 a
+来 a
+源 a
+：
+W a
+I a
+N a
+D a
+进 a
+一 a
+步 a
+从 a
+创 a
+业 a
+板 a
+财 a
+务 a
+数 a
+据 a
+的 a
+关 a
+键 a
+比 a
+率 a
+来 a
+看 a
+，
+依 a
+据 a
+W a
+I a
+N a
+D a
+的 a 
+数 a
+据 a
+，
+和 a
+过 a
+去 a
+2 a
+年 a
+相 a 
+比a 
+ 
+除 a
+了 a
+毛 a
+利 a
+率 a
+和 a
+净 a
+利 a
+率 a
+有 a
+所 a
+改 a
+善 a
+外 a
+，
+总 a
+资 a
+产 a
+报 a
+酬 a
+率 a
+和 a
+股 a
+东 a
+报 a
+酬 a
+率 a
+已 a
+经 a
+大 a
+幅 a
+度 a
+下 a
+降 a
+，
+尤 a
+其 a
+是 a
+总 a
+资 a
+产 a
+报 a
+酬 a
+率 a
+的 a
+急 a
+剧 a
+下 a
+降 a
+，
+意 a
+味 a
+着 a
+企 a
+业 a
+增 a
+加 a
+杠 a
+杆 a
+只 a
+会 a
+带 a
+来 a
+股 a
+东 a
+报 a
+酬 a
+率 a
+（ a
+R a
+O a
+E a
+） a
+的 a
+进 a
+一 a
+步 a
+下 a
+降 a
+，
+因 a
+为 a
+R a
+O a
+A a
+已 a
+经 a
+低 a
+于 a
+债 a 
+务 a
+的 a
+税 a
+后 a
+收 a
+益 a
+率 a
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+科 j
+研 k
+助 k
+理 k
+招 a
+聘 a
+启 a
+事 a
+为 a 
+贯 a 
+彻 a
+落 a
+实 a
+《 a
+科 f
+技 g
+部 g
+教 f
+育 g
+部 g
+人 f
+力 g
+资 g
+源 g
+社 g
+会 g
+保 g
+障 g
+部 g
+财 f
+政 g
+部 g
+中 f
+科 g
+院 g
+自 g
+然 g
+科 g
+学 g
+基 g
+金 g
+委 g
+关 a
+于 a
+鼓 a
+励 a
+科 a
+研 a
+项 a
+目 a
+开 a
+发 a
+科 a
+研 a
+助 a
+理 a
+岗 a
+位 a
+吸 a
+纳 a
+高 a
+校 a
+毕 a
+业 a
+生 a
+就 a
+业 a
+的 a
+通 a
+知 a
+》 a
+（ a
+国 a
+科 a
+发 a
+资 a
+〔 a
+2 a
+0 a
+2 a
+0 a
+〕 a
+1 a
+3 a
+2 a
+号 a
+） a
+和 a
+《 f
+教 g
+育 g
+部 g
+办 a
+公 a
+厅 a
+关 a
+于 a
+高 a
+等 a
+学 a
+校 a
+进 a
+一 a
+步 a
+做 a
+好 a
+开 a
+发 a
+科 a
+研 a
+助 a
+理 a
+岗 a
+位 a 
+吸 a
+纳 a
+毕 a
+业 a
+生 a
+就 a
+业 a
+工 a
+作 a
+的 a
+通 a
+知 a
+》 a
+（ a
+教 a
+科 a
+技 a
+厅 a
+函 a
+〔 a
+2 a
+0 a
+2 a
+0 a
+〕a
+2 a
+3 a
+号 a
+） a
+精 a
+神 a
+，
+我 a
+校 a
+现 a
+面 a
+向 a
+高 a
+校 a
+应 a
+届 a
+毕 a
+业 a
+生 a
+招 a
+聘 a
+科 j
+研 k
+助 k
+理 k
+岗 a
+位 a
+若 a
+干 a
+
+一 a
+、
+岗 a 
+位 a
+简 a
+介 a
+科 j
+研 k
+助 k
+理 k
+岗 a
+位 a
+是 a
+学 a
+校 a
+根 a
+据 a
+科 a
+研 a
+任 a
+务 a
+需 a
+要 a
+设 a
+立 a
+的 a
+，
+为 a
+科 a
+研 a
+项 a
+目 a
+研 a
+究 a
+、
+实 a
+验 a
+（ a
+工 a
+程 a
+） a
+设 a
+施 a
+运 a
+行 a
+维 a
+护 a
+和 a
+实 a
+验 a
+技 a
+术 a
+、
+科 a
+技 a
+成 a
+果 a
+转 a
+化 a
+、
+科 a
+研 a
+事 a
+务 a
+以 a
+及 a
+学 a
+术 a
+研 a
+究 a
+等 a
+提 a
+供 a
+辅 a
+助 a
+性 a
+工 a
+作 a
+的 a
+岗 a
+位 a
+
+二 a
+、
+岗 a
+位 a
+要 a
+求 a
+经 n
+济 o
+学 o
+院 o
+张 j
+老 k
+师 k
+0 a
+1 a
+0 a
+- a
+6 a
+2 a
+5 a
+4 a
+9 a
+6 a
+5 a
+0 a
+m a
+a a
+d a
+d a
+i a
+e a
+2 a
+2 a
+@ a
+1 a
+2 a
+6 a
+. a
+c a
+o a
+m a
+科 j
+研 k
+助 k
+理 k
+协 a
+助 a
+科 a
+研 a
+人 a
+员 a
+开 a
+展 a
+科 a
+研 a
+活 a
+动 a
+，
+包 a
+括 a
+处 a
+理 a
+各 a
+项 a
+行 a
+政 a
+性 a
+事 a
+务 a
+、
+科 a
+研 a
+项 a
+目 a
+预 a
+决 a
+算 a
+管 a
+理 a
+、
+科 a
+研 a
+经 a
+费 a
+报 a
+销 a
+，
+以 a
+及 a
+其 a
+他 a
+与 a
+科 a
+研 a
+活 a
+动 a
+紧 a
+密 a
+相 a
+关 a
+的 a
+事 a
+项 a
+1 a
+硕 a
+士 a
+学 a
+位 a
+经 n
+济 o
+学 o
+院 o
+杨 j
+老 k
+师 k
+y a
+r a
+5 a
+3 a
+1 a
+4 a
+9 a
+9 a
+1 a
+@ a
+1 a
+6 a
+3 a
+. a
+c a
+o a
+m a
+中 n
+国o
+经 o
+济 o
+改 o
+革 o
+与 o
+发 o
+展 o
+研 o
+究 o
+院 o
+刘 j
+老 k
+师 k
+0 a
+1 a
+0 a
+- a
+8 a
+2 a
+5 a 
+0 a
+9 a
+0 a
+7 a
+9 a
+1 a
+3 a
+4 a
+2 a
+6 a
+4 a
+8 a
+8 a
+2 a
+0 a
+7 a
+@ a
+1 a
+6 a
+3 a
+. a
+c a
+o a
+m a
+科 j
+研 k
+助 k
+理 k
+协 a
+助 a
+科 a
+研 a
+人 a
+员 a
+开 a
+展 a
+科 a
+研 a
+活 a
+动 a
+，
+包 a
+括 a
+处 a
+理 a
+各 a
+项 a
+行 a
+政 a
+性 a
+事 a
+务 a
+、
+科 a
+研 a
+项 a
+目 a
+预 a
+决 a
+算 a
+管 a
+理 a
+、
+科 a
+研 a
+经 a
+费 a
+报 a
+销 a
+，
+以 a
+及 a
+其 a
+他 a
+与 a
+科 a
+研 a
+活 a
+动 a 
+紧 a
+密 a
+相 a
+关 a
+的 a
+事 a
+项 a
+1 a
+硕 a
+士 a
+学 a
+位 a 
+经 n
+济 o
+学 o
+院 o
+杨 j
+老 k
+师 k
+y  a
+r a
+5 a
+3 a
+1 a
+4 a
+9 a
+9 a
+1 a
+@ a
+1 a
+6 a
+3 a
+. a
+c a
+o a
+m a
+三 a
+、
+岗 a
+位 a
+待 a
+遇 a
+科 j 
+研 k
+助 k
+理 k
+岗 a
+位 a
+采 a
+用 a
+劳 a
+务 a
+派 a
+遣 a
+的 a
+用 a
+工 a
+形 a
+式 a
+，
+聘 a
+期 a
+两 a
+年 a
+，
+期 a
+满 a
+可 a
+根  a
+据 a
+工 a
+作 a
+需 a
+要 a
+续 a
+签 a
+协 a
+议 a
+
+王 l
+晋 m
+斌 m
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+经 n
+济 o
+学 o
+院 o
+党 j
+委 k
+常 k
+务 k
+副 k
+书 k
+记 k
+、
+国 a
+家 a
+发 a
+展 a
+与 a
+战 a
+略 a
+研 a
+究 a
+院 a
+研 a
+究 a
+员 a
+、
+中 a
+国 a
+宏 a
+观 a
+经 a
+济 a
+论 a
+坛 a
+（ a
+C a
+M a
+F a
+） a
+主 a
+要 a
+成 a
+员 a 
+依 a
+据 a
+中 a
+国 a
+人 a
+民 a
+银 a
+行 a
+网 a
+站 a
+公 a
+布 a
+的 a
+2 a
+0 a
+2 a
+0 a
+年 a 
+1a
+- a
+5 a
+月 a
+份 a
+社 a
+会 a 
+融 a
+资 a
+规 a
+模 a
+增 a
+量 a
+数 a
+据 a
+， 
+中 a
+国 a
+资 a
+本 a
+市 a
+场 a
+上 a
+非 a
+金 a
+融 a
+类 a
+企 a
+业 a
+境 a
+内 a
+股 a
+票 a
+融 a
+资 a
+1 a
+9 a
+2 a
+4 a
+亿 a
+元 a
+，
+企 a
+业 a
+债 a
+券 a
+融 a
+资 a
+近 a
+2 a
+9 a
+9 a
+8 a
+9 a
+亿 a
+元 a
+，
+占 a
+新 a
+增 a
+社 a
+会 a
+融 a
+资 a
+总 a
+规 a
+模 a
+的 a
+1 a
+8 a
+. a
+3 a
+% a
+
+B l
+I m
+S m
+6 a
+月 a
+发 a
+布 a
+了 a
+关 a
+于 a
+《 b
+美 b
+元 b
+融 b
+资 b
+： b
+全 b
+球 b
+视 b
+角 b
+》 b
+的 a
+研 a
+究 a
+报 a
+告 a
+，
+指 a
+出 a
+“ a
+美 a
+元 a
+全 a
+球 a
+复 a
+杂 a
+的 a
+借 a
+贷 a
+网 a
+络 a
+在 a
+降 a
+低 a
+国 a
+际 a
+资 a
+本 a
+流 a
+动 a
+和 a
+风 a
+险 a
+分 a
+配 a
+成 a
+本 a
+方 a
+面 a
+产 a
+生 a
+了 a
+巨 a
+大 a
+的 a
+好 a
+处 a
+，
+但 a
+也 a
+导 a
+致 a
+了 a
+来 a
+自 a
+美 r
+国 s
+或 a
+全 a
+球 a
+其 a
+他 a
+地 a
+方 a
+的 a
+冲 a
+击 a
+传 a
+播 a
+和 a
+放 a
+大 a
+的 a
+脆 a
+弱 a
+性 a
+” a
+
+王 l
+晋 m
+斌 m
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+经 n
+济 o
+学 o
+院 o
+党 j
+委 k
+常 k
+务 k
+副 k
+书 k
+记 k
+、
+国 a
+家 a
+发 a
+展 a
+与 a
+战 a
+略 a
+研 a
+究 a
+院 a
+研 a
+究 a
+员 a
+、
+中 a
+国 a
+宏 a
+观 a
+经 a
+济 a
+论 a
+坛 a
+（ a
+C a
+M a
+F a
+） a
+主 a
+要 a
+成 a
+员 a
+2 a
+0 a
+2 a
+0 a
+年 a
+疫 a
+情 a
+经 a
+济 a
+与 a
+疫 a
+情 a
+金 a
+融 a
+的 a
+大 a
+脱 a
+离 a
+刷 a
+新 a
+了 a
+投 a
+资 a
+者 a
+的 a
+估 a
+值 a
+观 a
+
+截 a
+止 a
+7 a
+月 a
+1 a
+日 a
+标 a
+普 a
+5 a
+0 a
+0 a
+、
+D a
+J a
+市 a
+盈 a
+率 a
+（ a
+T a
+T a
+M a
+） a
+分 a
+别 a
+比 a
+过 a
+去 a
+5 a
+年 a
+（ a
+2 a
+0 a
+1 a
+5 a
+- a
+1 a
+9 a
+） a 
+年 a
+度 a
+均 a
+值 a
+的 a
+市 a
+盈 a
+率 a
+（ a
+T a
+T a
+M a
+） a
+高 a
+出 a
+1 a
+7 a
+. a
+4 a
+% a
+、
+1 a
+3 a
+. a
+2 a
+% a
+
+I a
+M a
+F a
+在 a
+2 a
+0 a
+2 a
+0 a
+年 a
+6 a
+月 a
+的 a
+《 b
+G  c
+l c
+o c
+b c
+a c
+l c
+F c
+i c
+n c
+a c
+n c
+c c
+i c
+a c
+l c
+S c
+t c
+a c
+b c
+i c
+l c 
+i c
+t c
+y c
+R c
+e c
+p c
+o c
+r c
+t c
+U c
+p c
+d c
+a c
+t c 
+e c
+: c
+F c
+i c
+n c
+a c 
+n c
+c c
+i c
+a c
+l c 
+C c
+o c
+n c
+d c
+i c
+t c
+i c
+o c
+n c
+s c
+H c
+a c
+v c 
+e c 
+E c
+a c
+s c
+e c
+d c
+, c
+b c
+u c
+t c
+I c
+n c
+s c
+o c
+l c
+v c
+e c
+n c
+c c
+i c
+e c
+s c
+L c
+o c
+o c
+m c 
+L c
+a c
+r c
+g c
+e c
+》 c
+中 a
+指 a
+出 a
+了 a
+当 a 
+前 a
+金 a
+融 a
+市 a
+场 a
+和 a
+实 a
+体 a
+经 a
+济 a
+的 a
+发 a
+展 a
+出 a
+现 a
+了 a
+脱 a
+节 a
+，
+存 a
+在 a
+的 a
+巨 a
+大 a
+脆 a
+弱 a
+性 a
+，
+并 a
+可 a
+能 a
+对 a
+复 a
+苏 a
+构 a
+成 a
+的 a
+挑 a
+战 a
+，
+也 a
+就 a
+是 a
+说 a
+I a
+M a
+F a
+认 a
+为 a
+，
+疫 a
+情 a
+经 a
+济 a
+与 a
+疫 a
+情 a
+金 a
+融 a
+的 a
+大 a
+脱 a
+离 a
+可 a
+能 a
+会 a
+带 a
+来 a
+资 a
+产 a
+价 a
+格 a
+今 a
+年 a
+第 a
+二 a
+轮 a
+的 a
+剧 a
+烈 a
+调 a
+整 a
+，
+危 a
+害 a
+经 a
+济 a
+的 a
+复 a
+苏 a
+
+2 a
+、
+根 a
+据 a
+国 a
+外 a
+和 a
+历 a
+史 a
+经 a
+验 a
+，
+在 a
+收 a
+益 a
+率 a
+曲 a
+线 a
+上 a
+设 a
+定 a
+利 a
+率 a
+上 a
+限 a
+或 a
+设 a
+定 a
+目 a
+标 a
+，
+这 a
+些 a
+方 a
+法 a
+可 a
+用 a
+于 a
+支 a
+持 a
+远 a
+期 a
+指 a
+导 a
+和 a
+补 a
+充 a
+资 a
+产 a
+购 a
+买 a
+计 a
+划 a
+
+美 a
+联 a
+储 a
+芝  r
+加 s
+哥 s
+储 a
+备 a
+分 a
+行 a
+6 a
+月 a
+1 a
+0 a
+发 a
+布 a
+了 a
+C a
+h a
+i a
+c a
+a a
+g a
+o a
+F a
+e a
+d a
+S a
+u a
+r a
+v a
+e a
+y a
+o a
+f a
+B a
+u a
+s a
+i a
+n a
+e a
+s a
+s a
+C a
+o a
+n a
+d a
+i a
+t a
+i a
+o a
+n a
+s a
+ a
+芝 r
+加 s
+哥 s
+联 a
+储 a
+商 a
+业 a
+状 a
+况 a
+调 a
+查 a
+（ a
+C a
+F a
+S a
+B a
+C a
+） a
+活 a
+动 a
+指 a
+数 a
+从 a
+4 a
+月 a
+份 a
+的 a
+- a
+7 a
+2 a
+增 a
+至 a
+5 a
+月 a
+份 a
+的 a
+- a
+3 a
+2 a
+， a
+表 a
+明 a
+经 a
+济 a
+增 a
+长 a
+仍 a
+远 a
+低 a
+于 a
+趋 a
+势 a
+
+2 a
+0 a
+2 a
+0 a
+年 a
+7 a
+月 a
+2 a
+日 a
+下 a
+午 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+援 p
+外 q
+学 q
+历 q
+项 q
+目 q
+2 a
+0 a
+1 a
+8 a
+级 a
+“ p
+中 q
+国 q
+经 q
+济 q
+” q
+全 a
+英 a
+文 a
+硕 a
+士 a
+毕 a
+业 a
+典 a
+礼 a
+在 a
+明 r
+德 s
+主 s
+楼 s
+7 s
+2 s
+8 s
+会 s
+议 s
+室 s
+隆a
+重 a
+举 a
+行 a
+
+出 a
+席 a
+本 a
+次 a
+典 a
+礼 a
+的 a
+有 a
+经 n
+济 o
+学 o
+院 o
+党 j
+委 k
+书 k
+记 k
+兼 a
+院 j
+长 k
+刘 l
+守 m
+英 m
+教 j
+授 k
+、
+教 j
+师 k
+代 a
+表 a
+章 l
+艳 m
+红 m
+副 j
+教 k
+授 k
+及 a
+援 a
+外 a
+硕 a
+士 a
+项 a
+目 a
+工 a
+作 a
+人 a
+员 a
+
+典 a
+礼 a
+由 a
+经 n
+济 o
+学 o
+院 o
+党 j
+委 k
+副 k
+书 k
+记 k
+李 l
+佩 m
+洁 m
+老 j
+师 k
+主 a
+持 a
+
+刘 l
+守 m
+英 m
+院 j
+长 k
+首 a
+先 a
+向 a
+圆 a
+满 a
+完 a
+成 a
+学 a
+业 a
+的 a
+学 a
+员 a
+表 a
+示 a
+祝 a
+贺 a
+，
+并 a
+回 a
+顾 a
+了 a
+学 a
+员 a
+们 a
+在 a
+人 n
+民 o
+大 o
+学 o
+两 a
+年 a
+快 a
+乐 a
+又 a
+充 a
+实 a
+的 a
+时 a
+光 a
+，
+赞 a
+扬 a
+了 a
+学 a
+员 a
+们 a
+在 a
+新 a
+冠 a
+肺 a
+炎 a
+疫 a
+情 a
+期 a
+间 a
+表 a
+现 a
+出 a
+的 a
+高 a
+度 a
+自 a
+觉 a
+性 a
+和 a
+强 a
+烈 a
+责 a
+任 a
+感 a
+
+线 a
+上 a
+开 a
+学 a
+典 a
+礼 a
+安 a
+排 a
+如 a
+下 a
+：
+时 a
+间 a
+：
+7 a
+月 a
+4 a
+日 a
+9 a
+: a
+0 a
+0 a
+- a
+1 a
+0 a
+: a
+0 a
+0 a
+第 a
+一 a
+项 a
+：
+由 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+经 n
+济 o
+学 o
+院 o
+党 j
+委 k
+副 k
+书 k
+记 k
+李 l
+佩 m
+洁 m
+同 a
+志 a
+致 a
+欢 a
+迎 a
+词 a
+
+第 a
+二 a
+项 a
+：
+由 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+经 f
+济 g
+学 g
+院 g
+培 g
+训 g
+部 g
+教 j
+务 k
+老 k
+师 k
+黄 l
+庆 m
+介 a
+绍 a
+课 a
+程 a
+研 a
+修 a
+班 a
+教 a
+学 a
+安 a
+排 a
+细 a
+则 a
+
+7 a
+月 a
+4 a
+日 a
+1 a
+0 a
+: a
+0 a
+0 a
+开 a
+始 a
+进 a
+行 a
+课 a
+程 a
+研 a
+修 a
+班 a
+网 a
+上 a
+课 a 
+程 a
+学 a
+习 a
+，
+课 a
+程 a
+安 a
+排 a
+如 a
+下 a
+：
+高 h
+级 i
+微 i
+观 i
+经 i
+济 i
+学 i
+课 i
+程 i
+学 a
+习  a
+时 a
+间 a
+：
+2 a
+0 a
+2 a
+0 a
+年 a
+7 a
+月 a
+4 a
+日 a
+至 a
+2 a
+0 a
+2 a
+0 a
+年 a
+7 a
+月 a
+1 a
+0 a
+日 a
+高 h
+级 i
+宏 i
+观 i
+经 i
+济 i
+学 i
+课 i
+程 i
+学 i
+习 a
+时 a
+间 a
+：
+2 a
+0 a
+2 a
+0 a
+年 a
+7 a
+月 a
+2 a
+5 a
+日 a
+至 a
+2 a
+0 a
+2 a
+0 a
+年 a
+7 a
+月 a
+3 a
+1 a
+日 a
+开 a
+课 a
+以 a
+后 a
+，
+通 a
+知 a
+、
+课 a 
+程 a
+安 a
+排 a
+及 a
+书 a
+目 a
+清 a
+单 a
+在 a
+教 a
+务 a
+平 a
+台 a
+查 a
+询 a
+，
+平 a
+台 a
+网 a
+址 a
+链 a
+接 a
+：
+h a
+t a
+t a
+p a
+: a
+/ a
+/ a
+e a
+c a
+o a
+n a
+. a
+r a
+u a
+c a
+. a
+e a
+d a
+u a
+. a
+c a
+n a
+/ a
+g a
+d a
+p a
+x a
+1 a
+/ a
+t a
+d a
+x a
+l a
+j a
+w a
+/ a
+t a
+z a
+g a
+g a
+1 a
+1 a
+/ a
+i a
+n a
+d a
+e a
+x a
+. a
+h a
+t a
+m a
+新 a
+学 a
+员 a
+入 a
+学 a
+后 a
+，
+教 a
+务 a
+问 a
+题 a
+可 a
+直 a
+接 a
+联 a
+系 a
+班 j
+主 k
+任 k
+孟 k
+老 k
+师 k
+联 a
+系 a
+电 a
+话 a
+：
+1 a
+7 a
+7 a
+1 a
+0 a
+1 a
+5 a
+2 a
+5 a
+6 a
+7 a
+在 a
+此 a
+特 a
+别 a
+提 a
+醒 a
+各 a
+位 a
+同 a
+学 a
+：
+特 a
+殊 a
+时 a
+期 a
+大 a
+家 a
+合 a
+理 a
+安 a
+排 a
+工 a
+作 a
+学 a
+习 a
+生 a
+活 a
+，
+按 a
+时 a
+登 a
+录 a
+学 a
+习 a
+平 a
+台 a
+，
+认 a
+真 a
+学 a
+习 a
+，
+积 a
+极 a
+参 a
+加 a
+各 a
+项 a
+学 a
+习 a
+活 a
+动 a
+，
+有 a
+计 a
+划 a
+有 a
+步 a
+骤 a
+的 a
+进 a
+行 a
+学 a
+习 a
+安 a
+排 a
+，
+养 a
+成 a
+良 a
+好 a
+学 a
+习 a
+习 a
+惯 a
+
+6 a
+月 a
+3 a
+0 a
+日 a
+下 a
+午 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+中 o
+国 o
+经 b
+济 c
+改 c
+革 c
+与 c
+发 c
+展 c
+研 c
+究 c
+院 c
+换 c
+届 c
+及 c
+机 c
+构 c
+重 c
+组 c
+专 c
+题 c
+会 c
+召 a
+开 a
+
+校 j
+长 k
+刘 l
+伟 m
+、
+副 j
+校 k
+长 k
+贺 l
+耀 m
+敏 m
+、
+副 j
+校 k
+长 k
+刘 l
+元 m
+春 m
+、
+党 j
+委  k
+副 k
+书 k
+记 k
+齐 l
+鹏 m
+飞 m
+、
+原 j
+副 k
+校 k
+长 k
+林 l
+岗 m
+、
+科 j
+研 k
+处 k
+处 k
+长 k
+严 l
+金 m
+明 m
+、
+经 j
+济 k
+学 k
+院 k
+院 k
+长 k
+刘 l
+守 m
+英 m
+、
+经 j
+济 k
+学 k
+院 k
+教 k
+授 k
+高 l
+德 m
+步 m
+出 a
+席 a
+会 a
+议 a
+
+未 a
+来 a
+研 a
+究 a
+院 a
+这 a
+一 a
+教 f
+育 g
+部 g
+重 a
+点 a
+研 a
+究 a
+基 a
+地 a
+适 a
+度 a
+地 a
+向 a
+理 a
+论 a
+经 a 
+济 a
+学 a
+回 a
+归 a
+，
+保 a
+持 a
+其 a
+财 a
+务 a
+、
+人 a
+事 a
+、
+平 a
+台 a
+独 a
+立 a
+的 a
+前 a
+提 a
+下 a
+，
+将 a
+重 a
+点 a
+打 a
+造 a
+的 a
+四 a
+大 a
+研 a
+究 a
+中 a
+心 a
+注 a
+入 a
+到 a
+研 a
+究 a
+院 a
+这 a
+样 a
+的 a
+一 a
+个 a
+大 a
+平 a
+台 a
+里 a
+面 a
+，
+按 a
+照 a
+新 a
+的 a
+模 a
+式 a
+运 a
+行 a
+
+受 a
+到 a
+疫 a
+情 a
+的 a
+影 a
+响 a
+，
+政 b
+治 c
+经 c
+济 c
+学 c
+论 c
+文 c
+研 c
+讨 c
+会 c
+无 a
+法 a
+以 a
+线 a
+下 a
+形 a
+式 a
+开 a
+展 a
+，
+因 a
+此 a
+与 a
+政 h
+治 i
+经 i
+济 i
+学 i
+主 i
+文 i
+献 i
+课 i
+程 i
+合 a
+并 a
+，
+以 a
+线 a
+上 a
+的 a
+形 a
+式 a
+向 a
+学 a
+生 a
+开 a
+放 a
+
+在 a
+齐 l
+昊 m
+、
+黄 l
+彪 m
+、
+李 l
+直 m
+三 a
+位 a
+老 a
+师 a
+的 a
+指 a
+导 a
+下 a
+，
+配 a
+合 a
+政 h
+治 i
+经 i
+济 i
+学 i
+主 i
+文 i
+献 i
+课 i
+程 i
+的 a
+安 a
+排 a
+，
+从 a
+3 a
+月 a
+开 a
+始 a
+，
+每 a
+周 a
+围 a
+绕 a
+一 a
+个 a
+核 a
+心 a
+主 a
+题 a
+，
+研 a
+读 a
+2 a
+- a
+4 a
+篇 a
+文 a
+献 a
+，
+在 a
+本 a
+学 a
+期 a
+共 a
+进 a
+行 a
+了 a
+1 a
+5 a
+次 a
+研 a
+讨 a
+
+由 a
+齐 l
+昊 m
+老 a
+师 a
+负 a
+责 a
+主 a
+持 a
+的 a
+5 a
+次 a
+研 a
+讨 a
+会 a
+，
+则 a
+更 a
+多 a
+地 a
+关 a
+注 a
+资 a
+本 a
+主 a
+义 a
+生 a
+产 a 
+的 a
+宏 a
+观 a
+方 a
+面 a
+，
+带 a
+领 a
+同 a
+学 a
+们 a
+研 a
+读 a
+了 a
+克 l
+罗 m
+蒂 m
+、
+谢 l
+克 m
+、
+哈 l
+维 m
+、
+弗 l
+利 m
+、
+卡 l
+莱 m
+斯 m
+基 m
+、
+曼 l
+德 m
+尔 m
+等 a
+人 a
+的 a
+文 a
+献 a
+，
+围 a 
+绕 a
+积 h
+累 i
+与 i
+竞 i
+争 i
+，
+有 h
+效 i
+需 i
+求 i
+，
+金 h
+融 i
+与 i
+经 i
+济 i
+周 i
+期 i
+，
+冲 h
+突 i
+与 i
+经 i
+济 i
+周 i
+期 i
+，
+以 a
+及 a
+长 h
+波 i
+理 i
+论 i
+等 a
+理 a
+论 a
+主 a
+题 a
+进 a
+行 a
+了 a
+报 a
+告 a
+、
+学 a
+习 a
+和 a
+讨 a
+论 a
+，
+增 a
+进 a
+了 a
+同 a
+学 a
+们 a
+对 a
+于 a
+资 a
+本 a
+主 a
+义 a
+经 a
+济 a
+中 a
+的 a
+一 a
+些 a
+宏 a
+观 a
+问 a 
+题 a
+的 a
+认 a
+识 a
+与 a
+理 a
+解 a
+
+王 l
+晋 m
+斌 m
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+经 n
+济 o
+学 o
+院 o
+党 j
+委 k
+常 k
+务 k
+副 k
+书 k
+记 k
+、
+国 a
+家 a
+发 a
+展 a
+与 a
+战 a
+略 a
+研 a 
+究 a 
+院 a
+研 a
+究 a
+员 a
+、
+中 a
+国 a
+宏 a
+观 a
+经 a
+济 a
+论 a
+坛 a
+（ a
+C a 
+M a
+F a
+） a
+主 a
+要 a
+成 a
+员 a
+2 a
+0 a
+2 a
+0 a
+年 a
+6 a
+月 a
+1 a
+1 a
+日 a
+美 a
+股 a
+大 a
+跌 a
+，
+又 a
+出 a
+现 a
+剧 a
+烈 a
+调 a
+整 a
+
+D a
+J a
+指 a
+数 a
+大 a
+跌 a
+6 a
+. a
+9 a
+% a
+， a
+N a
+A a
+S a
+D a
+A a
+Q a
+指 a
+数 a
+大 a
+跌 a
+5 a
+. a
+2 a
+7 a
+% a
+，
+标 a
+普 a
+5 a
+0 a
+0 a
+指 a
+数 a
+也 a
+大 a
+跌 a
+5 a
+. a
+8 a
+9 a
+% a
+
+随 a
+后 a
+美 r
+国 s
+三 a
+大 a
+股 a
+指 a
+经 a
+历 a
+了 a
+3 a 
+天a 
+左a
+右 a 
+的a 
+下a
+跌 a
+，
+6 a
+月 a
+1 a
+5 a
+号 a
+美 r
+国 s
+三 a
+大 a
+股 a
+指 a
+收 a
+盘 a
+均 a
+出 a
+现 a
+小 a
+幅 a
+度 a
+上 a
+涨 a
+，
+且 a
+出 a
+现 a
+了 a
+开 a
+盘 a
+1 a
+- a
+2 a
+% a
+的 a
+跌 a
+幅 a
+，
+收 a
+盘 a
+出 a
+现 a
+逆 a
+转 a
+上 a
+涨 a
+现 a
+象 a
+
+该 a
+计 a
+划 a
+终 a
+止 a
+：
+除 a
+非 a
+美 f
+联 g
+储 g
+理 g
+事 g
+会 g
+和 a
+财 f
+政 g
+部 g
+延 a
+长 a
+贷 a
+款 a
+期 a
+限 a
+，
+否 a
+则 a
+贷 a
+款 a
+将 a
+在 a
+2 a
+0 a
+2 a
+0 a
+年 a
+9 a
+月 a
+3 a
+0 a
+日 a
+前 a
+停 a
+止 a
+购 a
+买 a
+合 a
+格 a
+的 a
+个 a
+人 a
+公 a
+司 a
+债 a
+券 a
+、
+合 a
+格 a
+的 a
+广 a
+义 a
+市 a
+场 a
+指 a
+数 a
+债 a
+券 a
+和 a
+合 a
+格 a
+的 a
+E a
+T a
+F a
+
+这 a
+些 a
+公 a
+司 a
+债 a
+包 a
+括 a
+：
+合 a
+格 a
+的 a
+企 a
+业 a
+公 a
+司 a
+债 a
+券 a
+、
+以 a
+交 a
+易 a
+所 a
+买 a
+卖 a
+基 a
+金 a
+（ a
+E a
+T a
+F a
+） a
+形 a
+式 a
+的 a 
+合 a
+格 a
+公 a
+司 a
+债 a
+券 a
+组 a
+合 a
+以 a
+及 a
+跟 a
+踪 a
+广 a
+泛 a
+市 a
+场 a
+指 a
+数 a
+的 a
+合 a
+格 a
+公 a
+司 a
+债 a
+券 a
+组 a
+合 a
+
+截 a
+止 a
+2 a
+0 a
+2 a
+0 a
+年 a
+5 a
+月 a
+3 a
+1 a
+日 a
+，
+美 r
+国 s
+政 a
+府 a
+发 a
+行 a
+的 a
+可 a
+交 a
+易 a
+债 a
+券 a
+的 a
+平 a
+均 a
+利 a
+率 a
+水 a
+平 a
+相 a
+对 a
+于 a
+去 a
+年 a
+同 a
+期 a
+的 a
+情 a
+况 a
+已 a
+经 a
+出 a
+现 a
+了 a
+大 a
+幅 a
+度 a
+的 a
+下 a
+降 a
+，
+下 a
+降 a
+幅 a
+度 a
+高 a
+达 a
+2 a
+6 a
+. a
+5 a
+% a
+，
+这 a
+也 a
+意 a
+味 a
+着 a
+美 r
+国 s
+政 a
+府 a
+当 a
+前 a
+的 a
+筹 a
+资 a
+成 a
+本 a
+比 a
+去 a
+年 a
+同 a
+期 a
+下 a
+降 a
+2 a
+6 a
+. a
+5 a
+% a
+（ a
+图 a
+2 a
+） a
+
+图 a
+2 a
+、
+美 r
+国 s 
+政 a
+府 a
+债 a 
+券 a
+的 a
+筹 a
+资 a
+成 a
+本 a
+（ a
+发 a
+行 a
+利 a
+率 a
+，
+% a
+） a
+数 a
+据 a
+来 a
+源 a
+：
+美 f
+国 g
+财 g
+政 g
+部 g
+，
+A f
+v g
+e g
+r g
+a g
+g g
+e g
+I g
+n g
+t g
+e g
+r g
+e g
+s g
+t g
+R g
+a g
+t g
+e g
+s g
+o g
+n g
+U g
+. g
+S g
+. g
+T g
+r g
+e g
+a g
+s g
+u g
+r g
+y g
+S g
+e g
+c g
+u g
+r g
+i g
+t g
+i g
+e g
+s g
+因 a
+此 a
+，
+关 a
+键 a
+还 a
+是 a
+疫 a
+情 a
+对 a
+企 a
+业 a
+现 a
+金 a
+流 a
+造 a
+成 a
+影 a
+响 a
+的 a
+问 a
+题 a
+
+申 a
+请 a
+复 a
+查 a
+成 a
+绩 a
+的 a
+考 a
+生 a
+，
+须 a
+填 a
+写 a
+《 a
+2 a
+0 a
+2 a
+0 a
+年 a
+博 a
+士 a
+研 a
+究 a
+生 a
+招 a
+生 a
+考 a
+试 a
+初 a
+试 a
+科 a
+目 a 
+成 a
+绩 a
+复 a
+查 a
+申 a
+请 a
+表 a
+》 a
+（ a
+见 a
+附 a
+件 a
+） a
+，
+将 a
+申 a
+请 a
+表 a
+（ a
+考 a
+生 a 
+须 a
+亲 a
+笔 a
+签 a
+名 a
+） a
+、
+考 a
+生 a
+本 a
+人 a
+身 a
+份 a
+证 a
+（ a
+正 a
+反 a
+面 a
+） a
+和 a
+准 a
+考 a
+证 a
+扫 a
+描 a
+或 a
+拍 a
+照 a
+后 a
+通 a
+过 a
+电 a
+子 a
+邮 a
+件 a
+发 a
+送 a
+至 a
+我 a
+院 a
+电 a
+子 a
+邮 a
+箱 a
+（ a
+电 a 
+子 a
+邮 a
+箱 a
+地 a
+址 a
+：
+e a
+c a
+o a
+n a
+b a
+z a
+@ a
+r a
+u a
+c a
+. a
+e a
+d a
+u a
+. a
+c a
+n a
+） a
+， a
+电 a
+子 a
+邮 a
+件 a
+标 a
+题 a
+格 a
+式 a 
+为 a
+：
+2 a
+0 a
+2 a
+0 a
+博 a
+_ a
+经 n
+济 o
+学 o
+院 o
+_
+报 a
+考 a
+专 a
+业 a
+_
+准 a
+考 a
+证 a
+号 a 
+后a 
+五a 
+位a
+_
+姓 a
+名 a
+_
+复 a
+查 a
+科 a
+目 a
+名 a
+称 a
+
+王 l
+晋 m
+斌 m
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+经 n
+济 o
+学 o
+院 o
+党 j
+委 k
+常 k
+务 k
+副 k
+书 k 
+记 k
+、
+国 a
+家 a
+发 a
+展 a
+与 a
+战 a
+略 a
+研 a
+究 a
+院 a
+研 a
+究 a
+员 a 
+ 
+中 r
+国 s
+宏 a
+观 a
+经 a
+济 a
+论 a
+坛 a
+（ a
+C a
+M a
+F a
+） a
+主 a
+要 a
+成 a
+员 a
+2 a
+0 a
+2 a
+0 a
+年 a
+C a
+O a
+V a
+I a
+D a
+- a
+1 a
+9 a
+疫 a
+情 a
+大 a
+冲 a
+击 a
+下 a
+的 a
+全 a
+球 a
+宏 a
+观 a
+政 a
+策 a
+充 a
+满 a
+了 a
+政 a
+治 a
+和 a
+经 a 
+济 a 
+的 a 
+复 a
+杂 a
+交 a
+织 a
+，
+不 a
+论 a
+从 a
+全 a
+球 a
+最 a
+发 a
+达 a
+国 a 
+家 a
+的 a
+宏 a
+观 a
+政 a
+策 a
+来 a
+看 a
+，
+还 a
+是 a
+从 a
+全 a
+球 a
+宏 a
+观 a
+政 a
+策 a
+的 a
+博 a
+弈 a
+来 a
+看 a
+，
+都 a
+体 a
+现 a
+出 a
+追 a
+求 a
+极 a
+限 a
+博 a
+弈 a
+的 a
+高 a
+风 a
+险 a
+状 a
+态 a
+
+王 l
+晋 m
+斌 m
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+经 n
+济 o
+学 o
+院 o
+党 j
+委 k
+常 k
+务 k
+副 k
+书 k
+记 k
+、
+国 a
+家 a
+发 a
+展 a
+与 a
+战 a
+略 a
+研 a
+究 a
+院 a
+研 a
+究 a
+员 a
+、
+中 a
+国 a
+宏 a
+观 a
+经 a
+济 a
+论 a 
+坛a
+（ a
+C a
+M a
+F a
+） a
+主 a
+要 a 
+成 a 
+员 a
+2 a
+0 a
+2 a
+0 a
+年 a
+6 a
+月 a
+1 a
+0 a
+日 a
+，
+收 a
+盘 a
+价 a
+计 a
+，
+纳 a
+斯 a
+达 a
+克 a
+指 a 
+数 a
+收 a
+报 a
+1 a
+0 a
+0 a
+2 a
+0 a
+. a
+3 a
+5 a
+点 a
+，
+首 a
+次 a
+站 a
+上 a
+1 a
+万 a
+点 a
+大 a
+关 a
+（ a
+图 a
+1 a
+） a
+
+从 a
+1 a
+9 a
+7 a
+1 a
+年 a
+的 a
+1 a
+0 a
+0 a
+点 a
+走 a
+到 a
+2 a
+0 a
+2 a
+0 a
+年 a
+的 a
+1 a
+万 a
+点 a
+，
+纳 a
+斯 a
+达 a
+克 a
+指 a
+数 a
+用 a
+了 a
+大 a
+约 a
+5 a
+0 a
+年 a
+的 a
+时 a
+间 a
+上 a
+涨 a
+了 a
+约 a
+1 a
+0 a
+0 a
+倍 a
+
+文 a
+章 a
+来 a
+源 a
+于 a
+中 r
+国 s
+宏 a
+观 a
+经 a
+济 a
+论 a
+坛 a
+
+王 l
+晋 m
+斌 m
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+经 n
+济 o
+学 o
+院 o
+党 j
+委 k
+常 k
+务 k
+副 k
+书 k
+记 k
+、
+国 a
+家 a
+发 a
+展 a
+与 a
+战 a
+略 a
+研 a
+究 a
+院 a
+研 a
+究 a 
+员a 
+、
+中 r
+国 s
+宏 a
+观 a
+经 a
+济 a
+论 a
+坛 a
+（ a
+C a
+M a
+F a
+） a
+主 a
+要 a
+成 a
+员 a
+2 a
+0 a
+2 a
+0 a
+疫 a
+情 a
+大 a
+冲 a
+击 a
+导 a
+致 a
+了 a
+全 a
+球 a
+经 a
+济 a
+深 a
+度 a
+衰 a
+退 a
+，
+几 a
+乎 a
+无 a
+人 a 
+敢 a 
+想 a
+美 r
+国 s
+经 a
+济 a
+会 a
+快 a
+速 a
+出 a
+现 a
+“ a
+V a
+” a
+型 a
+反 a
+弹 a
+，
+但 a
+美 r
+国 s
+股 a
+市 a
+在 a
+今 a
+年 a
+短 a
+短 a
+5 a
+个 a
+月 a
+的 a 
+时 a 
+间 a 
+里 a
+，
+走 a
+出 a
+了 a
+几 a
+乎 a
+完 a
+整 a
+的 a
+“ a
+V a
+” a
+型 a
+反 a
+弹 a
+
+3 a
+、
+美 a
+联 a
+储 a
+坚 a
+定 a
+做 a 
+多 a 
+，
+过 a
+多 a
+的 a
+流 a
+动 a
+性 a
+强 a
+行 a
+推 a
+高 a
+了 a
+股 a
+价 a
+
+从 a
+三 a
+大 a
+指 a
+数 a 
+的 a 
+市 a
+盈 a
+率 a
+（ a
+T a
+T a
+M a
+） a
+来 a
+看 a
+，
+说 a
+明 a
+科 a
+技 a
+类 a
+的 a
+公 a
+司 a
+、
+很 a
+多 a
+大 a
+公 a
+司 a
+（ a
+航 a
+空 a
+业 a
+等 a
+除 a
+外 a
+） a
+受 a
+到 a
+疫 a
+情 a
+的 a
+冲 a
+击 a
+程 a
+度 a
+小 a
+得 a
+多 a
+，
+尤 a
+其 a
+是 a
+很 a
+多 a
+大 a
+的 a
+科 a
+技 a
+企 a
+业 a
+其 a
+财 a
+务 a
+状 a
+况 a
+抗 a
+疫 a
+能 a
+力 a
+强 a
+
+如 a
+果 a
+我 a
+们 a
+换 a
+一 a
+个 a 
+角 a
+度 a
+看 a
+，
+截 a
+止 a
+6 a
+月 a
+3 a
+日 a
+，
+纳 a
+斯 a
+达 a
+克 a
+2 a
+7 a
+0 a
+2 a
+家 a
+、
+N a
+Y a
+S a
+E a
+1 a
+9 a
+6 a
+2 a
+家 a
+、
+A a
+M a
+E a
+X a
+2 a
+0 a
+4 a
+家 a
+，
+三 a
+大 a
+交 a
+易 a
+所 a
+总 a
+计 a
+也 a
+只 a
+有 a
+4 a
+8 a
+6 a
+8 a
+家 a
+上 a
+市 a
+公 a
+司 a
+
+（ a
+作 a
+者 a
+为 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+经 n
+济 o
+学 o
+院 o
+常 j
+务 k
+副 k
+书 k
+记 k
+、
+国 a
+家 a
+发 a
+展 a
+与 a
+战 a
+略 a
+研 a
+究 a
+院 a
+研 a
+究 a
+员 a
+） a
+文 a
+章 a
+来 a
+源 a
+于 a
+人 b
+民 c
+日 c
+报 c
+
+根 a
+据 a
+人 a
+民 a
+银 a
+行 a
+《 b
+中 c
+国 c
+金 c
+融 c
+稳 c
+定 c
+报 c
+告 c
+2 c
+0 c
+1 c
+9 c
+》 c
+，
+2 a
+0 a
+1 a
+8 a
+年 a
+末 a
+，
+我 a
+国 a
+住 a
+户 a
+部 a 
+门 a
+杠 a
+杆 a
+率 a
+为 a
+6 a
+0 a
+. a
+4 a
+% a
+，
+低 a
+于 a
+发 a
+达 a
+经 a 
+济 a
+体 a
+平 a
+均 a
+的 a
+7 a
+2 a
+. a
+1 a
+% a
+，
+但 a
+是 a
+高 a
+于 a
+世 a
+界 a
+平 a
+均 a
+的 a
+5 a
+9 a
+. a
+7 a
+% a
+和 a
+新 a
+兴 a
+市 a
+场 a
+国 a
+家 a
+平 a
+均 a
+的 a
+3 a
+9 a
+. a
+9 a
+% a
+
+5 a
+月 a
+2 a
+2 a
+日 a
+，
+李 l
+克 m
+强 m
+总 j
+理 k
+在 a
+十 b
+三 c
+届 c 
+全 c
+国 c
+人 c
+大 c
+三 c
+次 c
+会 c
+议 c
+上 a
+作 a
+政 a
+府 a
+工 a
+作 a
+报 a
+告 a
+时 a
+指 a
+出 a
+，
+我 a
+国 a
+内 a
+需 a
+潜 a
+力 a
+大 a
+，
+要 a
+深 a
+化 a
+供 a
+给 a
+侧 a
+结 a
+构 a
+性 a
+改 a
+革 a
+，
+突 a
+出 a
+民 a
+生 a
+导 a
+向 a
+，
+使 a
+提 a
+振 a
+消 a
+费 a
+与 a
+扩 a
+大 a
+投 a
+资 a
+有 a
+效 a
+结 a
+合 a
+、
+相 a
+互 a
+促 a
+进 a
+
+围 a
+绕 a
+这 a
+一 a 
+主 a
+题 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+副 j
+校 k
+长 k
+刘 l
+元 m
+春 m
+近 a
+日 a
+接 a
+受 a
+了 a
+《 a
+每 a
+日 a
+经 a
+济 a
+新 a
+闻 a
+》 a
+( a
+以 a
+下 a
+简 a
+称 a
+N a
+B a
+D a
+) a
+记 a
+者 a
+的 a
+专 a 
+访 a
+
+按 a
+照 a
+世 f
+界 g
+贸 g
+易 g
+组 g
+织 g
+( g
+W g
+T g
+O g
+) g
+的 a
+预 a
+测 a
+，
+今 a
+年 a
+二 a
+、
+三 a
+季 a
+度 a
+世 a
+界 a
+贸 a
+易 a
+增 a
+速 a
+有 a
+可 a
+能 a
+下 a
+降 a
+3 a
+0 a
+% a
+
+《 b
+印 c
+度 c
+经 c
+济 c
+改 c
+革 c
+与 c
+宏 c
+观 c
+经 c
+济 c
+稳 c
+定 c
+》 c
+这 a
+本 a
+书 a
+从 a
+印 r
+度 s
+宏 a
+观 a
+经 a
+济 a
+稳 a
+定 a
+的 a
+视 a
+角 a
+，
+对 a
+1 a
+9 a
+9 a
+1 a
+年 a
+以 a
+来 a
+的 a 
+印 r
+度 s
+经 a
+济 a
+改 a
+革 a
+脉 a
+络 a
+进 a
+行 a
+了 a
+梳 a
+理 a
+
+刘 l
+元m
+春 m
+副 j
+校 k
+长 k
+在 a
+致 a
+辞 a
+中 a
+指 a
+出 a
+，
+在 a
+世 a
+界 a
+层 a
+面 a
+上 a
+这 a
+次 a
+新 a
+冠 a
+肺 a
+炎 a
+疫 a
+情 a
+展 a
+示 a
+了 a
+其 a
+百 a
+年 a
+不 a
+遇 a
+的 a
+超 a
+级 a
+“ a
+黑 a
+天 a
+鹅 a
+” a
+特 a
+性 a
+，
+使 a
+全 a
+球 a
+经 a
+济 a
+呈 a
+现 a
+出 a
+五 a
+个 a
+史 a
+诗 a
+级 a
+变 a
+化 a
+
+以 a
+下 a
+为 a
+演 a
+讲 a
+实 a
+录 a
+： a
+在 a
+4 a
+月 a
+份 a
+世 a
+界 a
+各 a
+国 a
+公 a
+布 a
+了 a
+一 a
+季 a
+度 a
+经 a
+济 a
+数 a
+据 a
+以 a
+后 a
+，
+世 a
+界 a
+经 a
+济 a
+、
+中 r
+国 s
+经 a
+济 a
+以 a
+及 a
+北 r
+京 s
+经 a
+济 a
+下 a
+一 a
+步 a
+将 a
+呈 a
+现 a
+何 a
+种 a
+发 a
+展 a
+态 a
+势 a
+，
+成
+为 a
+了 a
+大 a
+家 a
+关 a
+注 a
+的 a
+焦 a
+点 a
+
+5 a
+月 a
+2 a
+2 a
+日 a
+，
+新 b
+京 c
+报 c
+举 a
+办 a
+两 a
+会 a
+经 a
+济 a
+策 a
+，
+邀 a
+请 a
+经 a
+济 a
+学 a
+者 a
+做 a
+客 a
+新 b
+京 a
+报 a
+直 a
+播 a
+间 a
+，
+发 j
+改 k
+委 k
+原 k
+副 k
+主 k
+任 k
+彭 l
+森 m
+、
+财 j
+政 k
+部 k
+财 k
+科 k
+所 k
+原 k
+所 k
+长 k
+、
+华 j
+夏 k
+新 k
+供 k
+给 k
+经 k
+济 k
+学 k
+研 k
+究 k
+院 k
+院 k 
+长k
+贾 l
+康 m
+、
+中 n
+国 o
+人 o
+民 o
+大 o 
+学 o
+副 j
+校 k
+长 k
+刘 l
+元 m
+春 m
+、
+中 f
+银 g
+国 g
+际 g
+研 g
+究 g
+有 g
+限 g
+公 g
+司 g
+董 j
+事 k
+长 k
+曹 l
+远 m
+征 m
+等 a
+共 a
+同 a
+解 a
+读 a
+上 a
+午 a
+发 a
+布 a
+的 a
+政 a
+府 a
+工 a
+作 a
+报 a
+告 a
+
+刘 l
+元 m
+春 m
+表 a
+示 a
+，
+一 a
+次 a
+大 a
+的 a
+公 a 
+共 a
+卫 a
+生 a
+危 a
+机 a
+，
+是 a
+否 a
+会 a
+演 a
+化 a
+成 a
+经 a
+济 a
+危 a
+机 a
+， 
+一 a
+个 a
+关 a
+键 a
+节 a
+点 a
+就 a
+是 a
+失 a
+业 a
+与 a
+就 a
+业 a
+
+目 a
+前 a
+世 f
+界 g
+银 g
+行 g
+、
+I f
+M g
+F g
+、
+W f
+T g
+O g
+、
+以 a
+及 a
+联 f
+合  g
+国 g
+贸 g
+发 a
+会 a
+议 a
+、
+O f
+E f
+C f
+D f
+等 a
+国 a
+际 a
+机 a
+构 a
+都 a
+在 a
+不 a
+断 a
+的 a
+调 a
+整 a
+他 a
+们 a
+对 a
+世 a
+界 a
+经 a
+济 a
+和 a
+国 a
+际 a
+贸 a
+易 a
+增 a
+速 a
+的 a
+预 a
+测 a
+，
+于 a
+此 a
+同 a
+时 a
+，
+在 a
+目 a
+前 a
+结 a
+构 a
+调 a 
+整 a
+、
+大 a
+冲 a
+击 a
+、
+大
+改 a
+革 a
+的 a
+时 a
+期 a
+G a
+D a
+P a
+这 a
+种 a
+总 a
+量 a
+指 a
+标 a
+很 a
+难 a
+精 a
+准 a
+反 a
+映 a
+经 a
+济 a
+面 a
+临 a
+的 a
+风 a
+险 a
+、
+问 a
+题 a
+和 a
+矛 a
+盾 a
+
+在 a
+新 a
+时 a
+代 a
+加 a
+快 a
+完 a
+善 a
+社 a
+会 a
+主 a
+义 a
+市 a
+场 a 
+经 a 
+济 a 
+体 a
+制 a
+— a
+— a
+“ b
+《 c
+中 c
+共 c
+中 c
+央 c
+国 c 
+务 c
+院 c
+关 c
+于 c
+新 c
+时 c
+代 c
+加 c
+快 c 
+完 c
+善 c
+社 c
+会 c
+主 c
+义 c
+市 c
+场 c
+经 c
+济 c
+体 c
+制 c
+的 c
+意 c
+见 c
+》 c
+座 c
+谈 c
+会 c
+” c
+召 a
+开 a
+光 a
+明 a
+网 a
+讯 a
+5 a
+月 a
+2 a
+9 a
+日 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+经 n
+济 o
+学 o
+院 o
+与 a
+中 n
+国 o
+人 o
+民 o 
+大 o
+学 o
+全 a
+国 a
+中 a
+国 a
+特 a
+色 a
+社 a
+会 a
+主 a 
+义 a
+研 a
+究 a
+中 a
+心 a
+召 a
+开 a
+“ b
+《 c
+中 c
+共 c
+中 c
+央 c 
+国 c
+务 c
+院 c
+关 c
+于 c
+新 c
+时 c
+代 c
+加 c
+快 c
+完 c
+善 c
+社 c
+会 c
+主 c
+义 c
+市 c
+场 c
+经 c
+济 c
+体 c
+制 c
+的 c
+意 c
+见 c
+》 c
+座 c
+谈 c
+会 c
+” c
+，
+邀 a
+请 a
+经 a
+济 a
+学 a
+专 a
+家 a
+结 a
+合 a
+两 a
+会 a
+精 a
+神 a
+，
+就 a
+《 a
+中 a
+共 a
+中 a
+央 a
+国 a
+务 a
+院 a 
+关a
+于 a
+新 a
+时 a
+代 a
+加 a
+快 a
+完 a
+善 a
+社 a
+会 a
+主 a
+义 a
+市 a
+场 a
+经 a
+济 a
+体 a
+制 a
+的 a
+意 a
+见 a
+》 a
+（ a
+以 a
+下 a
+简 a
+称 a
+《 a
+意 a
+见 a
+》 a
+） a
+展 a
+开 a
+相 a
+关 a
+解 a
+读 a
+与 a
+研 a
+讨 a
+
+王 l
+晋 m
+斌 m
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+经 n
+济 o
+学 o
+院 o
+党 j
+委 k
+常 k
+务 k
+副 k
+书 k
+记 k
+、
+国 a
+家 a
+发 a
+展 a
+与 a
+战 a
+略 a
+研 a
+究 a 
+院 a
+研 a
+究 a
+员 a
+、
+中 r
+国 s
+宏 a
+观 a
+经 a
+济 a
+论 a
+坛 a
+（ a
+C a
+M a
+F a 
+）a
+主 a
+要 a
+成 a
+员 a
+截 a
+止 a
+北 r
+京 s
+时 a
+间 a
+2 a
+0 a
+2 a
+0 a
+年 a
+6 a
+月 a
+1 a
+日 a
+上 a
+午 a
+8 a
+： a
+3 a
+2 a
+分 a
+，
+依 a
+据 a
+霍 n
+普 o 
+金 o
+斯 o
+大 o
+学 o
+提 a
+供 a
+的 a
+数 a
+据 a
+，
+美 r
+国 s
+C a
+O a
+V a
+I a
+D a
+- a
+1 a
+9 a
+确 a
+诊 a
+人 a
+数 a
+达 a
+到 a
+1 a
+7 a
+8 a
+9 a
+3 a
+6 a
+8 a
+人 a
+
+2 a
+0 a
+2 a
+0 a
+年 a
+的 a
+《 a
+关 a
+爱 a
+法 a
+案 a
+》 a
+为 a
+个 a
+人 a
+提 a
+供 a
+了 a
+3 a
+0 a
+0 a
+0 a
+亿 a
+美 a
+元 a
+的 a
+直 a
+接 a
+支 a
+持 a
+性 a
+经 a
+济 a
+影 a
+响 a
+付 a
+款 a
+，
+其 a
+中 a
+大 a
+部 a
+分 a
+提 a
+前 a
+退 a
+税 a
+付 a
+款 a
+在 a
+2 a
+0 a
+2 a
+0 a
+年 a
+4 a
+月 a
+发 a
+放 a
+
+F a
+O a
+R a
+：
+财 a
+务 a
+债 a
+务 a
+支 a
+付 a
+比 a
+例 a
+（ a
+F a
+O a
+R a
+） a
+是 a
+在 a
+D a
+S a
+R a
+基 a
+础 a
+上 a
+，
+进 a
+一 a
+步 a
+包 a
+括 a
+租 a
+房 a
+支 a
+付 a
+、
+汽 a
+车 a
+租 a
+赁 a
+支 a
+付 a
+、
+家 a
+庭 a
+保 a
+险 a
+支 a
+付 a
+和 a
+财 a
+产 a
+税 a
+支 a
+付 a
+
+第 a
+三 a
+、
+4 a
+月 a
+份 a
+美 r
+国 s
+私 a
+人 a
+储 a
+蓄 a
+率 a
+高 a
+达 a
+3 a
+3 a
+% a
+是 a
+因 a
+为 a
+一 a
+方 a
+面 a
+政 a
+府 a
+财 a
+政 a
+发 a
+钱 a
+，
+另 a
+一 a
+方 a
+面 a
+隔 a
+离 a
+措 a
+施 a
+导 a
+致 a
+的 a
+商 a
+品 a
+和 a
+服 a
+务 a
+支 a
+出 a
+减 a
+少 a
+所 a
+致 a
+
+1 a
+.
+课 a
+程 a
+考 a
+试 a
+费 a
+（ a
+即 a
+第 a
+二 a
+部 a
+分 a
+学 a
+费 a
+） a
+网 a
+上 a
+支 a
+付 a
+平 a
+台 a
+将 a
+于 a
+7 a
+月 a
+2 a
+2 a
+日 a
+到 a
+8 a
+月 a
+3 a
+日 a
+开 a
+通 a
+，
+请 a
+学 a
+员 a
+按 a
+期 a
+登 a
+陆 a
+平 a
+台 a
+进 a
+行 a
+缴 a
+费 a
+，
+以 a
+免 a
+影 a
+响 a
+考 a
+试 a
+，
+过 a
+期 a
+无 a
+法 a
+补 a
+交 a
+
+为 a
+迎 a
+接 a
+中 a
+国 a
+共 a
+产 a
+党 a
+成 a
+立 a
+1 a
+0 a
+0 a
+周 a
+年 a
+，
+传 a
+承 a
+中 r
+国 s
+共 a
+产 a
+党 a
+百 a
+年 a
+新 a
+闻 a
+事 a
+业 a
+的 a
+宝 a
+贵 a
+历 a
+史 a
+遗 a
+产 a
+，
+由 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+和 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+马 a
+克 a
+思 a
+主 a
+义 a
+新 a
+闻 a
+观 a
+研 a
+究 a
+中 a
+心 a
+发 a
+起 a
+并 a
+主 a
+办 a
+的 a
+“ p
+重 q
+返 q
+历 q
+史 q
+现 q
+场 q
+： q
+中 q
+国 q
+共 q
+产 q
+党 q
+百 q
+年 q
+新 q
+闻 q
+事 q
+业 q
+寻 q
+根 q
+之 q
+旅 q
+” q
+十 a
+校 a
+联 a
+合 a
+直 a
+播 a
+活 a
+动 a
+于 a
+2 a
+0 a
+2 a
+0 a
+年 a
+7 a
+月 a
+2 a
+3 a
+日 a
+上 a
+午 a
+在 a 
+央 a
+视 a
+新 a
+闻 a
+客 a
+户 a
+端 a
+圆 a
+满 a
+完 a
+成 a
+
+靳 l
+诺 m
+书 j
+记 k
+回 a
+顾 a
+了 a
+中 a
+国 a
+共 a
+产 a
+党 a
+新 a
+闻 a
+事 a
+业 a
+百 a
+年 a
+风 a
+雨 a
+历 a
+程 a
+与 a
+重 a
+要 a
+历 a
+史 a
+地 a
+位 a
+，
+她 a
+表 a
+示 a
+，
+党 a
+的 a
+新 a
+闻 a
+事 a
+业 a
+始 a
+终 a
+坚 a
+持 a
+党 a
+对 a
+新 a
+闻 a
+舆 a
+论 a
+工 a
+作 a
+的 a
+领 a
+导 a
+， a
+坚 a
+持 a
+与 a
+人 a
+民 a
+同 a
+呼 a
+吸 a
+、
+与 a
+时 a
+代 a
+共 a
+进 a
+步 a
+，
+为 a
+我 a
+们 a
+进 a
+行 a
+伟 a
+大 a
+斗 a
+争 a
+、
+建 a
+设 a
+伟 a
+大 a
+工 a
+程 a
+、
+推 a
+进 a
+伟 a
+大 a
+事 a
+业 a
+、
+实 a
+现 a
+伟 a
+大 a
+梦 a
+想 a 
+提 a 
+供 a 
+了 a 
+坚 a 
+强 a
+的 a
+思 a
+想 a
+保 a
+障 a
+和 a
+强 a
+大 a
+的 a
+精 a
+神 a
+力 a
+量 a
+
+在 a
+遵 r
+义 s
+站 a
+，
+贵 n
+州 o
+大 o
+学 o
+文 n
+学 o
+与 o
+传 o
+媒 o
+学 o
+院 o
+的 a
+师 a
+生 a
+以 a
+《 b
+红 c
+星 c
+报 c
+》 c
+的 a
+办 a
+报 a
+实 a
+践 a
+为 a
+主 a
+要 a
+线 a
+索 a
+，
+在 a
+遵 r
+义 s
+会 s
+议 s
+会 s
+址 s
+、
+红 r
+军 s
+总 s
+政 s
+治 s
+部 s
+旧 s
+址 s
+现 a
+场 a
+讲 a
+述 a
+贵 r
+州 s
+红 a
+色 a
+故 a
+事 a
+
+按 a
+照 a
+《 a
+中 a
+国 a
+人 a
+民 a
+大 a 
+学 a
+2 a
+0 a
+2 a
+0 a
+年 a
+面 a
+向 a
+港 a
+澳 a
+台 a 
+研a 
+究a
+生 a 
+网 a
+络 a
+远 a
+程 a
+考 a
+试 a
+考 a
+场 a
+规 a
+则 a
+》 a
+及 a
+学 a
+院 a
+相 a
+关 a
+要 a
+求 a
+参 a
+加 a
+考 a
+试 a
+
+2 a
+.
+线 a
+上 a
+面 a
+试 a
+项 a
+目 a
+名 a
+称 a
+面 a
+试 a
+时 a
+间 a
+新 h
+闻 i
+传 i
+播 i
+学 i
+（ a
+学 a
+术 a
+型 a
+， a
+国 a
+际 a
+新 a
+闻 a
+传 a 
+播 a
+方 a
+向 a
+） a
+7 a
+月 a
+2 a
+0 a
+日 a
+（ a
+具 a
+体 a
+时 a
+间 a
+和 a
+会 a
+议 a
+号 a
+另 a
+行 a
+通 a
+过 a
+我 a
+院 a
+微 a
+信 a
+号 a
+通 a
+知 a
+） a
+新 a
+闻 a
+与 a
+传 a
+播 a
+（ a
+专 a
+业 a
+型 a
+） a
+7 a
+月 a
+2 a
+1 a
+日 a
+（ a
+具 a
+体 a
+时 a
+间 a
+和 a
+会 a
+议 a
+号 a
+另 a
+行 a
+通 a
+过 a 
+我 a
+院 a
+微 a
+信 a
+号 a
+通 a
+知 a
+） a
+新 h
+闻 i
+传 i
+播 i
+学 i
+（ a
+学 a
+术 a
+型 a
+， a
+含 a
+新 h
+闻 i
+学 i
+、
+传 h
+播 i
+学 i
+、
+传 h
+媒 i
+经 i
+济 i
+学 i
+、
+广 h
+播 i
+电 i
+视 i
+学 i
+，
+考a
+核 a
+时 a
+不 a
+分 a
+方 a
+向 a
+） a
+7 a
+月 a
+2 a
+2 a
+日 a
+（ a
+具 a
+体 a
+时 a
+间 a
+和 a
+会 a
+议 a
+号 a
+另 a
+行 a
+通 a
+过 a
+我 a 
+院 a
+微 a
+信 a
+号 a
+通 a
+知 a
+） a
+3 a
+. a
+跨 a
+学 a
+科 a
+加 a 
+试 a
+（ a
+1 a
+） a
+加 a
+试 a
+名 a
+单 a
+：
+赵 l
+海 m
+林 m
+、
+符 l
+洪 m
+铫 m
+、
+胡 l
+泊 m
+、
+文 l
+天 m
+懿 m
+、
+范 l
+韫 m
+仪 m
+、
+马 l
+浩 m
+涵 m
+、
+费 l
+璠 m
+、
+王 l
+嘉 m
+铭 m
+、
+姜 l
+霈 m
+林 m
+、
+蔡 l
+静 m
+远m 
+、
+李 l
+刘 m
+覃 m 
+珂 m
+、
+李 l
+昕 m
+彤 m
+、
+高 l
+钰 m
+、
+雷 l
+雨 m
+哲 m
+、
+苏 l
+宸 m
+、
+徐 l
+佳 m
+欣 m
+、
+毛 l
+嘉 m
+琦 m
+、
+陈 l
+逸 m
+飞 m
+、
+李 l
+彤 m
+、
+郑 l
+澜 m
+新 m
+、
+靳 l
+昊 m
+燃 m
+、
+庄 l
+乐 m
+言 m
+、
+王 l
+慧 m
+怡 m
+、
+胡 l
+珺 m
+祎 m
+、
+王 l
+一 m
+凡 m
+、
+田 l
+思 m
+博 m
+、
+陈 l
+俊 m
+璇 m
+、
+陈 l
+亦 m
+琪 m
+、
+王 l
+宇 m
+、
+魏 l
+明 m
+伦 m
+
+为 a
+了 a
+更 a
+好 a
+的 a
+培 a
+养 a
+中 n
+国 o
+人 o 
+民 o 
+大 o
+学 o
+新 h
+闻 i
+传 i
+播 i
+学 i 
+科 i
+人 a
+才 a
+，
+我 a
+院 a
+拟 a
+面 a
+向 a
+具 a
+有 a
+2 a
+0 a
+2 a
+0 a
+年 a
+推 p
+免 q
+资 q
+格 q
+的 q
+2 q
+0 q
+2 q
+1 q
+届 q
+应 q
+届 q
+本 q
+科 q
+毕 q 
+业 q
+生 q
+组 q
+织 q
+新 q
+闻 q
+传 q
+播 q
+学 q
+科 q
+学 q
+术 q
+拔 q
+尖 q
+人 q
+才 q
+选 q
+拔 q
+活 q
+动 q
+，
+同 a
+时 a
+产 a
+生 a
+新 h
+闻 i
+传 i
+播 i
+学 i
+直 a
+博 a
+生 a
+项 a
+目 a
+候 a
+选 a
+人 a
+
+直 a
+博 a
+生 a
+项 a
+目 a
+，
+具 a
+体 a
+专 a
+业 a
+包 a
+括 a
+新 h
+闻 i
+学 i
+、
+传 h
+播 i
+学 i
+、
+传 h
+媒 i
+经 i
+济 i 
+学i
+、
+广 h
+播 i
+电 i
+视 i
+学 i
+
+为 a
+更 a
+好 a
+服 a
+务 a
+新 n
+闻 o
+学 o
+院 o
+2 a
+0 a
+2 a
+0 a
+届 a
+毕 a
+业 a
+生 a
+，
+做 a
+好 a
+毕 a
+业 a
+生 a
+宿 a
+舍 a
+整 a
+理 a
+和 a
+行 a
+李 a
+打 a
+包 a
+邮 a
+寄 a
+等 a
+工 a
+作 a
+，
+新 n
+闻 o
+学 o
+院 o
+按 a
+照 a
+学 a
+校 a
+的 a
+总 a
+体 a
+部 a
+署 a
+，
+结 a
+合 a
+实 a
+际 a
+情 a
+况 a
+，
+组 a
+织 a
+动 a
+员 a
+全 a
+院 a
+教 a
+职 a
+工 a
+和 a
+在 a
+校 a
+生 a
+志 a
+愿 a
+者 a
+，
+现 a
+场 a
+连 a
+线 a
+毕 a
+业 a 
+生a
+们 a
+“ a
+云 a
+” a
+打 a
+包 a
+，
+不 a
+仅 a
+为 a
+大 a
+家 a
+寄 a
+送 a
+行 a
+李 a
+，
+也 a
+向 a
+大 a
+家 a
+“ a
+寄 a
+” a
+以 a
+学 a
+院 a
+的 a
+毕 a
+业 a
+关 a
+怀 a
+和 a
+祝 a
+福 a
+
+7 a
+月 a
+5 a
+日 a
+由 a 
+新 n
+闻 o
+学 o
+院 o
+党 j
+委k
+书 k
+记 k
+周 l
+勇 m
+、
+党 j
+委k
+副 k
+书 k
+记 k
+孙 l
+权 m
+带 a
+队 a
+，
+与 a
+学 a
+院 a
+教 a
+职 a
+工 a
+及 a
+学 a
+生 a
+志 a
+愿 a
+者 a
+们 a
+一 a
+起 a
+，
+开 a
+启 a
+行 a
+李 a
+打 a
+包 a
+、
+邮 a
+寄 a
+工 a
+作 a
+
+7 a
+月 a
+7 a
+日 a
+，
+由 a
+新 n
+闻 o
+学 o
+院 o
+执 j
+行 k
+院 k
+长 k
+胡 l
+百 m
+精 m
+、
+党 j
+委 k
+书 k
+记 k
+周 l
+勇 m
+带 a
+队 a
+，
+学 a
+院 a
+领 a
+导 a
+班 a
+子 a
+成 a
+员 a
+、
+教 a
+职 a
+工 a
+、
+学 a
+生 a
+志 a
+愿 a
+者 a
+等 a
+前 a
+往 a
+毕 a
+业 a
+生 a
+宿 a
+舍 a
+，
+继 a
+续 a
+开 a
+展 a
+行 a
+李 a
+打 a
+包 a
+、
+邮 a
+寄 a
+工 a
+作 a
+
+按 a
+照 a
+《 a
+中 a
+国
+人
+民
+大
+学 a
+2 a
+0 a
+2 a
+0 a
+年 a
+面 a
+向 a
+港 a
+澳 a 
+台 a
+研 a
+究 a
+生 a
+网 a
+络 a
+远 a
+程 a 
+考 a
+试 a
+考 a
+场 a
+规 a
+则 a
+》 a
+及 a
+学 a
+院 a
+相 a
+关 a
+要 a
+求 a
+参 a
+加 a
+考 a
+试 a
+
+提 a
+前 a
+认 a
+真 a 
+阅 a 
+读 a 
+教 f 
+育 g
+部 g
+《 a
+2 a
+0 a
+2 a
+0 a
+年 a
+全 a
+国 a
+硕 a
+士 a
+研 a
+究 a
+生 a
+招 a
+生 a
+工 a
+作 a
+管 a
+理 a
+规 a
+定 a
+》 a
+和 a
+《 a
+关 a
+于 a
+做 a
+好
+2 a
+0 a
+2 a
+0 a
+年 a
+全 a
+国 a
+硕 a
+士 a
+研 a
+究 a
+生 a
+复 a
+试 a
+工 a
+作 a
+的 a
+通 a
+知 a
+》 a
+、
+《 a
+国 a
+家 a
+教 a
+育 a
+考 a
+试 a
+违 a
+规 a
+处 a
+理 a
+办 a
+法 a
+》 a
+、
+《 a
+中 a
+华 a
+人 a
+民 a
+共 a 
+和 a 
+国 a
+刑 a
+法 a
+》 a
+、
+《 a
+普 a
+通 a
+高 a
+等 a
+学 a
+校 a
+招 a
+生 a
+违 a
+规 a
+行 a
+为 a
+处 a
+理 a
+暂 a
+行 a
+办 a
+法 a
+》 a
+以 a
+及 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+和 a
+我 a
+院 a
+发 a
+布 a
+的 a
+相 a
+关 a
+招 a
+考 a 
+信 a
+息 a
+
+2 a
+0 a
+2 a
+0 a
+年 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+“ p
+全 q
+国 q
+新 q
+闻 q
+传 q
+播 q
+学 q
+科 q
+优 q
+秀 q
+学 q
+子 q
+夏 q
+令 q
+营 q
+” q
+拟 a
+于 a
+7 a
+月 a
+中 a
+下 a
+旬 a
+（ a
+待 a
+定 a
+） a
+举 a
+办 a
+
+6 a
+月 a
+2 a
+3 a
+日 a
+上 a
+午 a
+9 a
+点 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+在 o
+明 r
+德 s
+新 s
+闻 s
+楼 s
+广 s
+场 s
+举 a
+办 a
+2 a
+0 a
+2 a
+0 a
+年 a
+毕 a
+业 a
+典 a
+礼 a
+，
+并 a
+通 a
+过 a
+线 a
+上 a
+视 a
+频 a
+会 a
+议 a
+的 a
+形 a
+式 a
+，
+同 a
+步 a
+举 a
+行 a
+2 a
+0 a
+2 a
+0 a
+年 a
+“ a
+云 a
+” a
+毕 a
+业 a
+典 a
+礼 a
+以a 
+及 a
+观 a
+礼 a
+直 a
+播 a
+，
+这 a
+也 a
+是 a
+人 n
+大 o
+新 o
+闻 o
+学 o
+院 o
+历 a
+史 a
+首 a
+次 a
+“ a
+云 a
+” a
+毕 a
+业 a
+典 a
+礼 a
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+常 j
+务 k
+副 k
+校 k
+长 k
+王 l
+利 m
+明 m
+教 j
+授 k
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+荣  a
+誉 a
+一 a
+级 a
+教 j
+授 k
+方 l
+汉 m
+奇 m
+先 a
+生 a
+与 a
+新 n
+闻 o
+学 o
+院 o
+教 a
+职 a
+工 a
+代 a
+表 a
+、
+2 a
+3 a
+名 a
+在 a
+校 a
+的 a
+毕 a
+业 a
+生 a
+、
+在 a
+校 a
+学 a
+生 a
+志 a
+愿 a
+者 a
+们 a
+共 a
+同 a
+出 a
+席 a
+，
+线 a
+上 a
+近 a
+3 a
+0 a
+0 a
+名 a
+师 a
+生 a
+、
+毕 a
+业 a
+生 a
+亲 a
+友 a
+参 a
+加 a
+了 a
+典 a
+礼 a
+和 a
+观 a
+礼 a
+直 a
+播 a
+
+新 n
+闻 o
+学 o
+院 o
+院 j
+长 k
+赵 l
+启 m 
+正 m
+教 j
+授 k
+在 a
+线 a
+向 a
+毕 a
+业 a
+生 a
+祝 a
+贺 a
+顺 a
+利 a
+毕 a
+业 a
+：
+“ a
+祝 a
+贺 a
+同 a
+学 a
+们 a
+， a
+这 a
+是 a
+大 a
+家 a
+人 a
+生 a
+的 a
+里 a
+程 a
+碑 a
+” a
+，
+他 a
+从 a
+当 a
+前 a
+国 a
+际 a
+形 a
+势 a
+和 a
+中 a
+国 a
+发 a
+展 a
+现 a
+状 a
+出 a
+发 a
+，
+希 a
+望 a
+毕 a
+业 a
+生 a
+们 a
+在 a
+网 a
+络 a
+时 a
+代 a
+能 a
+更 a
+加 a
+关 a
+注 a
+舆 a
+论 a
+环 a
+境 a
+，
+做 a
+到 a
+“ a
+修 a
+身 a
+” a
+“ a
+立 a
+命 a
+”a
+，
+增 a
+加 a
+学 a
+识 a
+、
+智 a
+慧 a
+、
+社 a
+会 a
+经 a
+验 a
+，
+更 a
+善 a
+于 a
+思 a
+维 a
+、
+表 a
+达 a
+和 a
+实 a
+践 a
+，
+自 a
+己 a
+创 a
+造 a
+自 a
+己 a
+的 a
+命 a
+运 a
+
+新 h
+闻 i
+与 i
+传 i
+播 i
+专 a
+业 a
+硕 a
+士 a
+培 a
+养 a
+门 a
+类 a
+是 a
+新 h
+闻 i
+传 i
+播 i
+学 a
+科 a
+人 a
+才 a
+培 a
+养 a
+体 a
+系 a
+中 a
+的 a
+重 a
+要 a
+组 a
+成 a
+部 a
+分 a
+，
+国 a
+内 a
+新 h
+闻 i
+传 i
+播 i
+教 a
+育 a
+界 a
+经 a
+过 a
+多 a
+年 a
+探 a
+索 a
+和 a
+办 a
+学 a
+实 a
+践 a
+，
+为 a
+社 a
+会 a
+培 a
+养 a
+了 a
+大 a
+量 a
+新 h
+闻 i
+传 i
+播 i
+领 a
+域 a
+专 a
+业 a
+人 a
+才 a
+
+随 a
+着 a
+新 h
+闻 i
+传 i
+播 i
+环 a
+境 a
+的 a
+发 a
+展 a
+，
+新 h
+闻 i
+与 i
+传 i
+播 i
+专 a
+业 a
+硕 a
+士 a
+人 a
+才 a
+培 a
+养 a
+工 a
+作 a
+面 a
+临 a
+着 a
+新 a
+的 a
+挑 a
+战 a
+和 a
+机 a
+遇 a
+
+胡 l
+百 m
+精 m
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+执 j
+行 k
+院 k
+长 k
+兼 a
+党 j
+委 k
+副 k
+书 k
+记 k
+胡 l
+百 m
+精 m
+教 j
+授 k
+向 a
+参 a
+会 a
+专 a
+家 a
+表 a
+示 a
+感 a
+谢 a
+，
+并 a
+提 a
+出 a
+关 a
+于 a
+专 a
+硕 a
+人 a
+才 a
+培 a
+养 a
+质 a
+量 a
+如 a
+何 a
+突 a
+破 a
+、
+专 a
+硕 a
+培 a
+养 a
+的 a
+专 a
+业 a
+性 a
+如 a
+何 a
+提 a
+升 a
+、
+各 a
+类 a
+专 a
+硕 a
+项 a
+目 a
+如 a
+何 a
+建 a
+设 a
+等 a
+问 a
+题 a
+与 a
+大 a
+家 a
+共 a
+同 a
+探 a
+讨 a
+
+李 l
+本 m
+乾 m
+上 n
+海 o
+交 o
+通 o
+大 o
+学 o
+媒 n
+体 o
+与 o
+传 o
+播 o
+学 o
+院 o
+院 j
+长 k
+李 l
+本 m
+乾 m
+教 j
+授 k
+结 a
+合 a
+新 h
+闻 i
+教 i
+育 i
+与 i
+技 i
+术 i
+发 i
+展 i
+的 a
+关 a
+系 a
+，
+讨 a
+论 a
+了 a
+专 a
+硕 a
+项 a
+目 a
+人 a
+才 a
+培 a
+养 a
+应 a
+如 a
+何 a
+处 a
+理 a
+学 a
+生 a
+个 a
+人 a
+素 a
+质 a
+、
+学 a
+术 a
+思 a
+维 a
+、
+专 a
+业 a
+技 a
+能 a
+知 a
+识 a 
+之 a
+间 a
+的 a
+关 a
+系 a
+，
+同 a
+时 a
+也 a
+分 a
+享 a
+了 a
+上 n
+海 o
+交 o
+通 o
+大 o
+学 o
+开 a
+展 a
+文 a
+理 a
+交 a
+叉 a
+的 a
+课 a
+程 a
+体 a
+系 a
+改 a
+革 a
+方 a
+面 a
+的 a
+思 a
+路 a
+
+为 a
+激 a
+励 a
+广 a
+大 a
+学 a
+生 a
+踏 a
+实 a
+治 a
+学 a
+、
+勤 a
+于 a
+实 a
+践 a
+、
+全 a
+面 a
+发 a
+展 a
+，
+根 a
+据 a
+学 a
+校 a
+相 a
+关 a
+文 a
+件 a
+精 a
+神 a
+，
+经 a
+各 a
+毕 a
+业 a
+班 a
+级 a
+初 a
+评 a
+、
+学 a
+院 a
+推 a
+荐 a
+、
+学 a
+校 a
+审 a
+定 a
+后 a
+，
+我 a
+院 a
+今 a
+年 a
+共 a
+有 a
+1 a
+6 a
+名 a
+同 a
+学 a
+获 a
+评 a
+北 r
+京 s
+市s
+优 d
+秀 e
+毕 e
+业 e
+生 e
+，
+2 a
+8 a
+名 a
+同 a
+学 a
+获 a
+评 a
+校 d
+级 e
+优 e
+秀 e
+毕 e
+业 e
+生 e
+，
+3 a
+3 a
+名 a
+同 a
+学 a
+获 a
+评 a
+院 d
+级 e
+优 e
+秀 e
+毕 e
+业 e
+生 e
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+中 f
+国 g
+新 g
+闻 g
+奖 g
+评 g
+选 g
+委 g
+员 g
+会 g
+2 a
+0 a
+2 a
+0 a
+年 a
+6 a
+月 a
+5 a
+日 a
+
+由 a
+中 n 
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+与 a
+文 n 
+学 o
+院 o
+联 a
+合 a
+推 a
+出 a
+“b
+新 c
+闻 c
+传 c
+播 c
+业 c
+就 c
+业 c
+与 c
+职 c
+业 c
+发 c
+展 c
+系 c
+列 c
+线 c
+上 c
+讲 c
+座 c
+” c
+第 a
+二 a
+讲 a
+“ a
+快 a
+手 a
+专 a
+场 a
+” a
+5 a
+月 a
+3 a
+1 a
+日 a
+下 a
+午 a
+举 a
+办 a
+， a
+快 j
+手 k
+科 k
+技 k
+副 k
+总 k
+裁 k
+余 l
+敬 m
+中 m
+、
+快 j
+手 k
+H k
+R k
+团 k
+队 k
+校 k
+园 k
+关 k
+系 k
+组 k
+负 k
+责 k
+人 k
+付 l
+丹 m
+丹 m
+两 a
+位 a
+嘉 a
+宾 a
+就 a
+短 a
+视 a
+频 a
+/ a
+直 a
+播 a
+如 a
+何 a
+改 a
+变 a
+行 a
+业 a
+格 a
+局 a
+、
+快 a
+手 a
+产 a
+品 a
+属 a
+性 a
+和 a
+运 a 
+营 a
+策 a
+略 a
+、
+媒 a
+体 a
+融 a
+合 a
+新 a
+趋 a
+势 a
+以 a
+及 a
+快 a
+手 a
+人 a
+才 a
+培 a
+养 a
+体 a
+系 a
+等 a
+内 a
+容 a
+进 a
+行 a
+了 a
+分 a
+享 a
+，
+并 a
+回  a
+答 a
+了 a
+同 a
+学 a
+们 a
+的 a
+提 a
+问 a
+
+本 a
+次 a
+讲 a
+座 a
+由 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+党 j
+委 k
+书 k
+记 k
+周 k
+勇 k
+和 a
+文n
+学 o
+院 o
+党 j
+委 k
+书 k
+记 k
+颜 l
+梅 m
+共 a
+同 a
+主 a
+持 a
+
+二 a
+、
+新 h
+闻 i
+学 i
+专 a
+业 a
+研 a
+究 a
+领 a
+域 a
+与 a
+课 a
+程 a
+设 a
+置 a
+【 a
+研 a
+究 a
+方 a
+向 a
+和 a
+领 a
+域 a
+】 a
+互 h
+联 i
+网 i
+视 i
+听 i
+研 i
+究 i
+、
+影 h
+像 i
+传 i
+播 i
+研 i
+究 i
+、
+新 h
+媒 i
+体 i
+传 i
+播 i
+、
+传 h
+媒 i
+产 i
+业 i
+与 i
+政 i
+策 i
+、
+电 h
+视 i
+节 i
+目 i
+运 i
+营 i
+、
+媒 h
+介 i
+心 i
+理 i
+学 i
+、
+危 h
+机 i
+传 i
+播 i
+管 i
+理 i
+、
+、
+大 h
+数 i
+据 i 
+在 i
+媒 i
+体 i
+融 i
+合 i
+中 i 
+的 i
+作 i
+用 i
+、
+公 h
+共 i
+关 i
+系 i
+学 i
+、
+传 h
+媒 i
+数 i
+字 i
+化 i
+管 i
+理 i
+、
+国 h
+际 i
+新 i
+闻 i
+传 i
+播 i
+与 i
+跨 i
+文 i
+化 i
+交 i
+际 i
+等 a
+
+5 a
+月 a
+2 a
+0 a
+日 a
+下 a
+午 a
+，
+系 a
+列 a
+讲 a
+座 a
+第 a
+一 a
+讲 a
+“ b
+新 c
+华 c
+社 c
+专 c
+场 c
+” c
+举 a
+办 a
+，
+新 j
+华 k
+社 k
+人 k
+事 k
+局 k
+总 k
+社 k
+人 k
+事 k
+处 k
+校 k
+园 k
+招 k
+聘 k
+专 k
+家 k
+南 l
+洋 m
+、
+新 j
+华 k
+社 k
+总 k
+编 k
+室 k
+对 k
+外 k
+融 k
+合 k
+报 k
+道 k
+室 k
+副 k
+主 k
+任 k
+郑 l
+晓 m
+奕 m
+、
+新 j
+华 k
+社 k
+西 k
+藏 k
+分 k
+社 k
+总 k
+编 k
+室 k
+副 k
+总 k
+编 k
+边 l
+巴 m
+次 m
+仁 m
+和
+新 j
+华 k 
+社 k
+驻 k
+希 k
+腊 k
+首 k
+席 k
+记 k
+者 k
+于 l
+帅 m
+帅 m
+四 a
+位 a
+嘉 a
+宾 a
+分 a
+别 a
+就 a
+新 a
+华 a
+社 a
+人 a
+才 a
+培 a
+养 a
+体 a
+系 a
+和 a
+各 a
+自 a
+职 a
+业 a
+经 a
+历 a
+进 a
+行 a
+了 a
+分 a
+享 a
+，
+并 a
+回 a
+答 a
+了 a
+同 a
+学 a
+们 a
+热 a
+情 a
+洋 a
+溢 a
+的 a
+提 a
+问 a
+
+新 n
+闻 o
+学 o
+院 o
+院 j
+长 k
+胡 l
+百 m
+精 m
+、
+党 j
+委 k
+副 k
+书 k
+记 k
+孙 l
+权 m
+，
+文 n
+学 o
+院 o
+党 j
+委 k
+副 k
+书 k
+记 k
+胡 l
+玲 m
+莉 m
+等 a
+参 a
+与 a
+讲 a
+座 a
+
+新 j
+华 k
+社 k
+人 k
+事 k
+局 k
+总 k
+社 k
+人 k
+事 k
+处 k
+校 k
+园 k
+招 k
+聘 k
+专 k
+家 k
+南 l
+洋 m
+介 a
+绍 a
+了 a
+新 a
+华 a
+社 a
+的 a
+总 a
+体 a
+情 a
+况 a
+
+受 a
+新 a
+冠 a
+肺 a
+炎 a
+疫 a
+情 a
+影 a
+响 a
+，
+经 a
+研 a
+究 a
+决 a
+定 a
+调 a
+整 a
+2 a
+0 a
+2 a
+0 a
+年 a
+同 a
+等 a
+学 a
+力 a
+人 a
+员 a
+申 a
+请 a
+硕 a
+士 a
+学 a
+位 a
+外 a
+国 a
+语 a
+水 a
+平 a
+和 a
+学 a
+科 a
+综 a
+合 a
+水 a
+平 a
+全 a
+国 a
+统 a
+一 a
+考 a
+试 a
+（ a
+以 a
+下 a
+简 a
+称 a
+同 a
+等 a
+学 a
+力 a
+全 a
+国 a
+统 a
+考 a
+） a
+时 a
+间 a
+，
+现 a
+将 a
+有 a
+关 a
+事 a
+宜 a
+通 a
+知 a
+如 a
+下 a
+：
+一 a
+、
+2 a
+0 a
+2 a
+0 a
+年 a
+同 a
+等 a
+学 a
+力 a
+全 a
+国 a
+统 a
+考 a
+时 a
+间 a
+调 a
+整 a
+为 a
+1 a
+1 a
+月 a
+1 a
+日 a
+（ a
+星 a
+期 a
+日 a
+） a
+，
+上 a
+午 a
+9 a
+: a
+0 a
+0 a
+至 a
+1 a
+1 a
+: a
+3 a
+0 a
+为 a
+外 a
+国 a
+语 a
+水 a
+平 a
+考 a
+试 a
+时 a
+间 a
+
+根 a
+据 a
+教 f
+育 g
+部 g
+、
+北 r 
+京 s
+市 s
+和 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 a
+冠 a
+疫 a
+情 a
+防 a
+控 a
+要 a
+求 a
+，
+为 a
+最 a
+大 a
+限 a
+度 a
+减 a
+少 a
+人 a
+员 a
+聚 a
+集 a
+，
+降 a
+低 a
+感 a
+染 a
+风 a
+险 a
+，
+我 a
+院 a
+通 a
+过 a
+互 a
+联 a
+网 a
+远 a
+程 a
+开 a
+展 a
+2 a
+0 a
+2 a
+0 a
+年 a
+硕 a
+士 a
+研 a
+究 a
+生 a
+招 a
+生 a
+考 a
+试 a
+复 a
+试 a
+工 a
+作 a
+
+教 f
+育 g
+部 g
+研 a
+究 a
+生 a
+招 a
+生 a
+文 a
+件 a
+《 a
+2 a
+0 a
+2 a 
+0 a
+年 a
+全 a
+国 a
+硕 a
+士 a
+研 a
+究 a
+生 a
+招 a
+生 a
+工 a
+作 a
+管 a
+理 a
+规 a
+定 a
+》 a
+中 a
+第 a
+五 a
+十 a
+九 a
+条 a
+规 a
+定 a
+： a
+“ a
+参 a
+加 a
+‘ a
+选 a
+聘 a
+高 a
+校 a
+毕 a
+业 a
+生 a
+到 a
+村 a
+任 a
+职 a
+’
+项 a
+目 a
+服 a
+务 a
+期 a
+满 a
+、
+考 a
+核 a
+称 a
+职 a
+以 a
+上 a
+的 a
+考 a
+生 a
+，
+3 a
+年 a
+内 a
+参 a
+加 a
+全 a
+国 a
+硕 a
+士 a
+研 a
+究 a
+生 a
+招 a
+生 a
+考 a
+试 a
+的 a
+，
+初 a
+试 a
+总 a
+分 a
+加 a
+1 a
+0 a
+分 a
+，
+同 a
+等 a
+条 a
+件 a
+下 a
+优 a
+先 a
+录 a
+取 a
+，
+其 a
+中 a
+报 a
+考 a
+人 h
+文 i
+社 i
+科 i
+类 a
+专 a
+业 a
+研 a
+究 a
+生 a
+的 a
+，
+初 a
+试 a
+总 a
+分 a
+加 a
+1 a
+5 a
+分 a
+” a
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+始 a
+建 a
+于 a
+1 a
+9 a
+5 a
+5 a
+年 a
+,
+历 a
+经 a
+六 a
+十 a
+余 a
+年 a
+成 a
+为 a
+新 a
+中 a
+国 a
+记 a
+者 a
+摇 a
+篮 a
+、
+新 a
+闻 a
+传 a
+播 a
+学 a
+术 a
+重 a
+镇 a
+、
+新 a
+闻 a
+教 a
+育 a
+改 a
+革 a
+创 a
+新 a
+的 a
+引 a
+领 a
+者 a
+之 a
+一 a
+
+在 a
+教 a
+育 a
+部 a
+组 a
+织 a
+的 a
+四 a
+次 a
+全 a
+国 a
+一 a
+级 a
+学 a
+科 a
+评 a
+估 a
+中 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+传 o
+播 o
+学 o
+科 a
+均 a
+排 a
+名 a
+第 a
+一 a
+
+4 a
+月 a
+2 a
+2 a
+日 a
+，
+由 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+党 f
+委 g
+组 g
+织 g
+的 a
+第 a
+十 a
+八 a
+期 a
+入 a
+党 a
+积 a
+极 a
+分 a
+子 a
+培 a
+训 a
+班 a
+正 a
+式 a
+开 a
+课 a
+
+新 n
+闻 o
+学 o
+院 o
+党 j
+委 k
+书 k
+记 k
+、
+副 j
+院 k
+长 k
+周 l
+勇 m
+，
+党 j
+委 k
+委 k
+员 k
+方 l
+洁 m
+主 a
+讲a
+，
+党 j
+委 k
+副 k
+书 k
+记 k
+孙 l
+权 m
+、
+党 j
+务 k
+秘 k
+书 k
+苏 l
+怡 m
+参 m
+加 a
+，
+1 a
+1 a
+0 a
+余 a
+名 a
+入 a
+党 a
+积 a
+极 a
+分 a
+子 a
+线 a
+上 a
+学 a
+习 a
+
+周 l
+勇 m
+书 j
+记 k
+结 a
+合 a
+个 a
+人 a
+经 a
+历 a
+，
+以 a
+“ b
+做 c
+无 c
+愧 c
+于 c
+时 c
+代 c
+的 c
+建 c 
+设c
+者 c
+” c
+为 a
+主 a
+题 a
+， 
+从 a
+我 a
+们 a
+所 a
+处 a
+的 a
+时 a
+代 a
+特 a
+征 a
+、
+人 n
+民 o
+大 o
+学 o
+及 a
+新 n
+闻 o
+学 o
+院 o
+的 a
+传 a
+统 a
+、
+党 a
+校 a
+学 a
+习 a
+及 a
+新 a
+闻 a
+传 a
+播 a
+专 a
+业 a
+学 a
+习 a
+的 a
+要 a
+求 a
+三 a
+个 a
+方 a
+面 a
+对 a
+入 a
+党 a
+积 a
+极 a
+分 a
+子 a
+进 a
+行 a
+教 a
+诲 a
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+始 a
+建 a
+于 a
+1 a
+9 a
+5 a
+5 a
+年 a
+,
+历 a
+经 a
+六 a
+十 a
+余 a
+年 a
+成 a
+长 a
+为 a
+中 r
+国 s
+新 h
+闻 i
+传 i
+播 i
+领 a
+域 a
+的 a
+学 a
+术 a
+重 a
+镇 a
+、
+记 a
+者 a
+摇 a
+篮 a
+和 a
+改 a
+革 a
+引 a
+领 a
+者 a
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n 
+闻 o
+学 o
+院 o
+作 a
+为 a
+中 a
+国 a
+新 a
+闻 a
+奖 a
+试 a
+点 a
+报 a
+送 a
+单 a
+位 a
+之 a
+一 a
+，
+将 a
+根 a
+据 a
+《 a
+关 a
+于 a
+做 a
+好 a
+中 d
+国 e
+新 e
+闻 e
+奖 e
+、
+长 d
+江 e
+韬 e
+奋 e
+奖 e
+评 a
+选 a
+工 a
+作 a
+有 a
+关 a
+事 a
+项 a
+的 a
+通 a
+知 a
+》 a
+和 a
+《 a
+新 a
+闻 a
+教 a
+研 a
+机 a
+构 a
+试 a
+点 a
+报 a
+送 a
+单 a
+位 a
+推 a
+荐 a
+作 a
+品 a
+的 a
+方 a
+案 a
+》 a
+的 a
+要 a
+求 a
+，
+结 a
+合 a
+工 a
+作 a
+实 a
+际 a
+，
+特 a
+将 a
+征 a
+集 a
+第 d
+3 e
+0 e
+届 e
+中 e
+国 e
+新 e
+闻 e
+奖 e
+参 a
+评 a
+作 a
+品 a
+的 a
+有 a
+关 a
+事 a
+项 a
+通 a
+知 a
+如 a
+下 a
+
+1 a
+月 a
+1 a
+2 a
+日 a
+，
+“ b
+2 c
+0 c
+2 c
+0 c
+传 c
+媒 c
+区 c
+块 c
+链  c
+高 c
+级 c
+研 c
+讨 c
+会 c
+暨 c
+传 c
+媒 c
+区 c
+块 c
+链 c
+产 c
+业 c
+智 c
+库 c
+筹 c
+备 c
+会 c
+” c
+在 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+明 r
+德 s
+新 s
+闻 s
+楼 s
+召 a
+开 a
+
+清 n
+华 o
+x o
+- o
+l o
+a o
+b o
+青 o
+藤 o
+链 o
+盟 o
+研 o
+究 o
+院 o
+院 j
+长 k
+、
+国 n
+研 o
+智 o
+库 o
+& o
+清 o
+华 o
+x o
+- o
+l o
+a o
+b o
+数 o
+权 o
+经 o
+济 o
+实 o
+验 o
+室 o
+主 j
+任 k
+钟 l
+宏 m
+以 m
+“ b
+学 c
+习 c
+习 c
+总 c
+书 c
+记 c
+讲 c
+话 c
+精 c 
+神 c
+' c
+区 c
+块 c
+链 c
++ c
+' c 
+数 c 
+字 c
+经 c
+济 c
+3 c
+.  c
+0 c
+新 c
+模 c
+式 c
+” c
+为 a
+题 a
+作 a
+首 a
+场 a
+学 a
+术 a
+分 a
+享 a
+他 a
+指 a
+出 a
+发 a
+展 a
+区 a
+块 a
+链 a
+技 a
+术 a
+的 a
+目 a
+标 a
+是 a
+建 a
+设 a
+网 a
+络 a
+强 a
+国 a
+、
+发 a
+展 a
+数 a
+字 a
+经 a
+济 a
+、
+助 a
+力 a
+经 a
+济 a
+社 a
+会 a
+
+该 a
+活 a
+动 a
+由 a
+区 h
+块 i
+链 i
+产 i
+业 i
+智 i
+库 i
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+现 f
+代 g
+广 g
+告 g
+研 g
+究 g
+中 g
+心 g
+、
+清 n
+华 o
+大 o
+学 o 
+技 f
+术 g
+创 g
+新 g
+研 g
+究 g
+中 g
+心 g
+、
+《 b
+媒 c
+介 c
+》 c
+杂 f
+志 g
+社 g
+主 a
+办 a
+，
+由 a
+国 f
+研 g
+智 g
+库 g
+、
+清 f
+华 g
+x g
+- g
+l g
+a g
+b g
+数 g
+权 g
+经 g
+济 g
+实 g
+验 g
+室 g
+、
+人 b
+民 c
+日 c
+报 c
+社 c
+《 c
+中 c
+国 c
+城 c
+市 c
+报 c
+》 c
+、
+首 f
+都 g
+版 g
+权 g
+产 g
+业 g
+联 g
+盟 g
+、
+区 f
+块 g
+链 g
+产 g
+业 g
+人 g
+才 g
+研 g
+究 g 
+所 g
+等 a
+机 a
+构 a
+联 a
+合 a
+举 a
+办 a
+
+2 b
+0  c
+2  c
+0  c
+传 c
+媒 c
+区  c
+块 c
+链  c
+高 c
+级 c
+研  c
+讨 c
+会 c
+在 a
+上 a
+午 a
+举 a
+办 a
+的 a
+“ b
+传 c
+媒 c
+区 c
+块 c
+链 c
+高 c
+级 c
+研 c
+讨 c
+会 c
+“ c
+上 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+执 o
+行 o
+院 j
+长 k
+胡 l
+百 m
+精 m
+致 a
+词 a
+，
+他 a
+强 a
+调 a
+了 a
+传 h
+媒 i
+区 i
+块 i
+链 i
+智 i
+库 i
+的 a
+重 a
+要 a
+性 a
+，
+同 a
+时 a
+表 a
+示 a
+此 a
+次 a
+研 a
+讨 a
+会 a
+怀 a
+着 a
+对 a
+新 a
+技 a
+术 a
+的 a
+希 a
+望 a
+召 a
+开 a
+，
+但 a
+也 a
+应 a
+注 a
+意 a
+到 a
+人 a
+们 a
+对 a
+新 a
+技 a
+术 a
+往 a
+往 a
+充 a
+满 a
+浪 a
+漫 a
+的 a
+想 a
+象 a
+，
+冷 a
+静 a
+思 a
+考 a
+区 a
+块 a
+链 a
+技 a
+术 a
+的 a
+实 a
+际 a
+影 a
+响 a
+是 a
+应 a
+有 a
+之 a
+义 a
+
+1 a
+月 a
+1 a
+4 a
+日 a
+上 a
+午 a
+，
+中 n
+国 o 
+人 o
+民 o
+大 o
+学 o
+“ p
+不 q
+忘 q
+初 q
+心 q
+、 q
+牢 q
+记 q
+使 q
+命 q
+” q
+主 a
+题 a
+教 a
+育 a
+新 b
+闻 c
+学 c
+院 c
+党 c
+委 c
+总 c
+结 c
+评 c
+估 c
+会 c
+议 c
+在 a
+明 r
+德 s
+新 s
+闻 s
+楼 s
+三 s
+层 s
+演 s
+播 s
+厅 s
+举 a
+行 a
+
+校 f
+内 g
+指 g
+导 g
+组 g
+成 a
+员 a
+王 l
+健 m
+、
+马 l
+晴 m
+，
+新 a
+闻 a
+学 a
+院 a
+党 a
+政 a
+领 a
+导 a
+班 a
+子 a
+成 a
+员 a
+、
+师 a
+生 a
+党 j
+支 k
+部 k
+书 k
+记 k
+、
+师 a
+生 a
+党 j
+员 k
+代 k
+表 k
+、
+入 a
+党 a
+积 a
+极 a
+分 a
+子 a
+等 a
+1 a
+1 a
+0 a 
+余 a
+人 a
+参 a
+会 a
+
+新 n
+闻 o
+学 o
+院 o
+执 j 
+行 k
+院 k
+长 k
+兼 a
+党 j
+委 k
+副 k
+书 k
+记 k
+胡 l
+百 m
+精 m
+主 a
+持 a
+会 a
+议 a
+
+胡 l
+百 m
+精 m
+院 j 
+长k
+首 a
+先 a
+传 a
+达 a
+了 a
+习 l
+近 m
+平 m
+总 j 
+书 k
+记 k
+在 a
+“ b
+不 c
+忘 c
+初 c
+心 c
+， c
+牢 c
+记 c
+使 c
+命 c
+” c
+主 a
+题 a
+教 a
+育 a
+总 a
+结 a
+大 a
+会 a
+上 a
+的 a
+讲 a
+话 a
+
+1 a
+月 a
+1 a
+4 a
+日 a
+上 a
+午 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+教 a
+职 a
+工 a
+齐 a
+聚 a
+一 a
+堂 a
+，
+在 a
+学 a
+院 a
+实 a
+验 a
+中 a
+心 a
+演 a
+播 a
+厅 a
+拍 a
+下 a
+了 a
+2 a
+0 a
+2 a
+0 a
+年 a
+的 a
+第 a
+一 a
+张 a
+全 a
+家 a
+福 a
+大 a
+合 a
+影 a
+
+当 a
+天 a
+，
+新 n
+闻 o
+学 o
+院 o
+举 a
+行 a
+2 b
+0 c
+2 c
+0 c
+年 c
+新 c
+年 c
+报 c
+告 c
+会 c
+暨 c
+教 c
+职 c
+工 c
+代 c
+表 c
+大 c
+会 c
+
+新 b
+年 c
+报 c
+告 c
+会 c
+由 a
+党 j 
+委 k
+书 k
+记 k
+周 l
+勇 m
+教 j
+授k
+主 a
+持 a
+
+在 a
+报 a
+告 a
+中 a
+，
+胡 l
+百 m
+精 m
+院 j
+长 k
+回 a
+顾 a
+了 a
+2 a
+0 a
+1 a
+9 a
+年 a
+学 a
+院 a
+在 a
+人 a
+才 a
+培 a
+养 a
+、
+科 a
+学 a
+研 a
+究 a
+、
+队 a
+伍 a
+建 a
+设 a
+、
+学 a
+科 a
+建 a
+设 a
+、
+国 a
+际 a
+交 a
+流 a
+、
+社 a
+会 a
+服 a
+务 a
+等 a
+方 a
+面 a
+所 a
+取 a
+得 a
+的 a
+成 a
+绩 a
+，
+同 a
+时 a
+汇 a
+报 a
+了 a
+新 n
+闻 o
+学 o
+院 o
+2 a
+0 a
+1 a
+9 a
+年 a
+财 a
+务 a
+工 a
+作 a
+情 a
+况 a
+
+新 n
+闻 o
+学 o
+院 o
+分 j
+工 k
+会 k
+主 k
+席 k
+方 l
+洁 m
+作 a
+新 n
+闻 o
+学 o
+院 o
+分 a
+工 a
+会 a
+2 a
+0 a
+1 a
+9 a
+年 a
+度 a
+工 a
+作 a
+总 a
+结 a
+报 a
+告 a
+，
+她 a
+简 a
+要 a
+回 a
+顾 a
+了 a
+2 a
+0 a
+1 a
+9 a
+年 a
+学 f
+院 g
+分 g
+工 g
+会 g
+委 j
+员 k
+、
+教 f
+代 g
+会 g
+代 a
+表 a
+开 a
+展 a
+的 a
+各 a
+项 a
+工 a
+作 a
+，
+并 a
+向 a
+全 a
+体 a
+教 a
+职 a
+工 a
+致 a
+以 a
+新 a
+年 a
+祝 a
+福 a
+
+（ a
+一 a
+) a
+学 a
+员 a
+交 a
+纳 a
+第 a
+二 a
+部 a
+分 a
+学 a
+费 a
+( a
+即 a
+课 a
+程 a
+考 a
+试 a
+费 a
+用 a
+) a
+2 a
+0 a
+2 a
+0 a
+年 a
+2 a
+月 a
+2 a
+1 a
+日 a
+至 a
+2 a
+月 a
+2 a
+9 a
+日 a
+，
+财 a
+务 a
+处 a
+将 a
+开 a
+通 a
+第 a
+二 a
+部 a
+分 a
+学 a
+费 a
+（ a
+申 a
+请 a
+费 a
+和 a
+考 a
+试 a
+费 a
+） a
+网 a
+上 a
+缴 a
+费 a
+平 a
+台 a
+，
+请 a
+各 a
+学 a
+员 a
+登 a
+陆 a
+研 a
+究 a
+生 a
+院 a
+网 a
+站 a
+（ a
+h a
+t a
+t a
+p a
+: a
+/ a
+/ a
+g a
+r a
+s a
+.
+r a
+u a
+c a
+.
+e a
+d a
+u a
+.
+c a
+n a
+- a
+— a
+同 a
+等 a
+学 a
+力 a
+页 a
+面 a
+） a
+查 a
+询 a
+缴 a
+费 a
+金 a
+额 a
+及 a
+缴 a
+费 a
+网 a
+址 a
+，
+并 a
+点 a
+击 a
+链 a
+接 a
+，
+进 a
+入 a
+缴 a
+费 a
+系 a
+统 a
+，
+缴 a
+纳 a
+相 a
+应 a
+费 a
+用 a
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 o
+闻 o
+学 o
+院 o
+执 a
+行 a
+院 j
+长 k
+胡 l
+百 m
+精 a
+致 a
+辞 a
+时 a
+说 a
+明 a
+了 a
+举 a
+办 a
+研 a
+究 a
+方 a
+法 a
+工 a
+作 a
+坊 a
+的 a
+原 a
+因 a
+
+计 h
+算 i
+传 i
+播 i
+学 i
+源 a
+于 a
+计 h
+算 i
+社 i
+会 i
+科 i
+学 i
+的 a
+兴 a
+起 a
+，
+主 a
+要 a
+关 a
+注 a
+人 a
+类 a
+传 a
+播 a
+行 a
+为 a
+的 a
+可 a
+计 a
+算 a
+性 a
+基 a
+础 a
+，
+并 a
+以 a
+传 h
+播 i
+网 i
+络 i
+分 i
+析 i
+、
+文 h
+本 i
+挖 i
+掘 i
+、
+数 h
+据 i 
+科 i
+学 i
+等 a
+为 a
+主 a
+要 a
+分 a
+析 a
+工 a
+具 a
+，
+非 a
+介 a
+入 a
+地 a
+收 a
+集 a
+并 a
+分 a
+析 a
+人 h
+类 i
+传 i
+播 i
+行 i
+为 i
+数 a
+据 a
+从 a
+而 a
+挖 a
+掘 a
+人 a
+类 a
+传 a
+播 a
+行 a
+为 a
+规 a
+律 a 
+和 a
+原 a
+理 a
+
+中 n 
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+讲 j
+师 k
+潘 l
+文 m
+静 m
+演 a
+讲 a
+主 a
+题 a
+： a
+《 b
+社 c
+会 c
+网 c
+络 c
+分 c
+析 c
+方 c
+法 c
+》 c
+工 a
+作 a
+坊 a
+第 a
+十 a
+讲 a
+由 a
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+荣 a
+誉 a
+一 a
+级 a
+教 j
+授 k
+陈 l
+力 m
+丹 m
+对
+新 h
+闻 i
+传 i
+播 i
+学 i
+学 a
+术 a
+研 a
+究 a
+作 a
+总 a
+结 a
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+副 j
+教 k
+授 k
+陈 l
+阳 m
+演 a
+讲 a
+主 a
+题 a
+： a
+《 b
+内 c
+容 c
+分 c
+析 c
+法 c
+在 c
+传 c
+播 c
+研 c
+究 c
+中 c
+的 c
+应 c
+用 c
+》 c
+陈 l
+阳 m
+副 j
+教 k
+授 k
+还 a
+以 a
+2 a
+0 a
+0 a
+5 a
+年 a
+十 a
+大 a
+性 a
+别 a
+歧 a
+视 a
+/ a
+公 a
+正 a 
+广 a
+告 a
+评 a
+选 a
+为 a
+例 a
+具 a
+体 a
+演 a
+示 a
+了 a
+内 a
+容 a
+分 a
+析 a
+法 a
+的 a
+实 a
+际 a
+应 a
+用 a
+, 
+并 a
+结 a
+合 a
+研 a
+究 a
+案 a
+例 a
+详 a
+细 a
+介 a
+绍 a
+了 a
+内 a
+容 a
+分 a
+析 a
+法 a
+的 a
+一 a
+般 a
+流 a
+程 a
+： a
+讲 j
+师 k
+潘 l
+文 m
+静 m
+介 a
+绍 a
+了 a
+社 a
+会 a
+网 a
+络 a
+分 a
+析 a
+在 a
+传 h
+播 i
+学 i
+领 a
+域 a
+的 a
+应 a
+用 a
+
+
+对 a
+专 a
+项 a
+计 a
+划 a
+（ a
+“ a
+少 a
+数 a
+民 a
+族 a
+高 a
+层 a 
+次 a
+骨 a
+干 a
+计 a
+划 a
+”a 
+和 a
+“ a
+对 a
+口 a
+支 a
+援 a
+院 a
+校 a
+高 a
+校 a
+教 a
+师 a
+” a
+） a
+考 a
+生 a
+的 a 
+复 a
+试 a
+总 a
+成 a
+绩 a
+由 a
+高 a
+至 a
+低 a
+进 a
+行 a
+排 a
+序 a
+，
+在 a
+具 a
+体 a
+专 a
+项 a
+计 a 
+划 a
+名 a
+额 a
+内 a
+和 a
+导 a
+师 a
+当 a
+年 a
+可 a
+录 a
+取 a 
+名 a
+额 a
+内 a
+择 a
+优 a
+录 a
+取 a
+
+近 a
+日 a
+，
+第 d
+十 e
+五 e
+届 e
+北 e
+京 e
+市 e
+高 e
+等 e
+学 e
+校 e
+教 e
+学 e
+名 e
+师 e
+奖 e
+和 a
+第 e
+三 e
+届 e
+北 e
+京 e
+市 e
+高 e
+等 e
+学 e
+校 e
+青 e
+年 e
+教 e
+学 e
+名 e
+师 e
+奖 e
+评 a
+选 a
+结 a
+果 a
+揭 a
+晓 a
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+2 a
+位 a
+教 a
+师 a
+被 a
+评 a
+为 a
+北 r
+京 s
+市 s
+教 a
+学 a
+名 a
+师 a
+，
+3 a
+位 a
+教 a
+师 a
+被 a
+评 a
+为 a
+北 r
+京 s
+市 s
+青 a
+年 a 
+教 a
+学 a
+名 a
+师 a
+
+入 a
+选 a
+教 f
+育 g
+部 g
+“
+新 a
+世 a
+纪 a
+优 a
+秀 a
+人 a
+才 a
+” a
+（ a
+2 a
+0 a
+1 a
+1 a
+） a
+、
+“ a 
+青 a
+年 a
+长 a
+江 a
+学 a
+者 a
+” a
+（ a
+2 a
+0 a
+1 a
+8 a
+） a
+ 
+目 a
+前 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+共 a
+有 a
+5 a
+7 a
+名 a
+教 a
+师 a
+荣 a
+获 a
+教 a
+学 a
+名 a
+师 a
+称 a
+号 a
+，
+其 a
+中 a
+8 a
+名 a
+教 a
+师 a
+被 a
+评 a
+为 a
+国 a
+家 a
+级 a
+教 a
+学 a
+名 a
+师 a
+，
+5 a
+0 a
+名 a
+教 a
+师 a
+被 a
+评 a
+为 a
+北 r
+京 s
+市 s
+教 a
+学 a
+名 a
+师 a
+，
+7 a
+名 a
+教 a
+师 a
+被 a
+评 a
+为 a
+北 r
+京 s
+市 s
+青 a
+年 a
+教 a
+学 a
+名 a
+师 a
+
+曾 a
+获 a
+国 d
+家 e
+级 e
+高 e
+等 e
+教 e
+育 e
+教 e
+学 e
+成 e
+果 e
+奖 e
+一 e
+等 e
+奖 e
+、
+北 d
+京 e
+市 e
+哲 e
+学 e
+社 e
+会 e
+科 e
+学 e
+优 e
+秀 e
+成 e
+果 e
+二 e
+等 e
+奖 e
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+教 d
+学 e
+标 e
+兵 e
+等 e
+奖 e
+励 e
+
+第 d
+三 e
+届 e
+北 e
+京 e
+市 e
+高 e
+等 e
+学 e
+校 e
+青 e
+年 e
+教 e
+学 e
+名 e
+师 e
+奖 e
+柯 l
+媛 m
+元 m
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+数 n
+学 o
+学 o
+院 o
+副 j
+院 k
+长 k
+、
+教 j
+授 k
+、
+博 j
+士 k
+生 k
+导 k
+师 k
+，
+兼 a
+任 a
+美 r
+国 s
+数 f
+学 g
+会 g
+、
+德 r
+国 s
+《 b
+数 c
+学 c
+文 c
+摘 c
+》 c
+和 a
+《 b
+中 c
+国 c
+数 c
+学 c
+文 c
+摘 c
+》 c
+评 j 
+论 k
+员 k
+
+曾 a
+获 a
+北 d
+京 e
+市 e
+高 e
+等 e
+教 e
+育 e
+教 e
+学 e
+成 e
+果 e
+奖 e
+一 e
+等 e
+奖 e
+、
+北 d
+京 e
+高 e
+校 e
+青 e
+年 e
+英 e
+才 e
+、
+宝 d
+钢 e
+优 e
+秀 e
+教 e
+师 e
+奖 e
+、
+中 d
+国 e
+人 e
+民 e
+大 e
+学 e
+明 e
+德 e
+青 e
+年 e
+学 e
+者 e
+、 
+“ d
+十 e
+佳 e
+班 e
+主 e
+任 e
+”e
+、
+优 d
+秀 e
+学 e
+士 e
+论 e
+文 e
+指 e
+导 e
+教 e
+师 e
+等 e
+奖 e
+励 e
+
+1 a
+2 a
+月 a
+2 a
+0 a
+日 a
+下 a
+午 a
+，
+2 a
+0 a
+1 a
+9 a
+年 a
+北 a
+京 a
+高 a
+校 a
+“ b
+我 c
+的 c
+班 c
+级 c
+我 c
+的 c
+家 c
+” c
+十 c
+佳 c
+班 c
+集 c
+体 c
+创 c
+建 c
+答 c
+辩 c
+评 c
+选 c
+会 c
+在 a
+北 n
+京 o
+工 o
+业 o
+大 o
+学 o
+举 a
+行 a
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+2 a
+0 a
+1 a
+6 a
+级 a
+本 a
+科 a
+国 a
+防 a
+班 a
+作 a
+为 a
+2 a
+0 a
+1 a
+9 a
+年 a
+中 n 
+国 o
+人 o
+民 o
+大 o
+学 o
+十 d
+佳 e
+班 e
+集 e
+体 e
+展 e
+评 e
+第 e
+一 e
+名 e
+参 a
+加 a
+评 a
+选 a
+活 a
+动 a
+，
+并 a
+获 a
+得 a
+北 r
+京 s
+市 s
+“ d
+优 e
+秀 e
+示 e
+范 e
+班 e
+集 e
+体 e
+” e
+荣 a
+誉 a
+称 a
+号 a
+
+清 n
+华 o
+大 o
+学 o
+新 n
+闻 o
+与 o
+传 o
+播 o
+学 o
+院 o
+常 j
+务 k
+副 k
+院 k
+长 k
+陈 l
+昌 m
+凤 m
+教 j
+授 k
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+副 j
+院 k
+长 k
+张 l
+辉 m
+锋 m
+教 j
+授 k
+、
+中 n
+国 o
+社 o
+会 o
+科 o
+学 o
+院 o
+大 o
+学 o
+n o
+体 o
+学 o
+院 o
+执 j
+行 k
+院 k
+长 k
+漆 l
+亚 m
+林 m
+教 j
+授 k
+、
+宁 n
+夏 o
+大 o
+学 o
+新 n
+闻 o
+传 o
+播 o
+学 o
+院 o
+常 j
+务 k
+副 k
+院 k
+长 k
+李 l
+世 m
+举 m
+教 j
+授 k
+、
+新 n
+疆 o
+大 o
+学 o
+新 n
+闻 o
+与 o
+传 o
+播 o 
+学 o 
+院 o 
+院  j
+长 k
+张 l
+允 m
+教 j
+授 k
+、
+西 n
+南 o
+政 o
+法 o
+大 o
+学 o
+新 n
+闻 o
+传 o
+播 o
+学 o
+院 o
+院 j
+长 k
+李 l
+珮 m
+教 j
+授 k
+、
+内 n
+蒙 o
+古 o
+大 o
+学 o
+文 n
+学 o
+与 o
+新 o 
+闻 o
+传 o
+播 o
+学 o
+院 o
+副 j
+院 k
+长 k
+张 l
+丽 m
+萍 m
+教 j
+授 k
+、
+云 n
+南 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+常 j
+务 k
+副 k
+院 k
+长 k
+单 l
+晓 m
+红 m
+教 j
+授 k
+、
+河 n
+北 o
+大 o
+学 o
+新 n
+闻 o
+传 o
+播 o
+学 o
+院 o
+院 j
+长 k
+韩 l
+立 m
+新 m
+教 j
+授 k
+、
+新 n
+疆 o
+财 o
+经 o
+大 o
+学 o
+文 n
+化 o
+与 o
+传 o
+媒 o
+学 o
+院 o
+院 j
+长 k
+焦 l
+若 m
+薇 m
+教 j
+授 k
+、
+云 n
+南 o
+师 o
+范 o
+大 o
+学 o
+传 o
+媒 o
+学 o
+院 o
+院 j
+长 k
+熊 l
+永 m
+翔 m
+教 j
+授 k
+和 a
+辽 n
+宁 o
+大 o
+学 o
+新 n
+闻 o
+与 o
+传 o
+播 o
+学 o
+院 o
+副 j
+院 k
+长 k
+程 l
+丽 m
+红 m
+教 j
+授 k
+等 a
+参 a
+会 a
+讨 a
+论 a
+交 a
+流 a
+
+2 a
+0 a
+1 a
+9 a
+年 a 
+1 a
+2 a
+月 a
+4 a
+日 a
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+第 a
+三 a
+期 a
+“ p
+新 q
+闻 q
+传 q
+播 q
+学 q
+科 q
+学 q
+术 q
+拔 q
+尖 q
+人 q
+才 q
+培 q
+养 q
+计 q
+划 q
+” q
+集 a
+中 a
+选 a
+拔 a
+在 a
+学 a
+院 a
+演 a
+播 a
+厅 a
+举 a
+行 a
+
+经 a
+公 a
+开 a
+面 a
+试 a
+，
+人 n
+大 o
+新 o
+闻 o
+学 o
+院 o
+2 a
+0 a
+1 a
+8 a
+级 a
+博 a
+士 a
+研 a
+究 a
+生 a
+李 l
+泓 m
+江 m
+、
+王 l
+睿 m
+路 m
+，
+2 a
+0 a
+1 a
+9 a
+级 a
+博 a
+士 a
+研 a
+究 a
+生 a
+秦 l
+艺 m
+丹 m
+、
+凌 l
+昱 m
+、
+王 l
+怡 m
+溪 m
+，
+2 a
+0 a
+1 a
+8 a
+级 a
+硕 a
+士 a
+研 a
+究 a
+生 a
+李 l
+静 m
+、
+张 l
+雪 m
+、
+付 l
+晓 m
+雅 m
+、
+高 l
+琳 m
+轩 m
+等 a
+9 a
+名 a
+同 a
+学 a
+入 a
+选 a
+
+本 a
+期 a
+选 a
+拔 a
+专 f
+家 g
+委 g
+员 g
+会 g
+由 a
+中 n 
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院o
+蔡 l
+雯 m
+教 j
+授 k
+担 a
+任 a
+主 j
+席 k
+，
+校 a
+外 a
+专 a
+家 a
+包 a
+括 a
+清 n
+华 o
+大 o
+学 o
+新 n
+闻 o
+与 o
+传 o
+播 o
+学 o
+院 o
+彭 l
+兰 m
+教 j
+授 k
+、
+中 n
+国 o
+传 o
+媒 o
+大 o
+学 o
+张 l
+毓 m
+强 m
+教 j
+授 k
+、
+北 n
+京 o
+大 o
+学 o
+新 n
+闻 o
+与 o
+传 o
+播 o
+学 o
+院 o
+王 l
+洪 m
+喆 m
+助 j
+理 k
+教 k
+授 k
+，
+校 a
+内 a
+专 a
+家 a
+还 a
+有 a
+新 n
+闻 o
+学 o
+院 o
+王 l
+斌 m
+教 j
+授 k
+、
+黄 l
+河 m
+副 k
+教 k
+授 k
+、
+李 l 
+彪 m
+副 j
+教 k
+授 k
+、
+刘 l
+东 m
+副 m
+教 j
+授 k
+和
+闫 l
+岩 m
+副 j
+教 k
+授 k
+
+最 a
+后 a
+，
+希 a
+望 a
+人 a
+大 a
+有 a
+越 a
+来 a
+越 a
+多 a
+的 a
+学 a
+生 a
+能 a
+够 a
+代 a
+代 a
+相 a
+承 a
+，
+像 a
+方 a
+先 a
+生 a
+所 a
+说 a
+的 a
+那 a
+样 a
+，
+真 a
+正 a
+把 a
+新 h
+闻 i
+学 i
+、
+新 h
+闻 i
+史 i
+学 i
+做 a
+成 a
+与 a
+现 a
+实 a
+结 a
+合 a
+的 a
+学 a
+科 a
+，
+希 a
+望 a
+有 a
+更 a
+多 a
+的 a
+年 a
+轻 a
+人 a
+能 a
+够 a
+投 a
+身 a
+到 a
+这 a
+个 a
+学 a
+科 a
+中 a
+来 a
+
+上 a
+周 a
+，
+我 a
+们 a
+发 a
+布 a
+了 a
+9 a
+位 a
+院 a
+长 a
+在 a
+中 f
+国 g
+新 g
+闻 g
+史 g
+学 g
+会 g
+二 a
+〇 a
+一 a
+九 a
+年 a
+学 a
+术 a
+年 a
+会 a
+— a
+— a
+2 a
+0 a
+1 a
+9 a
+年 a
+论 a
+坛 a
+上 a
+发 a
+表 a
+的 a
+观 a
+点 a
+，
+今 a
+天 a
+，
+我 a
+们 a
+继 a
+续 a
+发 a
+布 a
+2 a
+9 a
+位 a
+院 a
+长 a
+在 a
+论 a
+坛 a
+上 a
+发 a
+表 a
+的 a
+观 a
+点 a
+，
+以 a
+飨 a
+读 a
+者 a
+
+上 n
+海 o
+交 o
+通 o
+大 o
+学 o
+媒 n
+体 o
+与 o
+传 o
+播 o
+学 o
+院 o
+院 j
+长 k
+李 l
+本 m
+乾 m
+教 j
+授 k
+李 l
+本 m
+乾 m
+院 j
+长 k
+指 a
+出 a
+，
+技 a
+术 a
+的 a
+发 a
+展 a
+对 a
+行 a
+业 a
+的 a
+发 a
+展 a
+影 a
+响 a
+比 a
+较 a
+大 
+，
+例 a
+如 a
+5 h
+G i
+和 i
+人 i
+工 i
+智 i
+能 i
+：
+5 a
+G a
+有 a
+五 a
+大 a
+关 a
+键 a
+技 a
+术 a
+的 a
+突 a
+破 a
+，
+带 a
+来 a
+了 a
+三 a
+大 a
+应 a
+用 a
+场 a
+景 a
+的 a
+变 a
+化 a
+，
+这 a
+样 a
+势 a
+必 a
+对 a
+我 a
+们 a
+新 h
+闻 i
+传 i
+播 i
+提 a
+出 a
+一 a
+些 a
+新 a
+的 a
+应 a
+用 a
+
+湖 n
+南 o
+大 o
+学 o
+新 n
+闻 o
+传 o
+播 o
+与 o
+影 o
+视 o
+艺 o
+术 o
+学 o
+院 o
+院 j
+长 k
+彭 l
+祝 m
+斌 m
+教 j
+授 k
+彭 l
+祝 m
+斌 m
+院 j
+长 k
+对 a
+人 a
+才 a
+培 a
+养 a
+的 a
+操 a
+作 a
+路 a
+线 a
+进 a
+行 a
+了 a
+探 a
+讨 a
+，
+认 a
+为 a
+新 a
+闻 a
+人 a
+才 a
+培 a
+养 a
+的 a
+定 a
+位 a
+应 a
+该 a
+有 a
+三 a
+个 a
+维 a
+度 a
+：
+新 h
+闻 i
+媒 i
+体 i
+、
+新 h
+闻 i
+教 i
+育 i
+和 a
+新 h
+闻 i
+研 i
+究 i
+
+新 n
+闻 o
+学 o
+院 o
+要 a
+求 a
+所 a
+有 a
+已 a
+办 a
+资 a
+格 a
+卡 a
+申 a
+请 a
+硕 a
+士 a
+学 a
+位 a
+的 a
+同 a
+等 a
+学 a
+力 a
+人 a
+员 a
+在 a
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+2 a
+月 a
+3 a
+1 a
+日 a
+前 a
+完 a
+成 a
+全 a
+国 a
+综 a
+合 a
+水 a
+平 a
+考 a
+试 a
+网 a
+上 a
+申 a
+请 a
+确 a
+认 a
+工 a
+作 a
+，
+逾 a
+期 a
+自 a
+行 a
+承 a
+担 a
+相 a
+应 a
+责 a
+任 a
+
+​
+新 f
+闻 g
+与 g
+社 g
+会 g
+发 g
+展 g
+论 g
+坛 g
+( g
+2 g
+0 g
+1 g
+9 g
+· g
+昆 g
+明 g
+) g
+5 a
+G a
+时 a
+代 a
+新 h
+闻 i
+传 i
+播 i
+与 i
+社 i
+会 i
+发 i
+展 i
+创 a
+新 a
+尊 a
+敬 a
+的 a
+学 a
+界 a
+与 a
+业 a
+界 a
+专 a
+家 a
+:
+您 a
+好 a
+!
+5 a
+G a
+作 a
+为 a
+互 a
+联 a
+网 a
+新 a
+时 a
+代 a
+的 a
+标 a
+志 a
+,
+就 a
+同 a
+从 a
+1 a
+G a
+到 a
+4 a
+G a
+的 a
+发 a
+展 a
+革 a
+新 a
+给 a
+信 a
+息 a
+传 a
+播 a
+方 a
+式 a
+和 a
+介 a
+质 a
+形 a
+态 a
+所 a
+带 a
+来 a
+的 a
+变 a
+化 a
+一 a
+样 a
+,
+必 a
+定 a
+也 a
+会 a
+给 a
+新 h
+闻 i
+传 i
+播 i
+业 i
+和 a
+社 a
+会 a
+传 a
+播 a
+形 a
+态 a
+带 a 
+来 a
+更 a
+多 a
+的 a
+变 a
+化 a
+,
+信 h
+息 i
+传 i
+播 i
+的 a
+主 a
+体 a
+也 a
+不 a
+再 a
+局 a
+限 a
+于 a
+人 a
+本 a
+身 a
+,
+社 a
+会 a
+交 a
+往 a
+方 a
+式 a
+也 a
+从 a
+过 a
+往 a
+族 a
+群 a
+、
+个 a
+体 a
+交 a
+往 a
+向 a
+人 a
+与 a
+非 a
+人 a
+等 a
+多 a
+元 a
+主 a
+体 a
+交 a
+往 a
+过 a
+渡 a
+,
+在 a
+此 a
+背 a
+景 a
+下 a
+,
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 f
+闻 g
+与 g
+社 g
+会 g
+发 g
+展 g
+研 g 
+究 g
+中 g
+心 g
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+、
+云 n 
+南 o
+大 o
+学 o 
+新 n
+闻 o
+学 o
+院 o
+,
+将 a
+于 a
+2 a
+0 a
+1 a
+9 a
+年 a
+1 a
+2 a
+月 a
+在 a
+云 a
+南 a
+昆 a
+明 a
+联 a
+合 a
+举 a
+办 a
+“ b
+新 c
+闻 c
+与 c
+社 c
+会 c
+发 c
+展 c
+论 c
+坛 c
+( c
+2 c
+0 c
+1 c
+9 c
+) c
+” c
+,
+主 a
+题 a
+为 a
+“ a
+5 a
+G a
+时 a
+代 a
+新 a
+闻 a
+传 a
+播 a
+与 a
+社 a
+会 a
+发 a
+展 a
+创 a
+新 a
+” a
+
+中 b
+国 c
+新 c
+闻 c
+史 c
+学 c
+会 c
+二 c
+〇 c
+一 c
+九 c
+年 c
+学 c
+术 c
+年 c
+会 c
+— c
+— c
+2 c
+0 c
+1 c
+9 c
+年 c
+院 j
+长 k
+论 a
+坛 a
+于 a
+1 a
+1 a
+月 a
+1 a
+6 a
+日 a
+至 a
+1 a
+7 a
+日 a
+在 a
+北 r
+京 s
+举 a
+办 a
+，
+来 a
+自 a
+国 a
+内 a
+外 a
+3 a
+8 a
+所 a
+主 a
+流 a
+新 h
+闻 i
+传 i
+播 i
+院 a
+校 a
+的 a
+院 j
+长 k
+、
+副 j
+院 k
+长 k
+等 a
+现 a
+场 a
+交 a
+流 a
+讨 a
+论 a
+、
+分 a
+享 a
+各 a
+自 a
+经 a
+验 a
+、
+探 a
+讨 a
+未 a
+来 a
+合 a
+作 a
+
+0 a
+4 a
+厦 n
+门 o
+大 o
+学 o
+新 n
+闻 o
+传 o
+播 o
+学 o
+院 o
+院 j
+长 k
+余 l
+清 m
+楚 m
+教 j
+授 k
+余 l
+清 m
+楚 m
+院 j
+长 k
+曾 a
+在
+《 b
+人 c
+民 c
+日 c
+报 c
+》 c
+社
+工
+作
+3
+0
+年
+，
+他
+以
+一
+个
+媒
+体
+人
+的
+思
+维
+视
+觉
+对
+新 h
+闻 i
+传 i
+播 i
+学 i
+科 i
+需
+求
+、
+人
+才
+培
+养
+机
+制
+的
+发
+展
+提
+出
+了
+几
+点
+展
+望
+和
+“
+三
+问
+”
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+2
+0
+1
+7
+级
+传 h
+播 i
+学 i
+博
+士
+生
+胡 l
+宏 m
+超 m
+于
+2
+0
+1
+9
+年
+8
+月
+7
+日
+在
+加
+拿
+大
+多
+伦
+多
+举
+办
+的
+新 b
+闻 c
+与 c
+大 c
+众 c
+传 c
+播 c
+教 c
+育 c
+学 c
+会 c
+（ c
+A c
+s c
+s c
+o c
+c c
+i c 
+a c
+t c
+i c
+o c 
+n c
+f c
+o c
+r c
+E c 
+d c
+u c
+c c
+a c
+t c
+i c 
+o c
+n c
+i c 
+n c
+J c
+o c
+u c
+r c
+n c
+a c 
+l c
+i c
+s c
+m c 
+a c
+n c
+d c
+M c
+a c
+s c
+s  c
+C c
+o c
+m c
+m c
+u c
+n c
+i c
+c c
+a c
+t c
+i c
+o c
+n c
+，
+简
+称
+“ b
+A c
+E c
+J c
+M c
+C c
+” c
+） c
+年 b
+会 c
+“ c
+M c
+e c
+d c
+i c
+a c
+M c 
+a c
+n c
+a c 
+g c
+e c
+m c
+e c
+n c
+t c
+，
+E c
+c c
+o c
+n c
+o c
+m c
+i c
+c c
+s c
+，
+a c
+n c
+d c
+E c
+n c
+t c
+r c
+e c
+p c
+r c
+e c
+n c
+e c
+u c
+r c
+s c
+h c
+i c
+p c
+” c
+分 b
+会 c
+（ c
+“ c
+媒 c
+体 c
+管 c
+理 c 
+、c 
+经 c
+济 c
+与 c
+企 c
+业 c
+家 c
+精 c
+神 c
+” c
+分 b
+会 c
+） c
+中 c
+，
+以
+第
+二
+作
+者
+身
+份
+发
+表
+论
+文
+G t
+o u
+v u
+e u
+r u
+n u
+m u
+e u
+n u
+t u
+R u
+e u
+g u
+u u
+l u
+a u
+t u
+i u
+o u
+n u
+o u
+f u
+O u
+n u
+l u
+i u
+n u
+e u
+A u
+u u
+d u
+i u
+o u
+- u
+V u
+i u
+s u
+u
+a
+l
+E u
+n u
+t u
+r u
+e u
+p u
+r u
+e u
+n u
+e u
+u u
+r u
+s u
+h u
+i u
+p u
+i u
+n u
+C u
+h u
+i u
+n u
+a u
+: u
+E u
+x u
+p u
+e u
+r u
+i u
+e u
+n u
+c u
+e u
+s u
+f u
+r u
+o u
+m u
+t u
+h u
+e u
+A u
+d u
+m u 
+i u
+n u
+i u
+s u
+t u
+r u
+a u
+t u
+i u
+o u
+n u
+i u
+n u
+B u
+e u
+i u
+j u
+i u
+n u
+g u
+（ u
+《 u
+中 u
+国 u
+网 u
+络 u
+视 u
+听 u
+行 u
+业 u
+的 u
+政 u 
+府 u
+规 u
+制 u
+研 u
+究 u
+— u
+— u
+以 u
+北 u
+京 u
+地 u
+区 u
+为 u
+例 u
+》 u
+） u
+，
+并
+获
+得
+“ d
+M e
+a e
+r e
+y e
+A e
+l e
+i e
+c e
+e e
+S e
+h e
+a e
+v e
+e e
+r e
+A e
+w e
+a e
+r e
+d e
+S e
+e e
+c e
+o e
+n e
+d e
+P e
+l e
+a e
+c e
+e e
+S e
+t e
+u e
+d e
+e e
+n e
+t e
+P e
+a e
+p e
+e e
+r e
+” e
+（ e
+优 e
+秀 e
+学 e
+生 e 
+论 e
+文 e
+第 e
+二 e
+名 e
+） e
+
+新 f
+闻 g
+和 g 
+大 g
+众 g
+传 g
+播 g
+教 g 
+育 g
+学 g
+会 g
+（ g 
+A g
+E g
+J g
+M g
+C g
+） g
+创 a
+建 a
+于
+1
+9
+2
+1
+年
+，
+是
+一
+个
+由
+新 h
+闻 i
+与 i
+大 i
+众 i
+传 i
+播 i
+教 j
+育 k
+者 k
+、
+学
+生
+和
+媒
+体
+专
+业
+人
+士
+组
+成
+的
+非
+营
+利
+性
+教
+育
+学
+会
+
+A b
+E c
+J c
+M c
+C c
+年 c
+会 c
+是 
+新 h
+闻 i
+传 i
+播 i
+学
+领
+域
+的
+三
+大
+国
+际
+会
+议
+（ b
+I c
+C c
+A c
+、 c
+A c
+E c
+J c
+M c
+C c
+、 c
+N c
+C c
+A c
+） c
+之 
+一
+，
+2
+0
+1
+9
+年
+A b
+E c
+J c
+M c
+C c
+第 c
+1 c
+0 c
+2 c
+届 c
+年 c
+会 c
+于
+8
+月
+7
+日
+至
+1 
+0
+日
+在
+加 r
+拿 s
+大 s
+多 s
+伦 s
+多 s
+召
+开
+，
+主
+题
+为
+“
+I
+n
+v
+e
+s
+t
+i
+n
+g
+i
+n
+O
+u
+r
+F
+u
+t
+u
+r
+e
+s
+”
+，
+设
+置
+若
+干
+小
+组
+和
+分
+会
+
+1
+1
+月
+1
+7
+日
+下
+午
+，
+为
+期
+3
+天
+的
+中 b
+国 c
+新 c
+闻 c
+史 c
+学 c
+会 c
+二
+〇
+一
+九
+年
+学
+术
+年
+会
+在
+北 r
+京 s
+会
+议
+中
+心
+圆
+满
+落
+下
+帷
+幕
+
+大
+会
+选
+举
+并
+通
+过
+了
+中 f
+国 g
+新 g
+闻 g
+史 g
+学 g
+会 g
+第 g
+六 g
+届 g
+理 g
+事 g
+会 g
+组 g
+织 g
+机
+构
+名
+单
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+副 j
+院 k
+长 k
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 f
+闻 g
+与 g
+社 g
+会 g
+发 g
+展 g
+研 g
+究 g
+中 g
+心 g
+执 j
+行 k
+主 k
+任 k
+王 l
+润 m
+泽 m
+教 j
+授 k
+当
+选
+为
+第
+六
+届
+中
+国
+新
+闻
+史
+学
+会
+会
+长
+
+同
+时
+，
+大
+会
+表
+彰
+了
+2
+0
+1
+8
+年
+度
+中
+国 f
+新 g
+闻 g
+史 g
+学 g
+会 g
+“ d
+优 e
+秀 e
+二 e
+级 e
+分 e
+会 e
+” e
+等
+奖
+项
+，
+颁
+发
+了
+“ d
+优 e
+秀 e
+论 e
+文 e
+奖 e
+” e
+
+同
+时
+，
+大
+会
+评
+选
+了
+2
+5
+篇
+新 h
+闻 i
+传 i
+播 i
+学 i
+论
+文
+获
+得
+中 f
+国 g
+新 g
+闻 g
+史 g
+学 g
+会 g
+2
+0
+1
+9
+年
+学
+术
+年
+会
+“ d
+优 e
+秀 e
+论 e
+文 e
+奖 e
+” e
+，
+并
+向
+作
+者
+颁
+发
+了
+获
+奖
+证
+书
+
+传 b
+媒 c
+期 c
+刊 c
+主 c
+编 c
+论 c
+坛 c
+由
+人 n
+大 o
+新 o
+闻 o
+学 o
+院 o
+《 b
+国 c
+际 c
+新 c 
+闻 c
+界 c
+》 c
+主 j
+编 k
+刘 l
+海 m
+龙 m
+教 j
+授 k
+主
+持
+
+一
+年
+一
+度
+的
+新 b
+闻 c
+学 c
+界 c
+盛 c
+会 c
+—
+—
+中 b
+国 c
+新 c
+闻 c
+史 c
+学 c
+会 c
+二
+〇
+一
+九
+年
+学
+术
+年
+会
+于
+1
+1
+月
+1
+6
+日
+在
+北 r
+京 s
+会
+议
+中
+心
+隆
+重
+开
+幕
+
+会
+议
+以
+“
+全
+球
+视
+野
+中
+国
+学
+派
+—
+—
+全
+媒
+体
+时
+代
+的
+新
+闻
+传
+播
+研
+究
+”
+为
+主
+题
+，
+来
+自
+国
+内
+外
+主
+流
+新
+闻
+院
+校
+的
+近
+千
+名
+专
+家
+学
+者
+荟
+萃
+一
+堂
+，
+共
+享
+前
+沿
+关
+切
+，
+共
+通
+专
+业
+智
+慧
+，
+共
+建
+学
+科
+未
+来
+
+主
+题
+发
+言
+：
+全 j
+球 k
+视 k
+野 k
+融 k
+通 k
+内 k
+外 k
+中 k
+国 k
+新 k
+闻 k
+史 k
+学 k
+会 k
+顾 k
+问 k
+、
+华 n
+中 o
+科 o
+技 o
+大 o
+学 o
+新 n
+闻 o
+与 o
+信 o
+息 o
+传 o
+播 o
+学 o
+院 o
+教 j
+授 k
+吴 l
+廷 m
+俊 m
+，
+中 f
+国 g
+新 g
+闻 g
+史 g
+学 g
+会 g
+名 j
+誉 k
+会 k
+长 k
+、
+北 n
+京 o
+大 o
+学 o
+国 n
+家 o
+战 o
+略 o
+传 o
+播 o
+研 o
+究 o
+院 o
+院 j
+长 k
+程 l
+曼 m
+丽 m
+，
+国
+务
+院
+学
+位
+委
+员
+会
+新
+闻
+传
+播
+学
+新
+科
+评
+议
+组
+成
+员
+、
+复 n
+旦 o
+大 o
+学 o
+信 f
+息 g
+与 g
+传 g
+播 g
+研 g
+究 g
+中 g
+心 g
+主 j
+任 k
+黄 l
+旦 m
+，
+中 f
+国 g
+新 g
+闻 g
+史 g
+学 g
+会 g
+副 j
+会 k 
+长 k
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 f
+闻 g
+与 g
+社 g
+会 g
+发 g
+展 g
+研 g
+究 g
+中 g
+心 g
+执 j
+行 k
+主 k
+任 k
+王 l
+润 m
+泽 m
+等
+分
+别
+作
+了
+主
+题
+发
+言
+，
+中 f
+国 g
+新 g
+闻 g
+史 g
+学 g
+会 g
+副 j
+会 k
+长 k
+、
+华 n
+中 o
+科 o
+技 o
+大 o
+学 o
+新 n
+闻 o
+与 o
+信 o
+息 o
+传 o
+播 o
+学 o
+院 o
+教 j
+授 k
+张 l
+昆 m
+，
+中 f
+国 g
+新 g
+闻 g
+史 g
+学 g
+会 g
+副 j
+会 k
+长 k
+、
+厦 n
+门 o
+理 o
+工 o
+学 o
+院 o
+副 j
+校 k
+长 k
+赵 l
+振 m
+祥 m
+作
+了
+点
+评
+
+黄 l
+旦 m
+教 j
+授 k
+以
+《
+突
+破
+“
+有
+机
+体
+”
+：
+我
+国
+新
+闻
+传
+播
+研
+究
+拓
+新
+的
+思
+考
+》
+为
+题
+，
+重
+新
+反
+思
+“
+有
+机
+体
+”
+范
+式
+及
+其
+特
+征
+，
+拓
+展
+新 h
+闻 i
+传 i
+播 i
+研
+究
+的
+新
+路
+径
+，
+提
+出
+实
+践
+范
+式
+，
+以
+构
+建
+中
+国
+特
+色
+新
+闻
+传
+播
+学
+术
+话
+语
+体
+系
+
+包
+括
+新 h
+闻 i
+传 i
+播 i
+专 i
+题 i
+史 i
+、
+新 h
+闻 i
+传 i
+播 i
+教 i
+育 i
+史 i
+、
+外 h
+国 i
+新 i
+闻 i
+传 i
+播 i
+史 i
+、
+网 h
+络 i
+传 i
+播 i
+史 i
+、
+少 h
+数 i
+民 i
+族 i
+新 i
+闻 i
+传 i
+播 i 
+史 i
+、
+台 h
+湾 i
+与 i
+东 i
+南 i
+亚 i
+华 i
+文 i
+新 i
+闻 i
+传 i
+播 i
+史 i
+、
+编 h
+辑 i
+出 i
+版 i
+史 i
+、
+广 h
+告 i
+与 i
+传 i
+媒 i
+发 i
+展 i
+史 i
+、
+公 h
+共 i
+关 i
+系 i
+、
+传 h
+媒 i
+经 i
+济 i
+与 i
+管 i
+理 i
+、
+视 h
+听 i
+传 i
+播 i
+、
+舆 h
+论 i
+学 i
+、
+新 h
+闻 i
+传 i
+播 i
+思 i
+想 i
+史 i
+、
+传 h
+播 i
+学 i
+、 
+媒 h
+介 i
+法 i
+规 i
+与 i
+伦 i
+理 i
+、
+应 h
+用 i
+新 i
+闻 i
+传 i
+播 i
+学 i
+、
+全 h
+球 i
+传 i
+播 i
+与 i
+公 i
+共 i
+外 i
+交 i
+、
+中 h
+国 i
+特 i
+色 i
+新 i
+闻 i
+学 i
+、
+党 h
+报 i
+党 i
+刊 i
+、
+符 h
+号 i
+传 i
+播 i
+学 i
+、
+计 h
+算 i
+传 i
+播 i
+学 i
+、
+地 h
+方 i
+新 i
+闻 i
+史 i
+、
+博 h
+物 i
+馆 i
+与 i
+史 i
+志 i
+传 i
+播 i
+、
+博
+士
+生
+等
+主
+题
+论
+坛
+也
+围
+绕
+讨
+论
+主
+题
+进
+行
+了
+充
+分
+的
+学
+术
+交
+流
+，
+为
+与
+会
+者
+奉
+献
+出
+一
+道
+道
+丰
+富
+的
+学
+术
+盛
+宴
+
+本
+次
+大
+会
+由
+中 f
+国 g
+新 g
+闻 g
+史 g
+学 g
+会 g
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+主
+办
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 f
+闻 g
+与 g
+社 g
+会 g
+发 g
+展 g
+研 g
+究 g
+中 g
+心 g
+承
+办
+，
+中 b
+国 c
+新 c
+闻 c
+史 c
+学 c
+会 c
+二
+十
+二
+个
+二
+级
+分
+会
+联
+合
+协
+办
+
+1
+1
+月
+6
+日
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 f
+闻 g
+学 g
+院 g
+党 g
+委 g
+举
+行
+“
+不
+忘
+初
+心
+、
+牢
+记
+使
+命
+”
+主
+题
+教
+育
+警
+示
+教
+育
+大
+会
+暨
+主
+题
+党
+课
+
+海 r
+淀 s
+派 j
+出 k
+所 k
+副 k
+所 k
+长 k
+、
+人 n
+民 o
+大 o
+学 o
+社 j
+区 k
+警 k
+务 k
+队 k
+队 k
+长 k
+高 l
+雄 m
+，
+新 n
+闻 o
+学 o
+院 o
+党 j
+委 k
+书 k
+记 k
+兼 a
+副 j
+院 k
+长 k
+周 l
+勇 m
+，
+新 n
+闻 o
+学 o
+院 o
+执 j
+行 k
+院 k
+长k
+兼 a
+党 j
+委 k
+副 k
+书 k
+记 k
+胡 l
+百 m
+精 m
+主
+讲
+，
+新 n
+闻 o
+学 o
+院 o
+全
+体
+教
+工
+党
+员
+、
+学
+生
+党
+员
+及
+班
+干
+部
+代
+表
+参
+加
+学
+习
+
+在
+新
+中
+国
+成
+立
+7
+0
+周
+年
+之
+际
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+于
+1
+1
+月
+2
+日
+在
+明 r
+德 s
+新 s
+闻 s
+楼 s
+汉 s
+奇 s
+苑 s
+举
+办
+第 b
+1 c
+9 c
+期 c
+新 c
+闻 c
+传 c
+播 c
+学 c
+术 c
+话 c
+语 c
+体 c
+系 c
+创 c
+新 c
+深 c
+研 c
+会 c
+—
+—
+“
+新
+中
+国
+7
+0
+年
+环
+境
+传
+播
+的
+演
+进
+特
+征
+、
+成
+就
+与
+发
+展
+方
+向
+”
+，
+多
+位
+来
+自
+学
+界
+和
+业
+界
+的
+专
+家
+学
+者
+就
+我
+国
+环
+境
+传
+播
+的
+演
+进
+脉
+络
+、
+主
+要
+成
+就
+、
+热
+点
+领
+域
+及
+变
+革
+方
+向
+展
+开
+深
+入
+研
+讨
+
+黄 l
+河 m
+副 j
+教 k
+授 k
+主
+持
+会
+议
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+副 j
+院 k
+长 k
+王 l
+润 m
+泽 m
+教 j
+授 k
+发
+表
+致
+辞
+，
+诚
+挚
+欢
+迎
+到
+场
+的
+专
+家
+学
+者
+，
+并
+希
+望
+本
+次
+深
+研
+会
+能
+够
+实
+现
+真
+正
+的
+学
+术
+交
+流
+合
+作
+，
+推
+进
+环 h
+境 i
+传 i
+播 i
+研
+究
+的
+创
+新
+发
+展
+
+王 l
+润 m
+泽 m
+教 j
+授 k
+致
+欢
+迎
+辞
+主
+旨
+讲
+述
+暨 n
+南 o
+大 o
+学 o
+新 n
+闻 o
+与 o
+传 o
+播 o
+学 o
+院 o
+刘 l
+涛 m
+教 j
+授 k
+以
+“
+风
+险
+、
+社
+会
+流
+动
+与
+环
+境
+正
+义
+话
+语
+的
+本
+土
+建
+构
+”
+为
+主
+题
+，
+从
+多
+元
+视
+角
+解
+读
+环
+境
+和
+中 r
+国 s
+社
+会
+，
+重
+点
+分
+析
+了
+环
+境
+风
+险
+的
+五
+种
+社
+会
+流
+动
+形
+式
+，
+并
+对
+环
+境
+正
+义
+话
+语
+进
+行
+本
+土
+化
+阐
+释
+
+白 l
+志 m
+军 m
+副 j
+秘 k
+书 k
+长 k
+结
+合
+自
+身
+经
+历
+与
+感
+受
+作
+分
+享
+清 n
+华 o
+大 o
+学 o
+新 n
+闻 o
+与 o
+传 o
+播 o
+学 o 
+院 o
+戴 l
+佳 m
+副 j
+教 k
+授 k
+以
+“
+中
+国
+环
+境
+运
+动
+中
+的
+媒
+体
+角
+色
+”
+为
+主
+题
+，
+探
+讨
+在
+环
+境
+治
+理
+转
+型
+背
+景
+下
+媒
+体
+在
+环
+境
+运
+动
+中
+所
+扮
+演
+的
+政
+策
+倡
+导
+者
+、
+警
+示
+者
+、
+沟
+通
+者
+与
+调
+停
+人
+、
+动
+员
+网
+络
+等
+诸
+多
+角
+色
+
+北
+京
+日
+报
+社
+品
+牌
+推
+广
+部
+主
+任
+郭
+坦
+在
+1
+1
+月
+1
+日
+举
+办
+的
+“
+京
+报
+馆
+展
+陈
+大
+纲
+写
+作
+及
+审
+读
+”
+合
+作
+启
+动
+仪
+式
+暨
+项
+目
+推
+进
+会
+上
+如
+是
+说
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+党 j
+委 k
+书 k
+记 k
+周 l
+勇 m
+表
+示
+，
+学
+院
+一
+直
+特
+别
+关
+注
+京
+报
+馆
+和
+邵 l
+飘 m
+萍 m
+先
+生
+的
+相
+关
+事
+宜
+，
+能
+够
+和
+北
+京
+日
+报
+社
+合
+作
+京
+报
+馆
+项
+目
+特
+别
+有
+意
+义
+，
+愿
+意
+更
+多
+地
+参
+与
+相
+关
+工
+作
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+党 j
+委 k
+书 k
+记 k
+周 l
+勇 m
+郭 m
+坦 m
+主 j
+任 k
+对
+人 n
+大 o
+新 o
+闻 o
+学 o
+院 o
+和
+邵 l
+飘 m
+萍 m
+先
+生
+后
+人
+表
+示
+感
+谢
+，
+并
+重
+点
+讲
+述
+了
+目
+前
+该
+项
+目
+的
+主
+要
+工
+作
+以
+及
+京
+报
+馆
+建
+设
+的
+目
+标
+
+1
+0
+月
+1
+8
+日
+到
+2
+1
+日
+，
+第
+三
+期
+中 p
+国 q
+人 q
+民 q
+大 q
+学 q
+马 q
+克 q
+思 q
+主 q
+义 q
+新 q
+闻 q
+观 q
+骨 q
+干 q
+师 q
+资 q
+高 q
+级 q
+研 q
+修 q
+班 q
+教 q
+学 q
+实 q
+践 q
+活 q
+动 q
+在 a
+涉 r
+县 s
+西 s
+戌 s
+镇 s
+展 a
+开 a
+
+中 j
+共 k
+涉 k
+县 k
+县 k
+委 k
+常 k
+委 k
+宣 k
+传 k
+部 k
+部 k
+长 k
+陈 l
+英 m
+同
+志
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+党 j
+委 k
+书 k
+记 k
+、
+中 b
+国 c
+高 c
+等 c
+教 c
+育 c
+学 c
+会 c
+新 j
+闻 k
+学 k
+与 k
+传 k
+播 k
+学 k
+专 k
+业 k
+委 k
+员 k
+会 k
+理 k
+事 k
+长 k
+周 l
+勇 m
+教 j
+授 k
+，
+中 j
+共 k
+涉 k
+县 k
+西 k
+戌 k
+镇 k
+委 k
+员 k
+会 k
+书 k
+记 k
+赵 l
+建 m
+军 m
+同
+志
+，
+涉 j
+县 k
+西 k
+戌 k
+镇 k
+镇 k
+长 k
+陈 l
+江 m
+鸿 m
+同
+志
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+副 j
+院 k
+长 k
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 f
+闻 g
+与 g
+社 g
+会 g
+发 g
+展 g
+研 g
+究 g
+中 g
+心 g
+执 j
+行 k
+主 k
+任 k
+王 l
+润 m
+泽 m
+教 j
+授 k
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+马 f
+克 g
+思 g
+主 g
+义 g
+新 g
+闻 g
+观 g
+研 g
+究 g
+中 g
+心 g
+主 j
+任 k
+、
+中 f
+国 g
+新 g
+闻 g
+史 g
+学 g
+会 g
+联 j
+席 k
+秘 k
+书 k
+长 k
+邓 l
+绍 m
+根 m
+教 j
+授 k
+，
+以
+及
+来
+自
+全
+国
+各
+地
+的
+4
+0
+多
+位
+专
+家
+、
+学
+者
+出
+席
+开
+班
+仪
+式
+
+西 r
+戌 s
+镇 s
+是
+中 r
+国 s
+红
+色
+新
+闻
+文
+化
+之
+乡
+，
+是
+太
+行
+红
+色
+新
+闻
+文
+化
+的
+标
+志
+性
+所
+在
+地
+，
+已
+成
+为
+全
+国
+最
+大
+的
+新
+闻
+广
+播
+人
+民
+传
+统
+教
+育
+基
+地
+，
+被
+列
+为
+河 r
+北 s
+省 s
+爱
+国
+主
+义
+教
+育
+基
+地
+和
+国
+防
+教
+育
+基
+地
+
+1
+0
+月
+2
+3
+日
+上
+午
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 f
+闻 g
+学 g
+院 g
+党 g
+委 g
+组 g
+织 g
+本 a
+院 a
+党 a
+员 a
+师 a
+生 a
+共 a
+九 a
+十 a
+余 a
+人 a 
+前 a
+往 a
+北 a
+京 a
+展 a
+览 a
+馆 a
+，
+参 p
+观 q
+“ q
+伟 q
+大 q
+历 q
+程 q
+辉 q
+煌 q
+成 q
+就 q
+— q
+— q 
+庆 q
+祝 q
+中 q
+华 q
+人 q
+民 q
+共 q
+和 q
+国 q
+成 q 
+立 q
+7 q
+0 q
+周 q
+年 q
+大 q
+型 q 
+成 q
+就 q
+展 q
+” q
+
+”
+—
+—
+学
+生
+党
+员
+、
+2
+0
+1
+9
+级
+新 h
+闻 i
+与 i
+传 i
+播 i
+专
+业
+硕
+士
+研
+究
+生
+刘 l
+温 m
+馨 m
+本
+次
+参
+观
+活
+动
+由
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 f
+闻 g
+学 g
+院 g
+党 g
+委 g
+组 g
+织 g
+，
+新 n
+闻 o
+学 o
+院 o
+党 j
+委 k
+书 k
+记 k
+周 l
+勇 m
+，
+副 j
+院 k
+长 k
+张 l
+辉 m
+锋 m
+、
+赵 l
+云 m
+泽 m
+，
+党 j 
+委 k
+副 k
+书 k
+记 k
+韩 l
+晓 m
+宁 m
+、
+孙 l
+权 m
+，
+各
+教
+职
+工
+党
+支
+部
+党
+员
+，
+各
+学
+生
+党
+支
+部
+党
+员
+等
+参
+加
+
+1
+0
+月
+8
+日
+上
+午
+，
+中
+国
+人
+民
+大
+学
+新
+闻
+学
+院
+离
+退
+休
+教
+职
+工
+返
+校
+，
+在
+明 r
+德 s
+新 s
+闻 s
+楼 s
+汉 s
+奇 s
+苑 s
+举
+行
+重 b
+阳 c
+节 c
+茶 c
+话 c
+会 c
+和
+习 b
+近 c
+平 c
+新 c
+闻 c
+舆 c
+论 c
+思 c
+想 c
+学 c
+习 c
+研 c
+讨 c
+会 c
+（ c
+“ c
+不 c
+忘 c
+初 c
+心 c
+， c
+牢 c
+记 c
+使 c
+命 c
+“ c
+教 c
+育 c
+专 c
+题 c
+） c
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+荣 j
+誉 k
+一 k
+级 k
+教 k
+授 k
+方 l
+汉 m
+奇 m
+先
+生
+，
+新 n
+闻 o
+学 o
+院 o
+副 j
+院 k
+长 k
+张 l
+辉 m
+锋 m
+、
+王 l
+润 m
+泽 m
+、
+赵 l
+云 m
+泽 m
+，
+党 j
+委 k
+副 k
+书 k
+记 k
+韩 l
+晓 m
+宁 m
+、
+孙 l
+权 m
+，
+视 n
+听 o
+传 o
+播 o
+系 o
+主 j
+任 k
+高 l
+贵 m
+武 m
+，
+新 n
+闻 o
+学 o
+院 o
+分 j
+工 k
+会 k
+主 k
+席 k
+方 l
+洁 m
+及
+委
+员
+们
+等
+参
+加
+了
+活
+动
+
+具
+体
+情
+况
+如
+下
+：
+一
+、
+招
+聘
+岗
+位
+及
+人
+数
+教
+务
+助
+理
+岗
+3
+名
+科
+研
+平
+台
+助
+理
+岗
+1
+名
+二
+、
+岗
+位
+职
+责
+（
+一
+）
+教
+务
+助
+理
+岗
+位
+A
+（
+1
+人
+）
+1
+.
+协
+助
+在
+职
+研
+修
+班
+日
+常
+管
+理
+工
+作
+
+（
+三
+）
+科
+研
+平
+台
+助
+理
+（
+1
+人
+）
+1
+.
+协
+助
+学
+术
+期
+刊
+编
+辑
+和
+日
+常
+管
+理
+工
+作
+
+3
+.
+完
+成
+学
+院
+交
+办
+的
+其
+他
+工
+作
+（
+二
+）
+教
+务
+助
+理
+岗
+位
+B
+（
+2
+人
+）
+1
+.
+协
+助
+在
+职
+研
+修
+班
+招
+生
+服
+务
+和
+相
+关
+管
+理
+工
+作
+
+9
+月
+3
+0
+日
+上
+午
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+携
+手
+中 n 
+国 o
+社 o
+会 o
+科 o
+学 o
+院 o
+大 n
+学 o
+媒 o
+体 o
+学 o
+院 o
+，
+在
+中 n
+国 o
+社 o
+会 o
+科 o
+学 o
+院 o
+大
+学
+良
+乡
+校
+区
+举
+办
+新 b
+时 c
+代 c
+新 c
+闻 c
+传 c
+播 c
+学 c
+一 c
+流 c
+学 c
+科 c
+建 c
+设 c
+研 c
+讨 c
+会 c
+暨
+学
+科
+共
+建
+签
+约
+仪
+式
+，
+启
+动
+学
+科
+共
+建
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+执 j
+行 k
+院 k
+长 k
+胡 l
+百 m
+精 m
+与 a
+中 n
+国 o
+社 o
+会 o
+科 o
+学 o
+院 o
+大 n
+学 o
+媒 o
+体 o
+学 o
+院 o
+执 j
+行 k
+院 k
+长 k
+漆 l
+亚 m
+林 m
+代
+表
+双
+方
+学
+院
+在
+战
+略
+合
+作
+协
+议
+上
+签
+字
+，
+这
+标
+志
+着
+两
+个
+学
+院
+正
+式
+建
+立
+战
+略
+合
+作
+关
+系
+，
+今
+后
+将
+在
+人
+才
+培
+养
+、
+科
+学
+研
+究
+和
+学
+术
+交
+流
+、
+学
+科
+和
+专
+业
+建
+设
+、
+师
+资
+与
+管
+理
+队
+伍
+的
+培
+养
+和
+建
+设
+等
+方
+面
+实
+现
+合
+作
+共
+赢
+
+为
+满
+足
+2
+0
+2
+2
+年
+北
+京
+冬
+奥
+会
+和
+冬
+残
+奥
+会
+对
+新
+闻
+传
+播
+人
+才
+的
+需
+求
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+2
+0
+2
+0
+年
+设
+立
+学
+术
+硕
+士
+研
+究
+生
+新 h
+闻 i
+传 i
+播 i
+学 i
+专
+业
+（
+专
+业
+代
+码
+：
+0
+5
+0
+3
+0
+0
+）
+传 h
+播 i
+学 i
+（ i
+奥 i
+运 i
+传 i
+播 i
+） i
+方
+向
+
+中 f
+国 g
+新 g
+闻 g
+史 g
+学 g
+会 g
+2
+2
+个
+研
+究
+委
+员
+会
+共
+2
+4
+个
+分
+会
+场
+学
+术
+交
+流
+也
+同
+步
+进
+行
+
+包
+括
+新 h
+闻 i
+传 i
+播 i
+专 i
+题 i
+史 i
+、
+新 h
+闻 i
+传 i
+播 i
+教 i
+育 i
+史 i
+、
+外 h
+国 i
+新 i
+闻 i
+传 i
+播 i
+史 i
+、
+网 h
+络 i
+传 i
+播 i 
+史 i
+、
+少 h
+数 i
+民 i
+族 i
+新 i
+闻 i
+传 i
+播 i
+史 i
+、
+台 h
+湾 i
+与 i
+东 i
+南 i
+亚 i
+华 i
+文 i
+新 i
+闻 i
+传 i
+播 i
+史 i
+、
+编 h
+辑 i
+出 i 
+版 i 
+史 i
+、
+广 h
+告 i
+与 i
+传 i
+媒 i
+发 i
+展 i
+史 i
+、
+公 h
+共 i
+关 i
+系 i
+、
+传 h
+媒 i
+经 i
+济 i
+与 i
+管 i
+理 i
+、
+视 h
+听 i
+传 i
+播 i
+、
+舆 h
+论 i
+学 i
+、
+新 h
+闻 i
+传 i
+播 i
+思 i
+想 i
+史 i
+、
+传 h
+播 i
+学 i
+、
+媒 h
+介 i
+法 i
+规 i
+与 i
+伦 i
+理 i
+、
+应 h
+用 i
+新 i
+闻 i
+传 i
+播 i
+学 i
+、
+全 h
+球 i
+传 i
+播 i
+与 i
+公 i
+共 i
+外 i
+交 i
+、
+中 h
+国 i
+特 i
+色 i
+新 i
+闻 i
+学 i
+、
+党
+报
+党
+刊
+、
+符 h
+号 i
+传 i
+播 i
+学 i
+、
+计 h
+算 i
+传 i
+播 i
+学 i
+、
+地 h
+方 i
+新 i
+闻 i
+史 i
+、
+博 h
+物 i
+馆 i
+与 i
+史 i
+志 i
+传 i
+播 i
+、
+博
+士
+生
+等
+主
+题
+论
+坛
+也
+围
+绕
+讨
+论
+主
+题
+进
+行
+了
+充
+分
+的
+学
+术
+交
+流
+，
+为
+与
+会
+者
+奉
+献
+出
+一
+道
+道
+丰
+富
+的
+学
+术
+盛
+宴
+
+1
+1
+月
+6
+日
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+党
+委
+举
+行
+“
+不
+忘
+初
+心
+、
+牢
+记
+使
+命
+”
+主
+题
+教
+育
+警
+示
+教
+育
+大
+会
+暨
+主
+题
+党
+课
+
+海 r
+淀 s
+派 j
+出 k
+所 k
+副 k
+所 k
+长 k
+、
+人 n
+民 o
+大 o
+学 o
+社 j
+区 k
+警 k
+务 k
+队 k
+队 k
+长 k
+高 l
+雄 m
+，
+新 n
+闻 o
+学 o
+院 o
+党 j
+委 k
+书 k
+记 k
+兼 a
+副 j
+院 k
+长 k
+周 l
+勇 m
+，
+新 n
+闻 o
+学 o
+院 o
+执 j
+行 k
+院 k
+长k
+兼 a
+党 j
+委 k
+副 k
+书 k
+记 k
+胡 l
+百 m
+精 m
+主
+讲
+，
+新
+闻
+学
+院
+全
+体
+教
+工
+党
+员
+、
+学
+生
+党
+员
+及
+班
+干
+部
+代
+表
+参
+加
+学
+习
+
+1
+0
+月
+1
+日
+，
+庆
+祝
+中
+华
+人
+民
+共
+和
+国
+成
+立
+7
+0
+周
+年
+群
+众
+游
+行
+、
+广
+场
+合
+唱
+、
+晚
+会
+联
+欢
+活
+动
+在
+天
+安
+门
+广
+场
+举
+行
+，
+新
+闻
+学
+院
+2
+名
+教
+师
+与
+7
+6
+名
+学
+生
+参
+加
+群
+众
+游
+行
+，
+1
+2
+名
+学
+生
+参
+加
+广
+场
+合
+唱
+和
+晚
+会
+联
+欢
+，
+2
+3
+名
+学
+生
+参
+加
+国
+庆
+观
+礼
+台
+志
+愿
+服
+务
+与
+其
+他
+国
+庆
+相
+关
+志
+愿
+服
+务
+，
+展
+现
+了
+新
+闻
+师
+生
+的
+良
+好
+风
+貌
+和
+奉
+献
+精
+神
+
+环 h
+境 i
+传 i
+播 i
+是
+新
+中
+国
+生
+态
+环
+境
+保
+护
+事
+业
+的
+重
+要
+组
+成
+部
+分
+
+在
+新
+中
+国
+成
+立
+7
+0
+周
+年
+之
+际
+，
+中 n
+国 o
+人 o
+民 od
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+于
+1
+1
+月
+2
+日
+在
+明 r
+德 s
+新 s
+闻 s
+楼 s
+汉 s
+奇 s 
+苑s
+举
+办
+第 b
+1c
+9 c
+期 c
+新 c
+闻 c
+传 c
+播 c
+学 c
+术 c
+话 c
+语 c
+体 c
+系 c
+创 c
+新 c
+深 c
+研 c
+会 c
+— c
+— c
+“ c
+新 c
+中 c
+国 c
+7 c
+0 c
+年 c
+环 c
+境 c
+传 c
+播 c
+的 c
+演 c
+进 c
+特 c
+征 c
+、 c
+成 c
+就 c
+与 c
+发 c
+展 c
+方 c
+向 c 
+”c
+，
+多
+位
+来
+自
+学
+界
+和
+业
+界
+的
+专
+家
+学
+者
+就
+我
+国
+环
+境
+传
+播
+的
+演
+进
+脉
+络
+、
+主
+要
+成
+就
+、
+热
+点
+领
+域
+及
+变
+革
+方
+向
+展
+开
+深
+入
+研
+讨
+
+北 n
+京 o
+大 o
+学 o
+新 n
+闻 o
+与 o
+传 o
+播 o
+学 o
+院 o
+许 l
+静 m
+教 j
+授 k
+人 j
+民 k
+日 k
+报 k
+高 k
+级 k
+记 k
+者 k
+、
+经 f
+济 g
+社 g
+会 g
+部 g
+生 j
+态 k
+采 k
+访 k
+室 k
+副 k
+主 k
+编 k
+孙 l
+秀 m
+艳 m
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+李 l
+彪 m
+副 m
+教 j
+授 k
+中 n
+国 o
+人 o
+民 o
+大 o 
+学 o
+新 n
+闻 o
+学 o
+院 o
+张 l
+迪 m
+副 m
+教 j
+授 k
+北 n
+京 o
+交 o
+通 o
+大 o 
+学 o
+语 n
+言 o
+与 o
+传 o
+播 o 
+学 o
+院 o
+讲 j
+师 k
+黄 l
+彪 m
+文 m
+博
+士
+本
+次
+深
+研
+会
+通
+过
+学
+界
+与
+业
+界
+对
+话
+、
+多
+领
+域
+交
+流
+的
+方
+式
+，
+为
+环
+境
+传
+播
+研
+究
+在
+中
+国
+的
+发
+展
+进
+行
+了
+一
+次
+探
+路
+
+北 f
+京 g
+日 g
+报 g
+社 g
+品 g
+牌 g
+推 g
+广 g
+部 g
+主 j
+任 k
+郭 l
+坦 m
+在
+1
+1
+月
+1
+日
+举
+办
+的
+“ p
+京 q
+报 q
+馆 q
+展 q
+陈 q
+大 q
+纲 q
+写 q
+作 q
+及 q
+审 q
+读 q
+” q
+合 q
+作 q
+启 q
+动 q
+仪 q
+式 q
+暨 q
+项
+目
+推
+进
+会
+上
+如
+是
+说
+
+合
+作
+启
+动
+仪
+式
+在
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+汉 
+奇
+苑
+举
+行
+，
+北 f
+京 g
+日 g
+报 g
+社 g
+品 g
+牌 g
+推 g
+广 g
+部 g
+代 j
+表 k
+、
+邵 l
+飘 m
+萍 m
+烈
+士
+后
+人
+以
+及
+人
+大 n
+新 o
+闻 o
+学 o
+院 o
+师
+生
+代
+表
+出
+席
+本
+次
+会
+议
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+党 j
+委 k
+书 k
+记 k
+周 l
+勇 m
+表
+示
+，
+学
+院
+一
+直
+特
+别
+关
+注
+京 p
+报 q
+馆 q
+和
+邵 l
+飘 m
+萍 m
+先
+生
+的
+相
+关
+事
+宜
+，
+能
+够
+和
+北 f
+京 g
+日 g
+报 g
+社 g
+合
+作
+京 p
+报 q
+馆 q
+项
+目
+特
+别
+有
+意
+义
+，
+愿
+意
+更
+多
+地
+参
+与
+相
+关
+工
+作
+
+1
+0
+月
+1
+8
+日
+到
+2
+1
+日
+，
+第 p
+三 q
+期 q
+中 q
+国 q
+人 q
+民 q
+大 q
+学 q
+马 q
+克 q
+思 q
+主 q
+义 q
+新 q
+闻 q
+观 q
+骨 q
+干 q
+师 q
+资 q
+高 q
+级 q
+研 q
+修 q
+班 q
+教 q
+学 q
+实 q
+践 q
+活 q
+动 q
+在
+涉 r
+县 s
+西 s
+戌 s
+镇 s
+展
+开
+
+中 f
+共 g
+涉 g
+县 g
+县 g 
+委 g
+常 g
+委 g
+宣 g
+传 g
+部 g
+部 j
+长 k
+陈 l
+英 m
+同
+志
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+党 j 
+委 k
+书 k
+记 k
+、
+中 f
+国 g
+高 g
+等 g
+教 g
+育 g
+学 g
+会 g
+新 g
+闻 g
+学 g
+与 g
+传 g
+播 g
+学 g
+专 g
+业 g
+委 g
+员 g
+会 g
+理 j
+事 k
+长 k
+周 l
+勇 m
+教 j
+授 k
+，
+中 f
+共 g
+涉 g
+县 g
+西 g
+戌 g
+镇 g
+委 g
+员 g
+会 g
+书 j
+记 k
+赵 l
+建 m
+军 m
+同
+志
+，
+涉 j
+县 k
+西 k
+戌 k
+镇 k
+镇 k
+长 k
+陈 l
+江 m
+鸿 m
+同
+志
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+副 j
+院 k
+长 k
+、
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 f
+闻 g 
+与 g
+社 g 
+会 g
+发 g
+展 g
+研 g
+究 g
+中 g
+心 g
+执 j
+行 k
+主 k
+任 k
+王 l
+润 m
+泽 m
+教 j
+授 k
+，
+中 n
+国 o
+人 o 
+民 o
+大 o
+学 o
+马 f
+克 g
+思 g 
+主 g
+义 g
+新 g
+闻 g
+观 g
+研 g
+究 g
+中 g
+心 g
+主 j
+任 k
+、
+中 f
+国 g
+新 g
+闻 g
+史 g
+学 g
+会 g
+联 j
+席 k
+秘 k
+书 k
+长 k
+邓 l
+绍 m
+根 m
+教 j
+授 k
+，
+以
+及
+来
+自
+全
+国
+各
+地
+的
+4
+0
+多
+位
+专
+家
+、
+学
+者
+出
+席
+开
+班
+仪
+式
+
+1
+0
+月
+2
+3
+日
+上
+午
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+党 f
+委 g
+组 g
+织 g
+本
+院
+党
+员
+师
+生
+共
+九
+十
+余
+人
+前
+往
+北
+京
+展
+览
+馆
+，
+参
+观
+“
+伟
+大
+历
+程
+辉
+煌
+成
+就
+—
+—
+庆
+祝
+中
+华
+人
+民
+共
+和
+国
+成
+立
+7
+0
+周
+年
+大
+型
+成
+就
+展
+”
+
+为
+了
+全
+面
+考
+察
+和
+选
+拔
+优
+秀
+人
+才
+，
+中
+国
+人
+民
+大
+学
+新
+闻
+学
+院
+博
+士
+生
+招
+生
+考
+试
+自
+2
+0
+1
+6
+年
+起
+实
+行
+“
+申
+请
+-
+考
+核
+”
+制
+选
+拔
+模
+式
+
+1
+0
+月
+8
+日
+上
+午
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+离
+退
+休
+教
+职
+工
+返
+校
+，
+在
+明 r
+德 s
+新 s
+闻 s
+楼 s
+汉 s
+奇 s
+苑 s
+举
+行
+重 b
+阳 c
+节 c
+茶 c
+话 c
+会 c
+和 a
+
+习 b
+近 c
+平 c
+新 c
+闻 c
+舆 c
+论 c
+思 c
+想 c
+学 c
+习 c
+研 c
+讨 c
+会 c
+（ c
+“ c
+不 c
+忘 c
+初 c
+心 c
+， c
+牢 c
+记 c
+使 c
+命 c
+“ c
+教 c
+育 c
+专 c
+题 c
+） c
+具
+体
+情
+况
+如
+下
+：
+一
+、
+招
+聘
+岗
+位
+及
+人
+数
+教
+务
+助
+理
+岗
+3
+名
+科
+研
+平
+台
+助
+理
+岗
+1
+名
+二
+、
+岗
+位
+职
+责
+（
+一
+）
+教
+务
+助
+理
+岗
+位
+A
+（
+1
+人
+）
+1
+.
+协
+助
+在
+职
+研
+修
+班
+日
+常
+管
+理
+工
+作
+
+3
+.
+完
+成
+学
+院
+交
+办
+的
+其
+他
+工
+作
+（
+二
+）
+教
+务
+助
+理
+岗
+位
+B
+（
+2
+人
+）
+1
+.
+协
+助
+在
+职
+研
+修
+班
+招
+生
+服
+务
+和
+相
+关
+管
+理
+工
+作
+
+（
+三
+）
+科
+研
+平
+台
+助
+理
+（
+1
+人
+）
+1
+.
+协
+助
+学
+术
+期
+刊
+编
+辑
+和
+日
+常
+管
+理
+工
+作
+
+9
+月
+3
+0
+日
+上
+午
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+携
+手
+中 n 
+国 o
+社 o
+会 o
+科 o
+学 o
+院 o
+大 n
+学 o
+媒 o
+体 o
+学 o
+院 o
+，
+在
+中 n
+国 o
+社 o
+会 o
+科 o
+学 o
+院 o
+大
+学
+良
+乡
+校
+区
+举
+办
+新 b
+时 c
+代 c
+新 c
+闻 c
+传 c
+播 c
+学 c
+一 c
+流 c
+学 c
+科 c
+建 c
+设 c
+研 c
+讨 c
+会 c
+暨
+学
+科
+共
+建
+签
+约
+仪
+式
+，
+启
+动
+学
+科
+共
+建
+
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+执 j
+行 k
+院 k
+长 k
+胡 l
+百 m
+精 m
+与 a
+中 n
+国 o
+社 o
+会 o
+科 o
+学 o
+院 o
+大 n
+学 o
+媒 o
+体 o
+学 o
+院 o
+执 j
+行 k
+院 k
+长 k
+漆 l
+亚 m
+林 m
+代
+表
+双
+方
+学
+院
+在
+战
+略
+合
+作
+协
+议
+上
+签
+字
+，
+这
+标
+志
+着
+两
+个
+学
+院
+正
+式
+建
+立
+战
+略
+合
+作
+关
+系
+，
+今
+后
+将
+在
+人
+才
+培
+养
+、
+科
+学
+研
+究
+和
+学
+术
+交
+流
+、
+学
+科
+和
+专
+业
+建
+设
+、
+师
+资
+与
+管
+理
+队
+伍
+的
+培
+养
+和
+建
+设
+等
+方
+面
+实
+现
+合
+作
+共
+赢
+
+签
+约
+仪
+式
+上
+，
+中
+国
+社
+会
+科
+学
+院
+大
+学
+党
+委
+副
+书
+记
+、
+副
+校
+长
+、
+中
+国
+社
+会
+科
+学
+院
+研
+究
+生
+院
+院
+长
+王
+新
+清
+教
+授
+希
+望
+中
+国
+社
+会
+科
+学
+院
+大
+学
+媒
+体
+学
+院
+能
+学
+习
+人
+大
+新
+闻
+学
+院
+好
+传
+统
+、
+好
+作
+风
+、
+好
+制
+度
+、
+好
+经
+验
+，
+让
+中
+国
+社
+会
+科
+学
+院
+大
+学
+媒
+体
+学
+院
+师
+生
+受
+益
+
+为
+满
+足
+2
+0
+2
+2
+年
+北
+京
+冬
+奥
+会
+和
+冬
+残
+奥
+会
+对
+新
+闻
+传
+播
+人
+才
+的
+需
+求
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+2
+0
+2
+0
+年
+设
+立
+学
+术
+硕
+士
+研
+究
+生
+新 h
+闻 i
+传 i
+播 i
+学 i
+专
+业
+（
+专
+业
+代
+码
+：
+0
+5
+0
+3
+0
+0
+）
+传 h
+播 i
+学 i
+（ i
+奥 i
+运 i
+传 i
+播 i
+） i
+方
+向
+
+新 n
+闻 o
+学 o
+院 o
+招
+生
+工
+作
+领
+导
+小
+组
+负
+责
+本
+院
+推
+免
+生
+的
+考
+核
+工
+作
+，
+依
+据
+《
+中
+国
+人
+民
+大
+学
+2
+0
+2
+0
+年
+接
+收
+优
+秀
+应
+届
+本
+科
+毕
+业
+生
+免
+试
+攻
+读
+硕
+士
+研
+究
+生
+工
+作
+办
+法
+》
+、
+《
+中
+国
+人
+民
+大
+学
+招
+收
+硕
+士
+研
+究
+生
+复
+试
+工
+作
+管
+理
+办
+法
+》
+，
+制
+订
+本
+院
+接
+收
+推
+荐
+免
+试
+研
+究
+生
+工
+作
+办
+法
+
+（
+二
+）
+新 n
+闻 o
+学 o
+院 o
+将
+向
+学
+校
+优
+先
+推
+荐
+录
+取
+2
+0
+1
+9
+年
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 n
+闻 o
+学 o
+院 o
+“p
+全 q
+国 q
+新 q
+闻 q
+传 q
+播 q 
+学 q
+科 q
+优 q
+秀 q
+学 q
+子 q
+夏 q
+令 q
+营 q
+” q
+的
+考
+核
+优
+胜
+者
+
+为
+更
+好
+地
+适
+应
+国
+家
+经
+济
+社
+会
+发
+展
+对
+高
+层
+次
+、
+多
+类
+型
+人
+才
+的
+需
+要
+，
+增
+强
+研
+究
+生
+教
+育
+服
+务
+经
+济
+社
+会
+发
+展
+能
+力
+，
+加
+快
+研
+究
+生
+教
+育
+结
+构
+调
+整
+优
+化
+的
+步
+伐
+，
+努
+力
+提
+高
+研
+究
+生
+选
+拔
+培
+养
+质
+量
+，
+积
+极
+为
+国
+家
+经
+济
+社
+会
+发
+展
+培
+养
+应
+用
+型
+人
+才
+，
+我
+院
+2
+0
+2
+0
+年
+继
+续
+招
+收
+新 h
+闻 i
+与 i
+传 i
+播 i
+硕
+士
+专
+业
+学
+位
+研
+究
+生
+，
+专
+业
+代
+码
+为
+：
+0
+5
+5
+2
+0
+0
+
+在
+教
+育
+部
+举
+行
+的
+前
+三
+次
+全
+国
+一
+级
+学
+科
+整
+体
+水
+平
+评
+估
+中
+，
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+新 h
+闻 i
+传 i
+播 i
+学 i
+科 i
+综
+合
+实
+力
+蝉
+联
+全
+国
+第
+一
+
+2
+0
+1
+8
+年
+，
+我
+院
+新
+闻
+与
+传
+播
+专
+业
+硕
+士
+培
+养
+方
+案
+进
+行
+改
+革
+，
+增
+设
+大 h
+数 i
+据 i
+与 i
+新 i
+闻 i
+传 i
+播 i
+课
+程
+包
+，
+同
+时
+与
+商
+学
+院
+合
+作
+增
+设
+战 h
+略 i
+传 i
+播 i
+课
+程
+包
+，
+可
+以
+对
+本
+专
+业
+学
+生
+在
+大 h
+数 i
+据 i
+知 i
+识 i
+领 i
+域 i
+和
+战 h
+略 i
+传 i
+播 i
+知 i
+识 i
+领 i
+域 i
+进
+行
+有
+针
+对
+性
+地
+培
+养
+
+一
+、
+新 h
+闻 i
+传 i
+播 i
+学 i
+科 i
+学 i
+术 i
+拔 
+尖
+人
+才
+培
+养
+计
+划
+入
+选
+者
+名
+单
+已
+在
+院
+内
+公
+示
+二
+、
+直
+博
+生
+项
+目
+候
+选
+人
+选
+拔
+优
+胜
+者
+赵 l
+家 m
+琦 m
+、
+葛 l
+书 m
+润 m
+、
+金 l
+圣 m
+钧 m
+、
+汪 l
+惠 m
+怡 m
+注
+：
+1
+.
+在
+接
+收
+推
+荐
+免
+试
+生
+时
+，
+优
+胜
+者
+将
+由
+学
+院
+优
+先
+向
+学
+校
+推
+荐
+录
+取
+
+中 n
+国 o
+人 o
+民 o
+大 o 
+学 o
+国 f
+家 g
+传 g
+播 g
+战 g
+略 g
+研 g
+究 g
+中 g
+心 g
+中 n
+国 o
+人 o
+民 o
+大 o
+学 o
+国 f
+家 g
+传 g
+播 g
+战 g
+略 g
+研 g
+究 g
+中 g
+心 g
