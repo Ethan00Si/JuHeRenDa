@@ -4,7 +4,8 @@
 
 ## mysql操作
 
-- **在一个database中（待研究）**
+- **在一个database中**
+- 读取现有文件
 
 ### 创建新的数据表，详见[官方文档例子](https://docs.djangoproject.com/en/3.1/intro/tutorial02/#activating-models)
 - 声明新的数据表,

@@ -50,8 +50,9 @@ def getTrainData_from_line(path):
     for item in refer_dict.values():
         tag_idx[item] = len(tag_idx)
     
-    tag_idx['start'] = len(tag_idx)
-    tag_idx['end'] = len(tag_idx)
+    tag_idx['<START>'] = len(tag_idx)
+    tag_idx['<END>'] = len(tag_idx)
+    tag_idx['<PAD>'] = len(tag_idx)
 
     f = open(path,'r',encoding='utf-8-sig')
     trainData = []

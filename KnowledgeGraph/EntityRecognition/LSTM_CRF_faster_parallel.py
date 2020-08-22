@@ -127,7 +127,7 @@ class BiLSTM_CRF_MODIFY_PARALLEL(nn.Module):
         #feats = feats.transpose(0,1)
 
         score = torch.zeros(tags.shape[0])#.to('cuda')
-        tags = torch.cat([torch.full([tags.shape[0],1],self.tag_to_ix[START_TAG]).long(),tags],dim=1)
+        tags = torch.cat([torch.full([tags.shape[0],1],self.tag_to_ix[START_TAG],dtype=torch.long),tags],dim=1)
         for i in range(feats.shape[1]):
             feat=feats[:,i,:]
             score = score + \
@@ -191,13 +191,13 @@ class BiLSTM_CRF_MODIFY_PARALLEL(nn.Module):
 
 if __name__ == '__main__':
     START_TAG = "<START>"
-    STOP_TAG = "<STOP>"
+    STOP_TAG = "<END>"
     PAD_TAG = "<PAD>"
     EMBEDDING_DIM = 300
     HIDDEN_DIM = 256
-
-    training_data = getTrainData_from_line(r'D:\codes\Pt_Pytorch\data\corpus\train.txt')
     
+    training_data,tag_to_ix = getTrainData_from_line(r'..\..\data\语料\labeled_train.txt')
+    print(tag_to_ix)
     word_to_ix = {}
     word_to_ix['<PAD>'] = 0
     for sentence, tags in training_data:
@@ -205,26 +205,24 @@ if __name__ == '__main__':
             if word not in word_to_ix:
                 word_to_ix[word] = len(word_to_ix)
 
-    tag_to_ix = {"O": 0, "B-C": 1, "I-C": 2, "B-A":3,"I-A":4,"B-O":5,"I-O":6,START_TAG: 7, STOP_TAG: 8, PAD_TAG: 9}
-
     model = BiLSTM_CRF_MODIFY_PARALLEL(len(word_to_ix), tag_to_ix, EMBEDDING_DIM, HIDDEN_DIM)
     optimizer = optim.SGD(model.parameters(), lr=0.01, weight_decay=1e-4)
 
     # Check predictions before training
     with torch.no_grad():
-        precheck_sent = prepare_sequence(training_data[-1][0], word_to_ix)
+        precheck_sent = prepare_sequence(training_data[0][0], word_to_ix)
         precheck_tags = torch.tensor([tag_to_ix[t] for t in training_data[0][1]], dtype=torch.long)
         print(model(precheck_sent))
 
     # Make sure prepare_sequence from earlier in the LSTM section is loaded
-    for epoch in range(100):
+    for epoch in range(10):
         # Step 1. Remember that Pytorch accumulates gradients.
         # We need to clear them out before each instance
         model.zero_grad()
         # Step 2. Get our batch inputs ready for the network, that is,
         # turn them into Tensors of word indices.
         # If training_data can't be included in one batch, you need to sample them to build a batch
-        sentence_in_pad, targets_pad = prepare_sequence_batch(training_data[0:-1], word_to_ix, tag_to_ix)
+        sentence_in_pad, targets_pad = prepare_sequence_batch(training_data[0:-10], word_to_ix, tag_to_ix)
         # Step 3. Run our forward pass.
         loss = model.neg_log_likelihood_parallel(sentence_in_pad, targets_pad)
         # Step 4. Compute the loss, gradients, and update the parameters by
@@ -234,7 +232,7 @@ if __name__ == '__main__':
 
     # Check predictions after training
     with torch.no_grad():
-        for i in range(len(training_data)):
-            precheck_sent = prepare_sequence(training_data[i][0], word_to_ix)
-            print("predict:{}\n target:{}".format(model(precheck_sent),
-                                                  prepare_sequence(training_data[i][1], tag_to_ix)))
+        #for i in (len(training_data)):
+        precheck_sent = prepare_sequence(training_data[-10][0], word_to_ix)
+        print("predict:{}\n target:{}".format(model(precheck_sent),
+                                                  prepare_sequence(training_data[-10][1], tag_to_ix)))
