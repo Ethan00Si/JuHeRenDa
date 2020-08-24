@@ -17,7 +17,10 @@ class TeacherPipeline:
             "财政金融学院":"finance",
             "法学院":"legislature",
             "新闻学院":"news",
-            "统计学院":"statistics"
+            "统计学院":"statistics",
+            "信息资源管理学院":"xinguan",
+            "文学院":"literature",
+            
         }
 
     def process_item(self, item, spider):

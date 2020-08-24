@@ -1,0 +1,15 @@
+{
+    "http://wenxueyuan.ruc.edu.cn/sz/":{
+        "brief_entry":"//div[@class=\"bd\"]/div[2]//dl",
+        "properties":{
+            "lab":{
+                "entry":"./dt/text()"
+            },
+            "members":{
+                "entry":"./dd/p/a/text()"
+            }
+        },
+        "department":"文学院",
+        "further_explore":false
+    }
+}

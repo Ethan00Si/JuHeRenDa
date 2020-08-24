@@ -10,8 +10,8 @@ class Teacher(scrapy.Spider):
     def __init__(self):
         super().__init__()
 
-        self.refer_dict = {'电话':'phone','个人主页':'homepage','电子邮箱':'email','地址':'office','传真':'fax','邮箱':'email','系别':'major','职称':'title','职务':'position'}
-        with open(r'config_statistic.json','r',encoding='utf-8') as f:
+        self.refer_dict = {'电话':'phone','办公电话':'phone','个人主页':'homepage','电子邮箱':'email','邮箱':'email','地址':'office','办公室':'office','传真':'fax','系别':'major','职称':'title','职务':'position'}
+        with open('../configs/config_%s.json' % input("department:"),'r',encoding='utf-8') as f:
             self.config = json.load(f)
             #self.file = re.search('(.*?).json',f.name).group(1)
 
@@ -69,11 +69,13 @@ class Teacher(scrapy.Spider):
             for text in details.getall():
                 
                 text = re.sub('\s','',text)
-                key = pattern.search(text).group(1).strip()
-                value = pattern.search(text).group(2).strip()
-
                 try:
-                    response.meta['item'][refer_dict[key]] = value
+                    key = pattern.search(text).group(1).strip()
+                    value = pattern.search(text).group(2).strip()
+                except AttributeError:
+                    continue
+                try:
+                    item[refer_dict[key]] = value
                 except:
                     continue
 
@@ -85,17 +87,19 @@ class Teacher(scrapy.Spider):
                     prop_dict = properties_extra[prop]
                     
                     try:
-                        value = response.xpath(prop_dict['entry']).get()
-                        
+                        values = response.xpath(prop_dict['entry']).getall()
+                        item[prop] = ''
                     except:
                         continue
-                    
-                    if prop_dict['pattern'] == []:
+                     
+                    for each in values:
+                        try:
+                            value = re.search(prop_dict['pattern'][0],value).group(prop_dict['pattern'][1])
+                        except:
+                            value = each
+
                         item[prop] += '，{}'.format(value)
-                    else:
-                        value = re.search(prop_dict['pattern'][0],value).group(prop_dict['pattern'][1])
-                        item[prop] += '，{}'.format(value)
-                
+                        
                 yield item
 
             else:
@@ -114,18 +118,16 @@ class Teacher(scrapy.Spider):
                 prop_dict = properties[prop]
                 
                 try:
-                    value = each.xpath(prop_dict['entry']).get()
+                    values = each.xpath(prop_dict['entry']).getall()
                 except:
                     continue
                 
-                if prop_dict['pattern'] == []:
-                    item[prop] = value
+                if len(values) == 1:
+                    item[prop] = values[0]
+                
                 else:
-                    try:
-                        value = re.search(prop_dict['pattern'][0],value).group(prop_dict['pattern'][1])
-                    except:
-                        pass
-                    item[prop] = value
+                    item[prop] = values            
+                
 
             if config['further_explore']:
                 each_url = each.xpath(config['href_entry']).get()
@@ -138,6 +140,7 @@ class Teacher(scrapy.Spider):
             else:
                 
                 yield item
+        
         if config['next_entry']:
             next_page = response.xpath(config['next_entry']).get()
         else:

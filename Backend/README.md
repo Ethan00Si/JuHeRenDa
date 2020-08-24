@@ -2,10 +2,10 @@
   - [1. <a name='apps'></a>apps](#1-apps)
 - [mysql操作](#mysql操作)
   - [**在一个database中**](#在一个database中)
-  - [2. <a name=''></a>读取现有数据表](#2-读取现有数据表)
-  - [3. <a name='-1'></a>创建新的数据表](#3-创建新的数据表)
+  - [<a name=''></a>读取现有数据表](#读取现有数据表)
+  - [<a name='-1'></a>创建新的数据表](#创建新的数据表)
   - [查找](#查找)
-  - [- ### 查看内置lookup](#ullih3-id查看内置lookup-48查看内置lookuph3liul)
+  - [- ### 查看内置lookup](#ullih3-id查看内置lookup-7查看内置lookuph3liul)
   - [向数据库中添加数据](#向数据库中添加数据)
   - [从数据库中删除数据](#从数据库中删除数据)
 - [html模板操作](#html模板操作)
@@ -19,7 +19,7 @@
 **在一个database中**
 ---
 
-##  2. <a name=''></a>读取现有数据表
+##  <a name=''></a>读取现有数据表
 1. 在```/Backend/Dachaung/settings.py```中修改数据库名称、用户、密码，详见注释
 2. ```cd /Backend/DaChuang```
 3. ```python manage.py inspectdb > temporary.py```，该命令会在当前目录下生成```temporary.py```文件，此文件中存储着```settings.py```中定义的数据库的所有表对应的```model```类
@@ -28,7 +28,7 @@
 4. ```python manage.py makemigrations```
 5. ```python manage.py migrate recommender --fake```
 
-##  3. <a name='-1'></a>创建新的数据表
+##  <a name='-1'></a>创建新的数据表
 1. 声明新的数据表,
 在```apps/models.py```中：
 ```python

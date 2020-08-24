@@ -86,12 +86,12 @@ COOKIES_ENABLED = False
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
-    'teacher.middlewares.ProxyMiddleware':None,
+    'teacher.middlewares.ProxyMiddleware':300,
     'teacher.middlewares.TeacherDownloaderMiddleware': 543
 }
 
 #if DOWNLOADER_MIDDLEWARES['teacher.middlewares.ProxyMiddleware']:
-IP_POOL = ['http://47.112.221.156:3128', 'http://219.135.168.136:3128', 'http://101.4.136.34:81', 'http://59.110.153.189:80', 'http://117.131.119.116:80', 'http://118.31.250.72:8080']
+IP_POOL = ['http://124.65.100.178:3128', 'http://113.214.13.1:1080', 'http://211.137.52.159:8080', 'http://211.137.52.158:8080', 'http://123.139.56.171:9999']
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html

@@ -52,7 +52,7 @@
 - getMajors：将列表专业中不重复的写入/data/majors/major_department.txt
 - getTeacherName：将教师姓名写入/data/majors/names.txt
 - getPositions：将不重复的教师职称和职务写入/data/majors/positions.txt
-- getLabs：将教师实验室写入/data/majors/labs.txt（**暂时只有信息学院，经济学院的调研室写入了majors中**）
+- getLabs：将教师实验室写入/data/majors/labs.txt
 
 ## TODO
 - **处理数据的代码复用性不高，尤其是一些单独处理的点（信息学院的专业），以及将绝对路径转为相对路径**
