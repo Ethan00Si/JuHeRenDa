@@ -5,7 +5,7 @@
   - [<a name=''></a>读取现有数据表](#读取现有数据表)
   - [<a name='-1'></a>创建新的数据表](#创建新的数据表)
   - [查找](#查找)
-  - [- ### 查看内置lookup](#ullih3-id查看内置lookup-7查看内置lookuph3liul)
+  - [- ### 查看内置lookup](#ullih3-id查看内置lookup-10查看内置lookuph3liul)
   - [向数据库中添加数据](#向数据库中添加数据)
   - [从数据库中删除数据](#从数据库中删除数据)
 - [html模板操作](#html模板操作)
@@ -57,7 +57,7 @@
 ```python
 from .models import x
 x.objects.get(pk=xxx)                   #返回单个数据，不能找多个
-x.objects.filter(Field_1="target")      #返回多个数据，lookup方法有很多 
+x.objects.filter(Field_1__gt=1)      #返回多个数据，lookup方法有很多 
 ```
 - ### 查找的各种方法详见[官方文档](https://docs.djangoproject.com/en/3.1/topics/db/queries/#field-lookups-intro)
 - ### 查看[内置lookup](https://docs.djangoproject.com/en/3.1/ref/models/querysets/#field-lookups)
