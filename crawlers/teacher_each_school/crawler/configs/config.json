@@ -45,18 +45,17 @@
         "next_entry":"/html/body/div[5]/div/a[14]/@href",
         "properties":{
             "name":{
-                "entry":"./a/em[2]/span[1]/i[1]/text()",
-                "pattern":[]
+                "entry":"./a/em[2]/span[1]/i[1]/text()"
             },
             "title":{
-                "entry":"./a/em[2]/span[1]/i[2]/text()",
-                "pattern":[]
+                "entry":"./a/em[2]/span[1]/i[2]/text()"
+
             }
         },
         "properties_extra":{
             "major":{
-                "entry":"//span[text()=\"研究方向\"]/../../div[2]/p/text()",
-                "pattern":[]
+                "entry":"//span[text()=\"研究方向\"]/../../div[2]/p/text()"
+
             }
         },
         "department":"商学院",
@@ -82,8 +81,7 @@
                 "pattern":["(.*)（(.*)）",2]
             },
             "major":{
-                "entry":"./div[3]/p[2]/text()",
-                "pattern":[]
+                "entry":"./div[3]/p[2]/text()"
             }
         },
         

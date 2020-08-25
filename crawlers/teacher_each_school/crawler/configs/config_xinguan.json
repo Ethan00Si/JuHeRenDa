@@ -1,0 +1,26 @@
+{
+    "http://irm.ruc.edu.cn/teacher.php?cid=8":{
+        "brief_entry":"//div[@class=\"touxiang\"]",
+        "href_entry":"./div/a/@href",
+        "next_entry":null,
+        "detail_entry":"//div[@class=\"jij\"]/p/text()",
+        "properties":{
+            "name":{
+                "entry":"./h3/a/text()"
+            },
+            "title":{
+                "entry":"./p/text()"
+            }
+        },
+        "properties_extra":{
+            "major":{
+                "entry":"//h1[text()=\"主要研究方向:\"]/../p/text()"
+            }
+        },
+        "department":"信息资源管理学院",
+        "refer_dict":true,
+        "further_explore":false,
+        "extra_info":true,
+        "pattern_further":"(.*?)：(.*)"
+    }
+}
