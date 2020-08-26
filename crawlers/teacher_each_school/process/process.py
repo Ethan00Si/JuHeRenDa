@@ -4,14 +4,14 @@ import pandas
 import json
 import os
 
-def processMajors(path):
-    majors = set()
+def processMajors():
+
     for dir_path,dir_name,file_list in os.walk('../../../crawlers/teacher_each_school/crawler/teacher'):
         for filename in file_list:
             if os.path.splitext(filename)[1]=='.json':
                 with open('/'.join([dir_path,filename]),'r',encoding='utf-8') as f:
                     majors_sub = []
-                    g = open('../../../data/teachers/%s'.format(filename),'w',encoding='utf-8')
+                    g = open('../../../data/teachers/%s' % filename,'w',encoding='utf-8')
                     h = open('../../../data/词典/majors/'+re.search('teachers_(.*).json',filename).group(1)+'_majors.txt','w',encoding='utf-8')
                     for teacher in jsonlines.Reader(f):
                         try:
@@ -24,11 +24,12 @@ def processMajors(path):
                         except KeyError:
                             pass
                     
-                    line = json.dumps(teacher,ensure_ascii=False)+'\n'
-                    g.write(line)
+                        line = json.dumps(teacher,ensure_ascii=False)+'\n'
+                        g.write(line)
                     
                     for item in set(majors_sub):
-                        h.write(item+'\n')
+                        if item:
+                            h.write(item+'\n')
 
                     g.close()
                     h.close()
