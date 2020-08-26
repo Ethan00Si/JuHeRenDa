@@ -21,7 +21,7 @@
         "refer_dict":true,
         "further_explore":true,
         "extra_info":true,
-        "pattern_further":"(.*?)：(.*)"
-        
+        "pattern_further":"(.*?)：(.*)",
+        "sleep":[2,5]
     }
 }

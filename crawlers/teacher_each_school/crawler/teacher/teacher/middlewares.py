@@ -121,10 +121,10 @@ class ProxyMiddleware:
         
         ip = random.choice(IP_POOL)
         request.meta["proxy"]=ip
-
         return None
+
     def process_response(self, request, response, spider):
-        if response.status == 400 or response.status == 301:
+        if response.status == 400 or response.status == 301 or response.status == 401 or response.status == 403:
             response.request.meta["proxy"] = random.choice(IP_POOL)
             print("changing ip...")
             return response.request

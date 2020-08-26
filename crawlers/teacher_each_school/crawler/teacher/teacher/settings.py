@@ -91,7 +91,7 @@ DOWNLOADER_MIDDLEWARES = {
 }
 
 #if DOWNLOADER_MIDDLEWARES['teacher.middlewares.ProxyMiddleware']:
-IP_POOL = ['http://124.65.100.178:3128', 'http://113.214.13.1:1080', 'http://211.137.52.159:8080', 'http://211.137.52.158:8080', 'http://123.139.56.171:9999']
+IP_POOL = ['http://113.214.13.1:1080', 'http://211.137.52.159:8080', 'http://211.137.52.158:8080', 'http://123.139.56.171:9999']
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html

@@ -19,7 +19,7 @@
         },
         "department":"信息资源管理学院",
         "refer_dict":true,
-        "further_explore":false,
+        "further_explore":true,
         "extra_info":true,
         "pattern_further":"(.*?)：(.*)"
     }

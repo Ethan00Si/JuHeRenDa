@@ -7,7 +7,7 @@ from kashgari.utils import load_model
 import re
 import random
 
-def getTrain(path):
+def getTrain(path='/home/peitian_zhang/data/corpus/labeled_train.txt'):
     train_data,_ = getTrainData_from_line(path)
     train_x = []
     train_y = []
