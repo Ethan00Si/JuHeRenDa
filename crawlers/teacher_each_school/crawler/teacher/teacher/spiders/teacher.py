@@ -3,8 +3,15 @@ import re
 import time
 import json
 import random
+from kashgari.utils import load_model
 from scrapy.loader import ItemLoader
 from teacher.items import TeacherItem 
+
+def cleanSpace(string):
+    if string:
+        return re.sub('\s','',string)
+    else:
+        return None
 
 class Teacher(scrapy.Spider):
     name = 'teacher'
@@ -12,9 +19,11 @@ class Teacher(scrapy.Spider):
         super().__init__()
 
         self.refer_dict = {'电话':'phone','办公电话':'phone','个人主页':'homepage','电子邮箱':'email','邮箱':'email','地址':'office','办公室':'office','传真':'fax','系别':'major','职称':'title','职务':'position'}
-        with open('../configs/config%s.json' % input("department:"),'r',encoding='utf-8') as f:
+        with open('../configs/config_%s.json' % input("department:"),'r',encoding='utf-8') as f:
             self.config = json.load(f)
             #self.file = re.search('(.*?).json',f.name).group(1)
+        
+        self.model = load_model(r'D:\Ubuntu\rootfs\home\pt\models\bert_epoch_20_new')
 
     def start_requests(self):
         for url in list(self.config.keys()):
@@ -71,9 +80,10 @@ class Teacher(scrapy.Spider):
                 
                 text = re.sub('\s','',text)
                 try:
-                    key = pattern.search(text).group(1).strip()
-                    value = pattern.search(text).group(2).strip()
+                    key = pattern.search(text).group(1)
+                    value = pattern.search(text).group(2)
                 except AttributeError:
+                    #处理有些字段为空
                     continue
                 if value:
                     try:
@@ -91,17 +101,7 @@ class Teacher(scrapy.Spider):
                     
                     try:
                         values = response.xpath(prop_dict['entry']).getall()
-                        if len(values) == 1:
-                            value = cleanSpace(values[0])
-                            try:
-                                value = re.search(prop_dict['pattern'][0],value).group(prop_dict['pattern'][1])
-                            except:
-                                pass
-                            
-                            continue
-                        
-                        else:
-                            item[prop] = []
+                        item[prop] = []
                     except:
                         continue
                      
@@ -127,38 +127,40 @@ class Teacher(scrapy.Spider):
         
         for each in response.xpath(config['brief_entry']):
             item = TeacherItem()
-            item_loader = ItemLoader(item=item,response=response)
-
-            item_loader.add_value('department',config['department'])
+            #item_loader = ItemLoader(item=item)
+            #item_loader.add_value('department',config['department'])
+            item['department'] = config['department']
             
             for prop in list(properties.keys()):
             
                 prop_dict = properties[prop]
 
                 try:
-                    values = each.xpath(prop_dict['entry']).getall()
+                    value = each.xpath(prop_dict['entry']).get()
+                    value = cleanSpace(value)
                 except:
                     continue
                 
-                
-                item_loader.add_value(prop,values)
+                try:
+                    value= re.search(prop_dict['pattern'][0],value).group(prop_dict['pattern'][1])
+                except:
+                    #同一个Field有的需要处理，有的不需要
+                    pass
 
-                '''
-                if len(values) == 1:
-                    item[prop] = values[0]
+                item[prop] = value
                 
-                else:
-                    item[prop] = values            
-                '''
 
             if config['further_explore']:
                 each_url = each.xpath(config['href_entry']).get()
-                #time.sleep(random.randrange(2,5))
+                try:
+                    time.sleep(random.randrange(config['sleep'][0],config['sleep'][1]))
+                except:
+                    pass
                 #time.sleep(5)
                 yield scrapy.Request(response.urljoin(each_url),callback=self.parse_homepage,meta={'item':item,'config':config})
             
             else:
-                yield item_loader.load_item()
+                yield item#item_loader.load_item()
         
         if config['next_entry']:
             next_page = response.xpath(config['next_entry']).get()

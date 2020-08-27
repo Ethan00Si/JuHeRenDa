@@ -1,0 +1,22 @@
+{
+    "http://phi.ruc.edu.cn/Index/teacher/cid/94.html":{
+        "brief_entry":"//div[@class=\"col-md-3\"]",
+        "href_entry":"./a/@href",
+        "next_entry":"//a[text()=\"下一页\"]/@href",
+        "detail_entry":"//div[@class=\"txt\"]/p/text()",
+        "properties":{
+            "name":{
+                "entry":"./a/div[@class=\"txt\"]/h5/text()"
+            },
+            "title":{
+                "entry":"./a/div[@class=\"txt\"]/p/text()"
+            }
+        },
+        "department":"哲学院",
+        "refer_dict":true,
+        "further_explore":true,
+        "extra_info":false,
+        "pattern_further":"(.*?)：(.*)"
+        
+    }
+}

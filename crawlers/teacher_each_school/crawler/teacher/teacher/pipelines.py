@@ -7,6 +7,7 @@
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 import json
+from teacher.utils import getEntity
 
 class TeacherPipeline:
     def __init__(self):
@@ -20,6 +21,7 @@ class TeacherPipeline:
             "统计学院":"statistics",
             "信息资源管理学院":"xinguan",
             "文学院":"literature",
+            "哲学院":"philosophy",
         }
     '''
     def open_spider(self,spider):
@@ -33,7 +35,11 @@ class TeacherPipeline:
             value = item[field]
             if type(value) == list:
                 item[field] = [x for x in value if x != '']
-        with open('teachers_{}.json'.format(self.refer_dict[item['department'][0]]),'a',encoding='utf-8') as f:
+        try:
+            item['entity'] = getEntity(spider.model,item['major'])
+        except:
+            print("fuck")
+        with open('teachers_{}.json'.format(self.refer_dict[item['department']]),'a',encoding='utf-8') as f:
             line = json.dumps(dict(item),ensure_ascii=False)+'\n'
             f.write(line)
         return item

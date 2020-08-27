@@ -6,17 +6,6 @@ import jieba
 import os
 import re
 
-def mergeDict():
-    g = open(r'../../data/语料/dictionary.txt','w',encoding='utf-8')
-    for dir_path,dir_name,file_list in os.walk(r'D:\repositories\DaChuang\data\词典'):
-        for filename in file_list:
-            if os.path.splitext(filename)[1]=='.txt':
-                with open('/'.join([dir_path,filename]),'r',encoding='utf-8') as f:
-                    for line in f:
-                        g.write(line)
-            #g.write('\n')
-    g.close()
-
 def getStopList():
     stop = []
     with open('../../data/语料/stopList.txt','r',encoding='utf-8') as g:

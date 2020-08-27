@@ -46,3 +46,4 @@ class TeacherItem(scrapy.Item):
         input_processor=MapCompose(cleanSpace)
     )
     lab = scrapy.Field()
+    entity = scrapy.Field()

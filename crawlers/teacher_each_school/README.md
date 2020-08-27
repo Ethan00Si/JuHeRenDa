@@ -38,10 +38,10 @@
     │
     └─process                   //处理数据
         │  email.ipynb          //处理邮箱（将AT转为@）
-        │  major.ipynb          //处理专业（将每个教师的专业方向由字符串转为列表，同时统计每个学院所有不重复的专业，将其写入文件）
-        │  labs.ipynb           //处理实验室（其实暂时只有信息学院）
-        │  names.ipynb          //处理教师姓名（将所有学员所有老师姓名存入一个txt）
-        │  positions.ipynb      //处理教师职务（将所有不重复的职务、职称写入一个txt）
+        │  major.ipynb          //处理专业（将每个教师的专业方向由字符串转为列表，同时统计每个学院所有不重复的专业，将其写入文件）deprecated
+        │  labs.ipynb           //处理实验室（其实暂时只有信息学院），deprecated
+        │  names.ipynb          //处理教师姓名（将所有学员所有老师姓名存入一个txt），deprecated
+        │  positions.ipynb      //处理教师数据
         │  process.py           //处理教师数据的函数定义
         │
         └─__pycache__
