@@ -3,6 +3,7 @@ import re
 import time
 import json
 import random
+from kashgari.utils import load_model
 from scrapy.loader import ItemLoader
 from teacher.items import TeacherItem 
 
@@ -21,6 +22,8 @@ class Teacher(scrapy.Spider):
         with open('../configs/config_%s.json' % input("department:"),'r',encoding='utf-8') as f:
             self.config = json.load(f)
             #self.file = re.search('(.*?).json',f.name).group(1)
+        
+        self.model = load_model(r'D:\Ubuntu\rootfs\home\pt\models\bert_epoch_20_new')
 
     def start_requests(self):
         for url in list(self.config.keys()):

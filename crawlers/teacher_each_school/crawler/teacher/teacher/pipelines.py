@@ -7,6 +7,7 @@
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 import json
+from teacher.utils import getEntity
 
 class TeacherPipeline:
     def __init__(self):
@@ -34,6 +35,10 @@ class TeacherPipeline:
             value = item[field]
             if type(value) == list:
                 item[field] = [x for x in value if x != '']
+        try:
+            item['entity'] = getEntity(spider.model,item['major'])
+        except:
+            print("fuck")
         with open('teachers_{}.json'.format(self.refer_dict[item['department']]),'a',encoding='utf-8') as f:
             line = json.dumps(dict(item),ensure_ascii=False)+'\n'
             f.write(line)
