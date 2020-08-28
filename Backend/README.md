@@ -17,6 +17,7 @@
    ```
    - 该命令会在```/Backend```下生成```temporary.py```文件，此文件中存储着```settings.py```中定义的数据库的所有表对应的```model```类，将需要的类复制到```/Backend/recommender/models.py```中
      - 如果同意使用django来接管该表的生命周期，将```class Meta```下的```managed```设置为```True```
+
 4. ```python
    # 将数据表的更改作为migration存储
    python manage.py makemigrations 
@@ -95,7 +96,7 @@ to_delete[0]                                #IndexError
 ## 更多
 - ### django可以用普通sql语句，[文档](https://docs.djangoproject.com/en/3.1/topics/db/sql/)
 
-- ### 用F解决多个爬虫线程往数据库中写入，[文档](https://docs.djangoproject.com/en/3.1/ref/models/expressions/)
+- ### 用解决多个线程往数据库中写入，[文档](https://docs.djangoproject.com/en/3.1/ref/models/expressions/)
 
 - ### [django数据库优化访问方式概览](https://docs.djangoproject.com/en/3.1/topics/db/optimization/)
 
@@ -103,6 +104,12 @@ to_delete[0]                                #IndexError
 
 ***
 
-# html模板操作
+# utl操作
+
+## 注册url
+1. 在DaChuang.urls中注册
+2. 在每个apps.urls中注册，并且加入app_name
+3. url中的变量名和view的变量名必须一致
+4. 在模板中访问url别忘了加app名，'url' xx:yy
 
 ## [自定义filter,tags](https://docs.djangoproject.com/en/3.1/howto/custom-lookups/)
