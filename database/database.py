@@ -56,8 +56,8 @@ def execute(cursor, command):
 
 # 向article里面插入新闻
 def insert_to_article(cursor,db):
-    news_list = [('data/news_each_school/info_output.csv', '信息'),
-                 ('data/news_each_school/econ_output.csv', '经济')]
+    news_list = [('data/news_each_school/info_output.csv', '信息')]
+                # ('data/news_each_school/econ_output.csv', '经济')]
     for item in news_list:
         file_path, art_type = item
         data_csv = pd.read_csv(file_path)
@@ -87,9 +87,9 @@ def insert_to_article(cursor,db):
 db = mysql.connector.connect(host='localhost',
                              port=3306,
                              user='root',      # 数据库IP、用户名和密码
-                             passwd='123456',
+                             passwd='',
                              charset='utf8',
-                             database='Dachuang' # 数据库的名字 需要先创建才能连接
+                             database='dachuang' # 数据库的名字 需要先创建才能连接
                              )
 
 # 使用 cursor() 方法创建一个游标对象 cursor
