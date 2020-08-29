@@ -1,0 +1,147 @@
+/**index.wxss**/
+page {
+  height: 100%;
+}
+.index {
+  height: 100%;
+}
+::-webkit-scrollbar {
+  height: 0;
+  width: 0;
+}
+.header-panel {
+  height: 80rpx;
+  width: 100%;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  background-color: #fefefe;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  box-shadow: 0 0.5px 0 0 #ececec;
+}
+.header-title {
+  position: relative;
+  width: 120rpx;
+  height: 80rpx;
+  display: inline-block;
+  line-height: 80rpx;
+  font-size: 32rpx;
+  cursor: pointer;
+  box-sizing: border-box;
+  color: #232323;
+  /* border-bottom: 2rpx solid rgba(0, 0, 0, 0.2); */
+  text-align: center;
+}
+.header-title-active {
+  /* border-bottom: 4rpx solid #C34943; */
+  color: #c34943;
+  z-index: 99;
+  font-size: 34rpx;
+}
+.nav-blank {
+  height: 80rpx;
+}
+/*content  */
+.scroll-view-refresh-load-component {
+  height: calc(100vh - 80rpx);
+}
+.content-top-pic {
+  position: relative;
+  height: 300rpx;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.swiper-index {
+  position: absolute;
+  bottom: 10rpx;
+  right: 10rpx;
+  background-color: rgba(0, 0, 0, 0.6);
+  height: 40rpx;
+  width: 65rpx;
+  border-radius: 20rpx;
+  color: #fefefe;
+  line-height: 40rpx;
+  font-size: 24rpx;
+  text-align: center;
+}
+.swiper {
+  height: 100%;
+  width: 100%;
+}
+.swiper image {
+  height: 100%;
+  width: 100%;
+}
+
+/*swiper样式覆盖  */
+.content-list {
+  background-color: #fff;
+  z-index: 1;
+  position: relative;
+}
+.list-item {
+  height: 180rpx;
+  width: 100%;
+  box-sizing: border-box;
+}
+.list-item-content {
+  position: relative;
+  padding: 20rpx 30rpx 20rpx 30rpx;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.list-item-left {
+  height: 140rpx;
+  width: 186rpx;
+  margin-right: 20rpx;
+  float: left;
+}
+.list-item-left image {
+  width: 100%;
+  height: 100%;
+}
+.list-item-right {
+  float: left;
+  width: 484rpx;
+  height: 140rpx;
+  position: relative;
+}
+.article-title {
+  font-size: 34rpx;
+  color: #404040;
+  overflow-y: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.article-source::before {
+  content: '来源:';
+  font-size: 24rpx;
+  color: #888;
+  margin-right: 10rpx;
+}
+.article-source {
+  font-size: 24rpx;
+  color: #888;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.article-editTime {
+  font-size: 24rpx;
+  color: #a8a8a8;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.footer {
+  overflow: hidden;
+}
+.footer-component {
+  margin: 15rpx 0 30rpx;
+}

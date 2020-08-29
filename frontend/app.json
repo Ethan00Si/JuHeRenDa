@@ -1,0 +1,43 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/search/search",
+    "pages/person/person"
+  ],    
+  "window":{ 
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ed4040",
+    "navigationBarTitleText": "聚合人大", 
+    "navigationBarTextStyle": "white"
+  },  
+  "tabBar": {
+    "color": "black",
+    "selectedColor": "#444",
+    "backgroundColor": "#fff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "assets/tabs/home.png",
+        "selectedIconPath": "assets/tabs/home-active.png"
+      },
+      {
+        "pagePath": "pages/search/search",
+        "text": "搜索",
+        "iconPath": "assets/tabs/search.png",
+        "selectedIconPath": "assets/tabs/search-active.png"
+      },
+      {
+        "pagePath": "pages/person/person",
+        "text": "个人中心",
+        "iconPath": "assets/tabs/profile.png",
+        "selectedIconPath": "assets/tabs/profile-active.png"
+      }
+    ]
+  }, 
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+} 
+  
