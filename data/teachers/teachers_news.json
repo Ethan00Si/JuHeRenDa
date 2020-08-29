@@ -1,82 +1,82 @@
 {"department": "新闻学院", "name": "甘光千", "url": "http://jcr.ruc.edu.cn/yuangong/jiaofu/content-502.html", "email": "13810150221@163.com", "phone": "86-10-82509357", "office": "明德新闻楼506", "position": ["院长助理兼对外交流合作办公室主任"]}
-{"department": "新闻学院", "name": "韩晓宁", "title": ["副教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-754.html", "position": ["中国人民大学新闻学院党委副书记"], "major": ["传媒生产", "新媒体效果", "传媒市场", "传媒管理"]}
+{"department": "新闻学院", "name": "韩晓宁", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-754.html", "position": ["副教授", "中国人民大学新闻学院党委副书记"], "major": ["传媒生产", "新媒体效果", "传媒市场", "传媒管理"]}
 {"department": "新闻学院", "name": "罗雪蕾", "url": "http://jcr.ruc.edu.cn/yuangong/jiaofu/content-455.html", "email": "luoxl@ruc.edu.cn", "phone": "86-10-82509364", "office": "明德新闻楼304办公室", "position": ["实验中心教师"]}
-{"department": "新闻学院", "name": "匡文波", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-746.html", "major": ["新媒体"]}
-{"department": "新闻学院", "name": "黄河", "title": ["副教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-750.html"}
+{"department": "新闻学院", "name": "匡文波", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-746.html", "major": ["新媒体"], "position": ["教授"]}
+{"department": "新闻学院", "name": "黄河", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-750.html", "position": ["副教授"]}
 {"department": "新闻学院", "name": "刘小燕", "url": "http://jcr.ruc.edu.cn/yuangong/jiaofu/content-465.html", "email": "gjxwj00@126.com", "phone": "86-10-82509362", "office": "明德新闻楼《国际新闻界》编辑部", "position": ["《国际新闻界》编辑部主任"]}
-{"department": "新闻学院", "name": "方洁", "title": ["副教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-757.html", "position": ["副教授"]}
-{"department": "新闻学院", "name": "郭庆光", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-756.html", "position": ["新闻学院教授"], "major": ["新闻传播学基础理论", "媒介启蒙教育", "新闻传播教育", "传播制度比较"]}
+{"department": "新闻学院", "name": "方洁", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-757.html", "position": ["副教授"]}
+{"department": "新闻学院", "name": "郭庆光", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-756.html", "position": ["教授", "新闻学院教授"], "major": ["新闻传播学基础理论", "媒介启蒙教育", "新闻传播教育", "传播制度比较"]}
 {"department": "新闻学院", "name": "刘佳", "url": "http://jcr.ruc.edu.cn/yuangong/jiaofu/content-471.html", "email": "liujia08@vip.sina.com", "phone": "86-10-62511013", "office": "明德新闻楼501"}
-{"department": "新闻学院", "name": "高贵武", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-752.html", "major": ["广播电视传播研究专长主持人传播", "媒介声誉", "形象管理"]}
-{"department": "新闻学院", "name": "胡百精", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-755.html", "position": ["中国人民大学新闻学院教授", "博导", "执行院长", "公共传播研究所所长"], "major": ["传播学与公共传播"]}
-{"department": "新闻学院", "name": "赵鸿燕", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-438.html"}
-{"department": "新闻学院", "name": "高钢", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-751.html"}
-{"department": "新闻学院", "name": "李彪", "title": ["副教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-748.html", "major": ["新媒体与社会", "网络舆情"]}
-{"department": "新闻学院", "name": "方汉奇", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-753.html", "position": ["荣誉一级教授"], "major": ["新闻史"]}
-{"department": "新闻学院", "name": "张征", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-650.html", "major": ["新闻采访", "新闻写作"]}
+{"department": "新闻学院", "name": "高贵武", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-752.html", "major": ["广播电视传播研究专长主持人传播", "媒介声誉", "形象管理"], "position": ["教授"]}
+{"department": "新闻学院", "name": "胡百精", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-755.html", "position": ["教授", "博导", "中国人民大学新闻学院教授", "公共传播研究所所长", "执行院长"], "major": ["传播学", "公共传播"]}
+{"department": "新闻学院", "name": "赵鸿燕", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-438.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "高钢", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-751.html", "position": ["教授"]}
+{"department": "新闻学院", "name": "李彪", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-748.html", "major": ["新媒体", "社会", "网络舆情"], "position": ["副教授"]}
+{"department": "新闻学院", "name": "方汉奇", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-753.html", "position": ["荣誉一级教授", "教授"], "major": ["新闻史"]}
+{"department": "新闻学院", "name": "张征", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-650.html", "major": ["新闻采访", "新闻写作"], "position": ["教授"]}
 {"department": "新闻学院", "name": "刘欢欢", "url": "http://jcr.ruc.edu.cn/yuangong/jiaofu/content-1793.html", "email": "791528954@qq.com", "phone": "86-10-62423758", "office": "明德新闻楼503", "position": ["在职研究生教务"]}
-{"department": "新闻学院", "name": "焦中栋", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-435.html"}
-{"department": "新闻学院", "name": "张向东", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-431.html"}
-{"department": "新闻学院", "name": "蔡静", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-428.html"}
-{"department": "新闻学院", "name": "江凌", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-433.html"}
-{"department": "新闻学院", "name": "陈苗苗", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-432.html"}
-{"department": "新闻学院", "name": "王威", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-427.html"}
-{"department": "新闻学院", "name": "冯霞", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-430.html"}
-{"department": "新闻学院", "name": "蒋建国", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-426.html"}
-{"department": "新闻学院", "name": "赵云泽", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-696.html", "position": ["中国人民大学新闻学院副院长", "教授", "博士生导师"], "major": ["", "中国新闻传播史"]}
-{"department": "新闻学院", "name": "刘兰肖", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-429.html"}
-{"department": "新闻学院", "name": "艾红红", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-412.html"}
-{"department": "新闻学院", "name": "齐爱军", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-409.html"}
-{"department": "新闻学院", "name": "赵永华", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-700.html", "major": ["跨文化传播", "国际传播", "世界新闻史"]}
-{"department": "新闻学院", "name": "樊勇", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1778.html"}
-{"department": "新闻学院", "name": "周勇", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-544.html", "major": ["视觉传播效果", "广播电视新闻理论与实务"]}
-{"department": "新闻学院", "name": "杜恺健", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1780.html"}
-{"department": "新闻学院", "name": "张贝", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1676.html"}
-{"department": "新闻学院", "name": "张凌霄", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1677.html"}
-{"department": "新闻学院", "name": "黄淼", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1673.html"}
+{"department": "新闻学院", "name": "焦中栋", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-435.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "张向东", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-431.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "蔡静", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-428.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "江凌", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-433.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "陈苗苗", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-432.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "王威", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-427.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "冯霞", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-430.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "蒋建国", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-426.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "赵云泽", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-696.html", "position": ["中国人民大学新闻学院副院长", "教授", "博士生导师"], "major": ["中国新闻传播史"]}
+{"department": "新闻学院", "name": "刘兰肖", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-429.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "艾红红", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-412.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "齐爱军", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-409.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "赵永华", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-700.html", "major": ["跨文化传播", "国际传播", "世界新闻史"], "position": ["教授"]}
+{"department": "新闻学院", "name": "樊勇", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1778.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "周勇", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-544.html", "major": ["视觉传播效果", "广播电视新闻理论", "实务"], "position": ["教授"]}
+{"department": "新闻学院", "name": "杜恺健", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1780.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "张贝", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1676.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "张凌霄", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1677.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "黄淼", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1673.html", "position": ["博士后"]}
 {"department": "新闻学院", "name": "周其林", "url": "http://jcr.ruc.edu.cn/yuangong/jiaofu/content-1787.html", "email": "zhouqilin@ruc.edu.cn", "phone": "86-10-82509364", "office": "明德新闻楼304", "position": ["实验员"]}
-{"department": "新闻学院", "name": "陈璐颖", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1672.html"}
-{"department": "新闻学院", "name": "曹昂", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1671.html"}
-{"department": "新闻学院", "name": "白麒钰", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1670.html"}
-{"department": "新闻学院", "name": "杨逐原", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1675.html"}
+{"department": "新闻学院", "name": "陈璐颖", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1672.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "曹昂", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1671.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "白麒钰", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1670.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "杨逐原", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-1675.html", "position": ["博士后"]}
 {"department": "新闻学院", "name": "张筱月", "url": "http://jcr.ruc.edu.cn/yuangong/jiaofu/content-1795.html", "email": "Christy@ruc.edu.cn", "phone": "010-62513022", "office": "明德新闻楼601", "position": ["中国新闻史学会秘书"]}
 {"department": "新闻学院", "name": "张瓅元", "url": "http://jcr.ruc.edu.cn/yuangong/jiaofu/content-1534.html", "email": "dwjl@ruc.edu.cn", "phone": "86-10-82509357", "office": "明德新闻楼506", "position": ["对外交流合作办助理"]}
-{"department": "新闻学院", "name": "周小普", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-537.html", "major": ["广播电视学", "新闻学"]}
-{"department": "新闻学院", "name": "李黎丹", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-442.html"}
-{"department": "新闻学院", "name": "赵小曼", "title": ["讲师"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-1590.html", "position": ["讲师"], "major": ["健康传播", "线上议价", "数字化营销"]}
-{"department": "新闻学院", "name": "许海", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-440.html"}
+{"department": "新闻学院", "name": "周小普", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-537.html", "major": ["广播电视学", "新闻学"], "position": ["教授"]}
+{"department": "新闻学院", "name": "李黎丹", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-442.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "赵小曼", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-1590.html", "position": ["讲师"], "major": ["健康传播", "线上议价", "数字化营销"]}
+{"department": "新闻学院", "name": "许海", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-440.html", "position": ["博士后"]}
 {"department": "新闻学院", "name": "赵晋", "url": "http://jcr.ruc.edu.cn/yuangong/jiaofu/content-491.html", "email": "zhaojinnews@ruc.edu.cn", "phone": "86-10-62514835", "office": "明德新闻楼502", "position": ["外事秘书"]}
 {"department": "新闻学院", "name": "周梦雪", "url": "http://jcr.ruc.edu.cn/yuangong/jiaofu/content-452.html", "email": "zhoumengxue@ruc.edu.cn", "phone": "86-10-62515795", "office": "明德新闻楼503", "position": ["研究生教务"]}
-{"department": "新闻学院", "name": "王慧琳", "title": ["博士后"], "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-403.html"}
-{"department": "新闻学院", "name": "Soyoung Jung", "title": ["讲师"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-1848.html"}
-{"department": "新闻学院", "name": "周蔚华", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-1533.html"}
-{"department": "新闻学院", "name": "殷强", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-714.html", "position": ["编审", "教授", "博士生导师", "中国人民大学新闻与社会发展研究中心研究员", "中国人民大学台港澳研究中心研究员"], "major": ["视觉传播教育新闻影像传播研究影像工程学与影像文化学基础研究人工智能与大数据视觉信息传播的研究跨文化传播与海外华侨华人媒介文化研究"]}
-{"department": "新闻学院", "name": "张辉锋", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-568.html", "major": ["传媒经济学", "传媒经营与管理", "广告媒体计划"]}
+{"department": "新闻学院", "name": "王慧琳", "url": "http://jcr.ruc.edu.cn/yuangong/boshihou/content-403.html", "position": ["博士后"]}
+{"department": "新闻学院", "name": "Soyoung Jung", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-1848.html", "position": ["讲师"]}
+{"department": "新闻学院", "name": "周蔚华", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-1533.html", "position": ["教授"]}
+{"department": "新闻学院", "name": "殷强", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-714.html", "position": ["中国人民大学台港澳研究中心研究员", "中国人民大学新闻与社会发展研究中心研究员", "教授", "博士生导师", "编审"], "major": ["视觉传播教育新闻影像传播研究影像工程学", "影像文化学基础研究人工智能", "大数据视觉信息传播的研究跨文化传播", "海外华侨华人媒介文化研究"]}
+{"department": "新闻学院", "name": "张辉锋", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-568.html", "major": ["传媒经济学", "传媒经营", "管理", "广告媒体计划"], "position": ["教授"]}
 {"department": "新闻学院", "name": "张怡", "url": "http://jcr.ruc.edu.cn/yuangong/jiaofu/content-489.html", "email": "zhangyi_xw@ruc.edu.cn", "phone": "86-10-62514835", "office": "明德新闻楼502", "position": ["院长助理兼"]}
-{"department": "新闻学院", "name": "郑保卫", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-694.html"}
-{"department": "新闻学院", "name": "颜梅", "title": ["副教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-724.html", "major": ["视听新媒体研究", "广播电视新闻", "媒体制度"]}
-{"department": "新闻学院", "name": "钟新", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-565.html", "major": ["国际传播", "公共外交", "国际广播电视新闻"]}
-{"department": "新闻学院", "name": "杨钢元", "title": ["副教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-709.html", "major": ["传播学", "美学", "文艺学", "广播电视"]}
-{"department": "新闻学院", "name": "王亦高", "title": ["副教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-730.html", "position": ["副教授"], "major": ["新闻理论", "传播理论"]}
-{"department": "新闻学院", "name": "许颖", "title": ["副教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-726.html", "major": ["新闻实务"]}
-{"department": "新闻学院", "name": "杨保军", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-704.html", "position": ["新闻学院学术委员会副主任"], "major": ["新闻理论"]}
+{"department": "新闻学院", "name": "郑保卫", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-694.html", "position": ["教授"]}
+{"department": "新闻学院", "name": "颜梅", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-724.html", "major": ["视听新媒体研究", "广播电视新闻", "媒体制度"], "position": ["副教授"]}
+{"department": "新闻学院", "name": "钟新", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-565.html", "major": ["国际传播", "公共外交", "国际广播电视新闻"], "position": ["教授"]}
+{"department": "新闻学院", "name": "杨钢元", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-709.html", "major": ["传播学", "美学", "文艺学", "广播电视"], "position": ["副教授"]}
+{"department": "新闻学院", "name": "王亦高", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-730.html", "position": ["副教授"], "major": ["新闻理论", "传播理论"]}
+{"department": "新闻学院", "name": "许颖", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-726.html", "major": ["新闻实务"], "position": ["副教授"]}
+{"department": "新闻学院", "name": "杨保军", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-704.html", "position": ["教授", "新闻学院学术委员会副主任"], "major": ["新闻理论"]}
 {"department": "新闻学院", "name": "徐雅琴", "url": "http://jcr.ruc.edu.cn/yuangong/jiaofu/content-458.html", "email": "xuyaqin@ruc.edu.cn", "phone": "86-10-62516860", "office": "明德新闻楼503"}
-{"department": "新闻学院", "name": "于东东", "title": ["讲师"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-722.html", "major": ["新闻摄影", "广告摄影", "视觉传播"]}
-{"department": "新闻学院", "name": "翁昌寿", "title": ["副教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-725.html"}
-{"department": "新闻学院", "name": "王树良", "title": ["副教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-729.html", "position": ["广告与传媒经济系系主任", "副教授", "博士生导师", "新闻与社会发展研究中心研究员", "现代广告研究中心副主任", "中国美术家协会会员", "全国大学生广告艺术大赛专家委员会委员", "总评审评委", "中国大学生广告艺术节学院奖总评审", "终评审评委", "时报金犊奖筹备委员会大陆地区委员"]}
-{"department": "新闻学院", "name": "王润泽", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-731.html", "major": ["新闻传播史"]}
-{"department": "新闻学院", "name": "王斌", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-733.html", "position": ["《国际新闻界》主编助理"], "major": ["新媒体传播", "媒介社会学", "新闻传播理论", "传媒业转型与创新"]}
+{"department": "新闻学院", "name": "于东东", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-722.html", "major": ["新闻摄影", "广告摄影", "视觉传播"], "position": ["讲师"]}
+{"department": "新闻学院", "name": "翁昌寿", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-725.html", "position": ["副教授"]}
+{"department": "新闻学院", "name": "王树良", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-729.html", "position": ["中国大学生广告艺术节学院奖总评审", "新闻与社会发展研究中心研究员", "总评审评委", "博士生导师", "时报金犊奖筹备委员会大陆地区委员", "广告与传媒经济系系主任", "全国大学生广告艺术大赛专家委员会委员", "终评审评委", "现代广告研究中心副主任", "中国美术家协会会员", "副教授"]}
+{"department": "新闻学院", "name": "王润泽", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-731.html", "major": ["新闻传播史"], "position": ["教授"]}
+{"department": "新闻学院", "name": "王斌", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-733.html", "position": ["《国际新闻界》主编助理", "教授"], "major": ["新媒体传播", "媒介社会学", "新闻传播理论", "传媒业转型", "创新"]}
 {"department": "新闻学院", "name": "许建平", "url": "http://jcr.ruc.edu.cn/yuangong/jiaofu/content-462.html", "email": "xujp@ruc.edu.cn", "phone": "86-10-82509364", "office": "明德新闻楼304", "position": ["实验室高级工程师"]}
-{"department": "新闻学院", "name": "王菲", "title": ["副教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-728.html", "major": ["广告活动", "媒介经营", "互联网商业模式", "传媒产业", "媒介融合"]}
-{"department": "新闻学院", "name": "塔娜", "title": ["讲师"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-1447.html", "major": ["计算传播学", "新闻大数据"]}
+{"department": "新闻学院", "name": "王菲", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-728.html", "major": ["广告活动", "媒介经营", "互联网商业模式", "传媒产业", "媒介融合"], "position": ["副教授"]}
+{"department": "新闻学院", "name": "塔娜", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-1447.html", "major": ["计算传播学", "新闻大数据"], "position": ["讲师"]}
 {"department": "新闻学院", "name": "吴翼翔", "url": "http://jcr.ruc.edu.cn/yuangong/jiaofu/content-1135.html", "email": "wuyixiangemail@ruc.edu.cn", "phone": "86-10-62515215", "office": "明德新闻楼502"}
-{"department": "新闻学院", "name": "盛希贵", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-736.html"}
-{"department": "新闻学院", "name": "唐铮", "title": ["副教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-1278.html", "major": ["媒介融合传播", "新闻媒介", "新闻采写"]}
-{"department": "新闻学院", "name": "涂光晋", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-734.html"}
-{"department": "新闻学院", "name": "任悦", "title": ["副教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-735.html", "major": ["视觉传播"]}
-{"department": "新闻学院", "name": "倪宁", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-741.html", "major": ["新闻业务", "广告传播"]}
+{"department": "新闻学院", "name": "盛希贵", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-736.html", "position": ["教授"]}
+{"department": "新闻学院", "name": "唐铮", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-1278.html", "major": ["媒介融合传播", "新闻媒介", "新闻采写"], "position": ["副教授"]}
+{"department": "新闻学院", "name": "涂光晋", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-734.html", "position": ["教授"]}
+{"department": "新闻学院", "name": "任悦", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-735.html", "major": ["视觉传播"], "position": ["副教授"]}
+{"department": "新闻学院", "name": "倪宁", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-741.html", "major": ["新闻业务", "广告传播"], "position": ["教授"]}
 {"department": "新闻学院", "name": "孙月莉", "url": "http://jcr.ruc.edu.cn/yuangong/jiaofu/content-453.html", "email": "sunyl@ruc.edu.cn", "phone": "86-10-2509354", "office": "明德新闻楼304", "position": ["实验员"]}
-{"department": "新闻学院", "name": "潘曙雅", "title": ["讲师"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-739.html", "major": ["健康传播", "社交媒体研究", "新闻实务"]}
-{"department": "新闻学院", "name": "林升栋", "title": ["教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-1871.html", "position": ["新闻学院教授"], "major": ["广告创意传播", "文化与传播心理学"]}
-{"department": "新闻学院", "name": "雷蔚真", "title": ["副教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-745.html", "position": ["中国人民大学公共外交研究院副院长", "院聘教授", "博士生导师", "中国新闻史学会全球传播与公共外交学会常务副会长", "中国公共外交蓝皮书联合主编"], "major": ["电视传播", "跨媒体与媒体融合生产机制", "新媒体与社会变迁", "公共外交与跨文化传播"]}
-{"department": "新闻学院", "name": "马少华", "title": ["副教授"], "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-740.html", "position": ["副教授"], "major": ["新闻评论"]}
+{"department": "新闻学院", "name": "潘曙雅", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-739.html", "major": ["健康传播", "社交媒体研究", "新闻实务"], "position": ["讲师"]}
+{"department": "新闻学院", "name": "林升栋", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-1871.html", "position": ["教授", "新闻学院教授"], "major": ["广告创意传播", "文化", "传播心理学"]}
+{"department": "新闻学院", "name": "雷蔚真", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-745.html", "position": ["院聘教授", "博士生导师", "中国公共外交蓝皮书联合主编", "中国人民大学公共外交研究院副院长", "中国新闻史学会全球传播与公共外交学会常务副会长", "副教授"], "major": ["电视传播", "跨媒体", "媒体融合生产机制", "新媒体", "社会变迁", "公共外交", "跨文化传播"]}
+{"department": "新闻学院", "name": "马少华", "url": "http://jcr.ruc.edu.cn/yuangong/jiaoshi/content-740.html", "position": ["副教授"], "major": ["新闻评论"]}
