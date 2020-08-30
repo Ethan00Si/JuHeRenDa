@@ -1,16 +1,17 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
     "pages/search/search",
-    "pages/person/person"
-  ],    
-  "window":{ 
+    "pages/person/person",
+    "pages/demo/demo"
+  ],
+  "window": {
     "backgroundColor": "#F6F6F6",
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#ed4040",
-    "navigationBarTitleText": "聚合人大", 
+    "navigationBarTitleText": "聚合人大",
     "navigationBarTextStyle": "white"
-  },  
+  },
   "tabBar": {
     "color": "black",
     "selectedColor": "#444",
@@ -36,8 +37,7 @@
         "selectedIconPath": "assets/tabs/profile-active.png"
       }
     ]
-  }, 
+  },
   "style": "v2",
   "sitemapLocation": "sitemap.json"
-} 
-  
+}

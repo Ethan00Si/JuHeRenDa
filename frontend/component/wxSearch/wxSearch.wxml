@@ -1,6 +1,6 @@
 <template name="wxSearch">
   <view class="head_search">
-    <input class="text_search colorGray" type='text' confirm-type="search" placeholder="请输入院校或专业名称" placeholder-class="colorGray" bindfocus="bindShowLog" bindinput="bindInputSchool" value="{{inputVal}}"></input>
+    <input class="text_search colorGray" type='text' confirm-type="search" placeholder="请输入院校或专业名称" placeholder-class="colorGray" bindfocus="bindShowLog" bindinput="bindInputSchool" value="{{inputVal}}" bindconfirm="bindGoSearch"></input>
     <icon class="icon_search" type='search' size="15" bindtap="bindGoSearch"></icon>
   </view>
 
