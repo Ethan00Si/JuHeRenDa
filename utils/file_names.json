@@ -1,0 +1,16 @@
+{
+	"files":[
+		{
+			"path":"data/news_each_school/ai_output.csv",
+			"config":"utils/ini/ai.json"
+		},
+		{
+			"path":"data/教务处/jiaowuchu.csv",
+			"config":"utils/ini/jiaowuchu.json"
+		},
+		{
+			"path":"data/公众号/ruc_info.csv",
+			"config":"utils/ini/ruc_info.json"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+    "special_characters":["\n", "\r", "NULL", "nan"],
+    "date_position":[0,10],
+    "date_format":"%Y-%m-%d",
+    "art_type":"信火相传"
+}
