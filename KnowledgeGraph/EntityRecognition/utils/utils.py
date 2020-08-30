@@ -187,7 +187,7 @@ def getSum(path):
     print(count)
 
 ######################### Implement of Entity Recognition ###########################
-def getEntity(model,data):
+def getEntity_from_NER(model,data):
     refer_dict ={
         "C":"Conference",  #Conference 会议、讲座、刊物的开始
         "A":"Award",  #Award 奖项的开始
@@ -292,6 +292,7 @@ def getEntity(model,data):
     
 
     return data,entities
+
 
 if __name__ == "__main__":
     model = load_model(r'D:\Ubuntu\rootfs\home\pt\models\bert_epoch_20_new')

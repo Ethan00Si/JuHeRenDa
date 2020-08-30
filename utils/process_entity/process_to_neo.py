@@ -347,3 +347,37 @@ def create_graph(path='../../data/teachers'):
     f.write(line)
     f.close()
 
+def getEntity_from_neo(data):
+    titles = data.title
+    names = open('../../data/词典/names/names.txt','r',encoding='utf-8')
+    f = open(r'entity2id.json','r',encoding='utf-8')
+
+    entity2id = json.loads(f.read(),encoding='utf-8')
+    name_list = []
+
+    f.close()
+
+    for line in names:
+        name_list.append(line.strip())
+
+    for index,title in enumerate(titles):
+        entity_id_list = []
+        entity_idx_list = []
+        for name in name_list:
+            match = re.search(name,title)
+            if match:
+                entity = match.group()
+                #只加了信息和经济两个学院的老师，所以肯定有在字典里但不在entity2id里的内容
+                try:
+                    entity_id = entity2id[entity]
+                    entity_idx = match.span()
+                    entity_id_list.append(str(entity_id))
+                    entity_idx_list.append(str(entity_idx[0])+','+str(entity_idx[1]))
+                except:
+                    pass
+        
+        if entity_id_list:
+            data.loc[index,'entity_id'] = ' '.join(entity_id_list)
+            data.loc[index,'entity_idx'] = ' '.join(entity_idx_list)
+    
+    return data
