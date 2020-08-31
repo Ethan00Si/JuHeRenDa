@@ -24,6 +24,9 @@ module.exports={
     })
   },
   bindGoSearch(e,that){
+    if (that.data.tabData.inputVal == '') {
+      return;
+    }
     let searchList_stroage = getStorage('searchList') || [];
     const inputVal = that.data.tabData.inputVal;
     searchList_stroage.unshift(inputVal)
@@ -100,8 +103,8 @@ module.exports={
       content: `你的传值是${val}，带上它去新页面`,
     })
     console.log(val)
-    // wx.redirectTo({
-    //   url: `/pages/schools/schools?item=${val}`
-    // })
+    wx.navigateTo({
+      url: `/pages/demo/demo?item=${val}`
+    })
   }
-}
+} 

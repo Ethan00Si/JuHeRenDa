@@ -1,0 +1,69 @@
+/* pages/demo/demo.wxss */
+page {
+  height: 100%;
+}
+.show-search {
+  height: 100%;
+}
+.content-list {
+  background-color: #fff;
+  z-index: 1;
+  position: relative;
+}
+.list-item {
+  height: 180rpx;
+  width: 100%;
+  box-sizing: border-box;
+}
+.list-item-content {
+  position: relative;
+  padding: 20rpx 30rpx 20rpx 30rpx;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.list-item-left {
+  height: 140rpx;
+  width: 186rpx;
+  margin-right: 20rpx;
+  float: left;
+}
+.list-item-left image {
+  width: 100%;
+  height: 100%;
+}
+.list-item-right {
+  float: left;
+  width: 484rpx;
+  height: 140rpx;
+  position: relative;
+}
+.article-title {
+  font-size: 34rpx;
+  color: #404040;
+  overflow-y: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.article-source::before {
+  content: '来源:';
+  font-size: 24rpx;
+  color: #888;
+  margin-right: 10rpx;
+}
+.article-source {
+  font-size: 24rpx;
+  color: #888;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.article-editTime {
+  font-size: 24rpx;
+  color: #a8a8a8;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
