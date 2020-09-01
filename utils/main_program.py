@@ -11,7 +11,7 @@ def main():
     '''
     ini = 'utils/file_names.json'
     files = list()
-    with open(ini, 'r') as fin:
+    with open(ini, 'r',encoding='utf-8') as fin:
         tmp = json.load(fin)
         files = tmp['files']
     
@@ -22,7 +22,7 @@ def main():
         file_path_list.append(file_path)
         # 先去读取配置文件
         config_file = dict()
-        with open(file['config'],'r') as fin:
+        with open(file['config'],'r',encoding='utf-8') as fin:
             config_file = json.load(fin)
 
 
@@ -34,20 +34,21 @@ def main():
         '''
         #preprocess.delete(file_path, config_file["special_characters"])
         #preprocess.modify_time(file_path,config_file['date_position'],config_file['date_format'] )
-    
-    for path in file_path_list:
-        getEntity_from_neo(path)
+
+    #简易版实体识别，对比知识库实现
+    #for path in file_path_list:
+    #    getEntity_from_neo(path)
 
     '''
     将新闻添加到数据库中
     '''
     
-    #add_news(tmp_files)
+    add_news(tmp_files)
 
     '''
     切词
     '''
-    #cut_words(file_path_list)
+    cut_words(file_path_list)
 
     '''
     训练tfidf
@@ -57,5 +58,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+    #getEntity_from_neo('data/news_each_school/ai_output.csv')
 
     

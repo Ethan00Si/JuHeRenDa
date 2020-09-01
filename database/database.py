@@ -1,10 +1,11 @@
 import mysql.connector
 import pandas as pd
+import pymysql
 # 构建四个表格, 一台机器应该只用构建一次
 
 
 def construct_tables(cursor):
-    create_article = 'CREATE TABLE article ( art_id INT UNSIGNED PRIMARY KEY NOT NULL auto_increment, art_source VARCHAR(32), art_url VARCHAR(255), art_title VARCHAR(255) default \'\', art_content MEDIUMTEXT, art_type VARCHAR(32), art_image VARCHAR(255) DEFAULT \'local image\',art_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP, art_legal tinyint default 0) DEFAULT CHARSET=utf8mb4 ;'
+    create_article = 'CREATE TABLE article ( art_id INT UNSIGNED PRIMARY KEY NOT NULL auto_increment, art_source VARCHAR(32), art_url VARCHAR(255), art_title VARCHAR(255) default \'\', art_content MEDIUMTEXT, art_type VARCHAR(32), art_image VARCHAR(255) DEFAULT \'local image\',art_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP, art_legal tinyint default 0,entity_id VARCHAR(255) ,entity_idx VARCHAR(255),relation_id VARCHAR(255)) DEFAULT CHARSET=utf8mb4 ;'
 
     create_tfidf = 'CREATE TABLE tfidf (word_id INT UNSIGNED PRIMARY KEY NOT NULL auto_increment, word VARCHAR(32), word_idf DOUBLE UNSIGNED, word_col INT UNSIGNED UNIQUE)DEFAULT CHARSET=utf8mb4;'
 
@@ -94,9 +95,9 @@ def insert_to_article(cursor,db):
 #                              passwd='123456',
 #                              charset='utf8',
 #                              database='Dachuang' # 数据库的名字 需要先创建才能连接
-#                              )
+# 
 
-
+'''
 db = mysql.connector.connect(
          host='183.174.228.33',
          port = 8282,
@@ -105,7 +106,7 @@ db = mysql.connector.connect(
          database ='ructoutiao',
          charset='utf8'
 )
-
+'''
 # 使用 cursor() 方法创建一个游标对象 cursor
 cursor = db.cursor()
 

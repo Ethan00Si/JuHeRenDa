@@ -7,7 +7,7 @@ def insert_to_article(cursor, db, news_list):
 
     for item in news_list:
         file_path, art_type = item
-        data_csv = pd.read_csv(file_path)
+        data_csv = pd.read_csv(file_path,dtype=str)
         print('current_file: ', file_path)
         for index, row in data_csv.iterrows():
             print(index, end='\r')
@@ -19,8 +19,21 @@ def insert_to_article(cursor, db, news_list):
                 content = ''
             time = row['datetime'].replace('-', '')+'000000'
 
-            values = (source, url, title, content, art_type, time)
-            sql = 'INSERT INTO article (art_source, art_url, art_title, art_content, art_type, art_time) VALUES (%s, %s, %s, %s, %s, %s)'
+            #实体的代码
+            entity_id = str(row['entity_id'])
+            entity_idx = str(row['entity_idx'])
+            relation_id = str(row['relation_id'])
+
+            if entity_id == 'nan':
+                entity_id = ''
+            if entity_idx == 'nan':
+                entity_idx = ''
+            if relation_id == 'nan':
+                relation_id = ''
+
+            #添加新的三列
+            values = (source, url, title, content, art_type, time,entity_id,entity_idx,relation_id)
+            sql = 'INSERT INTO article (art_source, art_url, art_title, art_content, art_type, art_time, entity_id, entity_idx, relation_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)'
             # try:
             cursor.execute(sql,  values)
             db.commit()
@@ -35,10 +48,10 @@ def add_news(file_list):
     """
     db = mysql.connector.connect(host='localhost',
                                  port=3306,
-                                 user='root',      # 数据库IP、用户名和密码
-                                 passwd='123456',
+                                 user='test',      # 数据库IP、用户名和密码
+                                 passwd='123',
                                  charset='utf8',
-                                 database='Dachuang'  # 数据库的名字 需要先创建才能连接
+                                 database='dachuang'  # 数据库的名字 需要先创建才能连接
                                  )
 
     # db = mysql.connector.connect(

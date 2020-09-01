@@ -3,6 +3,7 @@ import jsonlines
 import pandas
 import json
 import os
+import numpy
 from py2neo import Graph,Node,Relationship
 
 # 一次性完成教师信息的读取、处理、写入新文件；
@@ -364,20 +365,26 @@ def create_graph(path='../../data/teachers'):
 def getEntity_from_neo(path):
 
     data = pandas.read_csv(path,encoding='utf-8')
-
+    #data['entity_id'] = ''
+    
     titles = data.title
-    names = open('/data/词典/names/names.txt','r',encoding='utf-8')
+    names = open('data/词典/names/names.txt','r',encoding='utf-8')
     #majors = open('/data/词典/names/majors.txt','r',encoding='utf-8')
-    f = open(r'/utils/process_entity/entity2id.json','r',encoding='utf-8')
+    f = open(r'utils/process_entity/entity2id.json','r',encoding='utf-8')
 
     entity2id = json.loads(f.read(),encoding='utf-8')
     name_list = []
-
+    
     f.close()
 
     for line in names:
         name_list.append(line.strip())
 
+
+    entity_ids = []
+    entity_idxs = []
+    relation_ids = []
+    
     for index,title in enumerate(titles):
         entity_id_list = []
         entity_idx_list = []
@@ -390,19 +397,26 @@ def getEntity_from_neo(path):
                     entity_id = entity2id[entity]
                     entity_idx = match.span()
                     entity_id_list.append(str(entity_id))
-                    entity_idx_list.append(str(entity_idx[0])+','+str(entity_idx[1]))
+                    entity_idx_list.append(str(entity_idx[0])+':'+str(entity_idx[1]))
                 except:
                     pass
         
         if entity_id_list:
-            data.loc[index,'entity_id'] = ' '.join(entity_id_list)
-            data.loc[index,'entity_idx'] = ' '.join(entity_idx_list)
-            data.loc[index,'relation_id'] = ''
+            #print(entity_id_list)
+            #x = '%s' % ' '.join(entity_id_list)
+            #print(type(x))
+            entity_ids.append(' '.join(entity_id_list))
+            entity_idxs.append(' '.join(entity_idx_list))
+            relation_ids.append(numpy.nan)
         else:
-            data.loc[index,'entity_id'] = ''
-            data.loc[index,'entity_idx'] = ''
-            data.loc[index,'relation_id'] = ''
+            entity_ids.append(numpy.nan)
+            entity_idxs.append(numpy.nan)
+            relation_ids.append(numpy.nan)
     
+    data['entity_id'] = entity_ids
+    data['entity_idx'] = entity_idxs
+    data['relation_id'] = relation_ids
+
     data.to_csv(path,index=False)
 
     return

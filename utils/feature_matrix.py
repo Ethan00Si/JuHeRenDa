@@ -25,7 +25,7 @@ def read_corpus(file_path = 'data/语料/cut_words_result/result.json'):
     """
     
     words_dict = dict()
-    with open(file_path, 'r') as fin:
+    with open(file_path, 'r',encoding='utf-8') as fin:
         words_dict = json.load(fin)
     mapping = dict() # 新闻在数据库article里的id和切词结果的映射关系
     corpus = list()
@@ -222,4 +222,4 @@ def update_matrix(new_file_path):
     
     add_news_to_matrix(vocabulary,old_tfidf,corpus,IDF)
 
-update_matrix("data/语料/cut_words_result/new_result.json")
+#update_matrix("data/语料/cut_words_result/new_result.json")
