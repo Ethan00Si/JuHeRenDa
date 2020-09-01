@@ -26,6 +26,7 @@ Page({
     ]
   },
   onPullDownRefresh: function(){
+    
     wx.request({
       url: 'http://127.0.0.1:8000/news/newsRefresh',
       data: {},
@@ -43,13 +44,17 @@ Page({
       fail: ()=>{},
       complete: ()=>{}
     });
+    wx.stopPullDownRefresh({
+      success: (res) => {},
+    })
   },
-  viewDetail: function(){
+  viewDetail: function(e){
+    let newsurl = escape(e.currentTarget.dataset['newsurl']);
     wx.navigateTo({
-      url: '/pages/out/out' ,
+      url: '/pages/out/out?id='+newsurl ,
       success: function(res) {},
       fail: function(res) {},
-      complete: function(res) {},
+      complete: function(res) {}
     })
   },
   //事件处理函数

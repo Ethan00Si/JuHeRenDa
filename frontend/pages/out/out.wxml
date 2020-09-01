@@ -1,1 +1,9 @@
-<web-view src="http://info.ruc.edu.cn/news_convert_detail.php?id=1779" ></web-view>
+
+<view >
+    <web-view src="{{url}}" ></web-view>
+    
+     <!-- <view >
+         this is url {{url}}
+     </view> -->
+     
+</view>

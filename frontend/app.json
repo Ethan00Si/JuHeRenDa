@@ -3,15 +3,16 @@
     "pages/index/index",
     "pages/search/search",
     "pages/person/person",
-    "pages/demo/demo",
-    "pages/out/out"
+    "pages/out/out",
+    "pages/demo/demo"
   ],
   "window": {
     "backgroundColor": "#F6F6F6",
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#ed4040",
     "navigationBarTitleText": "聚合人大",
-    "navigationBarTextStyle": "white"
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true
   },
   "tabBar": {
     "color": "black",
