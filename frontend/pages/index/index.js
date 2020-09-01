@@ -18,53 +18,80 @@ Page({
     showCopyright: false,
     refreshing: false,
     news_items:[
-      { newsID:'1',title:'title_01', publish_date:'2020-08-26',source:'info'},
-      { newsID:'2',title:'title_02', publish_date:'2020-08-27',source:'econ'},
-      { newsID:'3',title:'title_03', publish_date:'2020-08-28',source:'news'},
-      { newsID:'4',title:'title_04', publish_date:'2020-08-26',source:'law'},
-      { newsID:'5',title:'title_05', publish_date:'2020-08-16',source:'finance'}
+      { newsID:'1',title:'title_01', publish_date:'2020-08-26',source:'info','url':'http://info.ruc.edu.cn/notice_detail.php?id=2066'},
+      { newsID:'2',title:'title_02', publish_date:'2020-08-27',source:'econ','url':'http://info.ruc.edu.cn/notice_convert_detail.php?id=2067'},
+      { newsID:'3',title:'title_03', publish_date:'2020-08-28',source:'news','url':'http://info.ruc.edu.cn/news_convert_detail.php?id=1783'},
+      { newsID:'4',title:'title_04', publish_date:'2020-08-26',source:'law','url':'http://info.ruc.edu.cn/news_convert_detail.php?id=1778'},
+      { newsID:'5',title:'title_05', publish_date:'2020-08-16',source:'finance','url':'http://info.ruc.edu.cn/news_convert_detail.php?id=1779'}
     ]
   },
-  //事件处理函数
-  bindViewTap: function() {
-    wx.navigateTo({
-      url: '../logs/logs'
-    })
-  },
-  onLoad: function () {
-    if (app.globalData.userInfo) {
-      this.setData({
-        userInfo: app.globalData.userInfo,
-        hasUserInfo: true
-      })
-    } else if (this.data.canIUse){
-      // 由于 getUserInfo 是网络请求，可能会在 Page.onLoad 之后才返回
-      // 所以此处加入 callback 以防止这种情况
-      app.userInfoReadyCallback = res => {
-        this.setData({
-          userInfo: res.userInfo,
-          hasUserInfo: true
-        })
-      }
-    } else {
-      // 在没有 open-type=getUserInfo 版本的兼容处理
-      wx.getUserInfo({
-        success: res => {
-          app.globalData.userInfo = res.userInfo
+  onPullDownRefresh: function(){
+    wx.request({
+      url: 'http://127.0.0.1:8000/news/newsRefresh',
+      data: {},
+      // header: {'content-type':'application/json'},
+      // method: 'GET',
+      // dataType: 'json',
+      // responseType: 'text',
+      success: res =>{
+        if (res.statusCode == 200){
           this.setData({
-            userInfo: res.userInfo,
-            hasUserInfo: true
+            news_items: res.data
           })
         }
-      })
-    }
+      },
+      fail: ()=>{},
+      complete: ()=>{}
+    });
   },
-  getUserInfo: function(e) {
-    console.log(e)
-    app.globalData.userInfo = e.detail.userInfo
-    this.setData({
-      userInfo: e.detail.userInfo,
-      hasUserInfo: true
+  viewDetail: function(){
+    wx.navigateTo({
+      url: '/pages/out/out' ,
+      success: function(res) {},
+      fail: function(res) {},
+      complete: function(res) {},
     })
-  }
-})
+  },
+  //事件处理函数
+//   bindViewTap: function() {
+//     wx.navigateTo({
+//       url: '../logs/logs'
+//     })
+//   },
+//   onLoad: function () {
+//     if (app.globalData.userInfo) {
+//       this.setData({
+//         userInfo: app.globalData.userInfo,
+//         hasUserInfo: true
+//       })
+//     } else if (this.data.canIUse){
+//       // 由于 getUserInfo 是网络请求，可能会在 Page.onLoad 之后才返回
+//       // 所以此处加入 callback 以防止这种情况
+//       app.userInfoReadyCallback = res => {
+//         this.setData({
+//           userInfo: res.userInfo,
+//           hasUserInfo: true
+//         })
+//       }
+//     } else {
+//       // 在没有 open-type=getUserInfo 版本的兼容处理
+//       wx.getUserInfo({
+//         success: res => {
+//           app.globalData.userInfo = res.userInfo
+//           this.setData({
+//             userInfo: res.userInfo,
+//             hasUserInfo: true
+//           })
+//         }
+//       })
+//     }
+//   },
+//   getUserInfo: function(e) {
+//     console.log(e)
+//     app.globalData.userInfo = e.detail.userInfo
+//     this.setData({
+//       userInfo: e.detail.userInfo,
+//       hasUserInfo: true
+//     })
+//   }
+ })

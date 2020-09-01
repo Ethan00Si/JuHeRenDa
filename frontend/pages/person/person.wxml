@@ -1,25 +1,72 @@
-<!--pages/person/person.wxml-->
-<!-- <text>pages/person/person.wxml</text> -->
-<view class="container">
-  <view class="userinfo">
-    <button 
-      open-type="getUserInfo" 
-      bindgetuserinfo="onGetUserInfo"
-      class="userinfo-avatar"
-    ></button>
-    <view>
-      <button class="userinfo-nickname" bindtap="onGetOpenid">点击获取 openid</button>
+
+<view class="container more">
+  <view class="user flex-wrp">
+    <view class="avatar flex-item">
+      <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
+    </view>
+    <view class="user-info flex-item">
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+      <text class="edit">查看或编辑个人主页</text>
     </view>
   </view>
-  <!-- <i-tabs current="{{ current_scroll }}" scroll-x="true" scroll="true" bindchange="handleChangeScroll">
-    <i-tab key="tab1" title="选项1"></i-tab>
-    <i-tab key="tab2" title="选项2"></i-tab>
-    <i-tab key="tab3" title="选项3"></i-tab>
-    <i-tab key="tab4" title="选项4"></i-tab>
-    <i-tab key="tab5" title="选项5"></i-tab>
-    <i-tab key="tab6" title="选项6"></i-tab>
-    <i-tab key="tab7" title="选项7"></i-tab>
-    <i-tab key="tab8" title="选项8"></i-tab>
-    <i-tab key="tab9" title="选项9"></i-tab>
-</i-tabs> -->
+
+  <view class="my">
+    <view class="my-item flex-wrp">
+      <view class="myitem-icon flex-item" >
+        <image src="../../assets/person/eye.png"></image>
+      </view>
+      <view class="myitem-name flex-item">
+        <text>我关注的关键词</text>
+      </view>
+    </view>
+    <view class="my-item flex-wrp">
+      <view class="myitem-icon flex-item" >
+        <image src="../../assets/person/star.png"></image>
+      </view>
+      <view class="myitem-name flex-item">
+        <text>我的收藏</text>
+      </view>
+    </view>
+    <!-- <view class="my-item flex-wrp">
+      <view class="myitem-icon flex-item" >
+        <image src="../../assets/person/draft.png"></image>
+      </view>
+      <view class="myitem-name flex-item">
+        <text>我的草稿</text>
+      </view>
+    </view> -->
+    <view class="my-item flex-wrp">
+      <view class="myitem-icon flex-item" >
+        <image src="../../assets/person/recent.png"></image>
+      </view>
+      <view class="myitem-name flex-item">
+        <text>最近浏览</text>
+      </view>
+    </view>
+    <view class="my-item flex-wrp">
+      <view class="myitem-icon flex-item" >
+        <image src="../../assets/person/book.png"></image>
+      </view>
+      <view class="myitem-name flex-item">
+        <text>觉得有用</text>
+      </view>
+    </view>
+    <!-- <view class="my-item flex-wrp">
+      <view class="myitem-icon flex-item" >
+        <image src="../../assets/person/live.png"></image>
+      </view>
+      <view class="myitem-name flex-item">
+        <text>我的 Live</text>
+      </view>
+    </view>
+    <view class="my-item flex-wrp">
+      <view class="myitem-icon flex-item" >
+        <image src="../../assets/person/zhi.png"></image>
+      </view>
+      <view class="myitem-name flex-item">
+        <text>我的值乎</text>
+      </view>
+    </view> -->
+
+  </view>
 </view>

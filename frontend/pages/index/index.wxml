@@ -12,7 +12,7 @@
   <view class="nav-blank"></view>
 
 
-  <scroll-view-refresh-load class='scroll-view-refresh-load-component' refreshing="{{refreshing}}" bindpulldownrefresh="onPulldownrefresh_SV">
+  <scroll-view-refresh-load class='scroll-view-refresh-load-component' refreshing="{{refreshing}}" bindpulldownrefresh="onPulldownrefresh">
     <view class='content'>
       <view class='content-top-pic'>
         <swiper class="swiper" bindchange='handleSwiperChange' autoplay="true" interval="30000" duration="300">
@@ -41,10 +41,6 @@
         </block>
       </view>
     </view>
-    <view class="footer" wx:if="{{showCopyright}}">
-      <view class="footer-component">
-        <component-copyright></component-copyright>
-      </view>
-    </view>
+    
   </scroll-view-refresh-load>
 </view>

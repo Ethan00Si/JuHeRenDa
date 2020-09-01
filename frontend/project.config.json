@@ -27,7 +27,7 @@
 			"outputPath": ""
 		},
 		"useIsolateContext": true,
-		"useCompilerModule": true,
+		"useCompilerModule": false,
 		"userConfirmedUseCompilerModuleSwitch": false,
 		"useMultiFrameRuntime": false,
 		"useApiHook": true,
@@ -36,8 +36,8 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.12.2",
-	"appid": "wxf994dd2a15f1eef9",
-	"projectname": "DaChuang_miniprog",
+	"appid": "wx88876f66694b4d6d",
+	"projectname": "frontend",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
