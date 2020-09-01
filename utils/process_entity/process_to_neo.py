@@ -135,6 +135,20 @@ def mergeName():
         g.write(item+'\n')
     g.close()
 
+def mergeMajor():
+
+    g = open('../../data/词典/majors/majors.txt','w',encoding='utf-8')
+    dic = set()
+    for dir_path,dir_name,file_list in os.walk('../../data/词典/majors/'):
+        for filename in file_list:
+            if os.path.splitext(filename)[1]=='.txt':
+                with open('/'.join([dir_path,filename]),'r',encoding='utf-8') as f:
+                    for line in f:
+                        dic.add(line.strip())
+    for item in dic:
+        g.write(item+'\n')
+    g.close()
+
 #合并所有字典文件夹下的txt，进入dictionary.txt
 def mergeDict():
     g = open(r'../../data/语料/dictionary.txt','r',encoding='utf-8')
@@ -347,10 +361,14 @@ def create_graph(path='../../data/teachers'):
     f.write(line)
     f.close()
 
-def getEntity_from_neo(data):
+def getEntity_from_neo(path):
+
+    data = pandas.read_csv(path,encoding='utf-8')
+
     titles = data.title
-    names = open('../../data/词典/names/names.txt','r',encoding='utf-8')
-    f = open(r'entity2id.json','r',encoding='utf-8')
+    names = open('/data/词典/names/names.txt','r',encoding='utf-8')
+    #majors = open('/data/词典/names/majors.txt','r',encoding='utf-8')
+    f = open(r'/utils/process_entity/entity2id.json','r',encoding='utf-8')
 
     entity2id = json.loads(f.read(),encoding='utf-8')
     name_list = []
@@ -379,5 +397,12 @@ def getEntity_from_neo(data):
         if entity_id_list:
             data.loc[index,'entity_id'] = ' '.join(entity_id_list)
             data.loc[index,'entity_idx'] = ' '.join(entity_idx_list)
+            data.loc[index,'relation_id'] = ''
+        else:
+            data.loc[index,'entity_id'] = ''
+            data.loc[index,'entity_idx'] = ''
+            data.loc[index,'relation_id'] = ''
     
-    return data
+    data.to_csv(path,index=False)
+
+    return

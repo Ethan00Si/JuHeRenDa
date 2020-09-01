@@ -22,6 +22,7 @@ class TeacherPipeline:
             "信息资源管理学院":"xinguan",
             "文学院":"literature",
             "哲学院":"philosophy",
+            "公共管理学院":"gongguan",
         }
     '''
     def open_spider(self,spider):

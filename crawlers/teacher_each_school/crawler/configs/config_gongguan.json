@@ -1,0 +1,25 @@
+{
+    "http://spap.ruc.edu.cn/jiaoshi.php?cid=22":{
+        "brief_entry":"//div[@align=\"center\"]",
+        "href_entry":"./a[1]/@href",
+        "next_entry":null,
+        "properties":{
+            "name":{
+                "entry":".//center/text()"
+            }
+        },
+        "properties_detail":{
+            "major":{
+                "entry":["/html/body/div[3]/div[2]/div[2]/table/tbody/tr[1]/td[3]/table/tbody/tr[2]"]
+            }
+        },
+        "department":"公共管理学院",
+        "further_explore":true,
+        "refer_dict":false
+    }
+}
+/html/body/div[3]/div[2]/div[2]/table/tbody/tr[1]/td[3]/table/tbody/tr[2]
+/html/body/div[3]/div[2]/div[2]/table/tbody/tr[1]/td[3]/table/tbody/tr[1]
+/html/body/div[3]/div[2]/div[2]/table/tbody/tr[1]/td[3]/table/tbody/tr[1]
+/html/body/div[3]/div[2]/div[2]/table/tbody/tr[1]/td[3]/table/tbody/tr[2]/td[2]
+/html/body/div[3]/div[2]/div[2]/table/tbody/tr[1]/td[3]/table/tbody/tr[2]/td[2]
