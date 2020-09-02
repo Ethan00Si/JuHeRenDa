@@ -4,14 +4,15 @@ from django.utils import timezone
 from .models import Article,UserLog,UserFile,Tfidf
 from .CB import refresh_news
 from datetime import datetime
+import numpy
 
 # Create your views here.
 def recommend(request):
     '''
         Recommender code
     '''
-
-    return HttpResponse("推荐算法")
+    data = numpy.random.randn(100,100,100,100)
+    return render(request,'recommender/layout.html',{'data':data})
 
 def detail(request, user_id):
     
@@ -79,7 +80,5 @@ def recommend_news(request, user_id):
         tmp['url'] = article.art_url
         articles_list.append(tmp)
     
-    return JsonResponse(articles_list, safe=False)
-
-
-
+    #return JsonResponse(articles_list, safe=False)
+    return render(request,'recommender/layout.html',{'list':articles_list})

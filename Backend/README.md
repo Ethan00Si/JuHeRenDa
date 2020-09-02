@@ -32,6 +32,31 @@
    ```
 5. 访问[http://127.0.0.1:8000/recommender/1/](http://127.0.0.1:8000/recommender/11/)，其中1为新闻id，可以随意更改
 
+## cache
+### 功能
+**在```/Backend/Dachaung/settings.py```中定义了多种cache**
+- 内存cache：解除注释并将当前cache注释后直接使用
+- 数据库cache：
+   1. 将```LOCATION```设置为当前数据库中不存在的一个数据表的名称
+   2. ```shell
+      cd /Backend
+      ``` 
+   3. ```shell
+      python manage.py createcachetable
+      ```
+   4. 使用
+- 文件cache：
+   1. 将```LOCATION```设置为一个存在、可读可写的绝对路径（目录名就行，不用创建文件）
+   2. 使用
+- Local-memory cache：解除注释并将当前cache注释后直接使用
+
+- 另外，我在**文件cache**中保留了部分可以传递的参数，这个可以根据自己的需求调，注释掉也行
+
+
+### 测试
+- 我在```recommender/```的网页加载了一个大型的numpy数组，可以观察cache效果
+- 针对四种cache都先用edge打开```recommender/```，之后chrome无痕打开，发现在chrome中都是可以直接访问cache的
+
 
 # mysql操作
 
