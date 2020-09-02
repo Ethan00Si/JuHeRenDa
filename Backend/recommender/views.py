@@ -1,9 +1,16 @@
 from django.shortcuts import render
-from django.http import JsonResponse
+from django.http import JsonResponse,HttpResponse
 from django.utils import timezone
 from .models import Article,UserLog,UserFile,Tfidf
 # Create your views here.
-def recommend(request,pk):
+def recommend(request):
+    '''
+        Recommender code
+    '''
+
+    return HttpResponse("推荐算法")
+
+def detail(request,pk):
     
     # 通过primary key在数据库中查找指定文章
     # get方法只能返回一个数据项

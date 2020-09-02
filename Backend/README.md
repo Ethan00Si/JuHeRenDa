@@ -6,8 +6,13 @@
 
 # demo
 ## 功能
-- recommender/urls.py中简单定义了返回新闻的url，以新闻编号作为携带的参数
-- recommender/views.py中定义了响应上述url的函数，以新闻编号作为传入的值，实现查询该id新闻，查询一系列新闻并返还到前端，该函数中**没有涉及增加数据项、删除数据项**，因为我认为暂时用不到，而且写出来会修改数据库中的数据，请谨慎
+- recommender/urls.py中
+  - 简单定义了推荐算法的url即```recommender/```
+  - 简单定义了返回新闻的url即```recommender/art_id/```，以新闻编号作为携带的参数；
+  
+- recommender/views.py中
+  - 定义了相应上述url即```recommender/```的函数，只是写了一行字，没加推荐算法的函数进来
+  - 定义了响应上述url即```recommender/art_id/```的函数，以新闻编号```art_id```作为传入的值，实现查询该```art_id```的新闻，查询一系列新闻并返还到前端，该函数中**没有涉及增加数据项、删除数据项**，因为我认为暂时用不到，而且写出来会修改数据库中的数据，请谨慎
 - recommender/templates/recommender/layout.html为html模板，用于展示返回到前端的值
 
 ## 使用方法
