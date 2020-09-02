@@ -18,17 +18,17 @@ Page({
     showCopyright: false,
     refreshing: false,
     news_items:[
-      { newsID:'1',title:'title_01', publish_date:'2020-08-26',source:'info','url':'http://info.ruc.edu.cn/notice_detail.php?id=2066'},
-      { newsID:'2',title:'title_02', publish_date:'2020-08-27',source:'econ','url':'http://info.ruc.edu.cn/notice_convert_detail.php?id=2067'},
-      { newsID:'3',title:'title_03', publish_date:'2020-08-28',source:'news','url':'http://info.ruc.edu.cn/news_convert_detail.php?id=1783'},
-      { newsID:'4',title:'title_04', publish_date:'2020-08-26',source:'law','url':'http://info.ruc.edu.cn/news_convert_detail.php?id=1778'},
-      { newsID:'5',title:'title_05', publish_date:'2020-08-16',source:'finance','url':'http://info.ruc.edu.cn/news_convert_detail.php?id=1779'}
+      { newsID:'1',title:'title_01', publish_date:'2020-08-26',source:'info',url:'http://info.ruc.edu.cn/notice_detail.php?id=2066'},
+      { newsID:'2',title:'title_02', publish_date:'2020-08-27',source:'econ',url:'http://info.ruc.edu.cn/notice_convert_detail.php?id=2067'},
+      { newsID:'3',title:'title_03', publish_date:'2020-08-28',source:'news',url:'http://info.ruc.edu.cn/news_convert_detail.php?id=1783'},
+      { newsID:'4',title:'title_04', publish_date:'2020-08-26',source:'law',url:'http://info.ruc.edu.cn/news_convert_detail.php?id=1778'},
+      { newsID:'5',title:'title_05', publish_date:'2020-08-16',source:'finance',url:'http://info.ruc.edu.cn/news_convert_detail.php?id=1779'}
     ]
   },
   onPullDownRefresh: function(){
-    
+    let user_id = '1'
     wx.request({
-      url: 'http://127.0.0.1:8000/news/newsRefresh',
+      url: 'http://127.0.0.1:8000/recommender/'+user_id,
       data: {},
       // header: {'content-type':'application/json'},
       // method: 'GET',

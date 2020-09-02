@@ -2,6 +2,9 @@ from django.shortcuts import render
 from django.http import JsonResponse,HttpResponse
 from django.utils import timezone
 from .models import Article,UserLog,UserFile,Tfidf
+from .CB import refresh_news
+from datetime import datetime
+
 # Create your views here.
 def recommend(request):
     '''
@@ -10,7 +13,7 @@ def recommend(request):
 
     return HttpResponse("推荐算法")
 
-def detail(request,pk):
+def detail(request, user_id):
     
     # 通过primary key在数据库中查找指定文章
     # get方法只能返回一个数据项
@@ -19,7 +22,7 @@ def detail(request,pk):
     # 通过sql语句查询
     # 如果传入参数，不要用format，而是在raw方法的第二个参数的位置传入参数列表
     # 返回的是一个列表，注意索引
-    article = Article.objects.raw('SELECT * FROM article WHERE art_id = %s',[pk])[0]
+    article = Article.objects.raw('SELECT * FROM article WHERE art_id = %s',[user_id])[0]
     
     # 获取属性,也可以把整个article object返回前端，在前端获取对应属性
     # art_url = article.art_url
@@ -56,4 +59,27 @@ def detail(request,pk):
     return render(request,'recommender/layout.html',context=context)
     
     # 微信小程序默认解析json
-    # return JsonResponse(data=context)
+    #return JsonResponse(data=context)
+
+def recommend_news(request, user_id):
+    """
+    user_id 是用户id，对应数据库中的id
+    """
+    # ret_news_id 是要返回的新闻数据库中对应的id
+    ret_news_id = refresh_news.refresh_news(user_id)
+
+    articles_list = list()
+    for item in ret_news_id:
+        article = Article.objects.raw('SELECT * FROM article WHERE art_id = %s',[item])[0]
+        tmp = dict()
+        tmp['newsID'] = article.art_id
+        tmp['title'] = article.art_title
+        tmp['publish_date'] = datetime.date(article.art_time)
+        tmp['source'] = article.art_source
+        tmp['url'] = article.art_url
+        articles_list.append(tmp)
+    
+    return JsonResponse(articles_list, safe=False)
+
+
+

@@ -81,10 +81,10 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         
         # USER for mysql
-        'USER':'test',
+        'USER':'root',
 
         # PASSWORD for mysql
-        'PASSWORD':'123',
+        'PASSWORD':'123456',
 
         # NAME of DATABASE
         'NAME':'dachuang',
