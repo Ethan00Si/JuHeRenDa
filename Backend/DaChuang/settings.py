@@ -87,7 +87,7 @@ DATABASES = {
         'PASSWORD':'123',
 
         # NAME of DATABASE
-        'NAME':'test',
+        'NAME':'dachuang',
 
         # If this value starts with a forward slash ('/') and you’re using MySQL, MySQL will connect via a Unix socket to the specified socket. For example:
         # https://docs.djangoproject.com/en/3.1/ref/settings/#std:setting-NAME

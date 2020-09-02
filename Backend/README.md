@@ -1,6 +1,31 @@
 # django
 ##  1. <a name='apps'></a>apps
 - recommender：推荐系统（已注册）
+- search：搜索
+- knoelwdge：知识库
+
+# demo
+## 功能
+- recommender/urls.py中简单定义了返回新闻的url，以新闻编号作为携带的参数
+- recommender/views.py中定义了响应上述url的函数，以新闻编号作为传入的值，实现查询该id新闻，查询一系列新闻并返还到前端，该函数中**没有涉及增加数据项、删除数据项**，因为我认为暂时用不到，而且写出来会修改数据库中的数据，请谨慎
+- recommender/templates/recommender/layout.html为html模板，用于展示返回到前端的值
+
+## 使用方法
+
+1. 在```/Backend/Dachaung/settings.py```中修改数据库名称、用户、密码，详见注释。注意数据库中必须已经建立了article、user_file、user_log、tfidf四个数据表，并且article数据表中有信息
+2. ```shell
+   cd /Backend
+   ``` 
+3. ```shell
+   # 应用更改到django中
+   python manage.py migrate recommender --fake
+   ```
+4. ```shell
+   # 启动服务器
+   python manage.py runserver
+   ```
+5. 访问[http://127.0.0.1:8000/recommender/1/](http://127.0.0.1:8000/recommender/11/)，其中1为新闻id，可以随意更改
+
 
 # mysql操作
 
@@ -10,7 +35,7 @@
 ##  读取现有数据表
 1. 在```/Backend/Dachaung/settings.py```中修改**数据库名称、用户、密码**，详见注释
 2. ```
-   cd /Backend/DaChuang
+   cd /Backend
    ```
 3. ```
    python manage.py inspectdb > temporary.py 
