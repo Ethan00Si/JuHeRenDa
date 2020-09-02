@@ -49,5 +49,8 @@ Page({
   },
   bindSearchHidden() {
     wxSearch.bindSearchHidden(this)
+  },
+  bindClearInput(e) {
+    wxSearch.clearInput(e, this)
   }
 })
