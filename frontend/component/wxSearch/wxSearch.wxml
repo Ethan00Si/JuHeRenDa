@@ -1,7 +1,7 @@
 <template name="wxSearch">
   <view class="head_search">
     <input class="text_search colorGray" type='text' confirm-type="search" placeholder="请输入院校或专业名称" placeholder-class="colorGray" bindfocus="bindShowLog" bindinput="bindInputSchool" value="{{inputVal}}" bindconfirm="bindGoSearch"></input>
-    <icon class="icon_search" type='search' size="15" bindtap="bindGoSearch"></icon>
+    <icon class="icon_search" type='clear' size="15" bindtap="bindClearInput"></icon>
   </view>
 
   <view class="result_search" hidden="{{searchIsHidden}}" bindtap='bindSearchHidden'>
@@ -29,7 +29,25 @@
     <view class='hots_search' wx:if="{{!searchAllShow || searchList.length==0}}">
       <view class='title_hotsSearch colGray'>热门搜索</view>
       <view class="list_hotsSearch">
-        <text wx:for="{{hotsSearch}}" wx:key="{{index}}" catchtap="bindGoSchool" data-item="{{item}}">{{item}}</text>
+        <block wx:for="{{hotsSearch}}" wx:key="{{index}}" catchtap="bindGoSchool" data-item="{{item}}">
+          <block wx:if="{{index == 0}}">
+            <text class="rank_first" space="emsp">{{index+1}}  </text>
+            <text class="item">{{item}}</text>
+          </block>
+          <block wx:elif="{{index == 1}}">
+            <text class="rank_second" space="emsp">{{index+1}}  </text>
+            <text class="item">{{item}}</text>
+          </block>
+          <block wx:elif="{{index == 2}}">
+            <text class="rank_third" space="emsp">{{index+1}}  </text>
+            <text class="item">{{item}}</text>
+          </block>
+          <block wx:else>
+            <text class="rank_else" space="emsp">{{index+1}}  </text>
+            <text class="item">{{item}}</text>
+          </block>
+        </block>
+        <!-- <text space="emsp" wx:for="{{hotsSearch}}" wx:key="{{index}}" catchtap="bindGoSchool" data-item="{{item}}">{{index+1}}  {{item}}</text> -->
       </view>
     </view>
   </view>

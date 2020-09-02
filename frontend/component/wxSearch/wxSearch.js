@@ -106,5 +106,10 @@ module.exports={
     wx.navigateTo({
       url: `/pages/demo/demo?item=${val}`
     })
+  },
+  clearInput(e, that) {
+    this._setData(that, {
+      inputVal: ''
+    })
   }
 } 

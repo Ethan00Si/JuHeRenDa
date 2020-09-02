@@ -58,12 +58,35 @@
   flex-wrap:wrap;
 }
 .list_hotsSearch text{
-  margin-bottom:25rpx;margin-right:26rpx;
-  padding-left:25rpx;padding-right:25rpx;
+  /* margin-bottom:25rpx;margin-right:26rpx;
+  padding-left:25rpx;padding-right:25rpx; */
 	height: 46rpx;line-height: 46rpx;
-	border-radius: 10rpx;
-	border: solid 2px #0389fe;
+	/* border-radius: 10rpx;
+	border: solid 2px #0389fe; */
   font-size: 24rpx;
-  color: #0389fe;
-  text-align:center;
+  /*color: #0389fe;
+  text-align:center; */
+  /* width: 50%; */
+  text-align: left;
+  padding-bottom: 10rpx;
+  padding-top: 10rpx;
+  border-bottom: solid 1px #D3D3D3;
+}
+.rank_first{
+  font-weight: bold;
+  color: #F93913;
+}
+.rank_second{
+  font-weight: bold;
+  color: #F95412;
+}
+.rank_third{
+  font-weight: bold;
+  color: #FB6E52;
+}
+.rank_else{
+  color: #F98B12;
+}
+.item{
+  width: 90%;
 }
