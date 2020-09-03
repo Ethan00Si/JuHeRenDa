@@ -1,0 +1,15 @@
+ <text class="title">我的标签</text>
+  <view class="right" bindtap='comfirm'>
+     确定
+  </view>
+<view class='btn_view'>
+        <block wx:for="{{obtnArry}}" >
+          <view class='label_view {{item.selected ? "active" : ""}}' data-value="{{item.name}}" bindtap='dealTap' checked="{{item.selected}}" data-index="{{index}}">
+            {{item.name}}
+          </view>
+        </block>
+        
+  </view>
+
+
+
