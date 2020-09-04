@@ -49,6 +49,24 @@ Page({
     })
   },
   viewDetail: function(e){
+    var util = require('../../utils/util.js'); //获取时间
+    var m=app.globalData.userInfo  //获取全局变量
+    //传回用户日志
+    wx.request({
+      url: 'test.php', //仅为示例，并非真实的接口地址
+      data: {
+        user_id:m['openId'],
+        art_id:newsurl,
+        behavior_time:util.formatTime(new Date())
+      },
+      header: {
+        'content-type': 'application/json' // 默认值
+      },
+      success (res) {
+        console.log(res.data)
+      }
+    })
+
     let newsurl = escape(e.currentTarget.dataset['newsurl']);
     wx.navigateTo({
       url: '/pages/out/out?id='+newsurl ,

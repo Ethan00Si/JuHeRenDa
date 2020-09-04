@@ -64,7 +64,7 @@ Page({
     })
     console.log(this.data.label)
   },
-  //返回用户日志
+  //返回用户数据
   comfirm:function(e){
     var util = require('../../utils/util.js'); //获取时间
     var m=app.globalData.userInfo  //获取全局向量
@@ -82,6 +82,10 @@ Page({
       success (res) {
         console.log(res.data)
       }
+    })
+    //点击确定跳转index页面，navigateTo不能跳转tabbar page，因此使用switchTab
+    wx.switchTab({
+      url: '/pages/index/index',  
     })
 
   }
