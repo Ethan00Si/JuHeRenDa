@@ -48,8 +48,8 @@ def add_news(file_list):
     """
     db = mysql.connector.connect(host='localhost',
                                  port=3306,
-                                 user='test',      # 数据库IP、用户名和密码
-                                 passwd='123',
+                                 user='root',      # 数据库IP、用户名和密码
+                                 passwd='123456',
                                  charset='utf8',
                                  database='dachuang'  # 数据库的名字 需要先创建才能连接
                                  )

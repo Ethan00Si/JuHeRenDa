@@ -45,9 +45,9 @@ INSTALLED_APPS = [
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
-    'django.middleware.cache.UpdateCacheMiddleware',
+    # 'django.middleware.cache.UpdateCacheMiddleware',
     'django.middleware.common.CommonMiddleware',
-    'django.middleware.cache.FetchFromCacheMiddleware',
+    # 'django.middleware.cache.FetchFromCacheMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
@@ -83,10 +83,12 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         
         # USER for mysql
-        'USER':'test',
+        #'USER':'test',
+        'USER':'root',
 
         # PASSWORD for mysql
-        'PASSWORD':'123',
+        #'PASSWORD':'123',
+        'PASSWORD':'123456',
 
         # NAME of DATABASE
         'NAME':'dachuang',
@@ -121,7 +123,7 @@ CACHES = {
 '''
 
 # 文件cache，同上，跨进程，可复用
-
+'''
 CACHES = {
     'default': {
         'BACKEND': 'django.core.cache.backends.filebased.FileBasedCache',
@@ -144,7 +146,7 @@ CACHES = {
         
     }
 }
-
+'''
 
 # Local-memory cache,不允许跨进程，但我试了在两个阅览器打开，我感觉是支持的。。。不知道有什么区别
 '''

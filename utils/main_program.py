@@ -35,15 +35,17 @@ def main():
         #preprocess.delete(file_path, config_file["special_characters"])
         #preprocess.modify_time(file_path,config_file['date_position'],config_file['date_format'] )
 
-    #简易版实体识别，对比知识库实现
-    for path in file_path_list:
-        getEntity_from_neo(path)
+    """
+    简易版实体识别，对比知识库实现
+    """
+    # for path in file_path_list:
+    #     getEntity_from_neo(path)
 
     '''
     将新闻添加到数据库中
     '''
     
-    add_news(tmp_files)
+    #add_news(tmp_files)
 
     '''
     切词
@@ -53,7 +55,7 @@ def main():
     '''
     训练tfidf
     '''
-    #construct_matrix()
+    construct_matrix()
 
 
 if __name__ == "__main__":

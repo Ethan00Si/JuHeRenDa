@@ -1,4 +1,6 @@
 import numpy as np
+import json
+
 
 '''
 基于内容的推荐，对于每一个用户来说，所需要推荐的内容都是不一样的，
@@ -11,19 +13,18 @@ class ContentBased_User(object):
     '用户的基于内容推荐的基类'
     users_cnt = 0  # 用户数量
 
-    def __init__(self, key_words, profile):
+    def __init__(self, key_words, profile, already_view_news = dict()):
         self.key_word_list = key_words  # 用户的关键词列表
-        self.user_profile = profile # 此用户的用户画像
-        self.already_view = dict() #已经浏览过的页面,dict是哈希表，O(1)复杂度
+        self.user_profile = profile  # 此用户的用户画像
+        self.already_view = already_view_news  # 已经浏览过的页面,dict是哈希表，O(1)复杂度
 
-    def generate_user_profile(self, tfidf, user_ratings):
+    def generate_user_profile(self, tfidf, user_ratings, paths):
         """
         tfidf的格式：行代表特征词 列代表文章
         """
         # 将已经看过的内容添加到 already_view中
         for item in user_ratings:
-            self.already_view[item] = 1
-
+            self.already_view[str(item)] = 1
 
         # 这里的user_ratings是以dict的形式存储 格式 doc ID : score
         # 生成用户画像
@@ -35,7 +36,7 @@ class ContentBased_User(object):
         b = 0.8
         c = 0.1
         threshold_rate = 1e-10
-        
+
         pos_cnt = 0
         neg_cnt = 0
         '''
@@ -51,13 +52,13 @@ class ContentBased_User(object):
         for item in user_ratings:
             if(user_ratings[item] >= 0):
                 user_profile[:, 0] += b/pos_cnt * tfidf[:, item]
-                
+
         for item in user_ratings:
             if(user_ratings[item] < 0):
                 user_profile[:, 0] -= c/neg_cnt * tfidf[:, item]
-                    
+
         (rows, cols) = user_profile.shape
-        
+
         '''
                     user
           vocabulary|--|
@@ -68,11 +69,13 @@ class ContentBased_User(object):
         '''
         self.user_profile = user_profile
         self.user_profile[np.isnan(self.user_profile)] = 0
+        np.save(paths[0], self.user_profile)
+        self.save_dict_to_json(paths[1], self.already_view)
 
     def update_user_profile(self, tfidf, user_ratings):
         # 添加已经看了的内容
         for item in user_ratings:
-            self.already_view[item] = 1
+            self.already_view[str(item)] = 1
 
         # 新增加了一些评价，更新用户画像
 
@@ -94,32 +97,33 @@ class ContentBased_User(object):
         for item in user_ratings:
             if(user_ratings[item] >= 0):
                 self.user_profile[:, 0] += b/pos_cnt * tfidf[:, item]
-                
+
         for item in user_ratings:
             if(user_ratings[item] < 0):
                 self.user_profile[:, 0] -= c/neg_cnt * tfidf[:, item]
         self.user_profile[np.isnan(self.user_profile)] = 0
 
-    def generate_recommand(self, tfidf, topN = 5):
+    def generate_recommand(self, tfidf, topN=5):
         #  产生推荐结果
-        
+
         for i in range(self.user_profile.shape[1]):
             scores = []
             index = []
             u = self.user_profile[:, i:i+1]
             for j in range(tfidf.shape[1]):
                 v = tfidf[:, j:j+1]
-                
+
                 if np.linalg.norm(v) == 0:
                     # 有一些新闻是空的，还没看到哪里出问题了
                     # 只有个别的新闻是全英文所以没有关键词，其余的新闻还有一些是0
                     continue
-                tmp = np.dot(u.T,v) / np.linalg.norm(u) / np.linalg.norm(v)
-                scores.append(tmp[0][0]) # score list存储每一个新闻的预测得分
+                tmp = np.dot(u.T, v) / np.linalg.norm(u) / np.linalg.norm(v)
+                scores.append(tmp[0][0])  # score list存储每一个新闻的预测得分
                 index.append(j)
         result = self.find_top_n_items(scores, index, topN)
+        self.save_dict_to_json('recommender/CB/storage/already_views.json', self.already_view)
         return result
-        
+
     def find_top_n_items(self, scores, index, n):
         # 输出前n个结果
         result = list()
@@ -129,15 +133,22 @@ class ContentBased_User(object):
         i = 0
         while(cnt < n):
             # 排除掉已经看过的新闻
-            if self.already_view.__contains__(index[indecies[i]]):
+            if self.already_view.__contains__(str(index[indecies[i]])):
                 i += 1
                 continue
-            
+
             # print(cnt)
             # print('index : ', index[indecies[i]], " score: ", scores[indecies[i]])
             result.append(index[indecies[i]])
-            self.already_view[index[indecies[i]]] = 0
+            self.already_view[str(index[indecies[i]])] = 1
             i += 1
             cnt += 1
         return result
-        
+
+    def save_dict_to_json(self, file_path, dictionary):
+        '''
+        把dict保存为json储存在本地
+        '''
+        json_str = json.dumps(dictionary)
+        with open(file_path, 'w') as fout:
+            fout.write(json_str)

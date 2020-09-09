@@ -18,5 +18,6 @@ from django.urls import path,include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('recommender/',include('recommender.urls')),
+    path('recommender/',include('recommender.urls'))
+    # path('app1/index',include('recommender.urls'))
 ]

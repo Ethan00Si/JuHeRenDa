@@ -80,5 +80,5 @@ def recommend_news(request, user_id):
         tmp['url'] = article.art_url
         articles_list.append(tmp)
     
-    #return JsonResponse(articles_list, safe=False)
-    return render(request,'recommender/layout.html',{'list':articles_list})
+    return JsonResponse(articles_list, safe=False)
+    #return render(request,'recommender/layout.html',{'list':articles_list})
