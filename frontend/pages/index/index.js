@@ -51,6 +51,26 @@ Page({
     console.log('fuck')
   },
   viewDetail: function(e){
+<<<<<<< HEAD
+    var util = require('../../utils/util.js'); //获取时间
+    var m=app.globalData.userInfo  //获取全局变量
+    //传回用户日志
+    let newsid = escape(e.currentTarget.dataset['newsid']);
+    wx.request({
+      url: 'http://127.0.0.1:8000/userlog/index', //仅为示例，并非真实的接口地址
+      data: {
+        user_id:m['openId'],
+        art_id:newsid,
+        behavior_time:util.formatTime(new Date())
+      },
+      header: {
+        'content-type': 'application/json' // 默认值
+      },
+      success (res) {
+        console.log(res.data)
+      }
+    })
+=======
     // var util = require('../../utils/util.js'); //获取时间
     // var m=app.globalData.userInfo  //获取全局变量
     // //传回用户日志
@@ -68,6 +88,7 @@ Page({
     //     console.log(res.data)
     //   }
     // })
+>>>>>>> daffccb881afdb33cae0694fcfd893e48d9f32da
 
     let newsurl = escape(e.currentTarget.dataset['newsurl']);
     wx.navigateTo({

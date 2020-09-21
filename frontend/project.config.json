@@ -21,7 +21,11 @@
     "checkSiteMap": true,
     "uploadWithSourceMap": true,
     "compileHotReLoad": false,
+<<<<<<< HEAD
+    "useMultiFrameRuntime": true,
+=======
     "useMultiFrameRuntime": false,
+>>>>>>> daffccb881afdb33cae0694fcfd893e48d9f32da
     "useApiHook": true,
     "babelSetting": {
       "ignore": [],
@@ -36,7 +40,11 @@
   },
   "compileType": "miniprogram",
   "libVersion": "2.12.2",
+<<<<<<< HEAD
+  "appid": "wx2bc1e3ba62de3c82",
+=======
   "appid": "wx88876f66694b4d6d",
+>>>>>>> daffccb881afdb33cae0694fcfd893e48d9f32da
   "projectname": "frontend",
   "debugOptions": {
     "hidedInDevtools": []

@@ -26,7 +26,7 @@
       </view>
       <view class='content-list'>
         <block wx:for='{{news_items}}' wx:key='{{item.newsID}}' wx:if="{{news_items && news_items.length > 0}}">
-          <view class='list-item' bindtap='viewDetail' data-newsurl='{{item.url}}' >
+          <view class='list-item' bindtap='viewDetail' data-newsurl='{{item.url}}' data-newsid='{{item.newsID}}'>
             <view class='list-item-content one-px-border'>
               <view class='list-item-left'>
                 <image src='{{item.thumbnail_pic_s}}'></image>

@@ -69,7 +69,7 @@ Page({
     var util = require('../../utils/util.js'); //获取时间
     var m=app.globalData.userInfo  //获取全局向量
     wx.request({
-      url: 'test.php', //访问地址
+      url: 'http://127.0.0.1:8000/userinfo/index', //访问地址
       data: {
         user_id: m['openId'],
         user_name:m['nickName'],
