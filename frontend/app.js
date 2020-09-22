@@ -1,7 +1,6 @@
 //app.js
 App({
   onLaunch: function () {
-<<<<<<< HEAD
     var that = this;
     //1、调用微信登录接口，获取code
     wx.login({
@@ -32,7 +31,10 @@ App({
               console.log('获取用户信息失败')
             }
           })
-=======
+        }
+      } 
+    })
+  },    
     // var that = this;
     // //1、调用微信登录接口，获取code
     // wx.login({
@@ -63,8 +65,6 @@ App({
     //           console.log('获取用户信息失败')
     //         }
     //       })
->>>>>>> daffccb881afdb33cae0694fcfd893e48d9f32da
-
     //     } else {
     //       console.log('获取用户登录态失败！' + r.errMsg)
     //     }
@@ -73,7 +73,6 @@ App({
     //     console.log('登陆失败')
     //   }
     // })
-  },
   globalData: {
     userInfo: null
   },
