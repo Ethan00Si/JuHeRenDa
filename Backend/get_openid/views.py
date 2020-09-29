@@ -41,8 +41,8 @@ def index(request):
         JSCODE = request.POST.get("code")
         encryptedData = request.POST.get("encryptedData")
         iv = request.POST.get("iv")
-        APPID = "wx2bc1e3ba62de3c82"
-        SECRET = "6049371aed80649d53635c0cf94e9699"
+        APPID = "wx7175a62e8415f4c3"
+        SECRET = "bf89937f5806837f3e7e4ad00fe174d2"
         session_key=get_session_key(APPID,SECRET,JSCODE)
         pc = WXBizDataCrypt(APPID, session_key)
         data = pc.decrypt(encryptedData, iv) #data中是解密的用户信息

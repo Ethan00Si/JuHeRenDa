@@ -6,6 +6,7 @@ App({
     wx.login({
       success: function (r) {
         var code = r.code;//登录凭证
+        console.log(code);
         if (code) {
           //2、调用获取用户信息接口
           wx.getUserInfo({

@@ -68,6 +68,7 @@ def recommend_news(request, user_id):
     """
     # ret_news_id 是要返回的新闻数据库中对应的id
     ret_news_id = refresh_news.refresh_news(user_id)
+    ret_news_id = [1,2,3,4,5,6,7,8,9,10]
 
     articles_list = list()
     for item in ret_news_id:

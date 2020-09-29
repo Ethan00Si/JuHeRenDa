@@ -1,1 +1,9 @@
 .vscode/settings.json
+Backend/recommender/CB/storage/._.DS_Store
+Backend/recommender/CB/storage/._already_views.json
+Backend/recommender/CB/storage/.DS_Store
+Backend/recommender/CB/storage/already_views.json
+Backend/recommender/CB/storage/IDF.npy
+Backend/recommender/CB/storage/profiles.npy
+Backend/recommender/CB/storage/tfidf.npy
+Backend/recommender/CB/storage/vocabulary.json

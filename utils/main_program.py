@@ -41,11 +41,12 @@ def main():
     # for path in file_path_list:
     #     getEntity_from_neo(path)
 
+
     '''
     将新闻添加到数据库中
     '''
     
-    #add_news(tmp_files)
+    add_news(tmp_files)
 
     '''
     切词
@@ -55,7 +56,7 @@ def main():
     '''
     训练tfidf
     '''
-    construct_matrix()
+    #construct_matrix()
 
 
 if __name__ == "__main__":
