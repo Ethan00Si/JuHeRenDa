@@ -18,11 +18,11 @@ Page({
     showCopyright: false,
     refreshing: false,
     news_items:[
-      { newsID:'1',title:'title_01', publish_date:'2020-08-26',source:'info',url:'http://info.ruc.edu.cn/notice_detail.php?id=2066'},
-      { newsID:'2',title:'title_02', publish_date:'2020-08-27',source:'econ',url:'http://info.ruc.edu.cn/notice_convert_detail.php?id=2067'},
-      { newsID:'3',title:'title_03', publish_date:'2020-08-28',source:'news',url:'http://info.ruc.edu.cn/news_convert_detail.php?id=1783'},
-      { newsID:'4',title:'title_04', publish_date:'2020-08-26',source:'law',url:'http://info.ruc.edu.cn/news_convert_detail.php?id=1778'},
-      { newsID:'5',title:'title_05', publish_date:'2020-08-16',source:'finance',url:'http://info.ruc.edu.cn/news_convert_detail.php?id=1779'}
+      { newsID:'1',title:[{content: 'title', isLight: 1}, {content: '_1', isLight: 0}], publish_date:'2020-08-26',source:'info',url:'http://info.ruc.edu.cn/notice_detail.php?id=2066'},
+      { newsID:'2',title:[{content: 'title', isLight: 1}, {content: '_2', isLight: 0}], publish_date:'2020-08-27',source:'econ',url:'http://info.ruc.edu.cn/notice_convert_detail.php?id=2067'},
+      { newsID:'3',title:[{content: 'title', isLight: 1}, {content: '_3', isLight: 0}], publish_date:'2020-08-28',source:'news',url:'http://info.ruc.edu.cn/news_convert_detail.php?id=1783'},
+      { newsID:'4',title:[{content: 'title', isLight: 1}, {content: '_4', isLight: 0}], publish_date:'2020-08-26',source:'law',url:'http://info.ruc.edu.cn/news_convert_detail.php?id=1778'},
+      { newsID:'5',title:[{content: 'title', isLight: 1}, {content: '_5', isLight: 0}], publish_date:'2020-08-16',source:'finance',url:'http://info.ruc.edu.cn/news_convert_detail.php?id=1779'}
     ]
   },
   onPullDownRefresh: function(){
@@ -136,4 +136,58 @@ Page({
 //       hasUserInfo: true
 //     })
 //   }
+
+  // 弹窗
+  powerDrawer: function (e) {
+    var currentStatu = e.currentTarget.dataset.statu;
+    this.util(currentStatu)
+  },
+  util: function(currentStatu){
+    /* 动画部分 */
+    // 第1步：创建动画实例 
+    var animation = wx.createAnimation({
+      duration: 200,  //动画时长
+      timingFunction: "linear", //线性
+      delay: 0  //0则不延迟
+    });
+    
+    // 第2步：这个动画实例赋给当前的动画实例
+    this.animation = animation;
+
+    // 第3步：执行第一组动画
+    animation.opacity(0).rotateX(-100).step();
+
+    // 第4步：导出动画对象赋给数据对象储存
+    this.setData({
+      animationData: animation.export()
+    })
+    
+    // 第5步：设置定时器到指定时候后，执行第二组动画
+    setTimeout(function () {
+      // 执行第二组动画
+      animation.opacity(1).rotateX(0).step();
+      // 给数据对象储存的第一组动画，更替为执行完第二组动画的动画对象
+      this.setData({
+        animationData: animation
+      })
+      
+      //关闭
+      if (currentStatu == "close") {
+        this.setData(
+          {
+            showModalStatus: false
+          }
+        );
+      }
+    }.bind(this), 200)
+
+    // 显示
+    if (currentStatu == "open") {
+      this.setData(
+        {
+          showModalStatus: true
+        }
+      );
+    }
+  }
  })
