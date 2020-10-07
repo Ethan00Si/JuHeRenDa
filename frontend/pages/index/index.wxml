@@ -26,13 +26,24 @@
       </view>
       <view class='content-list'>
         <block wx:for='{{news_items}}' wx:key='{{item.newsID}}' wx:if="{{news_items && news_items.length > 0}}">
-          <view class='list-item' bindtap='viewDetail' data-newsurl='{{item.url}}' data-newsid='{{item.newsID}}'>
+          <view class='list-item'>
             <view class='list-item-content one-px-border'>
-              <view class='list-item-left'>
+              <view class='list-item-left' bindtap='viewDetail' data-newsurl='{{item.url}}' data-newsid='{{item.newsID}}'>
                 <image src='{{item.thumbnail_pic_s}}'></image>
               </view>
               <view class='list-item-right'>
-                <view class='article-title'>{{item.title}}</view>
+                <view class='article-title'>
+                  <block wx:for='{{item.title}}' wx:for-item="title">
+                    <block wx:if='{{title.isLight == 1}}'>
+                      <!-- 这里可以传回title.content -->
+                      <text class='title-light' bindtap="powerDrawer" data-statu="open">{{title.content}}</text>
+                    </block>
+                    <block wx:else>
+                      <text>{{title.content}}</text>
+                    </block>
+                  </block>
+                <!-- {{item.title}} -->
+                </view>
                 <view class='article-source'>{{item.source}}</view>
                 <view class='article-editTime'>{{item.publish_date}}</view>
               </view>
@@ -43,4 +54,37 @@
     </view>
     
   </scroll-view-refresh-load>
+</view>
+
+<!--mask-->
+<view class="drawer_screen" bindtap="powerDrawer" data-statu="close" wx:if="{{showModalStatus}}"></view>
+<!--content-->
+<!--使用animation属性指定需要执行的动画-->
+<view animation="{{animationData}}" class="drawer_box" wx:if="{{showModalStatus}}">
+ 
+  <!--drawer content-->
+  <view class="drawer_title">弹窗标题</view>
+  <view class="drawer_content">
+    <view class="top grid">
+      <label class="title col-0">标题</label>
+      <input class="input_base input_h30 col-1" name="rName" value="{{news_items[0].title}}"></input>
+    </view>
+    <view class="top grid">
+      <label class="title col-0">标题</label>
+      <input class="input_base input_h30 col-1" name="mobile" value="110"></input>
+    </view>
+    <view class="top grid">
+      <label class="title col-0">标题</label>
+      <input class="input_base input_h30 col-1" name="phone" value="{{news_items[0].publish_date}}"></input>
+    </view>
+    <view class="top grid">
+      <label class="title col-0">标题</label>
+      <input class="input_base input_h30 col-1" name="Email" value="{{news_items[0].source}}"></input>
+    </view>
+    <view class="top bottom grid">
+      <label class="title col-0">备注</label>
+      <input class="input_base input_h30 col-1" name="bz"></input>
+    </view>
+  </view>
+  <view class="btn_ok" bindtap="powerDrawer" data-statu="close">确定</view>
 </view>
