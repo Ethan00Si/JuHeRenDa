@@ -19,11 +19,12 @@ def insert_to_article(cursor, db, news_list):
                 content = ''
             time = row['datetime'].replace('-', '')+'000000'
 
-            #实体的代码
+            # 实体的代码
             entity_id = str(row['entity_id'])
             entity_idx = str(row['entity_idx'])
             relation_id = str(row['relation_id'])
 
+            # 处理空值
             if entity_id == 'nan':
                 entity_id = ''
             if entity_idx == 'nan':

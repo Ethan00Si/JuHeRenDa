@@ -5,6 +5,9 @@ from .models import Article,UserLog,UserFile,Tfidf
 from .CB import refresh_news
 from datetime import datetime
 import numpy
+from py2neo import Graph,Node,Relationship,Subgraph
+
+#graph = Graph('bolt://localhost:7687',username='neo4j',password='123456')
 
 # Create your views here.
 def recommend(request):
@@ -13,6 +16,36 @@ def recommend(request):
     '''
     data = numpy.random.randn(100,100,100,100)
     return render(request,'recommender/layout.html',{'data':data})
+
+def entity_yield(article):
+    entities = []
+    # if not article.entity_id:
+    #     print('soga')
+    #     return
+
+    for eid in article.entity_id.split(','):
+        node = graph.nodes.match(id=int(eid)).first()
+        
+        # 删除id
+        del node['id']
+        entities.append(node)
+    
+    pre_end = 0
+    title = []
+    _title = article.art_title
+    for eidx in article.entity_idx.split(','):
+        span = eidx.split(':')
+        start = int(span[0])
+        end = int(span[1])
+
+        title.append({'content':_title[pre_end:start],'isLight':0})
+        title.append({'content':_title[start:end],'isLight':1})
+        pre_end = end
+    title.append({'content':_title[pre_end:],'isLight':0})
+
+    article.entities = entities
+    article.art_title = title
+
 
 def detail(request, user_id):
     
@@ -38,6 +71,8 @@ def detail(request, user_id):
     # 支持各种sql语句，AS什么的，这里同样查找source为ai的新闻集合，但限制了10个返回值，不会查完整个数据库
     articles = Article.objects.raw('SELECT * FROM article WHERE art_source = %s LIMIT 10',['ai.ruc.edu.cn'])
     
+    entity_yield(article)
+
     # 通过单词查找指定的Tfidf矩阵，这里忘记了tfidf的格式，意思是这个意思
     # 因为数据库中还没存tfidf，所以查询不到会报错
     # word = 'test'
@@ -47,7 +82,7 @@ def detail(request, user_id):
     # 因为数据库中还没有用户数据，所以查询不到会报错
     # users = UserFile.objects.filter(user_create_time__lte = timezone.localtime())
 
-
+    
     # 将值传到前端
     context = {
         'article':article,

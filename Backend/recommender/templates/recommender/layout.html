@@ -1,6 +1,7 @@
 <h2>correspond to the specific art_id queried:</h2>
 <h1>art_id（url中携带的信息）：<br>{{article.art_id}}</h1>
 <h1>art_title（id为{{article.art_id}}的新闻的标题）：<br>{{article.art_title}}</h1>
+<h2>art_entities（标题中的实体）:<br>{{article.entities}}</h2>
 <br>
 <br>
 <h2>correspond to the set of article queried:</h2>
@@ -9,11 +10,3 @@
 <h4>{{item.art_url}}</h2>
 {% endfor %}
 <br>
-
-<h2>article_list:</h2>
-{% for article in list %}
-<h3>{{article.art_title}}</h3>
-{% endfor %}
-
-<h2>data:</h2>
-{{data}}

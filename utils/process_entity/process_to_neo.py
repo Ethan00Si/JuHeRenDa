@@ -170,6 +170,7 @@ def mergeDict():
         g.write(item+'\n')
     g.close()
 
+# 调用这个函数
 def process():
     processTeachers()
     getLabs()
@@ -230,7 +231,6 @@ def create_teacher_nodes(json_path='../../data/teachers'):
                         try:
                             for position in item['position']:
                                 if position:
-                                #major = Node('Major',var=item['major'])
                                     posNode = graph.nodes.match('Position',var=position).first()
                                     if posNode:
                                         r = Relationship(teacher,'position_is',posNode,id=-2)
@@ -354,6 +354,7 @@ def create_lab_nodes(id_start,entity2id,json_path=r"../../data/词典/labs"):
                             print("lab %s has no members" % item['lab'])
     return id_node,entity2id
 
+# 将节点加入Neo
 def create_graph(path='../../data/teachers'):
     _id,_entity2id = create_teacher_nodes(path)
     _id,_entity2id = create_lab_nodes(_id,_entity2id)
@@ -362,8 +363,14 @@ def create_graph(path='../../data/teachers'):
     f.write(line)
     f.close()
 
-def getEntity_from_neo(path):
+    # id2entity = dict(zip(_entity2id.values(),_entity2id.keys()))
+    # line = json.dumps(_id2en,ensure_ascii=False)
+    # f = open('entity2id.json','w',encoding='utf-8')
+    # f.write(line)
+    # f.close()
 
+# 处理新闻标题等
+def getEntity_from_neo(path):
     data = pandas.read_csv(path,encoding='utf-8')
     #data['entity_id'] = ''
     
@@ -379,7 +386,6 @@ def getEntity_from_neo(path):
 
     for line in names:
         name_list.append(line.strip())
-
 
     entity_ids = []
     entity_idxs = []
