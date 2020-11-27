@@ -92,7 +92,7 @@ def insert_to_article(cursor,db):
 db = pymysql.connect(host='localhost',
                              port=3306,
                              user='root',      # 数据库IP、用户名和密码
-                             passwd='123456',
+                             passwd='',
                              charset='utf8',
                              database='Dachuang' # 数据库的名字 需要先创建才能连接
 )
@@ -118,5 +118,6 @@ cursor.execute("SET character_set_connection = utf8mb4")
 
 
 # 第一次使用的时候先创建tables，再去insert
-construct_tables(cursor)
-#insert_to_article(cursor,db)
+# 不需要创建表
+# construct_tables(cursor)
+insert_to_article(cursor,db)

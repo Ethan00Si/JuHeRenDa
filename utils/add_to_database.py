@@ -1,7 +1,6 @@
 import mysql.connector
 import pandas as pd
 
-
 # 向article里面插入新闻
 def insert_to_article(cursor, db, news_list):
 
@@ -35,12 +34,9 @@ def insert_to_article(cursor, db, news_list):
             #添加新的三列
             values = (source, url, title, content, art_type, time,entity_id,entity_idx,relation_id)
             sql = 'INSERT INTO article (art_source, art_url, art_title, art_content, art_type, art_time, entity_id, entity_idx, relation_id) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)'
-            # try:
+
             cursor.execute(sql,  values)
             db.commit()
-            # except:
-            #     print(values)
-            #     exit(0)
 
 
 def add_news(file_list):
@@ -50,20 +46,11 @@ def add_news(file_list):
     db = mysql.connector.connect(host='localhost',
                                  port=3306,
                                  user='root',      # 数据库IP、用户名和密码
-                                 passwd='123456',
+                                 passwd='',
                                  charset='utf8',
                                  database='dachuang'  # 数据库的名字 需要先创建才能连接
                                  )
 
-    # db = mysql.connector.connect(
-    #         host='183.174.228.33',
-    #         port = 8282,
-    #         user='root',
-    #         passwd='123456',
-    #         database ='ructoutiao',
-    #         charset='utf8'
-    # 使用 cursor() 方法创建一个游标对象 cursor
-    # )
     cursor = db.cursor()
 
     cursor.execute("SET NAMES utf8mb4")  # 使用utf8mb4 部分汉字以及所有emoji都是这个

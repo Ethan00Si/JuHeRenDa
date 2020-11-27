@@ -16,7 +16,7 @@ def main():
         files = tmp['files']
     
     tmp_files = list()
-    file_path_list = list() #相对于大床路径的列表
+    file_path_list = list() #相对于大创路径的列表
     for file in files:
         file_path = file['path']
         file_path_list.append(file_path)
@@ -32,15 +32,14 @@ def main():
         删除奇怪的字符 ' '  '\r'  '\n'
         将'nan'  'NULL'替换为空（这是默认情况）（如果你的数据还有什么特殊的字符需要处理，请加入到配置文件中）
         '''
-        #preprocess.delete(file_path, config_file["special_characters"])
-        #preprocess.modify_time(file_path,config_file['date_position'],config_file['date_format'] )
+        # preprocess.delete(file_path, config_file["special_characters"])
+        # preprocess.modify_time(file_path,config_file['date_position'],config_file['date_format'] )
 
     """
     简易版实体识别，对比知识库实现
     """
-    # for path in file_path_list:
-    #     getEntity_from_neo(path)
-
+    for path in file_path_list:
+        getEntity_from_neo(path)
 
     '''
     将新闻添加到数据库中
