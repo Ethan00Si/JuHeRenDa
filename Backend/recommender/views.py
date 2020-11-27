@@ -23,24 +23,24 @@ def entity_yield(article):
     #     print('soga')
     #     return
 
-    for eid in article.entity_id.split(','):
-        node = graph.nodes.match(id=int(eid)).first()
+    # for eid in article.entity_id.split(','):
+    #     node = graph.nodes.match(id=int(eid)).first()
         
-        # 删除id
-        del node['id']
-        entities.append(node)
+    #     # 删除id
+    #     del node['id']
+    #     entities.append(node)
     
     pre_end = 0
     title = []
     _title = article.art_title
-    for eidx in article.entity_idx.split(','):
-        span = eidx.split(':')
-        start = int(span[0])
-        end = int(span[1])
+    # for eidx in article.entity_idx.split(','):
+    #     span = eidx.split(':')
+    #     start = int(span[0])
+    #     end = int(span[1])
 
-        title.append({'content':_title[pre_end:start],'isLight':0})
-        title.append({'content':_title[start:end],'isLight':1})
-        pre_end = end
+    #     title.append({'content':_title[pre_end:start],'isLight':0})
+    #     title.append({'content':_title[start:end],'isLight':1})
+    #     pre_end = end
     title.append({'content':_title[pre_end:],'isLight':0})
 
     article.entities = entities
@@ -108,6 +108,7 @@ def recommend_news(request, user_id):
     articles_list = list()
     for item in ret_news_id:
         article = Article.objects.raw('SELECT * FROM article WHERE art_id = %s',[item])[0]
+        entity_yield(article)
         tmp = dict()
         tmp['newsID'] = article.art_id
         tmp['title'] = article.art_title
@@ -115,6 +116,7 @@ def recommend_news(request, user_id):
         tmp['source'] = article.art_source
         tmp['url'] = article.art_url
         articles_list.append(tmp)
+        # print(tmp)
     
     return JsonResponse(articles_list, safe=False)
     #return render(request,'recommender/layout.html',{'list':articles_list})

@@ -48,7 +48,7 @@ Page({
       success: (res) => {},
     })
     // this.onLoad()
-    console.log('fuck')
+    console.log('log_time')
   },
   viewDetail: function(e){
     var util = require('../../utils/util.js'); //获取时间
