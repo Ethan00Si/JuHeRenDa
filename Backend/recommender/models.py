@@ -16,7 +16,7 @@ class Article(models.Model):
     relation_id = models.CharField(max_length=255, blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'article'
 
 
@@ -27,7 +27,7 @@ class Tfidf(models.Model):
     word_col = models.PositiveIntegerField(unique=True, blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'tfidf'
 
 
@@ -42,7 +42,7 @@ class UserFile(models.Model):
     user_legal = models.IntegerField(blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'user_file'
 
 
@@ -54,5 +54,5 @@ class UserLog(models.Model):
     art_id = models.PositiveIntegerField(blank=True, null=True)
 
     class Meta:
-        managed = False
+        managed = True
         db_table = 'user_log'

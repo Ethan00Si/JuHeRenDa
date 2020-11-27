@@ -371,7 +371,12 @@ def create_graph(path='../../data/teachers'):
 
 # 处理新闻标题等
 def getEntity_from_neo(path):
+    """
+    read csv from given path, extract entities from news and append 3 columns to the origin csv file
+    """
     data = pandas.read_csv(path,encoding='utf-8')
+    if hasattr(data,'entity_id'):
+        return
     #data['entity_id'] = ''
     
     titles = data.title

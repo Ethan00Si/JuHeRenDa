@@ -60,4 +60,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    #getEntity_from_neo('data/news_each_school/ai_output.csv')
