@@ -89,7 +89,7 @@ DATABASES = {
         'USER':'root',
 
         # PASSWORD for mysql
-        'PASSWORD':'123456',
+        'PASSWORD':'',
 
         # NAME of DATABASE
         'NAME':'dachuang',
