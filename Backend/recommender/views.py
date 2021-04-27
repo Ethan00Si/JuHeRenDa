@@ -5,7 +5,7 @@ from .models import Article,UserLog,UserFile,Tfidf
 from .CB import refresh_news
 from datetime import datetime
 import numpy
-from py2neo import Graph,Node,Relationship,Subgraph
+# from py2neo import Graph,Node,Relationship,Subgraph
 
 #graph = Graph('bolt://localhost:7687',username='neo4j',password='123456')
 

@@ -8,3 +8,8 @@ Backend/recommender/CB/storage/profiles.npy
 Backend/recommender/CB/storage/tfidf.npy
 Backend/recommender/CB/storage/vocabulary.json
 *.pyc
+
+# mac os git ignore
+.DS_Store
+.AppleDouble
+.LSOverride
