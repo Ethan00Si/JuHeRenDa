@@ -36,7 +36,7 @@
                   <block wx:for='{{item.title}}' wx:for-item="title">
                     <block wx:if='{{title.isLight == 1}}'>
                       <!-- 这里可以传回title.content -->
-                      <text class='title-light' bindtap="powerDrawer" data-statu="open">{{title.content}}</text>
+                      <text class='title-light' bindtap="powerDrawer" data-statu="open" data-entity='{{title.entity}}'>{{title.content}}</text>
                     </block>
                     <block wx:else>
                       <text>{{title.content}}</text>
@@ -57,34 +57,50 @@
 </view>
 
 <!--mask-->
-<view class="drawer_screen" bindtap="powerDrawer" data-statu="close" wx:if="{{showModalStatus}}"></view>
+<view class="drawer_screen" bindtap="powerDrawer" data-statu="close" data-entity='empty' wx:if="{{showModalStatus}}"></view>
 <!--content-->
 <!--使用animation属性指定需要执行的动画-->
 <view animation="{{animationData}}" class="drawer_box" wx:if="{{showModalStatus}}">
  
   <!--drawer content-->
-  <view class="drawer_title">弹窗标题</view>
+  <view class="drawer_title">教师信息</view>
   <view class="drawer_content">
     <view class="top grid">
-      <label class="title col-0">标题</label>
-      <input class="input_base input_h30 col-1" name="rName" value="{{news_items[0].title}}"></input>
+      <label class="title col-0">名字</label>
+      <view class="input_base input_h30 col-1" name="rName" >{{entity_file['var']}}</view>
     </view>
     <view class="top grid">
-      <label class="title col-0">标题</label>
-      <input class="input_base input_h30 col-1" name="mobile" value="110"></input>
+      <label class="title col-0">学院</label>
+      <view class="input_base input_h30 col-1" name="department">{{entity_file['department']}}</view>
+    </view>
+    <view class="top grid" selectable="true" scroll-y="true">
+      <label class="title col-0">研究领域</label>
+      <view class="input_base input_h30 col-1" name="major" disabled='true' style="overflow-y:auto;overflow-x:scroll;" selectable="true">{{entity_file['major']}}</view>
     </view>
     <view class="top grid">
-      <label class="title col-0">标题</label>
-      <input class="input_base input_h30 col-1" name="phone" value="{{news_items[0].publish_date}}"></input>
+      <label class="title col-0">职位</label>
+      <view class="input_base input_h30 col-1" name="position" >{{entity_file['position']}}</view>
     </view>
     <view class="top grid">
-      <label class="title col-0">标题</label>
-      <input class="input_base input_h30 col-1" name="Email" value="{{news_items[0].source}}"></input>
+      <label class="title col-0">电话</label>
+      <view class="input_base input_h30 col-1" name="phone" >{{entity_file['phone']}}</view>
     </view>
-    <view class="top bottom grid">
-      <label class="title col-0">备注</label>
-      <input class="input_base input_h30 col-1" name="bz"></input>
+    <view class="top grid" selectable="true" scroll-y="true">
+      <label class="title col-0" >个人主页</label>
+      <view class="input_base input_h30 col-1" name="Email" disabled='true' style="overflow-y:auto;overflow-x:scroll;" selectable="true" bindtap='viewUrl' data-newsurl="{{entity_file['homepage']}}" >
+        {{entity_file['homepage']}}
+      </view>
+    </view>
+    <view class="top grid" selectable="true" scroll-y="true">
+      <label class="title col-0" >学院主页</label>
+      <view class="input_base input_h30 col-1" name="page" disabled='true' style="overflow-y:auto;overflow-x:scroll;" selectable="true" bindtap='viewUrl' data-newsurl="{{entity_file['url']}}">
+        {{entity_file['url']}}
+      </view>
+    </view>
+    <view class="top bottom grid" selectable="true" scroll-y="true">
+      <label class="title col-0">邮箱</label>
+      <view class="input_base input_h30 col-1" name="email" disabled='true' style="overflow-y:auto;overflow-x:scroll;" selectable="true" >{{entity_file['email']}}</view>
     </view>
   </view>
-  <view class="btn_ok" bindtap="powerDrawer" data-statu="close">确定</view>
+  <view class="btn_ok" bindtap="powerDrawer" data-statu="close" data-entity='empty'>确定</view>
 </view>

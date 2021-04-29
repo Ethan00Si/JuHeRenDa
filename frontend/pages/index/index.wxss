@@ -207,11 +207,15 @@ page {
 	display: inline-block;
 	font: 300 28rpx/30px "microsoft yahei";
 }
- 
+/** 自定义其他点击态样式类 **/
+.other-navigator-hover {
+  color:red;
+}
 .input_base {
 	border: 2rpx solid #ccc;
 	padding-left: 10rpx;
 	margin-right: 50rpx;
+  display: block;
 }
 .input_h30{
 	height: 30px;

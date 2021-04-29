@@ -18,8 +18,8 @@ Page({
     showCopyright: false,
     refreshing: false,
     news_items:[
-      { newsID:'1',title:[{content: 'title', isLight: 1}, {content: '_1', isLight: 0}], publish_date:'2020-08-26',source:'info',url:'http://info.ruc.edu.cn/notice_detail.php?id=2066'},
-      { newsID:'2',title:[{content: 'title', isLight: 1}, {content: '_2', isLight: 0}], publish_date:'2020-08-27',source:'econ',url:'http://info.ruc.edu.cn/notice_convert_detail.php?id=2067'},
+      { newsID:'1',title:[{content: 'title', isLight: 1, entity: {'major': ['机器学习', '信息检索', '数据管理', '数据挖掘'], 'phone': '010-85203315', 'var': '文继荣', 'position': ['教授'], 'department': '信息学院', 'email': 'jirong.wen@gmail.com, jrwen@ruc.edu.cn', 'url': 'http://info.ruc.edu.cn/academic_professor.php?teacher_id=64','homepage':'https://www.baidu.com'} }, {content: '_1', isLight: 0}], publish_date:'2020-08-26',source:'info',url:'http://info.ruc.edu.cn/notice_detail.php?id=2066'},
+      { newsID:'2',title:[{content: 'title', isLight: 1, entity: {'major': ['数据管理', '数据挖掘'], 'phone': '0203315', 'var': '文荣', 'position': ['助理教授'], 'department': '信息学院', 'email': 'jirong.wen@gmail.com, jrwen@ruc.edu.cn', 'url': 'http://info.ruc.edu.cn/academic_professor.php?teacher_id=64','homepage':'www.baidu.com'} }, {content: '_2', isLight: 0}], publish_date:'2020-08-27',source:'econ',url:'http://info.ruc.edu.cn/notice_convert_detail.php?id=2067'},
       { newsID:'3',title:[{content: 'title', isLight: 1}, {content: '_3', isLight: 0}], publish_date:'2020-08-28',source:'news',url:'http://info.ruc.edu.cn/news_convert_detail.php?id=1783'},
       { newsID:'4',title:[{content: 'title', isLight: 1}, {content: '_4', isLight: 0}], publish_date:'2020-08-26',source:'law',url:'http://info.ruc.edu.cn/news_convert_detail.php?id=1778'},
       { newsID:'5',title:[{content: 'title', isLight: 1}, {content: '_5', isLight: 0}], publish_date:'2020-08-16',source:'finance',url:'http://info.ruc.edu.cn/news_convert_detail.php?id=1779'}
@@ -100,6 +100,15 @@ Page({
 //       url: '../logs/logs'
 //     })
 //   },
+  viewUrl: function(e){
+    let newsurl = escape(e.currentTarget.dataset['newsurl']);
+    wx.navigateTo({
+      url: '/pages/out/out?id='+newsurl ,
+      success: function(res) {},
+      fail: function(res) {},
+      complete: function(res) {}
+    })
+  },
   onLoad: function () {
     if (app.globalData.userInfo) {
       this.setData({
@@ -140,9 +149,10 @@ Page({
   // 弹窗
   powerDrawer: function (e) {
     var currentStatu = e.currentTarget.dataset.statu;
-    this.util(currentStatu)
+    var entity = e.currentTarget.dataset.entity;
+    this.util(currentStatu, entity)
   },
-  util: function(currentStatu){
+  util: function(currentStatu, entity){
     /* 动画部分 */
     // 第1步：创建动画实例 
     var animation = wx.createAnimation({
@@ -185,7 +195,8 @@ Page({
     if (currentStatu == "open") {
       this.setData(
         {
-          showModalStatus: true
+          showModalStatus: true,
+          entity_file: entity
         }
       );
     }
