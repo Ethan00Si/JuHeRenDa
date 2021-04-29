@@ -4,6 +4,7 @@ import pandas
 import json
 import os
 import numpy
+from tqdm import tqdm
 from py2neo import Graph,Node,Relationship
 
 # 一次性完成教师信息的读取、处理、写入新文件；
@@ -12,12 +13,12 @@ def processTeachers(path='../../crawlers/teacher_each_school/crawler'):
 
     positions = []
     position_txt = open('../../data/词典/positions.txt','w',encoding='utf-8')
-    
+
     for dir_path,dir_name,file_list in os.walk(path):
         for filename in file_list:
             if os.path.splitext(filename)[1]=='.json':
                 with open('/'.join([dir_path,filename]),'r',encoding='utf-8') as f:
-                    
+
                     g = open('../../data/teachers/%s' % filename,'w',encoding='utf-8')
                     major_txt = open('../../data/词典/majors/'+re.search('teachers_(.*).json',filename).group(1)+'_majors.txt','w',encoding='utf-8')
                     name_txt = open('../../data/词典/names/{}.txt'.format(re.search('teachers_(.*).json',filename).group(1)),'w',encoding='utf-8')
@@ -42,7 +43,7 @@ def processTeachers(path='../../crawlers/teacher_each_school/crawler'):
                                     teacher['major'] = major_pro
                         except KeyError:
                             pass
-                        
+
                         position_pro = set()
                         #title_pro = []
                         try:
@@ -63,23 +64,23 @@ def processTeachers(path='../../crawlers/teacher_each_school/crawler'):
                             del teacher['title']
                         except KeyError:
                             pass
-                        
+
                         try:
                             position = teacher['position']
                             if position:
                                 pos_list = re.split('，|、| |/|。|；',position)
-                                
+
                                 for pos in pos_list:
                                     pos = re.sub(' |\s|[a-zA-Z:\?/男无\.=0-9&_]','',pos)
                                     if pos:
                                         position_pro.add(pos)
-                                        
+
                                         # 加入所有职称的集合
                                         if pos not in positions:
                                             positions.append(pos)
                                             position_txt.write(pos+'\n')
-                                            
-                                
+
+
                         except KeyError:
                             pass
 
@@ -97,18 +98,18 @@ def processTeachers(path='../../crawlers/teacher_each_school/crawler'):
                         for prop in list(teacher.keys()):
                             if not teacher[prop]:
                                 del teacher[prop]
-                        
+
                         line = json.dumps(teacher,ensure_ascii=False)+'\n'
                         g.write(line)
 
                         name = teacher['name']
                         name_txt.write(name+'\n')
 
-                    
+
                     g.close()
                     major_txt.close()
                     name_txt.close()
-                    
+
     position_txt.close()
     return
 
@@ -178,10 +179,10 @@ def process():
     mergeDict()
 
 def create_teacher_nodes(json_path='../../data/teachers'):
-    
+
     entity2id={}
 
-    graph = Graph('bolt://localhost:7687',username='neo4j',password='123456')
+    graph = Graph('bolt://localhost:7687',username='neo4j',password='123')
     id_node = 0
     #id_relation = -1
 
@@ -194,13 +195,13 @@ def create_teacher_nodes(json_path='../../data/teachers'):
 
                     for item in jsonlines.Reader(f):
                         teacher = Node('Teacher',var=item['name'],id=id_node)
-                        
+
                         entity2id[item['name']] = id_node
-                        
+
                         for prop in list(item.keys()):
                             if prop != 'name':
                                 teacher[prop] = item[prop]
-                        
+
                         teachers.append(teacher)
                         graph.create(teacher)
                         id_node += 1
@@ -208,7 +209,7 @@ def create_teacher_nodes(json_path='../../data/teachers'):
                         try:
                             for major in item['major']:
                                 if major:
-                                    
+
                                     majorNode = graph.nodes.match('Major',var=major).first()
                                     if majorNode:
                                         r = Relationship(teacher,'major_in',majorNode,id=-1)
@@ -216,17 +217,17 @@ def create_teacher_nodes(json_path='../../data/teachers'):
                                     else:
                                         majorNode = Node('Major',var=major,id=id_node)
                                         r = Relationship(teacher,'major_in',majorNode,id=-1)
-                                        
+
                                         if major not in entity2id:
                                             entity2id[major] = id_node
-                                        
+
                                         graph.create(r)
                                         id_node += 1
-                        
+
                         except:
-                            
+
                             print('%s have no major' % item['name'])
-                        
+
                         #职位
                         try:
                             for position in item['position']:
@@ -241,9 +242,9 @@ def create_teacher_nodes(json_path='../../data/teachers'):
                                         graph.create(r)
                                         id_node += 1
                         except:
-                            
+
                             print('%s have no position' % item['name'])
-                        
+
                         #联系方式
                         #if item['email'] or item['phone'] or item['fax'] or item['office'] or item['homepage']:
                         #    contactNode = Node('Contact')
@@ -263,9 +264,9 @@ def create_teacher_nodes(json_path='../../data/teachers'):
                                         posNode = Node('Email',var=email)
                                         r = Relationship(teacher,'email_is',posNode)
                                         graph.create(r)
-                        
+
                         except:
-                            
+
                             print('%s have no email' % item['name'])
 
                         #办公室
@@ -281,11 +282,11 @@ def create_teacher_nodes(json_path='../../data/teachers'):
                                         posNode = Node('Office',var=office)
                                         r = Relationship(teacher,'office_is',posNode)
                                         graph.create(r)
-                        
+
                         except:
-                            
+
                             print('%s have no office' % item['name'])
-                        
+
                         #电话
                         try:
                             for phone in item['phone']:
@@ -299,13 +300,13 @@ def create_teacher_nodes(json_path='../../data/teachers'):
                                         posNode = Node('Phone',var=phone)
                                         r = Relationship(teacher,'phone_is',posNode)
                                         graph.create(r)
-                        
+
                         except:
                             print('%s have no phone' % item['name'])
                         '''
                     department = teachers[0]['department']
                     departNode = Node('Department',var=department,id=id_node)
-                    
+
                     entity2id[department] = id_node
 
                     graph.create(departNode)
@@ -317,8 +318,8 @@ def create_teacher_nodes(json_path='../../data/teachers'):
     return id_node,entity2id
 
 def create_lab_nodes(id_start,entity2id,json_path=r"../../data/词典/labs"):
-    
-    graph = Graph('bolt://localhost:7687',username='neo4j',password='123456')
+
+    graph = Graph('bolt://localhost:7687',username='neo4j',password='123')
     id_node = id_start
     #id_relation = -1
 
@@ -328,7 +329,7 @@ def create_lab_nodes(id_start,entity2id,json_path=r"../../data/词典/labs"):
                 with open('/'.join([dir_path,filename]),'r',encoding='utf-8') as f:
                     for item in jsonlines.Reader(f):
                         lab = Node('Lab',var=item['lab'],id=id_node)
-                        
+
                         entity2id[item['lab']] = id_node
 
                         try:
@@ -343,7 +344,7 @@ def create_lab_nodes(id_start,entity2id,json_path=r"../../data/词典/labs"):
                             for member in item['members']:
                                 if member:
                                     #print(major)
-                                
+
                                     memberNode = graph.nodes.match('Teacher',var=member,department=item['department']).first()
                                     if memberNode:
                                         r = Relationship(memberNode,'work_in',lab,id=-5)
@@ -378,7 +379,7 @@ def getEntity_from_neo(path):
     if hasattr(data,'entity_id'):
         return
     #data['entity_id'] = ''
-    
+
     titles = data.title
     names = open('data/词典/names/names.txt','r',encoding='utf-8')
     #majors = open('/data/词典/names/majors.txt','r',encoding='utf-8')
@@ -386,17 +387,16 @@ def getEntity_from_neo(path):
 
     entity2id = json.loads(f.read(),encoding='utf-8')
     name_list = []
-    
+
     f.close()
 
-    for line in names:
-        name_list.append(line.strip())
+    name_list = [k for k in entity2id.keys()]
 
     entity_ids = []
     entity_idxs = []
     relation_ids = []
-    
-    for index,title in enumerate(titles):
+
+    for index,title in enumerate(tqdm(titles)):
         entity_id_list = []
         entity_idx_list = []
         for name in name_list:
@@ -404,14 +404,11 @@ def getEntity_from_neo(path):
             if match:
                 entity = match.group()
                 #只加了信息和经济两个学院的老师，所以肯定有在字典里但不在entity2id里的内容
-                try:
-                    entity_id = entity2id[entity]
-                    entity_idx = match.span()
-                    entity_id_list.append(str(entity_id))
-                    entity_idx_list.append(str(entity_idx[0])+':'+str(entity_idx[1]))
-                except:
-                    pass
-        
+                entity_id = entity2id[entity]
+                entity_idx = match.span()
+                entity_id_list.append(str(entity_id))
+                entity_idx_list.append(str(entity_idx[0])+':'+str(entity_idx[1]))
+
         if entity_id_list:
             #print(entity_id_list)
             #x = '%s' % ' '.join(entity_id_list)
@@ -423,7 +420,7 @@ def getEntity_from_neo(path):
             entity_ids.append(numpy.nan)
             entity_idxs.append(numpy.nan)
             relation_ids.append(numpy.nan)
-    
+
     data['entity_id'] = entity_ids
     data['entity_idx'] = entity_idxs
     data['relation_id'] = relation_ids

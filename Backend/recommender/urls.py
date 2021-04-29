@@ -7,5 +7,4 @@ urlpatterns = [
     path('',views.recommend,name='recommend'),
     #path('<int:user_id>/', views.detail, name='detail')
     path('<int:user_id>/', views.recommend_news, name='recommend_news'),
-    path('shit/<int:user_id>/',views.detail,name='detail')
 ]
