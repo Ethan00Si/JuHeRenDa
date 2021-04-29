@@ -5,7 +5,7 @@ from .models import Article,UserLog,UserFile,Tfidf
 from .CB import refresh_news
 from datetime import datetime
 import numpy
-# from py2neo import Graph,Node,Relationship,Subgraph
+from py2neo import Graph,Node,Relationship,Subgraph
 
 graph = Graph('bolt://localhost:7687',username='neo4j',password='123')
 
@@ -32,20 +32,24 @@ def entity_yield(article):
         node = graph.nodes.match(id=int(eid)).first()
         # 删除id
         del node['id']
-        entities.append(node)
+        entities.append(dict(node))
 
-    for eidx in article.entity_idx.split(','):
+    for i,eidx in enumerate(article.entity_idx.split(',')):
         span = eidx.split(':')
         start = int(span[0])
         end = int(span[1])
 
         title.append({'content':_title[pre_end:start],'isLight':0})
-        title.append({'content':_title[start:end],'isLight':1})
+        title.append({'content':_title[start:end],'isLight':1, 'entity':entities[i]})
         pre_end = end
     title.append({'content':_title[pre_end:],'isLight':0})
-
-    article.entities = entities
     article.art_title = title
+    print(title)
+    """ example
+    [{'content': '', 'isLight': 0},
+     {'content': '文继荣', 'isLight': 1, 'entity': {'major': ['机器学习', '信息检索', '数据管理', '数据挖掘'], 'phone': '010-85203315', 'var': '文继荣', 'position': ['教授'], 'department': '信息学院', 'email': 'jirong.wen@gmail.com, jrwen@ruc.edu.cn', 'url': 'http://info.ruc.edu.cn/academic_professor.php?teacher_id=64'}},
+     {'content': '教授：数据与智能驱动的社会科学研究', 'isLight': 0}]
+    """
 
 
 def recommend_news(request, user_id):
@@ -68,8 +72,6 @@ def recommend_news(request, user_id):
         tmp['publish_date'] = datetime.date(article.art_time)
         tmp['source'] = article.art_source
         tmp['url'] = article.art_url
-        tmp['entity'] = article.entities
-        print(article.entities)
         articles_list.append(tmp)
 
     return JsonResponse(articles_list, safe=False)
