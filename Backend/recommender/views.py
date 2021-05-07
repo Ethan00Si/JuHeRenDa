@@ -57,8 +57,8 @@ def recommend_news(request, user_id):
     """
     # ret_news_id 是要返回的新闻数据库中对应的id
     # ret_news_id = [int(int(i)/100) for i in refresh_news.refresh_news(user_id)]
-    # ret_news_id = refresh_news.refresh_news(user_id)
-    ret_news_id = numpy.random.randint(low=4857, high=4857+4859, size=5)
+    ret_news_id = refresh_news.refresh_news(user_id)
+    # ret_news_id = numpy.random.randint(low=4857, high=4857+4859, size=5)
     print(ret_news_id)
     # ret_news_id = [1,5,10,20,60,100,120,200,129,32]
     articles_list = list()

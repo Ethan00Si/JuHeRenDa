@@ -84,7 +84,7 @@ WSGI_APPLICATION = 'DaChuang.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        
+
         # USER for mysql
         'USER':'root',
 
@@ -116,7 +116,7 @@ CACHES = {
 CACHES = {
     'default': {
         'BACKEND': 'django.core.cache.backends.db.DatabaseCache',
-        
+
         # LOCATION为一个不存在数据库中的数据表
         'LOCATION': 'my_cache_table',
     }
@@ -128,7 +128,7 @@ CACHES = {
 CACHES = {
     'default': {
         'BACKEND': 'django.core.cache.backends.filebased.FileBasedCache',
-    
+
         # LOCATION为数据缓存的绝对路径，此路径必须存在且可读可写，最后加不加斜杠无所谓
         'LOCATION': 'd:/Data/cache',
 
@@ -144,7 +144,7 @@ CACHES = {
             'CULL_FREQUENCY': 3,
             # 每个cache后端都会有独特的设置，这些我觉得不重要
         }
-        
+
     }
 }
 
@@ -154,7 +154,7 @@ CACHES = {
 CACHES = {
     'default': {
         'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
-        
+
         # 如果有多个Local-memory cache那么LOCATION为其独特的名字，如果只有一个可以忽略
         'LOCATION': '',
     }

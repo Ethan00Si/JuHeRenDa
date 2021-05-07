@@ -1,5 +1,5 @@
 import numpy as np
-
+import json
 '''
 基于内容的推荐，对于每一个用户来说，所需要推荐的内容都是不一样的，
 所以可以考虑类是以用户为单位的，
@@ -11,10 +11,17 @@ class ContentBased_User(object):
     '用户的基于内容推荐的基类'
     users_cnt = 0  # 用户数量
 
-    def __init__(self, key_words, profile):
+    def __init__(self, key_words, profile, already_viewed_news = None):
+        if already_viewed_news is None:
+            already_viewed_news = dict()
+            with open('recommender/CB/storage/already_views.json', 'r') as fin:
+            # with open('/Users/sizihua/Desktop/DaChuang/Backend/recommender/CB/storage/already_views.json', 'r') as fin:
+                already_viewed_news = json.load(fin)
         self.key_word_list = key_words  # 用户的关键词列表
         self.user_profile = profile # 此用户的用户画像
-        self.already_view = dict() #已经浏览过的页面,dict是哈希表，O(1)复杂度
+        # self.already_view = dict() #已经浏览过的页面,dict是哈希表，O(1)复杂度
+        self.already_view  = already_viewed_news
+
 
     def generate_user_profile(self, tfidf, user_ratings):
         """
@@ -118,6 +125,8 @@ class ContentBased_User(object):
                 scores.append(tmp[0][0]) # score list存储每一个新闻的预测得分
                 index.append(j)
         result = self.find_top_n_items(scores, index, topN)
+        self.save_dict_to_json('recommender/CB/storage/already_views.json', self.already_view)
+        # self.save_dict_to_json('/Users/sizihua/Desktop/DaChuang/Backend/recommender/CB/storage/already_views.json', self.already_view)
         return result
 
     def find_top_n_items(self, scores, index, n):
@@ -129,14 +138,22 @@ class ContentBased_User(object):
         i = 0
         while(cnt < n):
             # 排除掉已经看过的新闻
-            if self.already_view.__contains__(index[indecies[i]]):
+            if self.already_view.__contains__(str(index[indecies[i]])):
                 i += 1
                 continue
 
             # print(cnt)
             # print('index : ', index[indecies[i]], " score: ", scores[indecies[i]])
-            result.append(index[indecies[i]] % 4859 + 4857)
-            self.already_view[index[indecies[i]] % 4859 + 4857] = 0
+            result.append(index[indecies[i]])
+            self.already_view[index[indecies[i]]] = 0
             i += 1
             cnt += 1
         return result
+
+    def save_dict_to_json(self, file_path, dictionary):
+        '''
+        把dict保存为json储存在本地
+        '''
+        json_str = json.dumps(dictionary)
+        with open(file_path, 'w') as fout:
+            fout.write(json_str)
