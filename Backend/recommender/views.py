@@ -44,7 +44,6 @@ def entity_yield(article):
         pre_end = end
     title.append({'content':_title[pre_end:],'isLight':0})
     article.art_title = title
-    print(title)
     """ example
     [{'content': '', 'isLight': 0},
      {'content': '文继荣', 'isLight': 1, 'entity': {'major': ['机器学习', '信息检索', '数据管理', '数据挖掘'], 'phone': '010-85203315', 'var': '文继荣', 'position': ['教授'], 'department': '信息学院', 'email': 'jirong.wen@gmail.com, jrwen@ruc.edu.cn', 'url': 'http://info.ruc.edu.cn/academic_professor.php?teacher_id=64'}},
@@ -57,14 +56,18 @@ def recommend_news(request, user_id):
     user_id 是用户id，对应数据库中的id
     """
     # ret_news_id 是要返回的新闻数据库中对应的id
-    ret_news_id = refresh_news.refresh_news(user_id)
-    ret_news_id = [1,2,3,4,5,6,7,8,9,10]
-
+    # ret_news_id = [int(int(i)/100) for i in refresh_news.refresh_news(user_id)]
+    # ret_news_id = refresh_news.refresh_news(user_id)
+    ret_news_id = numpy.random.randint(low=4857, high=4857+4859, size=5)
+    print(ret_news_id)
+    # ret_news_id = [1,5,10,20,60,100,120,200,129,32]
     articles_list = list()
 
-    articles = Article.objects.raw('SELECT * FROM article WHERE entity_id != \'\'')
+    # articles = Article.objects.raw('SELECT * FROM article WHERE entity_id != \'\'')
+
     for item in ret_news_id:
-        article = articles[item]
+        article = Article.objects.raw('SELECT * FROM article WHERE art_id=%s',[str(item)])[0]
+        # article = articles[item]
         entity_yield(article)
         tmp = dict()
         tmp['newsID'] = article.art_id

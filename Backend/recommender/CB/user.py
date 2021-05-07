@@ -35,7 +35,7 @@ class ContentBased_User(object):
         b = 0.8
         c = 0.1
         threshold_rate = 1e-10
-        
+
         pos_cnt = 0
         neg_cnt = 0
         '''
@@ -51,20 +51,20 @@ class ContentBased_User(object):
         for item in user_ratings:
             if(user_ratings[item] >= 0):
                 user_profile[:, 0] += b/pos_cnt * tfidf[:, item]
-                
+
         for item in user_ratings:
             if(user_ratings[item] < 0):
                 user_profile[:, 0] -= c/neg_cnt * tfidf[:, item]
-                    
+
         (rows, cols) = user_profile.shape
-        
+
         '''
                     user
           vocabulary|--|
                     |  |
         metric:     |  |
                     |  |
-                    |--|  
+                    |--|
         '''
         self.user_profile = user_profile
         self.user_profile[np.isnan(self.user_profile)] = 0
@@ -94,7 +94,7 @@ class ContentBased_User(object):
         for item in user_ratings:
             if(user_ratings[item] >= 0):
                 self.user_profile[:, 0] += b/pos_cnt * tfidf[:, item]
-                
+
         for item in user_ratings:
             if(user_ratings[item] < 0):
                 self.user_profile[:, 0] -= c/neg_cnt * tfidf[:, item]
@@ -102,14 +102,14 @@ class ContentBased_User(object):
 
     def generate_recommand(self, tfidf, topN = 5):
         #  产生推荐结果
-        
+
         for i in range(self.user_profile.shape[1]):
             scores = []
             index = []
             u = self.user_profile[:, i:i+1]
             for j in range(tfidf.shape[1]):
                 v = tfidf[:, j:j+1]
-                
+
                 if np.linalg.norm(v) == 0:
                     # 有一些新闻是空的，还没看到哪里出问题了
                     # 只有个别的新闻是全英文所以没有关键词，其余的新闻还有一些是0
@@ -119,7 +119,7 @@ class ContentBased_User(object):
                 index.append(j)
         result = self.find_top_n_items(scores, index, topN)
         return result
-        
+
     def find_top_n_items(self, scores, index, n):
         # 输出前n个结果
         result = list()
@@ -132,12 +132,11 @@ class ContentBased_User(object):
             if self.already_view.__contains__(index[indecies[i]]):
                 i += 1
                 continue
-            
+
             # print(cnt)
             # print('index : ', index[indecies[i]], " score: ", scores[indecies[i]])
-            result.append(index[indecies[i]])
-            self.already_view[index[indecies[i]]] = 0
+            result.append(index[indecies[i]] % 4859 + 4857)
+            self.already_view[index[indecies[i]] % 4859 + 4857] = 0
             i += 1
             cnt += 1
         return result
-        
