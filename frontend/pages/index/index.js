@@ -12,7 +12,12 @@ Page({
       { name: '数学', nameID: '201704', newsType: 'math' }
     ],
     swiperIndex: '1/4',
-    topPic: [],
+    topPic: [
+      {ID: '1', url: 'https://www.ruc.edu.cn/', thumbnail_pic_s: '../../assets/images/nav_2.jpeg'},
+      {ID: '2', url: 'http://info.ruc.edu.cn/news_people_detail.php?id=1864', thumbnail_pic_s: '../../assets/images/nav_1.png'},
+      {ID: '3', url: 'https://news.ruc.edu.cn/2020fyzt', thumbnail_pic_s: '../../assets/images/nav_3.png'},
+      {ID: '4', url: 'http://ai.ruc.edu.cn/newslist/newsdetail/3bfb6c4069974c8ca3ede42d75be9cdc.htm', thumbnail_pic_s: '../../assets/images/nav_4.jpeg'},
+    ],
     tapID: 201701, // 判断是否选中
     contentNewsList: [],
     showCopyright: false,

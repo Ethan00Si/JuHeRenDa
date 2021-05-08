@@ -22,14 +22,23 @@
             </swiper-item>
           </block>
         </swiper>
-        <view class="swiper-index">{{swiperIndex}}</view>
+        <!-- <view class="swiper-index">{{swiperIndex}}</view> -->
       </view>
       <view class='content-list'>
         <block wx:for='{{news_items}}' wx:key='{{item.newsID}}' wx:if="{{news_items && news_items.length > 0}}">
           <view class='list-item'>
             <view class='list-item-content one-px-border'>
               <view class='list-item-left' bindtap='viewDetail' data-newsurl='{{item.url}}' data-newsid='{{item.newsID}}'>
-                <image src='{{item.thumbnail_pic_s}}'></image>
+                <block wx:if="{{item.source == 'info'}}">
+                  <image src='../../assets/images/info.jpeg'></image>
+                </block>
+                <block wx:elif="{{item.source == 'eco'}}">
+                  <image src='../../assets/images/economy.jpeg'></image>
+                </block>
+                <block wx:else>
+                  <image src='../../assets/images/ruc.png'></image>
+                </block>
+                <!-- <image src='{{item.thumbnail_pic_s}}'></image> -->
               </view>
               <view class='list-item-right'>
                 <view class='article-title'>
