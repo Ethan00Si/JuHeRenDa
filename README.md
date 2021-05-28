@@ -11,6 +11,8 @@
 
 **关键词: 新闻推荐，高效信息平台，知识图谱**
 
+## demo演示
+<a href="https://www.bilibili.com/video/BV1j64y1k7Mm/"><img src="https://z3.ax1x.com/2021/05/28/2FYYY8.md.png" alt="2FYYY8.png" border="0" width="50%" height="50%" /></a>
 ## 成果介绍
 
 1.	集成数据
